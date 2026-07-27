@@ -1,9 +1,10 @@
-# Nesine-botimport time
+import time
 import requests
 import json
 import os
 from selenium import webdriver
 from selenium.webdriver.common.by import By
+
 
 BOT_TOKEN = "8996832177:AAErDRfGeCCUkyEtSEYFn5wIym88Uieul3g"
 CHAT_ID = "8671080510"
