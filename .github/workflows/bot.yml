@@ -26,8 +26,11 @@ jobs:
       - name: Run bot script
         run: python bot.py
 
-      - name: Commit and push cache changes
+      - name: Commit and push cached odds
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git diff --quiet || (git add odds_cache.json && git commit -m "Update odds cache" && git push)
+          git add odds_cache.json
+          git commit -m "Hafiza guncellendi [skip ci]" || echo "Degisiklik yok"
+          git push
+
