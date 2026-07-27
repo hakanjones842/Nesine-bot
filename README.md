@@ -1,1 +1,0 @@
-# Nesine-bot
