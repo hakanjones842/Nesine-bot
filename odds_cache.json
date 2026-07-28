@@ -1,82 +1,82 @@
 {
-    "Lincoln Red - Mjallby": {
-        "Alt": 1.87,
-        "Üst": 1.42
+    "Haiti U20 - Küba U20": {
+        "Alt": 1.83,
+        "Üst": 1.44
     },
-    "Zalgiris B - Minija 2017": {
-        "Alt": 2.65,
-        "Üst": 3.3
+    "C.D. Cacahuatique - Atletico Balboa": {
+        "Alt": 1.43,
+        "Üst": 1.86
     },
-    "Apollon L. - Dila Gori": {
+    "Banfield - CA Sarmiento": {
+        "Alt": 1.33,
+        "Üst": 2.23
+    },
+    "San Lorenzo - Gimnasia Y.": {
+        "Alt": 1.32,
+        "Üst": 2.25
+    },
+    "CA Tigre - Nacional": {
+        "Alt": 1.39,
+        "Üst": 2.06
+    },
+    "Juventude - Avai SC": {
+        "Alt": 1.31,
+        "Üst": 2.1
+    },
+    "Ponte Preta - Athletic Club MG": {
+        "Alt": 1.32,
+        "Üst": 2.08
+    },
+    "Cavalry - Supra Du Quebec": {
+        "Alt": 2.07,
+        "Üst": 1.33
+    },
+    "U. Magdalena - I. Santa Fe": {
+        "Alt": 1.52,
+        "Üst": 1.72
+    },
+    "Deportes Quindio - CD Tolima": {
+        "Alt": 1.39,
+        "Üst": 3.09
+    },
+    "Bogota - Deportivo Pasto": {
+        "Alt": 1.43,
+        "Üst": 3.08
+    },
+    "Verdes - Motagua": {
+        "Alt": 3.6,
+        "Üst": 1.9
+    },
+    "Rosario C. - Racing Club": {
+        "Alt": 1.3,
+        "Üst": 2.3
+    },
+    "Argentinos J. - Estudiantes Río C.": {
+        "Alt": 1.43,
+        "Üst": 1.99
+    },
+    "Santos SP - Ucv": {
         "Alt": 1.95,
-        "Üst": 1.38
+        "Üst": 1.44
     },
-    "Riga - Vardar": {
-        "Alt": 2.17,
-        "Üst": 1.28
+    "Fortaleza CE - Botafogo": {
+        "Alt": 1.41,
+        "Üst": 1.89
     },
-    "Helsingborg - Utd IK Nordic": {
-        "Alt": 1.88,
-        "Üst": 1.41
-    },
-    "Landskrona - Norrköping": {
-        "Alt": 1.8,
-        "Üst": 1.46
-    },
-    "SC Cambuur - Volos": {
-        "Alt": 1.75,
-        "Üst": 1.5
-    },
-    "NAC Breda - Ofi Crete": {
-        "Alt": 2.0,
+    "Tigres (Kol) - Atl. Nacional Medellin": {
+        "Alt": 1.99,
         "Üst": 1.35
     },
-    "S. Rotterdam - Asteras T.": {
-        "Alt": 1.62,
-        "Üst": 1.61
+    "Diriangen - CD Plaza Amador Panama City": {
+        "Alt": 1.72,
+        "Üst": 1.52
     },
-    "Ahli Saudi - Fulham": {
-        "Alt": 2.32,
-        "Üst": 1.29
-    },
-    "CSKA 1948 Sofia - S. Trnava": {
-        "Alt": 1.5,
-        "Üst": 1.75
-    },
-    "D. Zagreb - Thun": {
-        "Alt": 2.08,
-        "Üst": 1.32
-    },
-    "KF Drita - Floriana": {
-        "Alt": 1.62,
-        "Üst": 1.61
-    },
-    "B36 Torshavn - AB Argir": {
-        "Alt": 1.93,
-        "Üst": 1.39
-    },
-    "Swindon Town - Leyton Orient": {
-        "Alt": 1.79,
-        "Üst": 1.47
-    },
-    "Morecambe - AFC Fylde": {
-        "Alt": 1.38,
-        "Üst": 3.74
-    },
-    "North Ferriby - Scunthorpe": {
-        "Alt": 3.43,
-        "Üst": 2.09
-    },
-    "Grimsby Town - Lincoln City": {
-        "Alt": 1.83,
+    "CD Olimpia - Deportivo Mixco": {
+        "Alt": 1.73,
         "Üst": 1.51
     },
-    "Solihull Moors - Burton Albion": {
-        "Alt": 1.71,
-        "Üst": 1.53
-    },
-    "Fleetwood - Bolton": {
-        "Alt": 1.86,
-        "Üst": 1.43
+    "El Salvador U20 - ABD U20": {
+        "Alt": 3.81,
+        "Üst": 2.03
     }
 }
