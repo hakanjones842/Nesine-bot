@@ -1,66 +1,94 @@
 {
-    "B. Leverkusen - KRC Genk": {
-        "Alt": 2.56,
-        "Üst": 1.23
+    "Girona - Castellon": {
+        "Alt": 1.86,
+        "Üst": 1.43
     },
-    "Reyady Abaseya - AL Tadamon Sour": {
-        "Alt": 1.55,
-        "Üst": 1.68
-    },
-    "KF Dukagjini - Lugano": {
-        "Alt": 1.74,
-        "Üst": 1.5
-    },
-    "K. Almaty - Omonia": {
-        "Alt": 1.39,
-        "Üst": 1.91
-    },
-    "K. Kyzylorda - Zhenis Nur Sultan": {
-        "Alt": 1.33,
-        "Üst": 2.03
-    },
-    "Cremonese - Cittadella": {
-        "Alt": 1.74,
-        "Üst": 1.5
-    },
-    "US Palermo - Iraklis Thessaloniki": {
-        "Alt": 1.76,
-        "Üst": 1.49
-    },
-    "Mikkeli - Kapa": {
-        "Alt": 1.89,
-        "Üst": 1.4
-    },
-    "Atl Madrid - Getafe": {
-        "Alt": 1.85,
-        "Üst": 1.5
-    },
-    "AS Gubbio 1910 - Sporting Trestina": {
-        "Alt": 1.66,
-        "Üst": 1.57
-    },
-    "Zalgiris Kaunas - Klaksvik": {
-        "Alt": 1.52,
-        "Üst": 1.72
-    },
-    "Hoffenheim - Holstein Kiel": {
-        "Alt": 2.42,
-        "Üst": 1.27
-    },
-    "St Etienne - Lausanne": {
-        "Alt": 1.9,
-        "Üst": 1.4
-    },
-    "General Diaz - T. Asuncion": {
-        "Alt": 1.99,
+    "Lech Poznan - AGF Aarhus": {
+        "Alt": 1.98,
         "Üst": 1.36
     },
-    "Girona - Castellon": {
+    "Kopenhag - Polissya Zhytomyr": {
+        "Alt": 2.19,
+        "Üst": 1.27
+    },
+    "Santander - Ath Bilbao": {
+        "Alt": 1.91,
+        "Üst": 1.47
+    },
+    "Real Valladolid - CD Coria": {
+        "Alt": 1.77,
+        "Üst": 1.48
+    },
+    "Sestao River Club - Ath Bilbao B": {
+        "Alt": 1.62,
+        "Üst": 1.61
+    },
+    "Un. Craiova - Levski Sofya": {
+        "Alt": 1.44,
+        "Üst": 1.82
+    },
+    "HB Sheva - Vikingur Reykjavik": {
+        "Alt": 2.04,
+        "Üst": 1.33
+    },
+    "Barracas - Aldosivi": {
+        "Alt": 1.14,
+        "Üst": 3.06
+    },
+    "Dep. La Coruna - Lugo": {
         "Alt": 1.81,
         "Üst": 1.45
     },
-    "Lech Poznan - AGF Aarhus": {
+    "Unionistas - Burgos": {
+        "Alt": 1.39,
+        "Üst": 1.93
+    },
+    "Tirsense - Varzim": {
+        "Alt": 1.48,
+        "Üst": 1.78
+    },
+    "Kızıl Yıldız - Larne": {
+        "Alt": 1.07,
+        "Üst": 1.98
+    },
+    "Gornik Zabrze - Fenerbahçe": {
+        "Alt": 1.86,
+        "Üst": 1.5
+    },
+    "Fylkir Reykj. - Völsungur": {
+        "Alt": 2.0,
+        "Üst": 3.75
+    },
+    "Magni - Kfa": {
+        "Alt": 1.48,
+        "Üst": 4.0
+    },
+    "UMF Selfoss - Dalverik": {
+        "Alt": 2.21,
+        "Üst": 3.57
+    },
+    "Farnborough - Portsmouth": {
+        "Alt": 2.48,
+        "Üst": 1.2
+    },
+    "Forest Green - Bristol City": {
         "Alt": 1.92,
         "Üst": 1.39
+    },
+    "Boston Utd - Grimsby Town": {
+        "Alt": 1.84,
+        "Üst": 1.44
+    },
+    "Real Betis - Lyon": {
+        "Alt": 2.11,
+        "Üst": 1.37
+    },
+    "Real Oviedo - SD Ponferradina": {
+        "Alt": 1.43,
+        "Üst": 1.86
+    },
+    "Marino Luanco - Real Aviles": {
+        "Alt": 1.49,
+        "Üst": 1.76
     }
 }
