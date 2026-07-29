@@ -1,82 +1,66 @@
 {
-    "Rosario C. - Racing Club": {
-        "Alt": 1.32,
-        "Üst": 2.25
-    },
-    "Argentinos J. - Estudiantes Río C.": {
-        "Alt": 1.43,
-        "Üst": 1.99
-    },
-    "Santos SP - Ucv": {
-        "Alt": 2.21,
-        "Üst": 1.33
-    },
-    "Fortaleza CE - Botafogo": {
-        "Alt": 1.33,
-        "Üst": 2.04
-    },
-    "Cavalry - Supra Du Quebec": {
-        "Alt": 2.08,
-        "Üst": 1.32
-    },
-    "Tigres (Kol) - Atl. Nacional Medellin": {
-        "Alt": 1.99,
-        "Üst": 1.35
-    },
-    "Diriangen - CD Plaza Amador Panama City": {
-        "Alt": 1.72,
-        "Üst": 1.52
-    },
-    "CD Olimpia - Deportivo Mixco": {
-        "Alt": 1.73,
-        "Üst": 1.51
-    },
-    "El Salvador U20 - ABD U20": {
-        "Alt": 3.81,
-        "Üst": 2.03
-    },
-    "Tottenham - Sydney": {
-        "Alt": 3.54,
-        "Üst": 1.09
-    },
-    "Cerezo Osaka - B. Dortmund": {
-        "Alt": 3.24,
-        "Üst": 1.11
-    },
     "B. Leverkusen - KRC Genk": {
-        "Alt": 2.33,
-        "Üst": 1.29
+        "Alt": 2.56,
+        "Üst": 1.23
     },
     "Reyady Abaseya - AL Tadamon Sour": {
         "Alt": 1.55,
         "Üst": 1.68
     },
     "KF Dukagjini - Lugano": {
-        "Alt": 1.64,
-        "Üst": 1.58
-    },
-    "K. Almaty - Omonia": {
-        "Alt": 1.41,
-        "Üst": 1.88
-    },
-    "K. Kyzylorda - Zhenis Nur Sultan": {
-        "Alt": 1.4,
-        "Üst": 1.91
-    },
-    "Cremonese - Cittadella": {
-        "Alt": 2.03,
-        "Üst": 1.33
-    },
-    "US Palermo - Iraklis Thessaloniki": {
         "Alt": 1.74,
         "Üst": 1.5
+    },
+    "K. Almaty - Omonia": {
+        "Alt": 1.39,
+        "Üst": 1.91
+    },
+    "K. Kyzylorda - Zhenis Nur Sultan": {
+        "Alt": 1.33,
+        "Üst": 2.03
+    },
+    "Cremonese - Cittadella": {
+        "Alt": 1.74,
+        "Üst": 1.5
+    },
+    "US Palermo - Iraklis Thessaloniki": {
+        "Alt": 1.76,
+        "Üst": 1.49
     },
     "Mikkeli - Kapa": {
         "Alt": 1.89,
         "Üst": 1.4
     },
     "Atl Madrid - Getafe": {
-        "Alt": 1.69,
-        "Üst": 1.62
+        "Alt": 1.85,
+        "Üst": 1.5
+    },
+    "AS Gubbio 1910 - Sporting Trestina": {
+        "Alt": 1.66,
+        "Üst": 1.57
+    },
+    "Zalgiris Kaunas - Klaksvik": {
+        "Alt": 1.52,
+        "Üst": 1.72
+    },
+    "Hoffenheim - Holstein Kiel": {
+        "Alt": 2.42,
+        "Üst": 1.27
+    },
+    "St Etienne - Lausanne": {
+        "Alt": 1.9,
+        "Üst": 1.4
+    },
+    "General Diaz - T. Asuncion": {
+        "Alt": 1.99,
+        "Üst": 1.36
+    },
+    "Girona - Castellon": {
+        "Alt": 1.81,
+        "Üst": 1.45
+    },
+    "Lech Poznan - AGF Aarhus": {
+        "Alt": 1.92,
+        "Üst": 1.39
     }
 }
