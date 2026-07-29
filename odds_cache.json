@@ -1,70 +1,78 @@
 {
-    "River Plate (Par) - Sol de A.": {
-        "Alt": 1.39,
-        "Üst": 1.93
-    },
-    "Internacional Palmira - Inter Bogota": {
-        "Alt": 1.54,
-        "Üst": 1.69
-    },
-    "Vasco Da G. - I. Medellin": {
-        "Alt": 1.67,
-        "Üst": 1.65
-    },
-    "Gimnasia - River Plate": {
-        "Alt": 1.3,
-        "Üst": 2.29
-    },
-    "Mirassol SP - Clube do Remo": {
-        "Alt": 1.67,
-        "Üst": 1.65
-    },
-    "Internacional - Flamengo": {
-        "Alt": 1.61,
-        "Üst": 1.71
-    },
-    "Barranquilla - Atl Junior": {
-        "Alt": 1.59,
-        "Üst": 1.63
-    },
-    "Pittsburgh R. - Tulsa Roughnecks": {
-        "Alt": 1.37,
-        "Üst": 1.97
-    },
-    "Greenville T. - AC Boise": {
-        "Alt": 1.74,
-        "Üst": 1.51
-    },
-    "Municipal L. - CD Inca": {
-        "Alt": 1.81,
-        "Üst": 1.45
-    },
-    "Louisville - Birmingham Legion": {
-        "Alt": 2.2,
-        "Üst": 1.27
-    },
-    "Liverpool - Wrexham": {
-        "Alt": 3.3,
-        "Üst": 1.11
-    },
     "Forward M. - C. Red Wolves SC": {
-        "Alt": 1.59,
-        "Üst": 1.63
+        "Alt": 1.62,
+        "Üst": 1.61
     },
     "Umecit - D. Saprissa": {
         "Alt": 1.56,
         "Üst": 1.68
     },
     "Vitoria BA - Palmeiras SP": {
-        "Alt": 1.42,
-        "Üst": 2.0
+        "Alt": 1.39,
+        "Üst": 2.08
     },
     "Fluminense - Bahia BA": {
-        "Alt": 1.71,
-        "Üst": 1.62
+        "Alt": 1.68,
+        "Üst": 1.64
     },
     "Instituto - CA Platense": {
         "Alt": 1.23,
         "Üst": 2.54
+    },
+    "CS Cienciano - Atl Lanus": {
+        "Alt": 1.46,
+        "Üst": 1.92
+    },
+    "Bragantino - S. Cristal": {
+        "Alt": 2.08,
+        "Üst": 1.38
+    },
+    "Angel Firpo - Fuerte San Francisco": {
+        "Alt": 1.57,
+        "Üst": 1.66
+    },
+    "R. Cartagena - America De Cali": {
+        "Alt": 1.53,
+        "Üst": 1.71
+    },
+    "Kanada U20 - Honduras U20": {
+        "Alt": 1.76,
+        "Üst": 1.49
+    },
+    "Alianza - Antigua": {
+        "Alt": 1.36,
+        "Üst": 1.98
+    },
+    "Alajuelense - Xelaju": {
+        "Alt": 1.36,
+        "Üst": 1.99
+    },
+    "Stade Laval. - US Granville": {
+        "Alt": 2.09,
+        "Üst": 1.32
+    },
+    "South Melbourne - Adelaide Utd": {
+        "Alt": 1.92,
+        "Üst": 1.39
+    },
+    "Sydney Oly. - Brisbane Roar": {
+        "Alt": 2.27,
+        "Üst": 3.41
+    },
+    "Tobol - FK Panevezys": {
+        "Alt": 1.81,
+        "Üst": 1.45
+    },
+    "Atl. Club d'Escaldes - Vaduz": {
+        "Alt": 1.77,
+        "Üst": 1.48
+    },
+    "Bournemouth - Augsburg": {
+        "Alt": 2.12,
+        "Üst": 1.36
+    },
+    "Parma - SS Arezzo": {
+        "Alt": 1.97,
+        "Üst": 1.44
     }
 }
