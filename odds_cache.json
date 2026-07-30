@@ -1,78 +1,98 @@
 {
-    "Forward M. - C. Red Wolves SC": {
-        "Alt": 1.62,
-        "Üst": 1.61
-    },
-    "Umecit - D. Saprissa": {
-        "Alt": 1.56,
-        "Üst": 1.68
-    },
-    "Vitoria BA - Palmeiras SP": {
-        "Alt": 1.39,
-        "Üst": 2.08
-    },
-    "Fluminense - Bahia BA": {
-        "Alt": 1.68,
-        "Üst": 1.64
-    },
-    "Instituto - CA Platense": {
-        "Alt": 1.23,
-        "Üst": 2.54
-    },
-    "CS Cienciano - Atl Lanus": {
-        "Alt": 1.46,
-        "Üst": 1.92
-    },
-    "Bragantino - S. Cristal": {
-        "Alt": 2.08,
-        "Üst": 1.38
-    },
-    "Angel Firpo - Fuerte San Francisco": {
-        "Alt": 1.57,
-        "Üst": 1.66
-    },
-    "R. Cartagena - America De Cali": {
-        "Alt": 1.53,
-        "Üst": 1.71
-    },
-    "Kanada U20 - Honduras U20": {
-        "Alt": 1.76,
-        "Üst": 1.49
-    },
-    "Alianza - Antigua": {
-        "Alt": 1.36,
-        "Üst": 1.98
-    },
-    "Alajuelense - Xelaju": {
-        "Alt": 1.36,
-        "Üst": 1.99
+    "Petro Atl - CD Teruel": {
+        "Alt": 1.7,
+        "Üst": 1.53
     },
     "Stade Laval. - US Granville": {
-        "Alt": 2.09,
-        "Üst": 1.32
+        "Alt": 1.85,
+        "Üst": 1.43
     },
     "South Melbourne - Adelaide Utd": {
         "Alt": 1.92,
         "Üst": 1.39
     },
     "Sydney Oly. - Brisbane Roar": {
-        "Alt": 2.27,
+        "Alt": 2.36,
         "Üst": 3.41
     },
     "Tobol - FK Panevezys": {
-        "Alt": 1.81,
-        "Üst": 1.45
+        "Alt": 1.88,
+        "Üst": 1.41
     },
     "Atl. Club d'Escaldes - Vaduz": {
         "Alt": 1.77,
         "Üst": 1.48
     },
     "Bournemouth - Augsburg": {
-        "Alt": 2.12,
-        "Üst": 1.36
+        "Alt": 2.64,
+        "Üst": 1.21
     },
     "Parma - SS Arezzo": {
-        "Alt": 1.97,
+        "Alt": 1.83,
+        "Üst": 1.52
+    },
+    "Jippo - Japs": {
+        "Alt": 1.64,
+        "Üst": 1.58
+    },
+    "Cavese 1919 - Polisportiva Sarnese": {
+        "Alt": 1.77,
+        "Üst": 1.48
+    },
+    "M. Tel Aviv - Sheriff": {
+        "Alt": 2.01,
+        "Üst": 1.35
+    },
+    "Inter Turku - Başakşehir": {
+        "Alt": 1.73,
+        "Üst": 1.6
+    },
+    "Noah - Zimbru Chisinau": {
+        "Alt": 1.79,
+        "Üst": 1.47
+    },
+    "FK Auda - FCSB": {
+        "Alt": 1.82,
         "Üst": 1.44
+    },
+    "Pyunik - Debrecen": {
+        "Alt": 1.45,
+        "Üst": 1.81
+    },
+    "Tampereen I. - Stjarnan Gard.": {
+        "Alt": 1.95,
+        "Üst": 1.38
+    },
+    "Nomme Kalju - Shelbourne": {
+        "Alt": 1.78,
+        "Üst": 1.48
+    },
+    "Zira - Paide Flora": {
+        "Alt": 1.76,
+        "Üst": 1.49
+    },
+    "Jablonec - VSN Varazdin": {
+        "Alt": 1.86,
+        "Üst": 1.42
+    },
+    "Jazz - KuPS Akatemia": {
+        "Alt": 2.77,
+        "Üst": 1.14
+    },
+    "AC Monza - Aris": {
+        "Alt": 1.87,
+        "Üst": 1.49
+    },
+    "Levadia Tall. - IFK Göteborg": {
+        "Alt": 1.98,
+        "Üst": 1.36
+    },
+    "Pafos - Hajduk Split": {
+        "Alt": 1.62,
+        "Üst": 1.61
+    },
+    "Midtjylland - Beşiktaş": {
+        "Alt": 1.99,
+        "Üst": 1.42
     }
 }
