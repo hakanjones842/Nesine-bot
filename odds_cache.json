@@ -1,62 +1,66 @@
 {
-    "D. Minsk (Rzv) - Niva Dolbizno": {
+    "El Salvador U20 - Haiti U20": {
+        "Alt": 2.0,
+        "Üst": 1.35
+    },
+    "Portuguesa - Carabobo": {
+        "Alt": 1.37,
+        "Üst": 1.96
+    },
+    "Strongest - Club Aurora": {
+        "Alt": 1.95,
+        "Üst": 1.38
+    },
+    "Torque - Montevideo": {
+        "Alt": 1.51,
+        "Üst": 1.73
+    },
+    "R. Tomayapo - Academia del Balompie": {
+        "Alt": 2.59,
+        "Üst": 3.56
+    },
+    "New York C. - Toronto": {
+        "Alt": 1.93,
+        "Üst": 1.45
+    },
+    "Libertad Loja - Orense SC": {
+        "Alt": 1.51,
+        "Üst": 1.73
+    },
+    "Diriangen - Unan Managua": {
+        "Alt": 1.67,
+        "Üst": 3.33
+    },
+    "U. Concepcion - Audax Ital.": {
+        "Alt": 1.55,
+        "Üst": 1.68
+    },
+    "San Antonio - Indy Eleven": {
+        "Alt": 1.8,
+        "Üst": 1.46
+    },
+    "Platense - Real CD Espana": {
         "Alt": 1.49,
-        "Üst": 3.59
+        "Üst": 1.76
     },
-    "Slavya Sofya - Loko Sofya": {
-        "Alt": 1.51,
-        "Üst": 1.73
+    "Puebla - CD Guadalajara": {
+        "Alt": 1.91,
+        "Üst": 1.4
     },
-    "SK Kladno - Banik Ostrava B": {
-        "Alt": 1.77,
-        "Üst": 1.48
+    "M.D. Zacatecas - Tlaxcala": {
+        "Alt": 1.53,
+        "Üst": 1.7
     },
-    "Pribram - Opava": {
+    "Correcaminos - Tepatitlan": {
         "Alt": 1.5,
-        "Üst": 1.75
+        "Üst": 1.74
     },
-    "Karvina - S B Vlasim": {
-        "Alt": 2.27,
-        "Üst": 3.36
+    "Pacific - Supra Du Quebec": {
+        "Alt": 2.02,
+        "Üst": 1.34
     },
-    "Aarhus Fremad - Aalborg BK": {
-        "Alt": 1.87,
-        "Üst": 1.42
-    },
-    "PK 35 - Haka": {
-        "Alt": 1.51,
-        "Üst": 1.73
-    },
-    "Juventus - Nice": {
-        "Alt": 1.82,
-        "Üst": 1.52
-    },
-    "Nantes - AL Wakrah": {
-        "Alt": 2.3,
-        "Üst": 1.24
-    },
-    "Valenciennes - US Boulogne": {
-        "Alt": 1.58,
-        "Üst": 1.64
-    },
-    "Famalicao - Como 1907": {
-        "Alt": 1.77,
-        "Üst": 1.56
-    },
-    "SK Super Nova II - FK Beitar Riga Mariners": {
-        "Alt": 2.4,
-        "Üst": 3.45
-    },
-    "Hegelmann Litauen B - Minija 2017": {
-        "Alt": 3.31,
-        "Üst": 1.96
-    },
-    "Wisla Plock - Widzew Lodz": {
-        "Alt": 1.38,
-        "Üst": 1.96
-    },
-    "LKS Lodz - Polonia Bytom": {
-        "Alt": 1.51,
-        "Üst": 1.72
+    "Atl San Luis - Club Tijuana": {
+        "Alt": 1.61,
+        "Üst": 1.62
     }
 }
