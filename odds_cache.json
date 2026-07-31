@@ -1,74 +1,62 @@
 {
-    "Alaves - Castellon": {
-        "Alt": 1.8,
-        "Üst": 1.54
-    },
-    "Elche - Cordoba": {
-        "Alt": 1.63,
-        "Üst": 1.68
-    },
-    "Cordoba B - Sevilla Atl": {
-        "Alt": 1.66,
-        "Üst": 1.57
-    },
-    "Albacete - Real Madrid B": {
-        "Alt": 1.69,
-        "Üst": 1.55
-    },
-    "Las Palmas - Neom SC": {
-        "Alt": 1.64,
-        "Üst": 1.59
-    },
-    "Rochedale Rovers - Suburbs Bri.": {
+    "D. Minsk (Rzv) - Niva Dolbizno": {
         "Alt": 1.49,
-        "Üst": 3.73
+        "Üst": 3.59
     },
-    "Wolves - Brisbane City": {
-        "Alt": 3.4,
-        "Üst": 4.04
+    "Slavya Sofya - Loko Sofya": {
+        "Alt": 1.51,
+        "Üst": 1.73
     },
-    "Bentleigh G. - Oakleigh C.": {
-        "Alt": 1.81,
-        "Üst": 1.45
+    "SK Kladno - Banik Ostrava B": {
+        "Alt": 1.77,
+        "Üst": 1.48
     },
-    "Caen - Dieppe": {
-        "Alt": 1.6,
-        "Üst": 1.63
+    "Pribram - Opava": {
+        "Alt": 1.5,
+        "Üst": 1.75
     },
-    "Campbelltown C. - Adelaide City": {
-        "Alt": 1.91,
-        "Üst": 1.39
+    "Karvina - S B Vlasim": {
+        "Alt": 2.27,
+        "Üst": 3.36
     },
-    "Cooks Hill Utd - Broad. Magic": {
+    "Aarhus Fremad - Aalborg BK": {
+        "Alt": 1.87,
+        "Üst": 1.42
+    },
+    "PK 35 - Haka": {
+        "Alt": 1.51,
+        "Üst": 1.73
+    },
+    "Juventus - Nice": {
         "Alt": 1.82,
-        "Üst": 3.49
+        "Üst": 1.52
     },
-    "Köln - Hertha Berlin": {
-        "Alt": 2.56,
-        "Üst": 1.23
+    "Nantes - AL Wakrah": {
+        "Alt": 2.3,
+        "Üst": 1.24
     },
-    "Portimonense - Nottingham F.": {
-        "Alt": 2.03,
-        "Üst": 1.33
+    "Valenciennes - US Boulogne": {
+        "Alt": 1.58,
+        "Üst": 1.64
     },
-    "Preston Lions - G. Gully Cavs": {
-        "Alt": 1.9,
-        "Üst": 1.4
+    "Famalicao - Como 1907": {
+        "Alt": 1.77,
+        "Üst": 1.56
     },
-    "Northcote City - Eltham Redbacks": {
-        "Alt": 2.51,
-        "Üst": 3.6
+    "SK Super Nova II - FK Beitar Riga Mariners": {
+        "Alt": 2.4,
+        "Üst": 3.45
     },
-    "Melbourne K. - Western Utd II": {
-        "Alt": 2.03,
-        "Üst": 3.72
+    "Hegelmann Litauen B - Minija 2017": {
+        "Alt": 3.31,
+        "Üst": 1.96
     },
-    "Henan Songs. - Dalian Yingbo": {
-        "Alt": 2.07,
-        "Üst": 1.33
+    "Wisla Plock - Widzew Lodz": {
+        "Alt": 1.38,
+        "Üst": 1.96
     },
-    "Vietnam - Singapur": {
-        "Alt": 3.51,
-        "Üst": 2.38
+    "LKS Lodz - Polonia Bytom": {
+        "Alt": 1.51,
+        "Üst": 1.72
     }
 }
