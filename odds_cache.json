@@ -1,86 +1,78 @@
 {
-    "Levski Sofya - FK Septemvri Sofia": {
-        "Alt": 1.84,
-        "Üst": 1.44
+    "Vasco Da G. - Fluminense": {
+        "Alt": 1.39,
+        "Üst": 2.04
     },
-    "SK Hanacka S. K. - Usti Nad Labem": {
-        "Alt": 1.69,
-        "Üst": 1.54
+    "Atl Grau - Sport Boys": {
+        "Alt": 1.32,
+        "Üst": 2.09
     },
-    "Trinec - Jihlava": {
-        "Alt": 1.56,
-        "Üst": 1.68
+    "Belgrano - Argentinos J.": {
+        "Alt": 1.25,
+        "Üst": 2.49
     },
-    "Lyngby BK - AGF Aarhus": {
-        "Alt": 1.93,
-        "Üst": 1.45
+    "Estudiantes - Def. Justicia": {
+        "Alt": 1.32,
+        "Üst": 2.24
     },
-    "Gnistan - Kuopion": {
-        "Alt": 1.96,
-        "Üst": 1.44
+    "Fuerte San Francisco - Fundacion F. Un Atleta": {
+        "Alt": 1.46,
+        "Üst": 1.8
     },
-    "Zürih - Servette": {
-        "Alt": 1.98,
+    "Deportivo Mixco - CD Suchitepequez": {
+        "Alt": 1.42,
+        "Üst": 1.86
+    },
+    "San Marcos - Managua": {
+        "Alt": 1.85,
         "Üst": 1.43
     },
-    "Basel - Lausanne": {
-        "Alt": 2.17,
-        "Üst": 1.34
+    "Monagas SC - Dep. La Gua.": {
+        "Alt": 1.39,
+        "Üst": 1.92
     },
-    "Aarau - Stade Ouchy": {
-        "Alt": 2.16,
-        "Üst": 1.28
+    "Trujillanos - Ucv": {
+        "Alt": 1.51,
+        "Üst": 1.73
     },
-    "Real Madrid - Fiorentina": {
-        "Alt": 2.37,
-        "Üst": 1.27
+    "S. A. Bulo Bulo - Blooming": {
+        "Alt": 1.99,
+        "Üst": 1.36
     },
-    "Roda - A. Aachen": {
-        "Alt": 2.05,
-        "Üst": 1.33
+    "Uni. Catolica - CD Tecnico Uni.": {
+        "Alt": 1.63,
+        "Üst": 1.59
     },
-    "Empoli - Spezia": {
-        "Alt": 1.74,
-        "Üst": 1.5
-    },
-    "Chateauroux - Bourges": {
-        "Alt": 1.74,
-        "Üst": 1.5
-    },
-    "Saldus SS/Leevon - Rezeknes": {
-        "Alt": 4.04,
-        "Üst": 1.57
-    },
-    "Riga II - FS METTA LU": {
-        "Alt": 3.87,
-        "Üst": 2.39
-    },
-    "FK Ekranas - Zalgiris B": {
+    "Genesis PN - CD Choloma": {
         "Alt": 1.86,
-        "Üst": 1.43
+        "Üst": 1.42
     },
-    "IK Start - Viking": {
-        "Alt": 2.33,
-        "Üst": 1.29
+    "Palestino - Coquimbo U.": {
+        "Alt": 1.45,
+        "Üst": 1.81
     },
-    "G. Leczna - Avia Swidnik": {
-        "Alt": 1.5,
-        "Üst": 1.74
+    "Penarol - Cerro Largo": {
+        "Alt": 1.47,
+        "Üst": 1.78
     },
-    "Resovia - Slask W. II": {
-        "Alt": 1.54,
-        "Üst": 1.7
+    "Cruz Azul Hidalgo - Venados": {
+        "Alt": 1.67,
+        "Üst": 1.56
     },
-    "S. Bratislava - Z. Podbrezova": {
-        "Alt": 2.07,
-        "Üst": 1.32
+    "Vancouver Langley - Atl Ottawa": {
+        "Alt": 1.95,
+        "Üst": 1.38
     },
-    "Skalica - Ruzomberok": {
-        "Alt": 1.44,
-        "Üst": 1.83
+    "Atl Mineiro - Juventude": {
+        "Alt": 1.29,
+        "Üst": 2.33
     },
-    "Nafta - NS Mura": {
-        "Alt": 1.6,
-        "Üst": 1.63
+    "Loudoun Utd - Hartford Ath": {
+        "Alt": 1.75,
+        "Üst": 1.5
+    },
+    "Miami - Detroit City": {
+        "Alt": 1.64,
+        "Üst": 1.58
     }
 }
