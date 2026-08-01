@@ -1,78 +1,82 @@
 {
-    "Vasco Da G. - Fluminense": {
-        "Alt": 1.39,
-        "Üst": 2.04
+    "Tampa Bay - Louisville": {
+        "Alt": 1.8,
+        "Üst": 1.46
     },
-    "Atl Grau - Sport Boys": {
+    "Birmingham Legion - Rhode Island": {
+        "Alt": 1.66,
+        "Üst": 1.57
+    },
+    "Forward M. - Westchester SC": {
+        "Alt": 2.03,
+        "Üst": 3.31
+    },
+    "Santos SP - Clube do Remo": {
+        "Alt": 1.62,
+        "Üst": 1.69
+    },
+    "CS Emelec - SD Aucas": {
         "Alt": 1.32,
         "Üst": 2.09
     },
-    "Belgrano - Argentinos J.": {
-        "Alt": 1.25,
-        "Üst": 2.49
-    },
-    "Estudiantes - Def. Justicia": {
-        "Alt": 1.32,
-        "Üst": 2.24
-    },
-    "Fuerte San Francisco - Fundacion F. Un Atleta": {
-        "Alt": 1.46,
-        "Üst": 1.8
-    },
-    "Deportivo Mixco - CD Suchitepequez": {
+    "Comunicacion - Dep. San Pedro": {
         "Alt": 1.42,
         "Üst": 1.86
     },
-    "San Marcos - Managua": {
-        "Alt": 1.85,
-        "Üst": 1.43
-    },
-    "Monagas SC - Dep. La Gua.": {
-        "Alt": 1.39,
-        "Üst": 1.92
-    },
-    "Trujillanos - Ucv": {
-        "Alt": 1.51,
-        "Üst": 1.73
-    },
-    "S. A. Bulo Bulo - Blooming": {
-        "Alt": 1.99,
-        "Üst": 1.36
-    },
-    "Uni. Catolica - CD Tecnico Uni.": {
-        "Alt": 1.63,
-        "Üst": 1.59
-    },
-    "Genesis PN - CD Choloma": {
-        "Alt": 1.86,
-        "Üst": 1.42
-    },
-    "Palestino - Coquimbo U.": {
-        "Alt": 1.45,
-        "Üst": 1.81
-    },
-    "Penarol - Cerro Largo": {
-        "Alt": 1.47,
-        "Üst": 1.78
-    },
-    "Cruz Azul Hidalgo - Venados": {
+    "Deportes Limache - Nublense": {
         "Alt": 1.67,
         "Üst": 1.56
     },
-    "Vancouver Langley - Atl Ottawa": {
-        "Alt": 1.95,
-        "Üst": 1.38
+    "Chicago Fire - Charlotte": {
+        "Alt": 2.45,
+        "Üst": 1.26
     },
-    "Atl Mineiro - Juventude": {
-        "Alt": 1.29,
-        "Üst": 2.33
+    "Minnesota Utd - San Diego": {
+        "Alt": 2.11,
+        "Üst": 1.37
     },
-    "Loudoun Utd - Hartford Ath": {
-        "Alt": 1.75,
+    "S. Louis City SC - Real Salt Lake": {
+        "Alt": 2.21,
+        "Üst": 1.33
+    },
+    "Kansas City - Houston Dyn.": {
+        "Alt": 1.97,
+        "Üst": 1.44
+    },
+    "Sarasota Paradise - Naples": {
+        "Alt": 1.62,
+        "Üst": 1.6
+    },
+    "Cavalry - York Utd": {
+        "Alt": 1.99,
+        "Üst": 1.36
+    },
+    "Cancun - Leones Negros": {
+        "Alt": 1.66,
+        "Üst": 1.56
+    },
+    "Piratas Veracruz - Atl Morelia": {
+        "Alt": 1.42,
+        "Üst": 1.87
+    },
+    "Honduras U20 - Panama U20": {
+        "Alt": 1.74,
         "Üst": 1.5
     },
-    "Miami - Detroit City": {
-        "Alt": 1.64,
-        "Üst": 1.58
+    "Atlas - Monterrey": {
+        "Alt": 1.5,
+        "Üst": 1.74
+    },
+    "Club Leon - Pachuca": {
+        "Alt": 1.68,
+        "Üst": 1.56
+    },
+    "Colorado R. - Austin": {
+        "Alt": 1.92,
+        "Üst": 1.46
+    },
+    "New Mexico - Colorado Spr.": {
+        "Alt": 1.76,
+        "Üst": 1.49
     }
 }
