@@ -1,78 +1,58 @@
 {
-    "San Antonio - Indy Eleven": {
-        "Alt": 1.74,
-        "Üst": 1.5
+    "Queensland L. - Peninsula Power": {
+        "Alt": 3.12,
+        "Üst": 3.6
     },
-    "Platense - Real CD Espana": {
-        "Alt": 1.5,
-        "Üst": 1.75
+    "Levante - Albacete": {
+        "Alt": 1.77,
+        "Üst": 1.48
     },
-    "Puebla - CD Guadalajara": {
-        "Alt": 1.91,
-        "Üst": 1.4
+    "Alcorcon - Getafe B": {
+        "Alt": 1.71,
+        "Üst": 1.53
     },
-    "M.D. Zacatecas - Tlaxcala": {
-        "Alt": 1.53,
-        "Üst": 1.7
-    },
-    "Correcaminos - Tepatitlan": {
-        "Alt": 1.52,
-        "Üst": 1.71
-    },
-    "Pacific - Supra Du Quebec": {
-        "Alt": 2.04,
-        "Üst": 1.33
-    },
-    "ABD U20 - Küba U20": {
-        "Alt": 3.75,
-        "Üst": 1.62
-    },
-    "Atl San Luis - Club Tijuana": {
-        "Alt": 1.59,
-        "Üst": 1.64
-    },
-    "Juarez - Pumas Unam": {
-        "Alt": 1.74,
-        "Üst": 1.5
-    },
-    "Atl La Paz - Alac. de Durango": {
-        "Alt": 1.57,
-        "Üst": 1.65
-    },
-    "South Hobart - Launceston City": {
-        "Alt": 2.14,
-        "Üst": 3.76
-    },
-    "Hume City - Melbourne City 2": {
-        "Alt": 2.36,
-        "Üst": 3.45
-    },
-    "Adamstown Rosebuds - Valentine": {
-        "Alt": 3.54,
-        "Üst": 3.77
-    },
-    "Canberra Olym. - Tuggeranong Utd": {
-        "Alt": 1.3,
-        "Üst": 4.16
-    },
-    "South East Utd - Riverside Olym.": {
-        "Alt": 1.99,
-        "Üst": 3.64
-    },
-    "Avondale - Heidelberg": {
+    "NK Lucko - NK Segesta": {
         "Alt": 1.98,
         "Üst": 1.36
     },
-    "Belconnen Utd - Cooma Tigers": {
-        "Alt": 2.44,
-        "Üst": 3.57
+    "ST George Saints - SD Raiders": {
+        "Alt": 1.79,
+        "Üst": 1.47
     },
-    "Queanbeyan City - Brindabella B.": {
-        "Alt": 2.24,
-        "Üst": 3.66
+    "D. Thunder - Dandenong City": {
+        "Alt": 1.81,
+        "Üst": 3.31
     },
-    "WS Wanderers U23 - University of Nsw": {
-        "Alt": 1.96,
-        "Üst": 1.37
+    "B. Leverkusen - Weiss Essen": {
+        "Alt": 1.07,
+        "Üst": 1.79
+    },
+    "Merida AD - Betis D. Balompie": {
+        "Alt": 1.9,
+        "Üst": 1.4
+    },
+    "SD Logrones - Osasuna B": {
+        "Alt": 1.39,
+        "Üst": 1.93
+    },
+    "Graafschap - Excelsior": {
+        "Alt": 1.5,
+        "Üst": 4.0
+    },
+    "Ath Bilbao B - Cultural Leonesa": {
+        "Alt": 1.85,
+        "Üst": 1.43
+    },
+    "Barakaldo - Mirandes": {
+        "Alt": 1.59,
+        "Üst": 1.63
+    },
+    "N. E. Metrostars SC - Adelaide U. Genç": {
+        "Alt": 2.37,
+        "Üst": 3.6
+    },
+    "Chelsea - Tottenham": {
+        "Alt": 2.36,
+        "Üst": 1.28
     }
 }
