@@ -1,98 +1,86 @@
 {
-    "Schalke 04 II - SC Paderborn 07 II": {
-        "Alt": 2.88,
-        "Üst": 3.57
+    "Levski Sofya - FK Septemvri Sofia": {
+        "Alt": 1.84,
+        "Üst": 1.44
     },
-    "B. M. Gladbach II - Rodinghausen": {
-        "Alt": 1.8,
-        "Üst": 1.46
+    "SK Hanacka S. K. - Usti Nad Labem": {
+        "Alt": 1.69,
+        "Üst": 1.54
     },
-    "VfL Bochum II - B. Dortmund II": {
-        "Alt": 1.36,
-        "Üst": 3.95
+    "Trinec - Jihlava": {
+        "Alt": 1.56,
+        "Üst": 1.68
     },
-    "Sportfreunde - Gutersloh 2000": {
+    "Lyngby BK - AGF Aarhus": {
+        "Alt": 1.93,
+        "Üst": 1.45
+    },
+    "Gnistan - Kuopion": {
+        "Alt": 1.96,
+        "Üst": 1.44
+    },
+    "Zürih - Servette": {
+        "Alt": 1.98,
+        "Üst": 1.43
+    },
+    "Basel - Lausanne": {
+        "Alt": 2.17,
+        "Üst": 1.34
+    },
+    "Aarau - Stade Ouchy": {
         "Alt": 2.16,
-        "Üst": 3.4
+        "Üst": 1.28
     },
-    "Hannoverscher - Kickers Emden": {
-        "Alt": 1.87,
-        "Üst": 3.53
+    "Real Madrid - Fiorentina": {
+        "Alt": 2.37,
+        "Üst": 1.27
     },
-    "Lubeck - W. Flensburg": {
-        "Alt": 1.97,
-        "Üst": 1.37
+    "Roda - A. Aachen": {
+        "Alt": 2.05,
+        "Üst": 1.33
     },
-    "Chengdu Ron. - Wuhan T. T.": {
-        "Alt": 2.55,
-        "Üst": 1.18
+    "Empoli - Spezia": {
+        "Alt": 1.74,
+        "Üst": 1.5
     },
-    "Brabrand - Skive IK": {
+    "Chateauroux - Bourges": {
+        "Alt": 1.74,
+        "Üst": 1.5
+    },
+    "Saldus SS/Leevon - Rezeknes": {
+        "Alt": 4.04,
+        "Üst": 1.57
+    },
+    "Riga II - FS METTA LU": {
+        "Alt": 3.87,
+        "Üst": 2.39
+    },
+    "FK Ekranas - Zalgiris B": {
+        "Alt": 1.86,
+        "Üst": 1.43
+    },
+    "IK Start - Viking": {
+        "Alt": 2.33,
+        "Üst": 1.29
+    },
+    "G. Leczna - Avia Swidnik": {
+        "Alt": 1.5,
+        "Üst": 1.74
+    },
+    "Resovia - Slask W. II": {
+        "Alt": 1.54,
+        "Üst": 1.7
+    },
+    "S. Bratislava - Z. Podbrezova": {
+        "Alt": 2.07,
+        "Üst": 1.32
+    },
+    "Skalica - Ruzomberok": {
         "Alt": 1.44,
         "Üst": 1.83
     },
-    "Middelfart - Thisted": {
-        "Alt": 1.65,
-        "Üst": 1.58
-    },
-    "Hellerup - VSK Aarhus": {
-        "Alt": 1.8,
-        "Üst": 1.46
-    },
-    "Horsholm Usserod IK - Holstebro BK": {
-        "Alt": 2.73,
-        "Üst": 3.47
-    },
-    "Naesby - Sundby BK": {
-        "Alt": 1.92,
-        "Üst": 3.4
-    },
-    "TPS Turku - Mariehamn": {
-        "Alt": 2.04,
-        "Üst": 1.39
-    },
-    "I Pavlodar - FK Kaspyi Aktau": {
-        "Alt": 1.65,
-        "Üst": 1.58
-    },
-    "Dover - Carshalton": {
-        "Alt": 2.0,
-        "Üst": 1.35
-    },
-    "Regensburg - Ulm 1846": {
-        "Alt": 1.85,
-        "Üst": 3.45
-    },
-    "H. Rostock - M'gladbach": {
-        "Alt": 2.38,
-        "Üst": 1.22
-    },
-    "Hessen Kassel - Schalke 04": {
-        "Alt": 3.92,
-        "Üst": 1.74
-    },
-    "D. Dresden - Union Berlin": {
-        "Alt": 1.92,
-        "Üst": 1.47
-    },
-    "Fortuna Köln - Offenbacher": {
-        "Alt": 2.32,
-        "Üst": 3.37
-    },
-    "Solihull Moors - Northampton": {
-        "Alt": 1.94,
-        "Üst": 1.38
-    },
-    "Dunkerque - Mechelen": {
-        "Alt": 2.12,
-        "Üst": 1.3
-    },
-    "Darmstadt 98 - Portsmouth": {
-        "Alt": 2.14,
-        "Üst": 1.3
-    },
-    "Hannover 96 - Zwolle": {
-        "Alt": 2.44,
-        "Üst": 1.21
+    "Nafta - NS Mura": {
+        "Alt": 1.6,
+        "Üst": 1.63
     }
 }
