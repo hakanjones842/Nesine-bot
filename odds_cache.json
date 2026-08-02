@@ -1,82 +1,82 @@
 {
-    "Tampa Bay - Louisville": {
-        "Alt": 1.8,
-        "Üst": 1.46
+    "SKA Khabarovsk - Ural": {
+        "Alt": 1.46,
+        "Üst": 1.8
     },
-    "Birmingham Legion - Rhode Island": {
-        "Alt": 1.66,
-        "Üst": 1.57
+    "Wsc Hertha - SV Austria Salzburg": {
+        "Alt": 1.71,
+        "Üst": 1.53
     },
-    "Forward M. - Westchester SC": {
-        "Alt": 2.03,
-        "Üst": 3.31
-    },
-    "Santos SP - Clube do Remo": {
-        "Alt": 1.62,
-        "Üst": 1.69
-    },
-    "CS Emelec - SD Aucas": {
-        "Alt": 1.32,
-        "Üst": 2.09
-    },
-    "Comunicacion - Dep. San Pedro": {
-        "Alt": 1.42,
-        "Üst": 1.86
-    },
-    "Deportes Limache - Nublense": {
+    "OFK Malzenice - S. Bratislava B": {
         "Alt": 1.67,
         "Üst": 1.56
     },
-    "Chicago Fire - Charlotte": {
-        "Alt": 2.45,
-        "Üst": 1.26
+    "A. Petrzalka - MFK Bytca": {
+        "Alt": 2.0,
+        "Üst": 1.35
     },
-    "Minnesota Utd - San Diego": {
-        "Alt": 2.11,
-        "Üst": 1.37
+    "Qingdao Yth. Is. - Qingdao Jonoon": {
+        "Alt": 1.93,
+        "Üst": 1.39
     },
-    "S. Louis City SC - Real Salt Lake": {
-        "Alt": 2.21,
-        "Üst": 1.33
+    "Qviding FIF - BK Astrio": {
+        "Alt": 2.07,
+        "Üst": 3.64
     },
-    "Kansas City - Houston Dyn.": {
-        "Alt": 1.97,
-        "Üst": 1.44
+    "Ch. Odessa - Polissya Zhytomyr": {
+        "Alt": 1.58,
+        "Üst": 1.65
     },
-    "Sarasota Paradise - Naples": {
-        "Alt": 1.62,
-        "Üst": 1.6
+    "Jeju Utd - Incheon Utd": {
+        "Alt": 1.35,
+        "Üst": 2.15
     },
-    "Cavalry - York Utd": {
-        "Alt": 1.99,
-        "Üst": 1.36
+    "Ulsan Hora - Anyang": {
+        "Alt": 1.82,
+        "Üst": 1.53
     },
-    "Cancun - Leones Negros": {
-        "Alt": 1.66,
-        "Üst": 1.56
-    },
-    "Piratas Veracruz - Atl Morelia": {
-        "Alt": 1.42,
-        "Üst": 1.87
-    },
-    "Honduras U20 - Panama U20": {
+    "Daejeon Citizen - Gwangju": {
         "Alt": 1.74,
-        "Üst": 1.5
+        "Üst": 1.59
     },
-    "Atlas - Monterrey": {
-        "Alt": 1.5,
+    "Busan I Park - Seoul E Land": {
+        "Alt": 1.86,
+        "Üst": 1.43
+    },
+    "Ansan Greene - Gimhae": {
+        "Alt": 1.55,
+        "Üst": 1.68
+    },
+    "Jeonnam Dragons - Paju Citizen": {
+        "Alt": 1.64,
+        "Üst": 1.58
+    },
+    "Gimpo Citizen - Gyeongnam": {
+        "Alt": 1.39,
+        "Üst": 1.93
+    },
+    "Shenzhen Juniors - Wuxi Wuguo": {
+        "Alt": 1.85,
+        "Üst": 1.43
+    },
+    "Suzhou Jinfu - Meizhou Hakka": {
+        "Alt": 1.51,
         "Üst": 1.74
     },
-    "Club Leon - Pachuca": {
-        "Alt": 1.68,
-        "Üst": 1.56
+    "Changchun Yatai - SJZ Gongfu": {
+        "Alt": 1.49,
+        "Üst": 1.76
     },
-    "Colorado R. - Austin": {
-        "Alt": 1.92,
-        "Üst": 1.46
+    "Enskede - Taby FK": {
+        "Alt": 1.9,
+        "Üst": 1.4
     },
-    "New Mexico - Colorado Spr.": {
-        "Alt": 1.76,
-        "Üst": 1.49
+    "Bossekop UL - Harstad": {
+        "Alt": 2.19,
+        "Üst": 4.1
+    },
+    "Leyton Orient - Antwerp": {
+        "Alt": 1.83,
+        "Üst": 1.44
     }
 }
