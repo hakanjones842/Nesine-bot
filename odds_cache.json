@@ -1,74 +1,86 @@
 {
-    "CD Marquense - Municipal": {
-        "Alt": 1.36,
-        "Üst": 1.99
-    },
-    "Walter Ferretti - Indigenas de Matagalpa": {
-        "Alt": 1.62,
-        "Üst": 1.6
-    },
-    "Atl Lanus - Instituto": {
-        "Alt": 1.23,
-        "Üst": 2.53
-    },
-    "Inter San Carlos - CS Herediano": {
-        "Alt": 1.45,
-        "Üst": 1.81
-    },
-    "D. Toluca - Necaxa": {
-        "Alt": 2.19,
-        "Üst": 1.27
-    },
-    "CD Olimpia - Lobos Upnfm": {
-        "Alt": 2.01,
-        "Üst": 1.34
-    },
-    "Melbourne V. Gençler - Melbourne Srbija": {
-        "Alt": 2.69,
-        "Üst": 3.55
-    },
-    "Kamboçya - Doğu Timor": {
-        "Alt": 1.7,
-        "Üst": 3.33
-    },
-    "Bukovina Chernovtsy - LNZ Cherkasy": {
-        "Alt": 1.4,
-        "Üst": 1.89
-    },
     "Endonezya - Vietnam": {
-        "Alt": 1.56,
-        "Üst": 1.67
+        "Alt": 1.47,
+        "Üst": 1.78
     },
     "IF Vestri - Grotta": {
-        "Alt": 3.12,
-        "Üst": 3.94
+        "Alt": 3.26,
+        "Üst": 4.0
     },
     "Lillestrom II - Kongvinger 2": {
-        "Alt": 1.94,
-        "Üst": 4.01
+        "Alt": 1.61,
+        "Üst": 4.27
     },
     "Ufa - Kamaz Chelny": {
-        "Alt": 1.39,
-        "Üst": 1.92
+        "Alt": 1.41,
+        "Üst": 1.88
+    },
+    "AL Shabab (Sar) - MC Alger": {
+        "Alt": 1.68,
+        "Üst": 1.56
     },
     "FK Transinvest B - FK Babrungas Plunge": {
-        "Alt": 1.76,
-        "Üst": 3.42
+        "Alt": 2.04,
+        "Üst": 1.33
     },
     "Inter Bratislava - MSK Zilina B": {
         "Alt": 1.83,
         "Üst": 1.44
     },
     "Shakhtar D. - Kudrivka": {
-        "Alt": 3.45,
-        "Üst": 2.32
+        "Alt": 3.4,
+        "Üst": 2.33
     },
     "FK Tukums 2000 Tss 2 - JDFS Alberts": {
-        "Alt": 2.33,
-        "Üst": 3.55
+        "Alt": 1.61,
+        "Üst": 3.79
     },
     "Zalaegerszeg - Paksi": {
-        "Alt": 2.09,
+        "Alt": 2.08,
         "Üst": 1.32
+    },
+    "U. Cluj - Botosani": {
+        "Alt": 1.64,
+        "Üst": 1.59
+    },
+    "Siauliai - Banga Gargzdai": {
+        "Alt": 1.58,
+        "Üst": 1.64
+    },
+    "SJK Seinöjoen - HJK Helsinki": {
+        "Alt": 2.15,
+        "Üst": 1.35
+    },
+    "Cork City - Athlone Town": {
+        "Alt": 1.9,
+        "Üst": 1.4
+    },
+    "UC Dublin - Treaty Utd": {
+        "Alt": 1.83,
+        "Üst": 1.44
+    },
+    "Wexford - Bray Wanderers": {
+        "Alt": 1.79,
+        "Üst": 1.47
+    },
+    "Longford - Finn Harps": {
+        "Alt": 1.62,
+        "Üst": 1.6
+    },
+    "Kerry - Cobh Ramblers": {
+        "Alt": 1.61,
+        "Üst": 1.62
+    },
+    "Brumundal - Lyn 1896 FK II": {
+        "Alt": 1.99,
+        "Üst": 3.84
+    },
+    "Oppsal - Sarpsborg 08 2": {
+        "Alt": 2.33,
+        "Üst": 3.78
+    },
+    "Nardo - Molde II": {
+        "Alt": 2.06,
+        "Üst": 4.04
     }
 }
