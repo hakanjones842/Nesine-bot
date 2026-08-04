@@ -1,98 +1,86 @@
 {
-    "Myanmar - Laos": {
-        "Alt": 3.65,
-        "Üst": 2.28
-    },
-    "Bournemouth - Genoa": {
-        "Alt": 2.32,
-        "Üst": 1.31
-    },
-    "Jeju Utd - Bayern Münih": {
-        "Alt": 4.13,
-        "Üst": 2.04
-    },
-    "BG Pathum Utd - Aston Villa": {
-        "Alt": 3.81,
-        "Üst": 1.88
-    },
-    "Filipinler - Tayland": {
-        "Alt": 2.02,
-        "Üst": 1.38
-    },
-    "Akron Tolyatti - FK Rostov": {
-        "Alt": 1.79,
-        "Üst": 1.5
-    },
-    "Breidablik (K) - Aktobe (K)": {
-        "Alt": 2.08,
-        "Üst": 3.36
-    },
-    "Rodina Moscow - Rubin Kazan": {
-        "Alt": 1.76,
-        "Üst": 1.52
-    },
-    "Dyn. Makhachkala - Krylia Sovetov": {
-        "Alt": 1.39,
-        "Üst": 1.97
-    },
-    "Ararat - NK Celje": {
-        "Alt": 1.58,
-        "Üst": 1.68
-    },
-    "Mjallby - S. Bratislava": {
-        "Alt": 1.65,
-        "Üst": 1.61
-    },
-    "FK Auda - D. Tirana": {
-        "Alt": 1.51,
-        "Üst": 1.77
-    },
-    "Strasbourg - Elversberg": {
-        "Alt": 2.0,
-        "Üst": 1.44
-    },
     "C. Dep. Eldense - Villarreal B": {
         "Alt": 1.58,
         "Üst": 1.69
     },
     "Leganes - AL Rayyan": {
-        "Alt": 1.78,
-        "Üst": 1.51
+        "Alt": 1.76,
+        "Üst": 1.52
     },
     "Huesca - Logrones": {
-        "Alt": 1.83,
-        "Üst": 1.47
+        "Alt": 1.8,
+        "Üst": 1.49
     },
     "AL Nassr - Almeria": {
         "Alt": 1.71,
-        "Üst": 1.56
+        "Üst": 1.57
     },
     "HB Sheva - Kızıl Yıldız": {
-        "Alt": 1.8,
-        "Üst": 1.5
+        "Alt": 1.83,
+        "Üst": 1.48
     },
     "Levski Sofya - K. Almaty": {
-        "Alt": 1.44,
-        "Üst": 1.89
+        "Alt": 1.38,
+        "Üst": 2.0
     },
     "Tenerife - UD Tamaraceite": {
-        "Alt": 2.02,
-        "Üst": 1.37
-    },
-    "Noordwijk - Rijnsburgse Boys": {
-        "Alt": 1.89,
-        "Üst": 3.73
+        "Alt": 1.8,
+        "Üst": 1.49
     },
     "L. Moskova - CSKA Moskova": {
         "Alt": 1.76,
         "Üst": 1.53
     },
     "D. Zagreb - Zalgiris Kaunas": {
-        "Alt": 1.36,
-        "Üst": 1.99
+        "Alt": 1.38,
+        "Üst": 2.06
     },
     "Sparta Prag - Lyon": {
-        "Alt": 1.81,
+        "Alt": 1.83,
+        "Üst": 1.47
+    },
+    "Olympiakos - NEC Nijmegen": {
+        "Alt": 1.93,
+        "Üst": 1.42
+    },
+    "U. S. Gilloise - Bodo Glimt": {
+        "Alt": 1.8,
         "Üst": 1.49
+    },
+    "Newport - AS Roma": {
+        "Alt": 1.18,
+        "Üst": 2.33
+    },
+    "Noordwijk - Rijnsburgse Boys": {
+        "Alt": 1.93,
+        "Üst": 3.68
+    },
+    "Thor Akureyr - Breidablik": {
+        "Alt": 1.83,
+        "Üst": 3.63
+    },
+    "Enfield Town - Tottenham U21": {
+        "Alt": 1.63,
+        "Üst": 3.6
+    },
+    "Rotherham - Derby County": {
+        "Alt": 1.76,
+        "Üst": 1.51
+    },
+    "UD Socuellamos - C. Sotelo Puertollano": {
+        "Alt": 1.57,
+        "Üst": 1.7
+    },
+    "Raynes Park Vale - Hampton&Richmond": {
+        "Alt": 2.32,
+        "Üst": 3.67
+    },
+    "Ipswich Town - Le Havre": {
+        "Alt": 1.89,
+        "Üst": 1.51
+    },
+    "Bracknell Town - Dorking Wanderers": {
+        "Alt": 1.69,
+        "Üst": 3.46
     }
 }
