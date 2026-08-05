@@ -1,78 +1,78 @@
 {
-    "Ferencvaros - Gornik Zabrze": {
-        "Alt": 1.62,
-        "Üst": 1.65
+    "Gremio P. - Mirassol SP": {
+        "Alt": 1.38,
+        "Üst": 1.98
     },
-    "Panathinaikos - CSKA 1948 Sofia": {
-        "Alt": 1.84,
-        "Üst": 1.46
+    "Kanada U20 - Jamaika U20": {
+        "Alt": 1.89,
+        "Üst": 1.44
     },
-    "Arsenal - Real Betis": {
-        "Alt": 2.25,
-        "Üst": 1.34
+    "Dep. La Gua. - Metropolitan": {
+        "Alt": 1.4,
+        "Üst": 1.95
     },
-    "Badajoz - CD Coria": {
-        "Alt": 1.6,
-        "Üst": 1.67
+    "Richmond - New York Cosmos": {
+        "Alt": 2.02,
+        "Üst": 1.37
     },
-    "Slavia Prag (K) - Rangers (K)": {
-        "Alt": 1.99,
-        "Üst": 1.38
+    "Penarol - Montevideo": {
+        "Alt": 1.38,
+        "Üst": 2.0
     },
-    "Vllaznia S. (K) - S. Myjava (K)": {
-        "Alt": 2.3,
-        "Üst": 3.62
+    "Naples - Av Alta": {
+        "Alt": 1.87,
+        "Üst": 1.44
     },
-    "GV San Jose - S. A. Bulo Bulo": {
-        "Alt": 2.0,
-        "Üst": 3.64
+    "Inter Miami - Atl San Luis": {
+        "Alt": 3.24,
+        "Üst": 1.09
     },
-    "Mallorca - PSG": {
-        "Alt": 2.35,
-        "Üst": 1.31
+    "Monterrey - Orlando City": {
+        "Alt": 2.47,
+        "Üst": 1.22
     },
-    "Juventus (K) - Torreense (K)": {
-        "Alt": 2.13,
-        "Üst": 3.56
+    "Club Bolivar - O. Petrolero": {
+        "Alt": 3.89,
+        "Üst": 2.48
     },
-    "Meksika U21 - Panama U21": {
+    "Portoviejo - Barcelona (Ekv)": {
+        "Alt": 1.38,
+        "Üst": 2.0
+    },
+    "I. Santa Fe - U. Magdalena": {
+        "Alt": 1.56,
+        "Üst": 1.71
+    },
+    "Umecit - CD Olimpia": {
+        "Alt": 1.5,
+        "Üst": 1.8
+    },
+    "Kolombiya U21 - Venezuela U21": {
+        "Alt": 1.82,
+        "Üst": 1.48
+    },
+    "CA Tigre - Belgrano": {
+        "Alt": 1.13,
+        "Üst": 3.25
+    },
+    "Tulsa Roughnecks - Sacramento R.": {
+        "Alt": 1.31,
+        "Üst": 2.16
+    },
+    "Fluminense - Vasco Da G.": {
+        "Alt": 1.29,
+        "Üst": 2.21
+    },
+    "Nashville SC - Club Leon": {
         "Alt": 1.85,
         "Üst": 1.46
     },
-    "Hafnarfjordur - KR Reykjavik": {
-        "Alt": 1.6,
-        "Üst": 4.08
+    "Dallas - Queretaro": {
+        "Alt": 2.08,
+        "Üst": 1.34
     },
-    "Cuniburo - Uni. Catolica": {
-        "Alt": 1.44,
-        "Üst": 1.89
-    },
-    "Boca Juniors - Estudiantes": {
-        "Alt": 1.26,
-        "Üst": 2.51
-    },
-    "Quilmes - Gimnasia Jujuy": {
-        "Alt": 1.35,
-        "Üst": 2.07
-    },
-    "Nacional Potosi - Strongest": {
-        "Alt": 2.02,
-        "Üst": 1.38
-    },
-    "Cruzeiro MG - Chapecoense": {
-        "Alt": 1.7,
-        "Üst": 1.57
-    },
-    "San Felipe - U. Chile": {
-        "Alt": 1.86,
-        "Üst": 1.45
-    },
-    "Santiago W. - D. Union La Calera": {
-        "Alt": 1.69,
-        "Üst": 1.58
-    },
-    "Gremio P. - Mirassol SP": {
-        "Alt": 1.4,
-        "Üst": 1.95
+    "Coquimbo U. - S. M. De Arica": {
+        "Alt": 1.51,
+        "Üst": 1.76
     }
 }
