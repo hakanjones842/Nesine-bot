@@ -1,74 +1,98 @@
 {
-    "Carabobo - Trujillanos": {
-        "Alt": 1.69,
-        "Üst": 1.58
+    "Toledo - Navalcarnero": {
+        "Alt": 1.42,
+        "Üst": 1.93
     },
-    "Independiente P. - Club Aurora": {
-        "Alt": 1.97,
-        "Üst": 1.39
+    "Cadiz - Granada": {
+        "Alt": 1.47,
+        "Üst": 1.83
     },
-    "Ucv - Monagas SC": {
-        "Alt": 1.83,
+    "Villarreal - Levante": {
+        "Alt": 1.95,
         "Üst": 1.47
     },
-    "Juventude - Atl Mineiro": {
-        "Alt": 1.25,
-        "Üst": 2.35
+    "FK Austria Wien (K) - Znk Hajduk Split (K)": {
+        "Alt": 3.9,
+        "Üst": 1.97
     },
-    "Dep. Tachira - Portuguesa": {
-        "Alt": 1.57,
-        "Üst": 1.7
+    "Queanbeyan City - Tuggeranong Utd": {
+        "Alt": 2.35,
+        "Üst": 3.63
     },
-    "Nublense - CSD Rangers": {
-        "Alt": 1.54,
-        "Üst": 1.74
-    },
-    "Columbus Cr. - Atlas": {
-        "Alt": 1.88,
-        "Üst": 1.44
-    },
-    "Cincinnati - Pachuca": {
-        "Alt": 2.27,
-        "Üst": 1.27
-    },
-    "Guabira M. - R. Tomayapo": {
-        "Alt": 1.83,
-        "Üst": 3.44
-    },
-    "Charlotte - Pumas Unam": {
-        "Alt": 2.01,
+    "AC Milan - Inter": {
+        "Alt": 2.14,
         "Üst": 1.38
     },
-    "Plaza Amador P. C. - Angel Firpo": {
-        "Alt": 1.43,
-        "Üst": 1.9
+    "K-Lig Allstars - Man. City": {
+        "Alt": 1.7,
+        "Üst": 4.17
     },
-    "Clube do Remo - Santos SP": {
-        "Alt": 1.43,
-        "Üst": 1.9
+    "Valerenga (K) - Malmo FF (K)": {
+        "Alt": 1.94,
+        "Üst": 1.41
     },
-    "Minnesota Utd - Juarez": {
-        "Alt": 1.9,
-        "Üst": 1.43
+    "Sarajevo (K) - PSV Eindhoven (K)": {
+        "Alt": 3.97,
+        "Üst": 2.09
     },
-    "Tigres - Real Salt Lake": {
-        "Alt": 1.96,
-        "Üst": 1.39
+    "Chelsea - Juventus": {
+        "Alt": 2.18,
+        "Üst": 1.37
     },
-    "Antigua - Real Esteli": {
-        "Alt": 1.56,
-        "Üst": 1.71
+    "Ajax (K) - Brondby (K)": {
+        "Alt": 2.02,
+        "Üst": 1.37
     },
-    "Diriangen - Alajuelense": {
-        "Alt": 1.95,
-        "Üst": 1.4
+    "Gintra U. (K) - Heart of Midlothian (K)": {
+        "Alt": 2.05,
+        "Üst": 3.51
     },
-    "V. Whitecaps - Atlante": {
-        "Alt": 2.29,
-        "Üst": 1.27
+    "P. Bielsko - Hutnik Krakow": {
+        "Alt": 1.81,
+        "Üst": 1.49
     },
-    "FK Austria Wien (K) - Znk Hajduk Split (K)": {
-        "Alt": 4.0,
-        "Üst": 1.98
+    "Z. Pruszkow - LKS Lodz II": {
+        "Alt": 2.0,
+        "Üst": 1.38
+    },
+    "Slask W. II - S. Stalowa": {
+        "Alt": 1.94,
+        "Üst": 1.41
+    },
+    "Apollon Ladies (K) - Czarni Sosnowiec (K)": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "Podhale Nowy Targ - Chojniczanka": {
+        "Alt": 1.62,
+        "Üst": 1.65
+    },
+    "Ferencvarosi TC (K) - PAOK T. (K)": {
+        "Alt": 1.92,
+        "Üst": 1.42
+    },
+    "Ols Oulu - TPV": {
+        "Alt": 3.09,
+        "Üst": 1.11
+    },
+    "Olimpia - Swit Skolwin": {
+        "Alt": 1.74,
+        "Üst": 1.54
+    },
+    "Rovaniemen - Jazz": {
+        "Alt": 2.81,
+        "Üst": 1.15
+    },
+    "Tampere Utd - Kokkolan P.": {
+        "Alt": 1.12,
+        "Üst": 1.84
+    },
+    "Salpa - JJK Jyvaskyla": {
+        "Alt": 2.65,
+        "Üst": 1.18
+    },
+    "US Pianese - Aquila M.": {
+        "Alt": 1.94,
+        "Üst": 1.41
     }
 }
