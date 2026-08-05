@@ -1,51 +1,19 @@
 {
-    "Toledo - Navalcarnero": {
-        "Alt": 1.42,
-        "Üst": 1.93
-    },
-    "Cadiz - Granada": {
-        "Alt": 1.47,
-        "Üst": 1.83
-    },
-    "Villarreal - Levante": {
-        "Alt": 1.95,
-        "Üst": 1.47
-    },
-    "FK Austria Wien (K) - Znk Hajduk Split (K)": {
-        "Alt": 3.9,
+    "Sporting (K) - Seasters Odessa (K)": {
+        "Alt": 3.45,
         "Üst": 1.97
-    },
-    "Queanbeyan City - Tuggeranong Utd": {
-        "Alt": 2.35,
-        "Üst": 3.63
-    },
-    "AC Milan - Inter": {
-        "Alt": 2.14,
-        "Üst": 1.38
-    },
-    "K-Lig Allstars - Man. City": {
-        "Alt": 1.7,
-        "Üst": 4.17
-    },
-    "Valerenga (K) - Malmo FF (K)": {
-        "Alt": 1.94,
-        "Üst": 1.41
-    },
-    "Sarajevo (K) - PSV Eindhoven (K)": {
-        "Alt": 3.97,
-        "Üst": 2.09
-    },
-    "Chelsea - Juventus": {
-        "Alt": 2.18,
-        "Üst": 1.37
     },
     "Ajax (K) - Brondby (K)": {
         "Alt": 2.02,
         "Üst": 1.37
     },
     "Gintra U. (K) - Heart of Midlothian (K)": {
-        "Alt": 2.05,
-        "Üst": 3.51
+        "Alt": 2.27,
+        "Üst": 3.49
+    },
+    "Niva Dolbizno - Slutsk": {
+        "Alt": 1.94,
+        "Üst": 1.41
     },
     "P. Bielsko - Hutnik Krakow": {
         "Alt": 1.81,
@@ -60,8 +28,8 @@
         "Üst": 1.41
     },
     "Apollon Ladies (K) - Czarni Sosnowiec (K)": {
-        "Alt": 1.83,
-        "Üst": 1.48
+        "Alt": 1.86,
+        "Üst": 1.45
     },
     "Podhale Nowy Targ - Chojniczanka": {
         "Alt": 1.62,
@@ -71,28 +39,40 @@
         "Alt": 1.92,
         "Üst": 1.42
     },
+    "Ostrovets - Osipovichi": {
+        "Alt": 2.32,
+        "Üst": 3.45
+    },
     "Ols Oulu - TPV": {
-        "Alt": 3.09,
-        "Üst": 1.11
+        "Alt": 3.37,
+        "Üst": 1.07
     },
     "Olimpia - Swit Skolwin": {
-        "Alt": 1.74,
-        "Üst": 1.54
+        "Alt": 1.8,
+        "Üst": 1.5
     },
     "Rovaniemen - Jazz": {
-        "Alt": 2.81,
-        "Üst": 1.15
+        "Alt": 2.71,
+        "Üst": 1.17
     },
     "Tampere Utd - Kokkolan P.": {
         "Alt": 1.12,
-        "Üst": 1.84
+        "Üst": 1.81
     },
     "Salpa - JJK Jyvaskyla": {
-        "Alt": 2.65,
-        "Üst": 1.18
+        "Alt": 2.64,
+        "Üst": 1.19
     },
     "US Pianese - Aquila M.": {
-        "Alt": 1.94,
+        "Alt": 1.97,
+        "Üst": 1.39
+    },
+    "Al Shahaniya - Marsilya": {
+        "Alt": 1.12,
+        "Üst": 2.06
+    },
+    "Warta Poznan - Resovia": {
+        "Alt": 1.95,
         "Üst": 1.41
     }
 }
