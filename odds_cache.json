@@ -1,78 +1,78 @@
 {
-    "Sporting (K) - Seasters Odessa (K)": {
-        "Alt": 3.45,
-        "Üst": 1.97
-    },
-    "Ajax (K) - Brondby (K)": {
-        "Alt": 2.02,
-        "Üst": 1.37
-    },
-    "Gintra U. (K) - Heart of Midlothian (K)": {
-        "Alt": 2.27,
-        "Üst": 3.49
-    },
-    "Niva Dolbizno - Slutsk": {
-        "Alt": 1.94,
-        "Üst": 1.41
-    },
-    "P. Bielsko - Hutnik Krakow": {
-        "Alt": 1.81,
-        "Üst": 1.49
-    },
-    "Z. Pruszkow - LKS Lodz II": {
-        "Alt": 2.0,
-        "Üst": 1.38
-    },
-    "Slask W. II - S. Stalowa": {
-        "Alt": 1.94,
-        "Üst": 1.41
-    },
-    "Apollon Ladies (K) - Czarni Sosnowiec (K)": {
-        "Alt": 1.86,
-        "Üst": 1.45
-    },
-    "Podhale Nowy Targ - Chojniczanka": {
+    "Ferencvaros - Gornik Zabrze": {
         "Alt": 1.62,
         "Üst": 1.65
     },
-    "Ferencvarosi TC (K) - PAOK T. (K)": {
-        "Alt": 1.92,
-        "Üst": 1.42
+    "Panathinaikos - CSKA 1948 Sofia": {
+        "Alt": 1.84,
+        "Üst": 1.46
     },
-    "Ostrovets - Osipovichi": {
-        "Alt": 2.32,
-        "Üst": 3.45
+    "Arsenal - Real Betis": {
+        "Alt": 2.25,
+        "Üst": 1.34
     },
-    "Ols Oulu - TPV": {
-        "Alt": 3.37,
-        "Üst": 1.07
+    "Badajoz - CD Coria": {
+        "Alt": 1.6,
+        "Üst": 1.67
     },
-    "Olimpia - Swit Skolwin": {
-        "Alt": 1.8,
-        "Üst": 1.5
+    "Slavia Prag (K) - Rangers (K)": {
+        "Alt": 1.99,
+        "Üst": 1.38
     },
-    "Rovaniemen - Jazz": {
-        "Alt": 2.71,
-        "Üst": 1.17
+    "Vllaznia S. (K) - S. Myjava (K)": {
+        "Alt": 2.3,
+        "Üst": 3.62
     },
-    "Tampere Utd - Kokkolan P.": {
-        "Alt": 1.12,
-        "Üst": 1.81
+    "GV San Jose - S. A. Bulo Bulo": {
+        "Alt": 2.0,
+        "Üst": 3.64
     },
-    "Salpa - JJK Jyvaskyla": {
-        "Alt": 2.64,
-        "Üst": 1.19
+    "Mallorca - PSG": {
+        "Alt": 2.35,
+        "Üst": 1.31
     },
-    "US Pianese - Aquila M.": {
-        "Alt": 1.97,
-        "Üst": 1.39
+    "Juventus (K) - Torreense (K)": {
+        "Alt": 2.13,
+        "Üst": 3.56
     },
-    "Al Shahaniya - Marsilya": {
-        "Alt": 1.12,
-        "Üst": 2.06
+    "Meksika U21 - Panama U21": {
+        "Alt": 1.85,
+        "Üst": 1.46
     },
-    "Warta Poznan - Resovia": {
-        "Alt": 1.95,
-        "Üst": 1.41
+    "Hafnarfjordur - KR Reykjavik": {
+        "Alt": 1.6,
+        "Üst": 4.08
+    },
+    "Cuniburo - Uni. Catolica": {
+        "Alt": 1.44,
+        "Üst": 1.89
+    },
+    "Boca Juniors - Estudiantes": {
+        "Alt": 1.26,
+        "Üst": 2.51
+    },
+    "Quilmes - Gimnasia Jujuy": {
+        "Alt": 1.35,
+        "Üst": 2.07
+    },
+    "Nacional Potosi - Strongest": {
+        "Alt": 2.02,
+        "Üst": 1.38
+    },
+    "Cruzeiro MG - Chapecoense": {
+        "Alt": 1.7,
+        "Üst": 1.57
+    },
+    "San Felipe - U. Chile": {
+        "Alt": 1.86,
+        "Üst": 1.45
+    },
+    "Santiago W. - D. Union La Calera": {
+        "Alt": 1.69,
+        "Üst": 1.58
+    },
+    "Gremio P. - Mirassol SP": {
+        "Alt": 1.4,
+        "Üst": 1.95
     }
 }
