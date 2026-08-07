@@ -1,43 +1,31 @@
 {
-    "Comerciantes Uni. - Cusco": {
-        "Alt": 1.56,
-        "Üst": 1.72
-    },
-    "Kosta Rika U20 - ABD U20": {
-        "Alt": 2.02,
-        "Üst": 1.37
-    },
-    "Cerro Largo - CA Juventud De Las Piedras": {
-        "Alt": 1.36,
-        "Üst": 2.05
-    },
     "Rosario C. - Aldosivi": {
-        "Alt": 1.33,
-        "Üst": 2.28
+        "Alt": 1.38,
+        "Üst": 2.16
     },
     "Operario - Sao Bernardo": {
-        "Alt": 1.45,
-        "Üst": 1.86
+        "Alt": 1.44,
+        "Üst": 1.89
     },
     "F. Midland - CD Maipu": {
         "Alt": 3.19,
         "Üst": 3.0
     },
     "Forge - Vancouver Langley": {
-        "Alt": 1.7,
-        "Üst": 1.57
+        "Alt": 1.66,
+        "Üst": 1.61
     },
     "R. Tomayapo - Cdt Real Oruro": {
         "Alt": 2.65,
         "Üst": 3.73
     },
     "Ceara CE - Ponte Preta": {
-        "Alt": 1.6,
-        "Üst": 1.67
+        "Alt": 1.55,
+        "Üst": 1.72
     },
     "Charlotte - Atlas": {
-        "Alt": 1.7,
-        "Üst": 1.57
+        "Alt": 1.66,
+        "Üst": 1.6
     },
     "Columbus Cr. - Pachuca": {
         "Alt": 1.97,
@@ -48,16 +36,16 @@
         "Üst": 1.72
     },
     "Cincinnati - Pumas Unam": {
-        "Alt": 2.53,
-        "Üst": 1.2
+        "Alt": 2.56,
+        "Üst": 1.19
     },
     "Meksika U21 - Venezuela U21": {
         "Alt": 1.83,
         "Üst": 1.48
     },
     "Uni. Catolica - Cobresal": {
-        "Alt": 2.66,
-        "Üst": 3.61
+        "Alt": 1.62,
+        "Üst": 3.31
     },
     "Ind. Mendoza - Estudiantes Río C.": {
         "Alt": 1.44,
@@ -66,5 +54,25 @@
     "Metapan - CD Aguila": {
         "Alt": 1.41,
         "Üst": 1.93
+    },
+    "Tigres - Minnesota Utd": {
+        "Alt": 1.76,
+        "Üst": 1.51
+    },
+    "Alac. de Durango - Piratas Veracruz": {
+        "Alt": 1.48,
+        "Üst": 1.83
+    },
+    "Tepatitlan - Atl La Paz": {
+        "Alt": 1.76,
+        "Üst": 1.52
+    },
+    "Real Esteli - Walter Ferretti": {
+        "Alt": 1.77,
+        "Üst": 1.51
+    },
+    "U. Deportes - S. Cristal": {
+        "Alt": 1.57,
+        "Üst": 1.7
     }
 }
