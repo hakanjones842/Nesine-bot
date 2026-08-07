@@ -1,82 +1,90 @@
 {
-    "KuPS Akatemia - Inter 2": {
-        "Alt": 2.85,
-        "Üst": 4.21
-    },
-    "Japs - Mikkeli": {
-        "Alt": 1.74,
-        "Üst": 1.54
-    },
-    "MTK Budapeşte - Puskas A.": {
-        "Alt": 1.88,
-        "Üst": 1.44
-    },
-    "NK Dren Vrhnika - Triglav": {
-        "Alt": 1.73,
-        "Üst": 1.54
-    },
-    "ND Beltinci - Rudar": {
-        "Alt": 1.57,
-        "Üst": 1.7
-    },
-    "Jihlava - Pribram": {
-        "Alt": 1.63,
-        "Üst": 1.63
-    },
-    "Dukla Prag - SK Hanacka S. K.": {
+    "Levski Sofya - Loko Plovdiv": {
         "Alt": 1.66,
         "Üst": 1.6
     },
-    "S B Vlasim - Vik. Zizkov": {
-        "Alt": 1.83,
-        "Üst": 1.48
+    "Etoile Carouge - N. Xamax": {
+        "Alt": 2.17,
+        "Üst": 1.31
     },
-    "Opava - SK Kladno": {
+    "Aarau - Std. Nyonnis": {
+        "Alt": 2.09,
+        "Üst": 1.34
+    },
+    "Boluspor - Manisa FK": {
+        "Alt": 1.89,
+        "Üst": 1.43
+    },
+    "Bochum - Hertha Berlin": {
+        "Alt": 1.87,
+        "Üst": 1.53
+    },
+    "Blau Weiss L. - Wacker Inns.": {
+        "Alt": 2.02,
+        "Üst": 1.37
+    },
+    "Pontypridd Town - Pontardawe T.": {
         "Alt": 1.94,
         "Üst": 1.41
     },
-    "Usti Nad Labem - Arsenal Ceska L.": {
+    "Afan Lido - Llantwit Major": {
+        "Alt": 1.9,
+        "Üst": 1.43
+    },
+    "P. Thistle - Livingston": {
+        "Alt": 1.72,
+        "Üst": 1.55
+    },
+    "UD Llanera - CD Lealtad De Villaviciosa": {
+        "Alt": 1.93,
+        "Üst": 1.41
+    },
+    "Wisla Krakow - Wisla Plock": {
         "Alt": 1.88,
         "Üst": 1.44
     },
-    "SK Prostej - Karvina": {
-        "Alt": 1.66,
+    "Polonia Warszawa - Ruch Chorzow": {
+        "Alt": 1.76,
+        "Üst": 1.51
+    },
+    "Club Brugge - Kortrijk": {
+        "Alt": 3.03,
+        "Üst": 1.16
+    },
+    "Caen - Valenciennes": {
+        "Alt": 1.63,
+        "Üst": 1.63
+    },
+    "Fleury 91 - Amiens": {
+        "Alt": 1.48,
+        "Üst": 1.82
+    },
+    "Aubagne - Thionville Lusitanos": {
+        "Alt": 1.65,
         "Üst": 1.61
     },
-    "Kuressaare - Harju JK Laagri": {
-        "Alt": 1.89,
-        "Üst": 1.44
+    "US Concarneau - Orleans": {
+        "Alt": 1.61,
+        "Üst": 1.65
     },
-    "SJK Seinöjoen - Gnistan": {
-        "Alt": 2.2,
-        "Üst": 1.36
-    },
-    "Rustvai - Torpedo": {
-        "Alt": 1.59,
-        "Üst": 1.68
-    },
-    "Hegelmann Litauen B - FK Garliava": {
-        "Alt": 1.84,
-        "Üst": 1.47
-    },
-    "FK Jonava - FK Ekranas": {
-        "Alt": 1.8,
-        "Üst": 1.5
-    },
-    "Polonia Bytom - Pogon Siedl.": {
-        "Alt": 1.7,
-        "Üst": 1.57
-    },
-    "Krka - NK Bistrica": {
+    "Rouen - Cannes": {
         "Alt": 1.63,
-        "Üst": 1.64
+        "Üst": 1.63
     },
-    "Hannover 96 II - Hannoverscher": {
-        "Alt": 1.98,
-        "Üst": 3.68
+    "Paris 13 Atl - US Quevilly": {
+        "Alt": 1.29,
+        "Üst": 2.21
     },
-    "VfB Oldenburg - Drochtersen": {
-        "Alt": 3.36,
-        "Üst": 3.74
+    "SC Bastia - Le Puy Foot 43": {
+        "Alt": 1.55,
+        "Üst": 1.73
+    },
+    "Bourg En Bresse - Villefranche": {
+        "Alt": 1.41,
+        "Üst": 1.94
+    },
+    "La Roche Vendee - Versailles 78": {
+        "Alt": 1.65,
+        "Üst": 1.61
     }
 }
