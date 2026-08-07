@@ -1,90 +1,70 @@
 {
-    "Levski Sofya - Loko Plovdiv": {
-        "Alt": 1.66,
-        "Üst": 1.6
+    "Comerciantes Uni. - Cusco": {
+        "Alt": 1.56,
+        "Üst": 1.72
     },
-    "Etoile Carouge - N. Xamax": {
-        "Alt": 2.17,
-        "Üst": 1.31
-    },
-    "Aarau - Std. Nyonnis": {
-        "Alt": 2.09,
-        "Üst": 1.34
-    },
-    "Boluspor - Manisa FK": {
-        "Alt": 1.89,
-        "Üst": 1.43
-    },
-    "Bochum - Hertha Berlin": {
-        "Alt": 1.87,
-        "Üst": 1.53
-    },
-    "Blau Weiss L. - Wacker Inns.": {
+    "Kosta Rika U20 - ABD U20": {
         "Alt": 2.02,
         "Üst": 1.37
     },
-    "Pontypridd Town - Pontardawe T.": {
-        "Alt": 1.94,
-        "Üst": 1.41
+    "Cerro Largo - CA Juventud De Las Piedras": {
+        "Alt": 1.36,
+        "Üst": 2.05
     },
-    "Afan Lido - Llantwit Major": {
-        "Alt": 1.9,
-        "Üst": 1.43
+    "Rosario C. - Aldosivi": {
+        "Alt": 1.33,
+        "Üst": 2.28
     },
-    "P. Thistle - Livingston": {
-        "Alt": 1.72,
-        "Üst": 1.55
+    "Operario - Sao Bernardo": {
+        "Alt": 1.45,
+        "Üst": 1.86
     },
-    "UD Llanera - CD Lealtad De Villaviciosa": {
-        "Alt": 1.93,
-        "Üst": 1.41
+    "F. Midland - CD Maipu": {
+        "Alt": 3.19,
+        "Üst": 3.0
     },
-    "Wisla Krakow - Wisla Plock": {
-        "Alt": 1.88,
-        "Üst": 1.44
+    "Forge - Vancouver Langley": {
+        "Alt": 1.7,
+        "Üst": 1.57
     },
-    "Polonia Warszawa - Ruch Chorzow": {
-        "Alt": 1.76,
-        "Üst": 1.51
+    "R. Tomayapo - Cdt Real Oruro": {
+        "Alt": 2.65,
+        "Üst": 3.73
     },
-    "Club Brugge - Kortrijk": {
-        "Alt": 3.03,
-        "Üst": 1.16
+    "Ceara CE - Ponte Preta": {
+        "Alt": 1.6,
+        "Üst": 1.67
     },
-    "Caen - Valenciennes": {
-        "Alt": 1.63,
-        "Üst": 1.63
+    "Charlotte - Atlas": {
+        "Alt": 1.7,
+        "Üst": 1.57
     },
-    "Fleury 91 - Amiens": {
-        "Alt": 1.48,
-        "Üst": 1.82
+    "Columbus Cr. - Pachuca": {
+        "Alt": 1.97,
+        "Üst": 1.39
     },
-    "Aubagne - Thionville Lusitanos": {
-        "Alt": 1.65,
-        "Üst": 1.61
+    "LDU Quito - Independiente D.": {
+        "Alt": 1.56,
+        "Üst": 1.72
     },
-    "US Concarneau - Orleans": {
-        "Alt": 1.61,
-        "Üst": 1.65
+    "Cincinnati - Pumas Unam": {
+        "Alt": 2.53,
+        "Üst": 1.2
     },
-    "Rouen - Cannes": {
-        "Alt": 1.63,
-        "Üst": 1.63
+    "Meksika U21 - Venezuela U21": {
+        "Alt": 1.83,
+        "Üst": 1.48
     },
-    "Paris 13 Atl - US Quevilly": {
-        "Alt": 1.29,
-        "Üst": 2.21
+    "Uni. Catolica - Cobresal": {
+        "Alt": 2.66,
+        "Üst": 3.61
     },
-    "SC Bastia - Le Puy Foot 43": {
-        "Alt": 1.55,
-        "Üst": 1.73
+    "Ind. Mendoza - Estudiantes Río C.": {
+        "Alt": 1.44,
+        "Üst": 2.02
     },
-    "Bourg En Bresse - Villefranche": {
+    "Metapan - CD Aguila": {
         "Alt": 1.41,
-        "Üst": 1.94
-    },
-    "La Roche Vendee - Versailles 78": {
-        "Alt": 1.65,
-        "Üst": 1.61
+        "Üst": 1.93
     }
 }
