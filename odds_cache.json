@@ -1,98 +1,90 @@
 {
-    "Gaddafi - NEC": {
-        "Alt": 5.38,
-        "Üst": 3.35
+    "America - San Diego": {
+        "Alt": 2.29,
+        "Üst": 1.27
     },
-    "Bate Borisov II - FK Bumprom": {
-        "Alt": 1.99,
-        "Üst": 3.72
+    "Portland Tim. - Puebla": {
+        "Alt": 2.71,
+        "Üst": 1.17
     },
-    "Kuopion - Un. Craiova": {
-        "Alt": 1.57,
-        "Üst": 1.69
+    "Motagua - CD Fas": {
+        "Alt": 1.47,
+        "Üst": 1.83
     },
-    "Inter Turku - Vaduz": {
-        "Alt": 1.87,
-        "Üst": 1.45
+    "Queensland L. - Brisbane R. II": {
+        "Alt": 1.96,
+        "Üst": 3.71
     },
-    "Molodechno - Volna Pinsk": {
-        "Alt": 3.54,
-        "Üst": 4.0
+    "A. Comets - N. E. Metrostars SC": {
+        "Alt": 2.64,
+        "Üst": 3.49
     },
-    "Orsha - Gomel 2": {
-        "Alt": 1.15,
-        "Üst": 1.1
+    "Campbelltown C. - White City B.": {
+        "Alt": 1.92,
+        "Üst": 1.42
     },
-    "Pavonese - Desenzano Calvina": {
-        "Alt": 1.65,
-        "Üst": 1.62
-    },
-    "J. Bialystok - Rangers": {
-        "Alt": 1.57,
-        "Üst": 1.7
-    },
-    "M. Tel Aviv - CSKA Sofya": {
-        "Alt": 1.48,
-        "Üst": 1.82
-    },
-    "Noah - Sion": {
-        "Alt": 1.68,
-        "Üst": 1.59
-    },
-    "HJK Helsinki - Motherwell": {
-        "Alt": 1.76,
-        "Üst": 1.52
-    },
-    "Jablonec - Rigas Skola": {
-        "Alt": 1.46,
-        "Üst": 1.84
-    },
-    "Paide Flora - Rapid Wien": {
+    "Adelaide City - Playford City": {
         "Alt": 1.97,
         "Üst": 1.39
     },
-    "Pergolettese - Club Milano Ssd": {
+    "Yokohama M. - Kashima": {
+        "Alt": 1.54,
+        "Üst": 1.84
+    },
+    "W. Torrens B. - West Adelaide": {
+        "Alt": 2.03,
+        "Üst": 3.56
+    },
+    "Gamba Osaka - Urawa Red": {
         "Alt": 1.57,
-        "Üst": 1.7
+        "Üst": 1.8
     },
-    "Uganda Police - Airtel Kitara": {
-        "Alt": 1.31,
-        "Üst": 2.18
+    "Gyeongnam - Daegu": {
+        "Alt": 1.75,
+        "Üst": 1.53
     },
-    "Cluj - Tromso": {
+    "Gimpo Citizen - Chungbuk Cheongju": {
         "Alt": 1.52,
         "Üst": 1.76
     },
-    "Zaragoza - Andorra": {
+    "Chungnam Asan - Ansan Greene": {
+        "Alt": 1.74,
+        "Üst": 1.54
+    },
+    "Yongin - Busan I Park": {
+        "Alt": 1.57,
+        "Üst": 1.7
+    },
+    "S. S. Bluewings - Gimhae": {
+        "Alt": 1.93,
+        "Üst": 1.42
+    },
+    "Hwaseong - Seoul E Land": {
+        "Alt": 1.73,
+        "Üst": 1.55
+    },
+    "Beijing Guoan - Sh. Peng City": {
+        "Alt": 2.57,
+        "Üst": 1.19
+    },
+    "Singapur - Endonezya": {
+        "Alt": 1.67,
+        "Üst": 1.59
+    },
+    "Vietnam - Kamboçya": {
+        "Alt": 3.82,
+        "Üst": 1.89
+    },
+    "Maroons - SC Villa": {
+        "Alt": 1.44,
+        "Üst": 1.89
+    },
+    "Servette (K) - Aktobe (K)": {
+        "Alt": 3.57,
+        "Üst": 2.01
+    },
+    "Naftan Novopolotsk - A. Dzerzhinsk": {
         "Alt": 1.56,
-        "Üst": 1.71
-    },
-    "Lincoln Red - Omonia": {
-        "Alt": 1.84,
-        "Üst": 1.46
-    },
-    "H. Kralove - Beşiktaş": {
-        "Alt": 1.64,
-        "Üst": 1.62
-    },
-    "Salzburg - Pafos": {
-        "Alt": 1.89,
-        "Üst": 1.44
-    },
-    "Lech Poznan - Klaksvik": {
-        "Alt": 1.22,
-        "Üst": 1.84
-    },
-    "Sheriff - St. Gallen": {
-        "Alt": 1.86,
-        "Üst": 1.45
-    },
-    "IFK Göteborg - KAA Gent": {
-        "Alt": 1.58,
-        "Üst": 1.69
-    },
-    "Rakow C. - Hammarby": {
-        "Alt": 1.64,
-        "Üst": 1.62
+        "Üst": 1.72
     }
 }
