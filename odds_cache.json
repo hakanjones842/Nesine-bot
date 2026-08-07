@@ -1,63 +1,31 @@
 {
-    "Rosario C. - Aldosivi": {
-        "Alt": 1.38,
-        "Üst": 2.16
-    },
-    "Operario - Sao Bernardo": {
-        "Alt": 1.44,
-        "Üst": 1.89
-    },
-    "F. Midland - CD Maipu": {
-        "Alt": 3.19,
-        "Üst": 3.0
-    },
-    "Forge - Vancouver Langley": {
-        "Alt": 1.66,
-        "Üst": 1.61
-    },
-    "R. Tomayapo - Cdt Real Oruro": {
-        "Alt": 2.65,
-        "Üst": 3.73
-    },
-    "Ceara CE - Ponte Preta": {
-        "Alt": 1.55,
-        "Üst": 1.72
-    },
-    "Charlotte - Atlas": {
-        "Alt": 1.66,
-        "Üst": 1.6
-    },
-    "Columbus Cr. - Pachuca": {
-        "Alt": 1.97,
-        "Üst": 1.39
-    },
     "LDU Quito - Independiente D.": {
-        "Alt": 1.56,
-        "Üst": 1.72
-    },
-    "Cincinnati - Pumas Unam": {
-        "Alt": 2.56,
-        "Üst": 1.19
+        "Alt": 1.53,
+        "Üst": 1.75
     },
     "Meksika U21 - Venezuela U21": {
         "Alt": 1.83,
         "Üst": 1.48
     },
+    "Cincinnati - Pumas Unam": {
+        "Alt": 2.69,
+        "Üst": 1.17
+    },
     "Uni. Catolica - Cobresal": {
-        "Alt": 1.62,
-        "Üst": 3.31
+        "Alt": 2.7,
+        "Üst": 3.57
     },
     "Ind. Mendoza - Estudiantes Río C.": {
         "Alt": 1.44,
         "Üst": 2.02
     },
     "Metapan - CD Aguila": {
-        "Alt": 1.41,
-        "Üst": 1.93
+        "Alt": 1.39,
+        "Üst": 1.96
     },
     "Tigres - Minnesota Utd": {
-        "Alt": 1.76,
-        "Üst": 1.51
+        "Alt": 1.74,
+        "Üst": 1.54
     },
     "Alac. de Durango - Piratas Veracruz": {
         "Alt": 1.48,
@@ -68,11 +36,39 @@
         "Üst": 1.52
     },
     "Real Esteli - Walter Ferretti": {
-        "Alt": 1.77,
+        "Alt": 1.76,
         "Üst": 1.51
     },
     "U. Deportes - S. Cristal": {
-        "Alt": 1.57,
-        "Üst": 1.7
+        "Alt": 1.55,
+        "Üst": 1.72
+    },
+    "Malacateco - Xelaju": {
+        "Alt": 1.33,
+        "Üst": 2.11
+    },
+    "CS Cartagines - Sporting San Jose": {
+        "Alt": 1.49,
+        "Üst": 1.81
+    },
+    "Kanada U20 - Meksika U20": {
+        "Alt": 1.99,
+        "Üst": 1.38
+    },
+    "V. Whitecaps - Juarez": {
+        "Alt": 2.5,
+        "Üst": 1.21
+    },
+    "South Hobart - Riverside Olym.": {
+        "Alt": 3.85,
+        "Üst": 2.12
+    },
+    "Newcastle Oly. - Valentine": {
+        "Alt": 2.57,
+        "Üst": 3.6
+    },
+    "Canberra Olym. - Cooma Tigers": {
+        "Alt": 2.08,
+        "Üst": 3.63
     }
 }
