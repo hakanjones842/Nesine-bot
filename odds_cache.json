@@ -1,35 +1,7 @@
 {
-    "Singapur - Endonezya": {
-        "Alt": 1.64,
-        "Üst": 1.62
-    },
-    "Vietnam - Kamboçya": {
-        "Alt": 3.77,
-        "Üst": 1.97
-    },
-    "Servette (K) - Aktobe (K)": {
-        "Alt": 3.55,
-        "Üst": 2.06
-    },
-    "Naftan Novopolotsk - A. Dzerzhinsk": {
-        "Alt": 1.6,
-        "Üst": 1.67
-    },
-    "Slavia Praha B - Trinec": {
-        "Alt": 2.14,
-        "Üst": 3.35
-    },
-    "Haka - Jippo": {
-        "Alt": 1.57,
-        "Üst": 1.7
-    },
-    "Sudtirol - Virt. Verona": {
-        "Alt": 1.32,
-        "Üst": 2.09
-    },
     "KuPS Akatemia - Inter 2": {
-        "Alt": 2.98,
-        "Üst": 4.15
+        "Alt": 2.85,
+        "Üst": 4.21
     },
     "Japs - Mikkeli": {
         "Alt": 1.74,
@@ -44,12 +16,12 @@
         "Üst": 1.54
     },
     "ND Beltinci - Rudar": {
-        "Alt": 1.65,
-        "Üst": 1.62
+        "Alt": 1.57,
+        "Üst": 1.7
     },
     "Jihlava - Pribram": {
-        "Alt": 1.61,
-        "Üst": 1.66
+        "Alt": 1.63,
+        "Üst": 1.63
     },
     "Dukla Prag - SK Hanacka S. K.": {
         "Alt": 1.66,
@@ -72,15 +44,39 @@
         "Üst": 1.61
     },
     "Kuressaare - Harju JK Laagri": {
-        "Alt": 1.83,
-        "Üst": 1.47
+        "Alt": 1.89,
+        "Üst": 1.44
     },
     "SJK Seinöjoen - Gnistan": {
-        "Alt": 2.16,
-        "Üst": 1.38
+        "Alt": 2.2,
+        "Üst": 1.36
     },
     "Rustvai - Torpedo": {
         "Alt": 1.59,
         "Üst": 1.68
+    },
+    "Hegelmann Litauen B - FK Garliava": {
+        "Alt": 1.84,
+        "Üst": 1.47
+    },
+    "FK Jonava - FK Ekranas": {
+        "Alt": 1.8,
+        "Üst": 1.5
+    },
+    "Polonia Bytom - Pogon Siedl.": {
+        "Alt": 1.7,
+        "Üst": 1.57
+    },
+    "Krka - NK Bistrica": {
+        "Alt": 1.63,
+        "Üst": 1.64
+    },
+    "Hannover 96 II - Hannoverscher": {
+        "Alt": 1.98,
+        "Üst": 3.68
+    },
+    "VfB Oldenburg - Drochtersen": {
+        "Alt": 3.36,
+        "Üst": 3.74
     }
 }
