@@ -1,51 +1,7 @@
 {
-    "Canberra Olym. - Cooma Tigers": {
-        "Alt": 2.13,
-        "Üst": 3.63
-    },
-    "Kingborough - Clarence Z.": {
-        "Alt": 1.7,
-        "Üst": 3.84
-    },
-    "Glenorchy - Launceston Utd": {
-        "Alt": 1.89,
-        "Üst": 3.94
-    },
-    "Devonport C. - Launceston City": {
-        "Alt": 1.89,
-        "Üst": 3.91
-    },
-    "Ulverstone - South East Utd": {
-        "Alt": 1.89,
-        "Üst": 3.78
-    },
-    "Croydon Kings - Sturt Lions": {
-        "Alt": 2.74,
-        "Üst": 3.75
-    },
-    "Edgeworth - Weston W.": {
-        "Alt": 1.41,
-        "Üst": 3.83
-    },
-    "Melbourne Srbija - N. Geelong Warriors": {
-        "Alt": 2.27,
-        "Üst": 3.49
-    },
-    "University of Nsw - Sydney Oly.": {
-        "Alt": 1.93,
-        "Üst": 1.42
-    },
-    "Sapporo - T. Vortis": {
-        "Alt": 1.44,
-        "Üst": 1.87
-    },
-    "Bayswater - Sorrento": {
-        "Alt": 2.28,
-        "Üst": 3.63
-    },
     "Belmont Swansea Utd - Lambton Jaffas": {
-        "Alt": 3.74,
-        "Üst": 4.07
+        "Alt": 1.37,
+        "Üst": 3.93
     },
     "Adamstown Rosebuds - Cooks Hill Utd": {
         "Alt": 3.69,
@@ -64,8 +20,8 @@
         "Üst": 2.26
     },
     "NWS Spirit U23 - Blacktown Gençler": {
-        "Alt": 1.78,
-        "Üst": 1.51
+        "Alt": 1.74,
+        "Üst": 1.54
     },
     "Sutherland S. - Sydney NPL Gençler": {
         "Alt": 1.97,
@@ -74,5 +30,61 @@
     "Monaro P. - Belconnen Utd": {
         "Alt": 3.77,
         "Üst": 2.39
+    },
+    "G. Coast Knights - Peninsula Power": {
+        "Alt": 1.41,
+        "Üst": 3.76
+    },
+    "Suburbs Bri. - Wolves": {
+        "Alt": 3.23,
+        "Üst": 3.81
+    },
+    "Magic Utd Tfa - Rochedale Rovers": {
+        "Alt": 1.46,
+        "Üst": 3.89
+    },
+    "Olympic - Moreton City E.": {
+        "Alt": 1.81,
+        "Üst": 3.62
+    },
+    "Brisbane City - Gold Coast Utd": {
+        "Alt": 2.27,
+        "Üst": 3.58
+    },
+    "Elche - Toulouse": {
+        "Alt": 1.74,
+        "Üst": 1.63
+    },
+    "Alcorcon - Navalcarnero": {
+        "Alt": 1.57,
+        "Üst": 1.7
+    },
+    "Ujpest II - Bekescsaba": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "ST George Saints - Apia Leic.": {
+        "Alt": 2.4,
+        "Üst": 3.3
+    },
+    "AC Lumezzane - Crema": {
+        "Alt": 1.76,
+        "Üst": 1.52
+    },
+    "Ucam Murcia - Orihuela": {
+        "Alt": 1.59,
+        "Üst": 1.68
+    },
+    "AC N. Parceiro - Renofa Y.": {
+        "Alt": 1.42,
+        "Üst": 1.92
+    },
+    "SC Sagamihara - R. Kumamoto": {
+        "Alt": 1.79,
+        "Üst": 1.51
+    },
+    "Gimnastica S. - Atl Madrid B": {
+        "Alt": 1.62,
+        "Üst": 1.64
     }
 }
