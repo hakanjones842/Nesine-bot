@@ -1,78 +1,86 @@
 {
-    "CSKA Moskova - FK Rostov": {
+    "Dunav 2010 - Arda Kardzha": {
+        "Alt": 1.39,
+        "Üst": 1.98
+    },
+    "Korona Kielce - L. Varşova": {
+        "Alt": 1.51,
+        "Üst": 1.77
+    },
+    "P. Bielsko - Lechia Gdansk": {
+        "Alt": 1.97,
+        "Üst": 1.39
+    },
+    "NK Celje - O. Ljubljana": {
+        "Alt": 1.94,
+        "Üst": 1.41
+    },
+    "Ascoli - Potenza C.": {
+        "Alt": 1.57,
+        "Üst": 1.8
+    },
+    "Wolfsburg - Kaiserslautern": {
+        "Alt": 2.43,
+        "Üst": 1.28
+    },
+    "Servette - Grasshoppers": {
+        "Alt": 1.98,
+        "Üst": 1.46
+    },
+    "Cagliari - Nice": {
+        "Alt": 1.6,
+        "Üst": 1.76
+    },
+    "AS Avellino 1912 - Torino": {
         "Alt": 1.62,
         "Üst": 1.75
     },
-    "Hartberg - Sturm Graz": {
-        "Alt": 1.83,
-        "Üst": 1.56
+    "Gimnastic - Girona": {
+        "Alt": 1.55,
+        "Üst": 1.73
     },
-    "La Nucia - CD Alcoyano": {
-        "Alt": 1.46,
-        "Üst": 1.84
+    "Forli - AC Cesena": {
+        "Alt": 1.63,
+        "Üst": 1.63
     },
-    "Atletico Astorga - RC Deportivo Fabril": {
-        "Alt": 1.61,
-        "Üst": 1.65
+    "Sambenedettese - Lanciano": {
+        "Alt": 1.67,
+        "Üst": 1.59
     },
-    "Atl Tucuman - CA Sarmiento": {
-        "Alt": 1.27,
-        "Üst": 2.47
+    "D. Bükreş - Voluntari": {
+        "Alt": 1.72,
+        "Üst": 1.55
     },
-    "Dep. Riestra - Estudiantes": {
-        "Alt": 1.15,
-        "Üst": 3.11
+    "S. Trnava - Dukla BB": {
+        "Alt": 1.9,
+        "Üst": 1.43
     },
-    "PSV - F. Sittard": {
-        "Alt": 1.08,
-        "Üst": 1.7
+    "Ajax (K) - Rangers (K)": {
+        "Alt": 1.97,
+        "Üst": 3.29
     },
-    "LR Vicenza V. - Calcio Catania": {
-        "Alt": 1.51,
-        "Üst": 1.89
+    "Slavia Prag (K) - Brondby (K)": {
+        "Alt": 1.77,
+        "Üst": 1.51
     },
-    "Estudiantes - Dep. Madryn": {
-        "Alt": 3.36,
-        "Üst": 2.93
-    },
-    "Agropecuario A. - CA Guemes": {
-        "Alt": 2.87,
-        "Üst": 2.92
-    },
-    "Almir. Brown - Ciudad de Bolivar": {
-        "Alt": 3.59,
-        "Üst": 2.85
-    },
-    "Mlada Boleslav - Sparta Prag": {
-        "Alt": 2.05,
-        "Üst": 1.36
-    },
-    "Osasuna - AL Ain": {
-        "Alt": 1.83,
-        "Üst": 1.47
-    },
-    "Cajamarca - A. Deportiva Tarma": {
-        "Alt": 1.56,
-        "Üst": 1.72
-    },
-    "Lechia Zielona G. - Sokol Kleczew": {
-        "Alt": 1.69,
+    "Westerlo - U. S. Gilloise": {
+        "Alt": 1.8,
         "Üst": 1.57
     },
-    "Radnicki - Z Belgrade": {
-        "Alt": 1.8,
-        "Üst": 1.49
+    "St. Truidense - Lommel SK": {
+        "Alt": 2.01,
+        "Üst": 1.44
     },
-    "Kızıl Yıldız - Novi Pazar": {
-        "Alt": 3.9,
-        "Üst": 1.65
+    "Sochaux - St Etienne": {
+        "Alt": 1.62,
+        "Üst": 1.75
     },
-    "Liverpool M. - Albion": {
-        "Alt": 1.37,
-        "Üst": 2.03
+    "Dunkerque - Grenoble": {
+        "Alt": 1.63,
+        "Üst": 1.73
     },
-    "Dunav 2010 - Arda Kardzha": {
-        "Alt": 1.4,
-        "Üst": 1.96
+    "Montpellier - Dijon": {
+        "Alt": 1.53,
+        "Üst": 1.86
     }
 }
