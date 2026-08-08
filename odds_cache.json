@@ -1,82 +1,98 @@
 {
-    "Maritimo - Casa Pia": {
+    "SV Austria Salzburg - First Vienna": {
+        "Alt": 1.57,
+        "Üst": 1.7
+    },
+    "Schwarz Weiss B. - Kapfenberger": {
+        "Alt": 2.07,
+        "Üst": 1.35
+    },
+    "Sturm Graz (Amt.) - Floridsdorfer": {
+        "Alt": 1.61,
+        "Üst": 1.66
+    },
+    "Mjallby - IF Elfsborg": {
+        "Alt": 1.57,
+        "Üst": 1.81
+    },
+    "Angers - Lorient": {
+        "Alt": 1.74,
+        "Üst": 1.63
+    },
+    "Salernitana - AS Sambiase": {
+        "Alt": 1.9,
+        "Üst": 1.43
+    },
+    "FS METTA LU - FK Rfs 2": {
+        "Alt": 4.01,
+        "Üst": 2.34
+    },
+    "JDFS Alberts - Riga II": {
+        "Alt": 2.02,
+        "Üst": 3.49
+    },
+    "Kisvarda - Ujpest": {
+        "Alt": 1.77,
+        "Üst": 1.51
+    },
+    "Tiszakecske - Mezokovesd": {
+        "Alt": 1.48,
+        "Üst": 1.83
+    },
+    "Fehervar - Szeged G. A.": {
         "Alt": 1.39,
-        "Üst": 2.11
+        "Üst": 1.97
     },
-    "NEC Nijmegen - Telstar": {
-        "Alt": 2.72,
-        "Üst": 1.22
+    "Ajka - Karcag SE": {
+        "Alt": 1.42,
+        "Üst": 1.93
     },
-    "Grossaspach - Fortuna Köln": {
-        "Alt": 1.82,
-        "Üst": 1.56
+    "Bvsc Zuglo - Kecskemeti TE": {
+        "Alt": 1.45,
+        "Üst": 1.87
     },
-    "Den Bosch - Almere City": {
-        "Alt": 2.38,
-        "Üst": 1.25
+    "Nyiregyhaza Spartacus II - Debreceni EAC": {
+        "Alt": 1.48,
+        "Üst": 3.67
     },
-    "Brann (K) - PAOK T. (K)": {
-        "Alt": 3.81,
-        "Üst": 1.89
+    "Cigand SE - Tiszaujvaros": {
+        "Alt": 1.65,
+        "Üst": 3.5
     },
-    "L. Moskova - Akron Tolyatti": {
-        "Alt": 2.36,
-        "Üst": 1.31
+    "Debreceni VSC II - Fuzesabony SC Eross Ut": {
+        "Alt": 1.91,
+        "Üst": 3.49
     },
-    "Grazer AK - Aus. Lustenau": {
-        "Alt": 1.62,
-        "Üst": 1.75
+    "Tiszafuredi Vse - Ozd Sajovolgye": {
+        "Alt": 2.55,
+        "Üst": 3.58
     },
-    "Fastav Zlin - Bohemians P.": {
-        "Alt": 1.49,
-        "Üst": 1.8
-    },
-    "Teplice - Viktoria Plzen": {
-        "Alt": 1.62,
-        "Üst": 1.64
-    },
-    "Kapa - Ekenas I.": {
-        "Alt": 1.97,
-        "Üst": 1.39
-    },
-    "SJK Akatemia - PK 35": {
-        "Alt": 1.7,
-        "Üst": 1.57
-    },
-    "Norrköping - IK Brage": {
-        "Alt": 2.2,
-        "Üst": 1.3
-    },
-    "FK Kaspyi Aktau - Ulytau": {
-        "Alt": 1.52,
-        "Üst": 1.76
-    },
-    "Stuttgart - Everton": {
-        "Alt": 2.09,
-        "Üst": 1.4
-    },
-    "Schalke 04 - Atalanta": {
-        "Alt": 1.98,
-        "Üst": 1.46
-    },
-    "PSG - Man. Utd": {
-        "Alt": 2.87,
-        "Üst": 1.19
-    },
-    "Modena - Vis Pesaro": {
-        "Alt": 2.14,
-        "Üst": 1.32
-    },
-    "FK Smiltene Bjss - Valmiera": {
-        "Alt": 1.97,
-        "Üst": 3.65
-    },
-    "Jfk Ventspils - SK Super Nova II": {
+    "Godolloi SK - Hajdunanas FK": {
         "Alt": 1.99,
         "Üst": 1.38
     },
-    "Dfk Dainava - FK Babrungas Plunge": {
-        "Alt": 1.57,
-        "Üst": 1.7
+    "Papai Perutz - 1908 Szac Budapest": {
+        "Alt": 1.95,
+        "Üst": 1.4
+    },
+    "Dorogi - Veszprem": {
+        "Alt": 1.76,
+        "Üst": 1.53
+    },
+    "Mosonmagyar. - Kiraly Sze": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "Bicskei TC - SC Sopron": {
+        "Alt": 1.91,
+        "Üst": 1.43
+    },
+    "Bss Monor - Csepel": {
+        "Alt": 1.97,
+        "Üst": 1.39
+    },
+    "Gyulai - Sandorfalvi Ske": {
+        "Alt": 2.02,
+        "Üst": 1.37
     }
 }
