@@ -1,86 +1,70 @@
 {
-    "Dunav 2010 - Arda Kardzha": {
-        "Alt": 1.39,
-        "Üst": 1.98
+    "CA Tigre - River Plate": {
+        "Alt": 1.2,
+        "Üst": 2.77
     },
-    "Korona Kielce - L. Varşova": {
+    "Monagas SC - Carabobo": {
         "Alt": 1.51,
         "Üst": 1.77
     },
-    "P. Bielsko - Lechia Gdansk": {
-        "Alt": 1.97,
-        "Üst": 1.39
+    "N. E. Revolution - Houston Dyn.": {
+        "Alt": 1.95,
+        "Üst": 1.47
     },
-    "NK Celje - O. Ljubljana": {
-        "Alt": 1.94,
-        "Üst": 1.41
-    },
-    "Ascoli - Potenza C.": {
-        "Alt": 1.57,
-        "Üst": 1.8
-    },
-    "Wolfsburg - Kaiserslautern": {
-        "Alt": 2.43,
-        "Üst": 1.28
-    },
-    "Servette - Grasshoppers": {
-        "Alt": 1.98,
-        "Üst": 1.46
-    },
-    "Cagliari - Nice": {
-        "Alt": 1.6,
+    "Juan Pablo II - Atl Grau": {
+        "Alt": 1.52,
         "Üst": 1.76
     },
-    "AS Avellino 1912 - Torino": {
-        "Alt": 1.62,
-        "Üst": 1.75
-    },
-    "Gimnastic - Girona": {
-        "Alt": 1.55,
-        "Üst": 1.73
-    },
-    "Forli - AC Cesena": {
-        "Alt": 1.63,
-        "Üst": 1.63
-    },
-    "Sambenedettese - Lanciano": {
-        "Alt": 1.67,
-        "Üst": 1.59
-    },
-    "D. Bükreş - Voluntari": {
-        "Alt": 1.72,
-        "Üst": 1.55
-    },
-    "S. Trnava - Dukla BB": {
-        "Alt": 1.9,
-        "Üst": 1.43
-    },
-    "Ajax (K) - Rangers (K)": {
-        "Alt": 1.97,
-        "Üst": 3.29
-    },
-    "Slavia Prag (K) - Brondby (K)": {
-        "Alt": 1.77,
-        "Üst": 1.51
-    },
-    "Westerlo - U. S. Gilloise": {
-        "Alt": 1.8,
-        "Üst": 1.57
-    },
-    "St. Truidense - Lommel SK": {
-        "Alt": 2.01,
-        "Üst": 1.44
-    },
-    "Sochaux - St Etienne": {
-        "Alt": 1.62,
-        "Üst": 1.75
-    },
-    "Dunkerque - Grenoble": {
-        "Alt": 1.63,
-        "Üst": 1.73
-    },
-    "Montpellier - Dijon": {
+    "Platense M. - CD Inca": {
         "Alt": 1.53,
-        "Üst": 1.86
+        "Üst": 1.74
+    },
+    "Aurora - Comunicacion": {
+        "Alt": 1.38,
+        "Üst": 2.0
+    },
+    "Platense - Marathon": {
+        "Alt": 1.36,
+        "Üst": 2.04
+    },
+    "Pacific - York Utd": {
+        "Alt": 2.02,
+        "Üst": 1.37
+    },
+    "Strongest - Independiente P.": {
+        "Alt": 2.23,
+        "Üst": 3.65
+    },
+    "Clube do Remo - Atl Mineiro": {
+        "Alt": 1.48,
+        "Üst": 1.94
+    },
+    "Botafogo - America MG": {
+        "Alt": 1.36,
+        "Üst": 2.04
+    },
+    "SD Aucas - Club Leones D. N.": {
+        "Alt": 1.39,
+        "Üst": 1.96
+    },
+    "Coquimbo U. - D. La Serena": {
+        "Alt": 1.71,
+        "Üst": 1.56
+    },
+    "Torque - Penarol": {
+        "Alt": 1.51,
+        "Üst": 1.78
+    },
+    "ART Jalapa - Sebaco": {
+        "Alt": 1.62,
+        "Üst": 1.65
+    },
+    "Boca Juniors - V. Sarsfield": {
+        "Alt": 1.29,
+        "Üst": 2.41
+    },
+    "Orlando City - Club Leon": {
+        "Alt": 2.26,
+        "Üst": 1.28
     }
 }
