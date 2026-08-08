@@ -1,90 +1,78 @@
 {
-    "Belmont Swansea Utd - Lambton Jaffas": {
-        "Alt": 1.37,
-        "Üst": 3.93
-    },
-    "Adamstown Rosebuds - Cooks Hill Utd": {
-        "Alt": 3.69,
-        "Üst": 4.0
-    },
-    "SD Raiders - WS Wanderers U23": {
-        "Alt": 3.67,
-        "Üst": 3.89
-    },
-    "Manly Utd - Marconi Stal": {
-        "Alt": 1.62,
-        "Üst": 1.65
-    },
-    "Canberra - O Connor Knig.": {
-        "Alt": 3.74,
-        "Üst": 2.26
-    },
-    "NWS Spirit U23 - Blacktown Gençler": {
-        "Alt": 1.74,
-        "Üst": 1.54
-    },
-    "Sutherland S. - Sydney NPL Gençler": {
-        "Alt": 1.97,
-        "Üst": 1.39
-    },
-    "Monaro P. - Belconnen Utd": {
-        "Alt": 3.77,
-        "Üst": 2.39
-    },
-    "G. Coast Knights - Peninsula Power": {
-        "Alt": 1.41,
-        "Üst": 3.76
-    },
-    "Suburbs Bri. - Wolves": {
-        "Alt": 3.23,
-        "Üst": 3.81
-    },
-    "Magic Utd Tfa - Rochedale Rovers": {
-        "Alt": 1.46,
-        "Üst": 3.89
-    },
-    "Olympic - Moreton City E.": {
-        "Alt": 1.81,
-        "Üst": 3.62
-    },
-    "Brisbane City - Gold Coast Utd": {
-        "Alt": 2.27,
-        "Üst": 3.58
-    },
-    "Elche - Toulouse": {
-        "Alt": 1.74,
-        "Üst": 1.63
-    },
-    "Alcorcon - Navalcarnero": {
-        "Alt": 1.57,
-        "Üst": 1.7
-    },
-    "Ujpest II - Bekescsaba": {
-        "Alt": 1.83,
-        "Üst": 1.48
-    },
     "ST George Saints - Apia Leic.": {
-        "Alt": 2.4,
-        "Üst": 3.3
+        "Alt": 2.05,
+        "Üst": 1.36
     },
     "AC Lumezzane - Crema": {
         "Alt": 1.76,
         "Üst": 1.52
     },
     "Ucam Murcia - Orihuela": {
-        "Alt": 1.59,
-        "Üst": 1.68
+        "Alt": 1.57,
+        "Üst": 1.7
     },
     "AC N. Parceiro - Renofa Y.": {
-        "Alt": 1.42,
-        "Üst": 1.92
+        "Alt": 1.4,
+        "Üst": 1.95
     },
     "SC Sagamihara - R. Kumamoto": {
-        "Alt": 1.79,
-        "Üst": 1.51
+        "Alt": 1.7,
+        "Üst": 1.57
     },
     "Gimnastica S. - Atl Madrid B": {
-        "Alt": 1.62,
-        "Üst": 1.64
+        "Alt": 1.6,
+        "Üst": 1.67
+    },
+    "Y. Krasnoyarsk - T. Telec Ivan": {
+        "Alt": 1.56,
+        "Üst": 1.71
+    },
+    "ZNK Pomurje (K) - Znk Hajduk Split (K)": {
+        "Alt": 1.84,
+        "Üst": 1.47
+    },
+    "St George City - Rockdale City": {
+        "Alt": 1.68,
+        "Üst": 1.58
+    },
+    "W. S. Wanderers - Melbourne V.": {
+        "Alt": 1.95,
+        "Üst": 1.4
+    },
+    "Fujieda Myfc - Sendai": {
+        "Alt": 1.46,
+        "Üst": 1.85
+    },
+    "V. Hachinohe - Kat. Toyama": {
+        "Alt": 1.46,
+        "Üst": 1.84
+    },
+    "Skedsmo - Fauske Sprint": {
+        "Alt": 1.9,
+        "Üst": 3.96
+    },
+    "Fukuoka - Vissel Kobe": {
+        "Alt": 1.3,
+        "Üst": 2.39
+    },
+    "Cerezo Osaka - Fagiano": {
+        "Alt": 1.65,
+        "Üst": 1.7
+    },
+    "Nagoya - Shimizu": {
+        "Alt": 1.68,
+        "Üst": 1.68
+    },
+    "Tokyo - Machida Zelvia": {
+        "Alt": 1.35,
+        "Üst": 2.22
+    },
+    "Kashiwa - M. Hollyhock": {
+        "Alt": 1.63,
+        "Üst": 1.73
+    },
+    "Omiya Ardija - Niigata": {
+        "Alt": 1.61,
+        "Üst": 1.65
     }
 }
