@@ -1,94 +1,82 @@
 {
-    "TSV Havelse - Stuttgart II": {
-        "Alt": 2.57,
+    "Maritimo - Casa Pia": {
+        "Alt": 1.39,
+        "Üst": 2.11
+    },
+    "NEC Nijmegen - Telstar": {
+        "Alt": 2.72,
+        "Üst": 1.22
+    },
+    "Grossaspach - Fortuna Köln": {
+        "Alt": 1.82,
+        "Üst": 1.56
+    },
+    "Den Bosch - Almere City": {
+        "Alt": 2.38,
         "Üst": 1.25
     },
-    "Duisburg - Meppen": {
-        "Alt": 2.33,
+    "Brann (K) - PAOK T. (K)": {
+        "Alt": 3.81,
+        "Üst": 1.89
+    },
+    "L. Moskova - Akron Tolyatti": {
+        "Alt": 2.36,
         "Üst": 1.31
     },
-    "W. Wiesbaden - Preussen M.": {
-        "Alt": 1.82,
+    "Grazer AK - Aus. Lustenau": {
+        "Alt": 1.62,
+        "Üst": 1.75
+    },
+    "Fastav Zlin - Bohemians P.": {
+        "Alt": 1.49,
+        "Üst": 1.8
+    },
+    "Teplice - Viktoria Plzen": {
+        "Alt": 1.62,
+        "Üst": 1.64
+    },
+    "Kapa - Ekenas I.": {
+        "Alt": 1.97,
+        "Üst": 1.39
+    },
+    "SJK Akatemia - PK 35": {
+        "Alt": 1.7,
         "Üst": 1.57
     },
-    "Viktoria Köln - Regensburg": {
-        "Alt": 2.15,
-        "Üst": 1.38
+    "Norrköping - IK Brage": {
+        "Alt": 2.2,
+        "Üst": 1.3
     },
-    "Ingolstadt - Würzburg": {
-        "Alt": 2.14,
-        "Üst": 1.38
-    },
-    "Bocholt - Schalke 04 II": {
-        "Alt": 3.24,
-        "Üst": 3.82
-    },
-    "Rodinghausen - Bonner": {
-        "Alt": 1.69,
-        "Üst": 1.57
-    },
-    "SC Paderborn 07 II - B. M. Gladbach II": {
-        "Alt": 1.78,
-        "Üst": 1.51
-    },
-    "Offenbacher - Astoria Walldorf": {
-        "Alt": 2.88,
-        "Üst": 3.68
-    },
-    "Sandhausen - Steinb. 1921": {
-        "Alt": 2.57,
-        "Üst": 3.75
-    },
-    "Eintracht Trier - Barockstadt": {
-        "Alt": 1.67,
-        "Üst": 1.59
-    },
-    "Yunnan Yukun - Chengdu Ron.": {
-        "Alt": 2.89,
-        "Üst": 1.14
-    },
-    "Jiangxi Dingnan Utd. - Dalian Kuncheng C.": {
-        "Alt": 1.76,
-        "Üst": 1.52
-    },
-    "Aarhus Fremad - HB Koege": {
-        "Alt": 1.83,
-        "Üst": 1.47
-    },
-    "Vanlose - Naesby": {
-        "Alt": 1.89,
-        "Üst": 1.44
-    },
-    "Bronshoj - Sundby BK": {
-        "Alt": 1.92,
-        "Üst": 1.42
-    },
-    "Cambridge - Barnet": {
-        "Alt": 1.51,
+    "FK Kaspyi Aktau - Ulytau": {
+        "Alt": 1.52,
         "Üst": 1.76
     },
-    "Oskarshmans - IFK Karlshamn": {
-        "Alt": 1.64,
-        "Üst": 3.54
+    "Stuttgart - Everton": {
+        "Alt": 2.09,
+        "Üst": 1.4
     },
-    "Karlskrona - Torns IF": {
-        "Alt": 2.08,
-        "Üst": 3.69
+    "Schalke 04 - Atalanta": {
+        "Alt": 1.98,
+        "Üst": 1.46
     },
-    "IFK Kumla FK - Vanersborgs IF": {
-        "Alt": 2.03,
-        "Üst": 1.36
+    "PSG - Man. Utd": {
+        "Alt": 2.87,
+        "Üst": 1.19
     },
-    "Grebbestads - IFK Skovde FK": {
-        "Alt": 1.31,
-        "Üst": 3.9
+    "Modena - Vis Pesaro": {
+        "Alt": 2.14,
+        "Üst": 1.32
     },
-    "Taby FK - Korsnas IF FK": {
-        "Alt": 2.27,
-        "Üst": 3.72
+    "FK Smiltene Bjss - Valmiera": {
+        "Alt": 1.97,
+        "Üst": 3.65
     },
-    "Altay Vko - Kyzyl Zhar SK": {
-        "Alt": 1.63,
-        "Üst": 1.63
+    "Jfk Ventspils - SK Super Nova II": {
+        "Alt": 1.99,
+        "Üst": 1.38
+    },
+    "Dfk Dainava - FK Babrungas Plunge": {
+        "Alt": 1.57,
+        "Üst": 1.7
     }
 }
