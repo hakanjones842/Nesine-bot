@@ -1,39 +1,11 @@
 {
-    "Strongest - Independiente P.": {
-        "Alt": 2.23,
-        "Üst": 3.65
-    },
-    "Clube do Remo - Atl Mineiro": {
-        "Alt": 1.48,
-        "Üst": 1.94
-    },
-    "Botafogo - America MG": {
-        "Alt": 1.36,
-        "Üst": 2.04
-    },
-    "SD Aucas - Club Leones D. N.": {
-        "Alt": 1.39,
-        "Üst": 1.96
-    },
-    "Coquimbo U. - D. La Serena": {
-        "Alt": 1.71,
-        "Üst": 1.56
-    },
-    "Torque - Penarol": {
-        "Alt": 1.46,
-        "Üst": 1.85
-    },
-    "ART Jalapa - Sebaco": {
-        "Alt": 1.62,
-        "Üst": 1.65
-    },
     "Boca Juniors - V. Sarsfield": {
-        "Alt": 1.29,
-        "Üst": 2.41
+        "Alt": 1.34,
+        "Üst": 2.26
     },
     "Orlando City - Club Leon": {
-        "Alt": 2.31,
-        "Üst": 1.26
+        "Alt": 2.27,
+        "Üst": 1.28
     },
     "Pittsburgh R. - Sacramento R.": {
         "Alt": 1.3,
@@ -44,8 +16,8 @@
         "Üst": 1.46
     },
     "Brooklyn - Birmingham Legion": {
-        "Alt": 1.94,
-        "Üst": 1.41
+        "Alt": 1.8,
+        "Üst": 1.5
     },
     "Loudoun Utd - Charleston": {
         "Alt": 1.85,
@@ -64,7 +36,7 @@
         "Üst": 1.44
     },
     "Charlotte Ind. - Greenville T.": {
-        "Alt": 2.32,
+        "Alt": 2.25,
         "Üst": 3.58
     },
     "C. Red Wolves SC - Union Omaha SC": {
@@ -76,11 +48,39 @@
         "Üst": 1.92
     },
     "Venados - CD Tapatio": {
-        "Alt": 1.84,
-        "Üst": 1.46
+        "Alt": 1.81,
+        "Üst": 1.49
     },
     "Lobos Upnfm - Olancho": {
         "Alt": 1.6,
         "Üst": 1.67
+    },
+    "Coritiba - Chapecoense": {
+        "Alt": 1.57,
+        "Üst": 1.81
+    },
+    "Rhode Island - Colorado Spr.": {
+        "Alt": 1.66,
+        "Üst": 1.6
+    },
+    "One Knoxville SC - Sarasota Paradise": {
+        "Alt": 1.73,
+        "Üst": 1.55
+    },
+    "Club Aurora - Club Bolivar": {
+        "Alt": 2.02,
+        "Üst": 1.38
+    },
+    "Botafogo RJ - Fluminense": {
+        "Alt": 1.61,
+        "Üst": 1.76
+    },
+    "Louisville - San Antonio": {
+        "Alt": 2.05,
+        "Üst": 1.36
+    },
+    "Barcelona (Ekv) - CSD Macara": {
+        "Alt": 1.51,
+        "Üst": 1.77
     }
 }
