@@ -1,82 +1,70 @@
 {
-    "Gil Vicente - Rio Ave": {
-        "Alt": 1.47,
-        "Üst": 1.95
+    "Real Potosi - Blooming": {
+        "Alt": 1.82,
+        "Üst": 1.49
     },
-    "Benfica - A. de Viseu": {
-        "Alt": 1.22,
-        "Üst": 1.69
-    },
-    "Moreirense - Braga": {
-        "Alt": 1.6,
-        "Üst": 1.76
-    },
-    "Godoy Cruz - Chaco For Ever": {
-        "Alt": 2.53,
-        "Üst": 2.85
-    },
-    "S. Sounders - Queretaro": {
-        "Alt": 2.03,
-        "Üst": 1.37
-    },
-    "Academia Anzoategui - Portuguesa": {
+    "Santos SP - Paranaense": {
         "Alt": 1.52,
-        "Üst": 1.76
+        "Üst": 1.88
     },
-    "Quilmes - Almagro": {
-        "Alt": 2.34,
-        "Üst": 2.78
-    },
-    "Zamora - A. Puerto C.": {
-        "Alt": 1.31,
-        "Üst": 3.36
-    },
-    "Trujillanos - Dep. Tachira": {
-        "Alt": 1.44,
-        "Üst": 1.89
-    },
-    "Breidablik - Valur Reykjavik": {
-        "Alt": 2.08,
-        "Üst": 3.72
-    },
-    "Gimnasia Y. Tiro - Nueva Chicago": {
-        "Alt": 3.04,
-        "Üst": 2.84
-    },
-    "Melgar - Cajamarca": {
-        "Alt": 2.06,
-        "Üst": 1.35
-    },
-    "Gimnasia - Barracas": {
-        "Alt": 1.28,
-        "Üst": 2.43
-    },
-    "Def. Justicia - New Old Boys": {
+    "Bragantino - Corinthians": {
         "Alt": 1.33,
         "Üst": 2.27
     },
-    "Indy Eleven - Hartford Ath": {
+    "D. Union La Calera - Colo Colo": {
+        "Alt": 1.68,
+        "Üst": 1.59
+    },
+    "Nacional - Boston River": {
+        "Alt": 1.66,
+        "Üst": 1.6
+    },
+    "Metropolitan - Ucv": {
+        "Alt": 1.47,
+        "Üst": 1.83
+    },
+    "Municipal - CSD Imperial": {
+        "Alt": 1.61,
+        "Üst": 1.65
+    },
+    "San Marcos - Unan Managua": {
+        "Alt": 1.7,
+        "Üst": 1.57
+    },
+    "Argentinos J. - Racing Club": {
+        "Alt": 1.28,
+        "Üst": 2.44
+    },
+    "Motagua - CD Estrella Roja": {
         "Alt": 1.89,
         "Üst": 1.44
     },
-    "Tucuman - S. Martin SJ": {
-        "Alt": 3.92,
-        "Üst": 3.04
+    "O. Petrolero - U. de Vinto": {
+        "Alt": 2.32,
+        "Üst": 3.39
     },
-    "Cuiaba - Fortaleza CE": {
-        "Alt": 1.24,
-        "Üst": 2.4
+    "CD Fas - Atletico Balboa": {
+        "Alt": 1.67,
+        "Üst": 1.59
     },
-    "Delfin - Orense SC": {
-        "Alt": 5.03,
-        "Üst": 3.5
+    "Phila. Union - Necaxa": {
+        "Alt": 2.1,
+        "Üst": 1.33
     },
-    "C.D. Cacahuatique - Fuerte San Francisco": {
-        "Alt": 1.5,
-        "Üst": 1.79
+    "Cruz Azul - New York C.": {
+        "Alt": 1.76,
+        "Üst": 1.52
     },
-    "Dep. San Pedro - CD Suchitepequez": {
-        "Alt": 1.38,
-        "Üst": 2.01
+    "Guayaquil - CS Emelec": {
+        "Alt": 1.29,
+        "Üst": 3.39
+    },
+    "CS Herediano - Alajuelense": {
+        "Alt": 1.43,
+        "Üst": 1.91
+    },
+    "Chicago Fire - Santos Laguna": {
+        "Alt": 2.46,
+        "Üst": 1.22
     }
 }
