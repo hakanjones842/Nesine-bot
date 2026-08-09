@@ -1,74 +1,82 @@
 {
-    "MIO Biwako Shiga - Gifu": {
-        "Alt": 1.57,
-        "Üst": 1.69
+    "KAA Gent - Mechelen": {
+        "Alt": 1.65,
+        "Üst": 1.71
     },
-    "South Melbourne - Fremantle City": {
-        "Alt": 3.56,
-        "Üst": 2.2
+    "D. Moskova - Dyn. Makhachkala": {
+        "Alt": 1.58,
+        "Üst": 1.79
     },
-    "Yanbian L. - Shenzhen Juniors": {
-        "Alt": 1.43,
-        "Üst": 1.9
+    "St. Pauli - G. Furth": {
+        "Alt": 2.01,
+        "Üst": 1.44
     },
-    "V Varen - Kyoto Sanga": {
-        "Alt": 1.48,
-        "Üst": 1.94
+    "E. Cottbus - Hannover 96": {
+        "Alt": 2.12,
+        "Üst": 1.39
     },
-    "M. Yamagata - Tochigi City": {
-        "Alt": 1.66,
-        "Üst": 1.6
+    "Nürnberg - D. Dresden": {
+        "Alt": 1.8,
+        "Üst": 1.57
     },
-    "Ehime - Nara Club": {
-        "Alt": 1.68,
-        "Üst": 1.59
+    "Hoffenheim II - H. Rostock": {
+        "Alt": 2.45,
+        "Üst": 1.28
     },
-    "Tochigi - Z. Kanazawa": {
-        "Alt": 1.39,
-        "Üst": 1.96
+    "Guangzhou E Power - Guangxi Hengchen": {
+        "Alt": 1.74,
+        "Üst": 1.54
     },
-    "S. Farense - Torreense": {
-        "Alt": 1.41,
-        "Üst": 1.93
+    "Chongqing T. - Shanghai Port": {
+        "Alt": 1.72,
+        "Üst": 1.55
     },
-    "AD Marco 09 - P. Ferreira": {
-        "Alt": 1.49,
-        "Üst": 1.81
+    "Oberhausen - Sportfreunde": {
+        "Alt": 2.46,
+        "Üst": 3.6
     },
-    "Zorya Luhansk - Kryvbas K. R.": {
-        "Alt": 1.91,
-        "Üst": 1.42
-    },
-    "S. Rotterdam - Feyenoord": {
-        "Alt": 2.18,
-        "Üst": 1.37
-    },
-    "Helmond - Graafschap": {
-        "Alt": 2.02,
-        "Üst": 1.37
-    },
-    "Rana FK - Skeid": {
+    "Phonix Lubeck - SSV Jeddeloh II": {
         "Alt": 2.19,
+        "Üst": 3.5
+    },
+    "St. Pauli II - Bremer SV 1906": {
+        "Alt": 1.89,
+        "Üst": 1.44
+    },
+    "Hallescher - Chemnitz": {
+        "Alt": 2.01,
+        "Üst": 1.38
+    },
+    "Carl Zeiss Jena - Weiss Erfurt": {
+        "Alt": 2.31,
+        "Üst": 1.26
+    },
+    "Dynamo - Zwickau": {
+        "Alt": 1.89,
+        "Üst": 1.44
+    },
+    "Lida - Slutsk": {
+        "Alt": 1.36,
+        "Üst": 3.94
+    },
+    "Shandong Taishan - Tianjin Jin.": {
+        "Alt": 2.15,
         "Üst": 1.31
     },
-    "Henan Songs. - Qingdao Yth. Is.": {
+    "Aalborg BK - Kolding": {
         "Alt": 1.78,
         "Üst": 1.51
     },
-    "Wuxi Wuguo - Shang J. C.": {
-        "Alt": 1.55,
-        "Üst": 1.73
+    "Vejle - Hilleroed": {
+        "Alt": 1.9,
+        "Üst": 1.43
     },
-    "Hvidovre - Esbjerg": {
-        "Alt": 1.83,
-        "Üst": 1.47
+    "Kuopion - TPS Turku": {
+        "Alt": 2.03,
+        "Üst": 1.43
     },
-    "Naestved - Hellerup": {
-        "Alt": 2.0,
-        "Üst": 1.38
-    },
-    "Jonsereds IF - Landvetter IS": {
-        "Alt": 1.95,
-        "Üst": 1.4
+    "Klubi 04 - KTP Kotka": {
+        "Alt": 2.38,
+        "Üst": 1.25
     }
 }
