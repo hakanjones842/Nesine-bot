@@ -1,55 +1,11 @@
 {
-    "Brisbane Roar - Sydney": {
-        "Alt": 1.59,
-        "Üst": 1.67
-    },
-    "Amstetten - Admira Wacker": {
-        "Alt": 1.76,
-        "Üst": 1.52
-    },
-    "S. Bratislava B - Samorin": {
-        "Alt": 1.8,
-        "Üst": 1.49
-    },
-    "MSK Zilina B - Pohronie": {
-        "Alt": 1.78,
-        "Üst": 1.51
-    },
-    "B. Münih U19 - Unterhaching U19": {
-        "Alt": 2.01,
-        "Üst": 3.81
-    },
-    "Tokyo Verdy - Kawasaki Frontale": {
-        "Alt": 1.46,
-        "Üst": 1.98
-    },
-    "Iwaki - Imabari": {
-        "Alt": 1.45,
-        "Üst": 1.86
-    },
-    "Fukushima Utd - Kamatamare S.": {
-        "Alt": 1.7,
-        "Üst": 1.57
-    },
-    "Kisvarda II - Diosgyori Vtk II": {
-        "Alt": 1.86,
-        "Üst": 3.4
-    },
-    "Puskas Akademia II - Tatabanya": {
-        "Alt": 1.92,
-        "Üst": 1.42
-    },
-    "Budapest Honved MFA - Szeged II": {
-        "Alt": 1.94,
-        "Üst": 1.41
-    },
     "MIO Biwako Shiga - Gifu": {
-        "Alt": 1.6,
-        "Üst": 1.66
+        "Alt": 1.57,
+        "Üst": 1.69
     },
     "South Melbourne - Fremantle City": {
         "Alt": 3.56,
-        "Üst": 2.14
+        "Üst": 2.2
     },
     "Yanbian L. - Shenzhen Juniors": {
         "Alt": 1.43,
@@ -60,19 +16,59 @@
         "Üst": 1.94
     },
     "M. Yamagata - Tochigi City": {
-        "Alt": 1.57,
-        "Üst": 1.7
+        "Alt": 1.66,
+        "Üst": 1.6
     },
     "Ehime - Nara Club": {
-        "Alt": 1.7,
-        "Üst": 1.57
+        "Alt": 1.68,
+        "Üst": 1.59
     },
     "Tochigi - Z. Kanazawa": {
-        "Alt": 1.41,
-        "Üst": 1.93
+        "Alt": 1.39,
+        "Üst": 1.96
     },
     "S. Farense - Torreense": {
         "Alt": 1.41,
         "Üst": 1.93
+    },
+    "AD Marco 09 - P. Ferreira": {
+        "Alt": 1.49,
+        "Üst": 1.81
+    },
+    "Zorya Luhansk - Kryvbas K. R.": {
+        "Alt": 1.91,
+        "Üst": 1.42
+    },
+    "S. Rotterdam - Feyenoord": {
+        "Alt": 2.18,
+        "Üst": 1.37
+    },
+    "Helmond - Graafschap": {
+        "Alt": 2.02,
+        "Üst": 1.37
+    },
+    "Rana FK - Skeid": {
+        "Alt": 2.19,
+        "Üst": 1.31
+    },
+    "Henan Songs. - Qingdao Yth. Is.": {
+        "Alt": 1.78,
+        "Üst": 1.51
+    },
+    "Wuxi Wuguo - Shang J. C.": {
+        "Alt": 1.55,
+        "Üst": 1.73
+    },
+    "Hvidovre - Esbjerg": {
+        "Alt": 1.83,
+        "Üst": 1.47
+    },
+    "Naestved - Hellerup": {
+        "Alt": 2.0,
+        "Üst": 1.38
+    },
+    "Jonsereds IF - Landvetter IS": {
+        "Alt": 1.95,
+        "Üst": 1.4
     }
 }
