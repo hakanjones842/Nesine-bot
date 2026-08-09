@@ -1,82 +1,82 @@
 {
-    "Rubin Kazan - Orenburg": {
-        "Alt": 1.44,
-        "Üst": 2.0
+    "Gil Vicente - Rio Ave": {
+        "Alt": 1.47,
+        "Üst": 1.95
     },
-    "A. Aachen - Verl": {
-        "Alt": 2.36,
-        "Üst": 1.31
+    "Benfica - A. de Viseu": {
+        "Alt": 1.22,
+        "Üst": 1.69
     },
-    "CA Los Andes - Ferro Carril Oeste": {
-        "Alt": 5.68,
-        "Üst": 3.3
+    "Moreirense - Braga": {
+        "Alt": 1.6,
+        "Üst": 1.76
     },
-    "GKS Tychy - Olimpia": {
-        "Alt": 1.59,
-        "Üst": 1.67
+    "Godoy Cruz - Chaco For Ever": {
+        "Alt": 2.53,
+        "Üst": 2.85
     },
-    "SS Arezzo - Union Brescia": {
-        "Alt": 1.49,
-        "Üst": 1.93
+    "S. Sounders - Queretaro": {
+        "Alt": 2.03,
+        "Üst": 1.37
     },
-    "San Lorenzo - CA Huracan": {
-        "Alt": 1.13,
-        "Üst": 3.22
-    },
-    "Dep. Moron - Acassuso": {
-        "Alt": 2.31,
-        "Üst": 2.78
-    },
-    "Colegiales - Patronato": {
-        "Alt": 3.78,
-        "Üst": 2.92
-    },
-    "SK Artis Brno - Sigma Olomouc": {
-        "Alt": 1.76,
-        "Üst": 1.52
-    },
-    "IA Akranes - Thor Akureyr": {
-        "Alt": 1.8,
-        "Üst": 3.65
-    },
-    "Vikingur Reykjavik - Vestmannaeyjar": {
-        "Alt": 2.63,
-        "Üst": 3.71
-    },
-    "Stjarnan Gard. - Keflavik": {
-        "Alt": 2.64,
-        "Üst": 3.94
-    },
-    "Parma - Sampdoria": {
-        "Alt": 1.56,
-        "Üst": 1.83
-    },
-    "Deportivo Garcilaso - CD Moquegua": {
-        "Alt": 1.51,
-        "Üst": 1.77
-    },
-    "FK M. Sabac - FK IMT Novi Beograd": {
-        "Alt": 1.45,
-        "Üst": 1.86
-    },
-    "FK Vojvodina - Radnik Surdu.": {
-        "Alt": 1.78,
-        "Üst": 1.51
-    },
-    "Defensor Sp. - Montevideo": {
+    "Academia Anzoategui - Portuguesa": {
         "Alt": 1.52,
         "Üst": 1.76
     },
-    "FK Septemvri Sofia - CSKA Sofya": {
-        "Alt": 1.63,
-        "Üst": 1.63
+    "Quilmes - Almagro": {
+        "Alt": 2.34,
+        "Üst": 2.78
     },
-    "KA Akureyri - Hafnarfjordur": {
-        "Alt": 3.07,
-        "Üst": 3.92
+    "Zamora - A. Puerto C.": {
+        "Alt": 1.31,
+        "Üst": 3.36
     },
-    "J. Bialystok - Widzew Lodz": {
-        "Alt": 1.53,
-        "Üst": 1.74
+    "Trujillanos - Dep. Tachira": {
+        "Alt": 1.44,
+        "Üst": 1.89
+    },
+    "Breidablik - Valur Reykjavik": {
+        "Alt": 2.08,
+        "Üst": 3.72
+    },
+    "Gimnasia Y. Tiro - Nueva Chicago": {
+        "Alt": 3.04,
+        "Üst": 2.84
+    },
+    "Melgar - Cajamarca": {
+        "Alt": 2.06,
+        "Üst": 1.35
+    },
+    "Gimnasia - Barracas": {
+        "Alt": 1.28,
+        "Üst": 2.43
+    },
+    "Def. Justicia - New Old Boys": {
+        "Alt": 1.33,
+        "Üst": 2.27
+    },
+    "Indy Eleven - Hartford Ath": {
+        "Alt": 1.89,
+        "Üst": 1.44
+    },
+    "Tucuman - S. Martin SJ": {
+        "Alt": 3.92,
+        "Üst": 3.04
+    },
+    "Cuiaba - Fortaleza CE": {
+        "Alt": 1.24,
+        "Üst": 2.4
+    },
+    "Delfin - Orense SC": {
+        "Alt": 5.03,
+        "Üst": 3.5
+    },
+    "C.D. Cacahuatique - Fuerte San Francisco": {
+        "Alt": 1.5,
+        "Üst": 1.79
+    },
+    "Dep. San Pedro - CD Suchitepequez": {
+        "Alt": 1.38,
+        "Üst": 2.01
     }
 }
