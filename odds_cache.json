@@ -1,74 +1,54 @@
 {
-    "Groningen - Utrecht": {
-        "Alt": 1.8,
-        "Üst": 1.57
+    "Saarbrucken - Weiss Essen": {
+        "Alt": 2.15,
+        "Üst": 1.38
     },
-    "Zwolle - Ajax": {
-        "Alt": 2.34,
-        "Üst": 1.31
+    "Halmstads - Gais": {
+        "Alt": 1.9,
+        "Üst": 1.51
     },
-    "Banik Ostrava B - Taborsko": {
-        "Alt": 1.57,
-        "Üst": 1.7
-    },
-    "Kilmarnock - Celtic": {
-        "Alt": 2.47,
-        "Üst": 1.27
-    },
-    "Lillestrom - Rosenborg": {
-        "Alt": 2.06,
-        "Üst": 1.42
-    },
-    "Brattvag - Lysekloster": {
-        "Alt": 1.12,
-        "Üst": 1.87
-    },
-    "LKS Lodz - C. Glogow": {
-        "Alt": 1.64,
-        "Üst": 1.62
-    },
-    "Avia Swidnik - Sandecja": {
-        "Alt": 1.69,
-        "Üst": 1.58
-    },
-    "Epicentr Dunaivtsi - Shakhtar D.": {
-        "Alt": 1.86,
-        "Üst": 1.45
-    },
-    "Slask Wroclaw - Cracovia": {
-        "Alt": 1.55,
-        "Üst": 1.73
-    },
-    "FSV Schoningen 2011 - Eintracht Norder.": {
-        "Alt": 1.31,
-        "Üst": 4.02
-    },
-    "Slavia Prag - FK Pardubice": {
-        "Alt": 2.18,
-        "Üst": 1.31
-    },
-    "Fredericia - Vendsyssel": {
+    "IFK Göteborg - Kalmar": {
         "Alt": 1.89,
-        "Üst": 1.44
+        "Üst": 1.51
     },
-    "Arsenal - B. Dortmund": {
-        "Alt": 2.14,
-        "Üst": 1.38
+    "Basel - Thun": {
+        "Alt": 2.12,
+        "Üst": 1.39
     },
-    "Kokkolan P. - VJS": {
-        "Alt": 2.75,
-        "Üst": 1.16
+    "St. Gallen - Luzern": {
+        "Alt": 2.7,
+        "Üst": 1.22
     },
-    "AmaZulu - Sekhukhune Utd": {
-        "Alt": 1.36,
-        "Üst": 2.05
+    "Sion - Vaduz": {
+        "Alt": 2.37,
+        "Üst": 1.3
     },
-    "Meshakhte Tkibuli - Samgurali Tskaltubo": {
-        "Alt": 1.63,
-        "Üst": 1.64
+    "Avs Futebol Sad - Sporting Lisbon B": {
+        "Alt": 1.47,
+        "Üst": 1.83
     },
-    "Varbergs - Sandvikens": {
-        "Alt": 2.01,
-        "Üst": 1.38
+    "CD Feirense - Felgueiras 1932": {
+        "Alt": 1.31,
+        "Üst": 2.19
+    },
+    "Heerenveen - Twente": {
+        "Alt": 2.3,
+        "Üst": 1.32
+    },
+    "Maastricht - Jong Utrecht": {
+        "Alt": 2.02,
+        "Üst": 1.37
+    },
+    "SV Ried - Rapid Wien": {
+        "Alt": 1.65,
+        "Üst": 1.71
+    },
+    "Wolfsberger - Salzburg": {
+        "Alt": 2.08,
+        "Üst": 1.4
+    },
+    "Jablonec - Slovacko": {
+        "Alt": 1.58,
+        "Üst": 1.69
     }
 }
