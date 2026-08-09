@@ -1,46 +1,30 @@
 {
-    "Real Potosi - Blooming": {
-        "Alt": 1.82,
-        "Üst": 1.49
-    },
-    "Santos SP - Paranaense": {
-        "Alt": 1.52,
-        "Üst": 1.88
-    },
-    "Bragantino - Corinthians": {
-        "Alt": 1.33,
-        "Üst": 2.27
-    },
-    "D. Union La Calera - Colo Colo": {
-        "Alt": 1.68,
-        "Üst": 1.59
-    },
-    "Nacional - Boston River": {
-        "Alt": 1.66,
-        "Üst": 1.6
-    },
     "Metropolitan - Ucv": {
-        "Alt": 1.47,
-        "Üst": 1.83
+        "Alt": 1.49,
+        "Üst": 1.8
     },
     "Municipal - CSD Imperial": {
-        "Alt": 1.61,
-        "Üst": 1.65
+        "Alt": 1.63,
+        "Üst": 1.63
     },
     "San Marcos - Unan Managua": {
         "Alt": 1.7,
         "Üst": 1.57
     },
+    "ABD U20 - Meksika U20": {
+        "Alt": 1.65,
+        "Üst": 1.61
+    },
     "Argentinos J. - Racing Club": {
         "Alt": 1.28,
-        "Üst": 2.44
+        "Üst": 2.43
     },
     "Motagua - CD Estrella Roja": {
-        "Alt": 1.89,
-        "Üst": 1.44
+        "Alt": 1.78,
+        "Üst": 1.51
     },
     "O. Petrolero - U. de Vinto": {
-        "Alt": 2.32,
+        "Alt": 2.27,
         "Üst": 3.39
     },
     "CD Fas - Atletico Balboa": {
@@ -66,5 +50,25 @@
     "Chicago Fire - Santos Laguna": {
         "Alt": 2.46,
         "Üst": 1.22
+    },
+    "Nashville SC - Atl San Luis": {
+        "Alt": 1.87,
+        "Üst": 1.45
+    },
+    "U. Chile - Palestino": {
+        "Alt": 1.69,
+        "Üst": 1.58
+    },
+    "Austin - Puebla": {
+        "Alt": 2.02,
+        "Üst": 1.37
+    },
+    "Indigenas de Matagalpa - Managua": {
+        "Alt": 1.81,
+        "Üst": 1.49
+    },
+    "CA Independiente S. - CD Choloma": {
+        "Alt": 1.69,
+        "Üst": 1.58
     }
 }
