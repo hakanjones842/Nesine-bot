@@ -1,82 +1,74 @@
 {
-    "KAA Gent - Mechelen": {
-        "Alt": 1.65,
-        "Üst": 1.71
-    },
-    "D. Moskova - Dyn. Makhachkala": {
-        "Alt": 1.58,
-        "Üst": 1.79
-    },
-    "St. Pauli - G. Furth": {
-        "Alt": 2.01,
-        "Üst": 1.44
-    },
-    "E. Cottbus - Hannover 96": {
-        "Alt": 2.12,
-        "Üst": 1.39
-    },
-    "Nürnberg - D. Dresden": {
+    "Groningen - Utrecht": {
         "Alt": 1.8,
         "Üst": 1.57
     },
-    "Hoffenheim II - H. Rostock": {
-        "Alt": 2.45,
-        "Üst": 1.28
-    },
-    "Guangzhou E Power - Guangxi Hengchen": {
-        "Alt": 1.74,
-        "Üst": 1.54
-    },
-    "Chongqing T. - Shanghai Port": {
-        "Alt": 1.72,
-        "Üst": 1.55
-    },
-    "Oberhausen - Sportfreunde": {
-        "Alt": 2.46,
-        "Üst": 3.6
-    },
-    "Phonix Lubeck - SSV Jeddeloh II": {
-        "Alt": 2.19,
-        "Üst": 3.5
-    },
-    "St. Pauli II - Bremer SV 1906": {
-        "Alt": 1.89,
-        "Üst": 1.44
-    },
-    "Hallescher - Chemnitz": {
-        "Alt": 2.01,
-        "Üst": 1.38
-    },
-    "Carl Zeiss Jena - Weiss Erfurt": {
-        "Alt": 2.31,
-        "Üst": 1.26
-    },
-    "Dynamo - Zwickau": {
-        "Alt": 1.89,
-        "Üst": 1.44
-    },
-    "Lida - Slutsk": {
-        "Alt": 1.36,
-        "Üst": 3.94
-    },
-    "Shandong Taishan - Tianjin Jin.": {
-        "Alt": 2.15,
+    "Zwolle - Ajax": {
+        "Alt": 2.34,
         "Üst": 1.31
     },
-    "Aalborg BK - Kolding": {
-        "Alt": 1.78,
-        "Üst": 1.51
+    "Banik Ostrava B - Taborsko": {
+        "Alt": 1.57,
+        "Üst": 1.7
     },
-    "Vejle - Hilleroed": {
-        "Alt": 1.9,
-        "Üst": 1.43
+    "Kilmarnock - Celtic": {
+        "Alt": 2.47,
+        "Üst": 1.27
     },
-    "Kuopion - TPS Turku": {
-        "Alt": 2.03,
-        "Üst": 1.43
+    "Lillestrom - Rosenborg": {
+        "Alt": 2.06,
+        "Üst": 1.42
     },
-    "Klubi 04 - KTP Kotka": {
-        "Alt": 2.38,
-        "Üst": 1.25
+    "Brattvag - Lysekloster": {
+        "Alt": 1.12,
+        "Üst": 1.87
+    },
+    "LKS Lodz - C. Glogow": {
+        "Alt": 1.64,
+        "Üst": 1.62
+    },
+    "Avia Swidnik - Sandecja": {
+        "Alt": 1.69,
+        "Üst": 1.58
+    },
+    "Epicentr Dunaivtsi - Shakhtar D.": {
+        "Alt": 1.86,
+        "Üst": 1.45
+    },
+    "Slask Wroclaw - Cracovia": {
+        "Alt": 1.55,
+        "Üst": 1.73
+    },
+    "FSV Schoningen 2011 - Eintracht Norder.": {
+        "Alt": 1.31,
+        "Üst": 4.02
+    },
+    "Slavia Prag - FK Pardubice": {
+        "Alt": 2.18,
+        "Üst": 1.31
+    },
+    "Fredericia - Vendsyssel": {
+        "Alt": 1.89,
+        "Üst": 1.44
+    },
+    "Arsenal - B. Dortmund": {
+        "Alt": 2.14,
+        "Üst": 1.38
+    },
+    "Kokkolan P. - VJS": {
+        "Alt": 2.75,
+        "Üst": 1.16
+    },
+    "AmaZulu - Sekhukhune Utd": {
+        "Alt": 1.36,
+        "Üst": 2.05
+    },
+    "Meshakhte Tkibuli - Samgurali Tskaltubo": {
+        "Alt": 1.63,
+        "Üst": 1.64
+    },
+    "Varbergs - Sandvikens": {
+        "Alt": 2.01,
+        "Üst": 1.38
     }
 }
