@@ -1,31 +1,15 @@
 {
-    "Canberra Juventus - Canberra White Eagles": {
-        "Alt": 2.08,
-        "Üst": 1.14
-    },
-    "Woll. Wolves - Sydney Utd 58": {
-        "Alt": 1.66,
-        "Üst": 1.6
-    },
-    "Charlestown C. - Maitland": {
-        "Alt": 1.87,
-        "Üst": 3.52
-    },
-    "SKA Khabarovsk - Spartak Kostroma": {
-        "Alt": 1.42,
-        "Üst": 1.92
-    },
     "Brisbane Roar - Sydney": {
         "Alt": 1.59,
         "Üst": 1.67
     },
     "Amstetten - Admira Wacker": {
-        "Alt": 1.79,
-        "Üst": 1.5
+        "Alt": 1.76,
+        "Üst": 1.52
     },
     "S. Bratislava B - Samorin": {
-        "Alt": 1.77,
-        "Üst": 1.51
+        "Alt": 1.8,
+        "Üst": 1.49
     },
     "MSK Zilina B - Pohronie": {
         "Alt": 1.78,
@@ -36,8 +20,8 @@
         "Üst": 3.81
     },
     "Tokyo Verdy - Kawasaki Frontale": {
-        "Alt": 1.48,
-        "Üst": 1.95
+        "Alt": 1.46,
+        "Üst": 1.98
     },
     "Iwaki - Imabari": {
         "Alt": 1.45,
@@ -48,7 +32,7 @@
         "Üst": 1.57
     },
     "Kisvarda II - Diosgyori Vtk II": {
-        "Alt": 1.68,
+        "Alt": 1.86,
         "Üst": 3.4
     },
     "Puskas Akademia II - Tatabanya": {
@@ -64,11 +48,31 @@
         "Üst": 1.66
     },
     "South Melbourne - Fremantle City": {
-        "Alt": 3.58,
-        "Üst": 1.99
+        "Alt": 3.56,
+        "Üst": 2.14
     },
     "Yanbian L. - Shenzhen Juniors": {
         "Alt": 1.43,
         "Üst": 1.9
+    },
+    "V Varen - Kyoto Sanga": {
+        "Alt": 1.48,
+        "Üst": 1.94
+    },
+    "M. Yamagata - Tochigi City": {
+        "Alt": 1.57,
+        "Üst": 1.7
+    },
+    "Ehime - Nara Club": {
+        "Alt": 1.7,
+        "Üst": 1.57
+    },
+    "Tochigi - Z. Kanazawa": {
+        "Alt": 1.41,
+        "Üst": 1.93
+    },
+    "S. Farense - Torreense": {
+        "Alt": 1.41,
+        "Üst": 1.93
     }
 }
