@@ -1,54 +1,70 @@
 {
-    "Saarbrucken - Weiss Essen": {
-        "Alt": 2.15,
-        "Üst": 1.38
+    "Cherno More - Ludogorets": {
+        "Alt": 1.51,
+        "Üst": 1.76
     },
-    "Halmstads - Gais": {
-        "Alt": 1.9,
-        "Üst": 1.51
+    "AC Horsens - Brondby": {
+        "Alt": 1.76,
+        "Üst": 1.6
     },
-    "IFK Göteborg - Kalmar": {
-        "Alt": 1.89,
-        "Üst": 1.51
+    "Oulu - HJK Helsinki": {
+        "Alt": 1.84,
+        "Üst": 1.54
     },
-    "Basel - Thun": {
-        "Alt": 2.12,
-        "Üst": 1.39
+    "Kaizer Chiefs - Gold. Arrow": {
+        "Alt": 1.32,
+        "Üst": 2.13
     },
-    "St. Gallen - Luzern": {
-        "Alt": 2.7,
-        "Üst": 1.22
+    "Spaeri - Dinamo Tiflis": {
+        "Alt": 1.76,
+        "Üst": 1.53
     },
-    "Sion - Vaduz": {
-        "Alt": 2.37,
-        "Üst": 1.3
+    "Shelbourne - St. Patricks": {
+        "Alt": 1.51,
+        "Üst": 1.77
     },
-    "Avs Futebol Sad - Sporting Lisbon B": {
-        "Alt": 1.47,
-        "Üst": 1.83
+    "Völsungur - Kopavogur": {
+        "Alt": 1.74,
+        "Üst": 3.81
     },
-    "CD Feirense - Felgueiras 1932": {
+    "Pergolettese - Inter Milano U23": {
+        "Alt": 1.52,
+        "Üst": 1.76
+    },
+    "PRO Patria - Asd Imperia 1923": {
+        "Alt": 1.48,
+        "Üst": 1.82
+    },
+    "AD Fafe - Vianense": {
+        "Alt": 1.53,
+        "Üst": 1.75
+    },
+    "CD Trofense - Varzim": {
         "Alt": 1.31,
         "Üst": 2.19
     },
-    "Heerenveen - Twente": {
-        "Alt": 2.3,
-        "Üst": 1.32
+    "Veles Mos. - Leningradets": {
+        "Alt": 1.38,
+        "Üst": 2.01
     },
-    "Maastricht - Jong Utrecht": {
-        "Alt": 2.02,
-        "Üst": 1.37
+    "Anderlecht - RAAL La Louviere": {
+        "Alt": 1.64,
+        "Üst": 1.72
     },
-    "SV Ried - Rapid Wien": {
-        "Alt": 1.65,
-        "Üst": 1.71
+    "Banja Luka - Velez Mostar": {
+        "Alt": 1.48,
+        "Üst": 1.82
     },
-    "Wolfsberger - Salzburg": {
-        "Alt": 2.08,
-        "Üst": 1.4
+    "NK Slaven - VSN Varazdin": {
+        "Alt": 1.63,
+        "Üst": 1.63
     },
-    "Jablonec - Slovacko": {
-        "Alt": 1.58,
-        "Üst": 1.69
+    "Leca - SAO Joao Ver": {
+        "Alt": 1.44,
+        "Üst": 1.88
+    },
+    "Dep. Concepcion - U. Concepcion": {
+        "Alt": 1.47,
+        "Üst": 1.83
     }
 }
