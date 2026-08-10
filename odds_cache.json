@@ -1,27 +1,11 @@
 {
-    "Polissya Zhytomyr - Metalist 1925": {
-        "Alt": 1.36,
-        "Üst": 2.04
-    },
-    "Bul - Uganda Police": {
-        "Alt": 1.37,
-        "Üst": 2.02
-    },
-    "Gomel 2 - Soligorsk": {
-        "Alt": 1.83,
-        "Üst": 1.06
-    },
-    "Kongvinger 2 - Stromsgodset 2": {
-        "Alt": 2.33,
-        "Üst": 4.02
-    },
-    "Minsk 2 - Ostrovets": {
-        "Alt": 3.34,
-        "Üst": 3.94
-    },
     "Orsha - Molodechno": {
         "Alt": 1.94,
         "Üst": 3.59
+    },
+    "Slonim - FK Bumprom": {
+        "Alt": 1.7,
+        "Üst": 3.51
     },
     "Smorgon - Bate Borisov II": {
         "Alt": 2.16,
@@ -32,12 +16,12 @@
         "Üst": 1.38
     },
     "FK R. Povazska Bystrica - VZ Moravce": {
-        "Alt": 1.7,
-        "Üst": 1.57
+        "Alt": 1.8,
+        "Üst": 1.5
     },
     "Karpaty Lviv - LNZ Cherkasy": {
-        "Alt": 1.26,
-        "Üst": 3.41
+        "Alt": 5.15,
+        "Üst": 3.53
     },
     "Botosani - CS Corvinul 1921 H.": {
         "Alt": 1.53,
@@ -48,28 +32,32 @@
         "Üst": 1.49
     },
     "Botev Vratsa - Slavya Sofya": {
-        "Alt": 1.44,
-        "Üst": 1.89
+        "Alt": 1.39,
+        "Üst": 1.96
     },
     "Zalgiris B - Kauno Zalgiris B": {
         "Alt": 1.91,
         "Üst": 1.42
     },
     "FK Haugesund 2 - Viking (A)": {
-        "Alt": 1.38,
-        "Üst": 4.24
+        "Alt": 2.75,
+        "Üst": 4.05
     },
     "Lyn 1896 FK II - Fram Larvik": {
-        "Alt": 1.69,
-        "Üst": 3.76
+        "Alt": 1.74,
+        "Üst": 3.75
     },
     "Drobak Frogn - Sandefjord Fotball 2": {
-        "Alt": 2.47,
-        "Üst": 3.88
+        "Alt": 2.53,
+        "Üst": 3.98
+    },
+    "Askoey FK - Sogndal 2": {
+        "Alt": 3.01,
+        "Üst": 1.12
     },
     "NS Mura - NK Radomlje": {
-        "Alt": 1.78,
-        "Üst": 1.51
+        "Alt": 1.82,
+        "Üst": 1.48
     },
     "Kampala C. - Airtel Kitara": {
         "Alt": 1.35,
@@ -80,11 +68,15 @@
         "Üst": 2.01
     },
     "Rigas Skola - Grobinas SC": {
-        "Alt": 3.42,
-        "Üst": 2.25
+        "Alt": 3.4,
+        "Üst": 2.26
     },
     "Silkeborg - Odense": {
         "Alt": 2.23,
         "Üst": 1.35
+    },
+    "IK Sirius - Brommapojkarna": {
+        "Alt": 2.47,
+        "Üst": 1.27
     }
 }
