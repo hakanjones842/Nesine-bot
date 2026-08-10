@@ -1,12 +1,4 @@
 {
-    "Libertad Loja - Uni. Catolica": {
-        "Alt": 1.62,
-        "Üst": 1.64
-    },
-    "Banfield - Belgrano": {
-        "Alt": 1.26,
-        "Üst": 2.51
-    },
     "Goias GO - Londrina PR": {
         "Alt": 1.39,
         "Üst": 1.97
@@ -24,16 +16,16 @@
         "Üst": 1.78
     },
     "Union Santa Fe - C. Cordoba": {
-        "Alt": 1.54,
-        "Üst": 1.85
+        "Alt": 1.51,
+        "Üst": 1.88
     },
     "Adelaide Utd - Cong An Nhan Dan": {
-        "Alt": 1.86,
-        "Üst": 1.45
+        "Alt": 1.92,
+        "Üst": 1.42
     },
     "SD Raiders - Macarthur": {
         "Alt": 2.47,
-        "Üst": 3.4
+        "Üst": 3.37
     },
     "Queensland L. - Melbourne City": {
         "Alt": 1.89,
@@ -44,12 +36,12 @@
         "Üst": 1.63
     },
     "Famalicao U23 - Torreense U23": {
-        "Alt": 1.6,
-        "Üst": 1.67
+        "Alt": 1.63,
+        "Üst": 1.64
     },
     "Sturt Lions - A. Comets": {
-        "Alt": 2.55,
-        "Üst": 3.49
+        "Alt": 2.72,
+        "Üst": 3.51
     },
     "K. Almaty - Levski Sofya": {
         "Alt": 1.38,
@@ -62,5 +54,21 @@
     "PK Keski Uusimaa - Inter 2": {
         "Alt": 3.1,
         "Üst": 1.11
+    },
+    "Rovaniemen - KuPS Akatemia": {
+        "Alt": 3.34,
+        "Üst": 1.08
+    },
+    "TPV - Salpa": {
+        "Alt": 2.62,
+        "Üst": 1.19
+    },
+    "Bodo Glimt - U. S. Gilloise": {
+        "Alt": 2.39,
+        "Üst": 1.24
+    },
+    "Sabah - AGF Aarhus": {
+        "Alt": 1.75,
+        "Üst": 1.53
     }
 }
