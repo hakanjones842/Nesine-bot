@@ -1,19 +1,43 @@
 {
     "Polissya Zhytomyr - Metalist 1925": {
-        "Alt": 1.38,
-        "Üst": 2.0
+        "Alt": 1.36,
+        "Üst": 2.04
+    },
+    "Bul - Uganda Police": {
+        "Alt": 1.37,
+        "Üst": 2.02
+    },
+    "Gomel 2 - Soligorsk": {
+        "Alt": 1.83,
+        "Üst": 1.06
     },
     "Kongvinger 2 - Stromsgodset 2": {
+        "Alt": 2.33,
+        "Üst": 4.02
+    },
+    "Minsk 2 - Ostrovets": {
+        "Alt": 3.34,
+        "Üst": 3.94
+    },
+    "Orsha - Molodechno": {
+        "Alt": 1.94,
+        "Üst": 3.59
+    },
+    "Smorgon - Bate Borisov II": {
         "Alt": 2.16,
-        "Üst": 3.95
+        "Üst": 3.56
+    },
+    "Volna Pinsk - UNI Minsk": {
+        "Alt": 2.0,
+        "Üst": 1.38
     },
     "FK R. Povazska Bystrica - VZ Moravce": {
-        "Alt": 1.73,
-        "Üst": 1.54
+        "Alt": 1.7,
+        "Üst": 1.57
     },
     "Karpaty Lviv - LNZ Cherkasy": {
         "Alt": 1.26,
-        "Üst": 3.43
+        "Üst": 3.41
     },
     "Botosani - CS Corvinul 1921 H.": {
         "Alt": 1.53,
@@ -31,48 +55,36 @@
         "Alt": 1.91,
         "Üst": 1.42
     },
+    "FK Haugesund 2 - Viking (A)": {
+        "Alt": 1.38,
+        "Üst": 4.24
+    },
     "Lyn 1896 FK II - Fram Larvik": {
-        "Alt": 1.98,
-        "Üst": 3.79
+        "Alt": 1.69,
+        "Üst": 3.76
     },
     "Drobak Frogn - Sandefjord Fotball 2": {
-        "Alt": 2.52,
-        "Üst": 3.93
+        "Alt": 2.47,
+        "Üst": 3.88
     },
     "NS Mura - NK Radomlje": {
         "Alt": 1.78,
         "Üst": 1.51
     },
+    "Kampala C. - Airtel Kitara": {
+        "Alt": 1.35,
+        "Üst": 2.07
+    },
     "Fakel - Akhmat Grozny": {
-        "Alt": 1.43,
-        "Üst": 2.05
+        "Alt": 1.44,
+        "Üst": 2.01
     },
     "Rigas Skola - Grobinas SC": {
-        "Alt": 3.48,
-        "Üst": 2.36
+        "Alt": 3.42,
+        "Üst": 2.25
     },
     "Silkeborg - Odense": {
         "Alt": 2.23,
         "Üst": 1.35
-    },
-    "IK Sirius - Brommapojkarna": {
-        "Alt": 2.76,
-        "Üst": 1.21
-    },
-    "Vasteraas - Djurgarden": {
-        "Alt": 2.16,
-        "Üst": 1.38
-    },
-    "Norrby - Orebro SK": {
-        "Alt": 1.68,
-        "Üst": 1.59
-    },
-    "Moss - Odds BK": {
-        "Alt": 2.56,
-        "Üst": 1.19
-    },
-    "Aasane Fotball 2 - Austevoll": {
-        "Alt": 2.87,
-        "Üst": 1.14
     }
 }
