@@ -1,43 +1,11 @@
 {
-    "C. Dep. Eldense - Cartagena": {
-        "Alt": 1.54,
-        "Üst": 1.74
-    },
-    "Adelaide Utd - Cong An Nhan Dan": {
-        "Alt": 2.05,
-        "Üst": 1.36
-    },
-    "SD Raiders - Macarthur": {
-        "Alt": 1.7,
-        "Üst": 3.58
-    },
-    "Queensland L. - Melbourne City": {
-        "Alt": 1.89,
-        "Üst": 1.44
-    },
-    "US Palermo - Juventus": {
-        "Alt": 1.98,
-        "Üst": 1.38
-    },
-    "Braga U23 - Farense U23": {
-        "Alt": 1.63,
-        "Üst": 1.63
-    },
-    "Famalicao U23 - Torreense U23": {
-        "Alt": 1.6,
-        "Üst": 1.67
-    },
-    "Gangwon - Gamba Osaka": {
-        "Alt": 1.45,
-        "Üst": 1.86
-    },
-    "Sturt Lions - A. Comets": {
-        "Alt": 2.66,
-        "Üst": 3.52
+    "Hartlepool - Middlesbrough U21": {
+        "Alt": 2.02,
+        "Üst": 1.37
     },
     "K. Almaty - Levski Sofya": {
-        "Alt": 1.35,
-        "Üst": 2.07
+        "Alt": 1.32,
+        "Üst": 2.13
     },
     "Pakhtakor Tashkent - AL Hussein Irbid": {
         "Alt": 1.48,
@@ -48,8 +16,8 @@
         "Üst": 1.22
     },
     "PK Keski Uusimaa - Inter 2": {
-        "Alt": 3.17,
-        "Üst": 1.1
+        "Alt": 3.42,
+        "Üst": 1.07
     },
     "Rovaniemen - KuPS Akatemia": {
         "Alt": 3.43,
@@ -60,16 +28,16 @@
         "Üst": 1.2
     },
     "Bodo Glimt - U. S. Gilloise": {
-        "Alt": 2.19,
-        "Üst": 1.3
+        "Alt": 2.06,
+        "Üst": 1.35
     },
     "Sabah - AGF Aarhus": {
-        "Alt": 1.93,
-        "Üst": 1.42
+        "Alt": 1.95,
+        "Üst": 1.4
     },
     "Iberia 1999 - Larne": {
-        "Alt": 1.52,
-        "Üst": 1.76
+        "Alt": 1.54,
+        "Üst": 1.74
     },
     "AL Jazira (Bae) - AL Ittihad": {
         "Alt": 1.79,
@@ -84,7 +52,23 @@
         "Üst": 1.48
     },
     "Zalgiris Kaunas - D. Zagreb": {
-        "Alt": 1.89,
-        "Üst": 1.44
+        "Alt": 1.85,
+        "Üst": 1.45
+    },
+    "Apollon L. - Brann": {
+        "Alt": 1.73,
+        "Üst": 1.54
+    },
+    "Lubeck - VfB Oldenburg": {
+        "Alt": 2.05,
+        "Üst": 3.48
+    },
+    "Helsingborg - IFK Varnamo": {
+        "Alt": 1.94,
+        "Üst": 1.41
+    },
+    "Gimnastica Torrelavega - Sestao River Club": {
+        "Alt": 1.55,
+        "Üst": 1.72
     }
 }
