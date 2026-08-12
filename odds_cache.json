@@ -1,27 +1,43 @@
 {
-    "Brindabella B. - Tuggeranong Utd": {
-        "Alt": 2.32,
-        "Üst": 3.66
-    },
     "Moreland Zebras - Preston Lions": {
-        "Alt": 1.99,
-        "Üst": 1.38
+        "Alt": 1.94,
+        "Üst": 1.41
     },
     "Apia Leic. - Sydney Utd 58": {
-        "Alt": 1.69,
-        "Üst": 1.57
+        "Alt": 1.66,
+        "Üst": 1.6
+    },
+    "Bergantinos - Lugo": {
+        "Alt": 1.32,
+        "Üst": 2.13
     },
     "North Sunshine Eagles - Heidelberg": {
-        "Alt": 1.61,
-        "Üst": 3.56
+        "Alt": 1.58,
+        "Üst": 3.64
+    },
+    "Weston W. - Adamstown Rosebuds": {
+        "Alt": 1.7,
+        "Üst": 3.59
+    },
+    "Charlestown C. - Edgeworth": {
+        "Alt": 1.97,
+        "Üst": 3.5
+    },
+    "Kahibah - Maitland": {
+        "Alt": 1.68,
+        "Üst": 3.69
     },
     "Egri - Tiszafuredi Vse": {
         "Alt": 1.87,
         "Üst": 1.44
     },
+    "Atl Tordesillas - Real Avila": {
+        "Alt": 1.63,
+        "Üst": 1.63
+    },
     "Fuzesabony SC Eross Ut - Nyiregyhaza Spartacus II": {
         "Alt": 2.02,
-        "Üst": 1.37
+        "Üst": 1.38
     },
     "Hajdunanas FK - Kisvarda II": {
         "Alt": 2.01,
@@ -55,6 +71,10 @@
         "Alt": 1.91,
         "Üst": 1.43
     },
+    "Sarisapi Siker - Szombathelyi II": {
+        "Alt": 2.33,
+        "Üst": 3.41
+    },
     "Bss Monor - Dabas": {
         "Alt": 1.99,
         "Üst": 1.38
@@ -70,45 +90,5 @@
     "Budaorsi - Ivancsa Kse": {
         "Alt": 2.02,
         "Üst": 1.37
-    },
-    "Dunaujvaros Pase - Erdi Vse": {
-        "Alt": 2.02,
-        "Üst": 1.38
-    },
-    "Dunaharaszti Mtk - Majosi SE": {
-        "Alt": 2.03,
-        "Üst": 1.37
-    },
-    "Siofok - MTK Budapest II": {
-        "Alt": 2.01,
-        "Üst": 1.38
-    },
-    "Budafoki Mte - PTE Peac": {
-        "Alt": 1.89,
-        "Üst": 3.4
-    },
-    "Katowice - H. Tel Aviv": {
-        "Alt": 1.48,
-        "Üst": 1.83
-    },
-    "Kopenhag - Debrecen": {
-        "Alt": 2.1,
-        "Üst": 1.33
-    },
-    "Rapid Wien - Paide Flora": {
-        "Alt": 1.19,
-        "Üst": 2.53
-    },
-    "Bremer SV 1906 - Phonix Lubeck": {
-        "Alt": 1.89,
-        "Üst": 1.43
-    },
-    "Everton - Newcastle Utd": {
-        "Alt": 1.91,
-        "Üst": 1.5
-    },
-    "Eintracht Norder. - Kickers Emden": {
-        "Alt": 1.52,
-        "Üst": 3.79
     }
 }
