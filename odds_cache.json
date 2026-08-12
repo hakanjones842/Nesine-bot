@@ -1,75 +1,39 @@
 {
-    "Gosport - Hanworth Villa": {
-        "Alt": 1.9,
-        "Üst": 1.43
-    },
-    "Hamilton - Celtic B": {
-        "Alt": 1.71,
-        "Üst": 3.49
-    },
-    "Nottingham F. - B. Leverkusen": {
-        "Alt": 2.15,
-        "Üst": 1.38
-    },
-    "PSG - Aston Villa": {
-        "Alt": 2.05,
-        "Üst": 1.44
-    },
-    "Dep. La Coruna - Real Madrid": {
-        "Alt": 2.49,
-        "Üst": 1.27
-    },
-    "Estoril Praia U23 - Gil Vicente U23": {
-        "Alt": 1.75,
-        "Üst": 1.53
-    },
-    "Sportivo Iteno - Guarani Asu": {
-        "Alt": 1.76,
-        "Üst": 1.51
-    },
-    "Club La Union - SD Aucas": {
-        "Alt": 1.51,
-        "Üst": 1.76
-    },
     "CA Platense - Coquimbo U.": {
-        "Alt": 1.23,
-        "Üst": 2.64
+        "Alt": 1.19,
+        "Üst": 2.9
     },
     "Palmeiras SP - Cerro Porteno": {
-        "Alt": 1.47,
-        "Üst": 1.96
+        "Alt": 1.52,
+        "Üst": 1.87
     },
     "Bragantino - Atl Mineiro": {
-        "Alt": 1.34,
-        "Üst": 2.26
+        "Alt": 1.3,
+        "Üst": 2.37
     },
     "CA Tigre - Torque": {
-        "Alt": 1.26,
-        "Üst": 2.51
+        "Alt": 1.24,
+        "Üst": 2.63
     },
     "Atl Tucuman - Independiente": {
         "Alt": 1.39,
-        "Üst": 3.19
-    },
-    "Tampa Bay - Louisville": {
-        "Alt": 1.7,
-        "Üst": 1.57
+        "Üst": 3.17
     },
     "Charlotte Ind. - Hartford Ath": {
         "Alt": 1.86,
         "Üst": 1.45
     },
     "Orlando City - Atl San Luis": {
-        "Alt": 2.33,
+        "Alt": 2.37,
         "Üst": 1.25
     },
     "Inter Miami - Club Leon": {
-        "Alt": 2.09,
-        "Üst": 1.34
+        "Alt": 2.03,
+        "Üst": 1.36
     },
     "Forward M. - Greenville T.": {
-        "Alt": 1.82,
-        "Üst": 1.48
+        "Alt": 1.85,
+        "Üst": 1.46
     },
     "Monterrey - Nashville SC": {
         "Alt": 1.86,
@@ -78,5 +42,53 @@
     "San Antonio - Miami": {
         "Alt": 1.81,
         "Üst": 1.49
+    },
+    "Cruzeiro MG - Flamengo": {
+        "Alt": 1.39,
+        "Üst": 2.1
+    },
+    "Spokane Velocity - Colorado Spr.": {
+        "Alt": 1.72,
+        "Üst": 1.55
+    },
+    "Motagua - CS Cartagines": {
+        "Alt": 1.57,
+        "Üst": 1.7
+    },
+    "D. Toluca - Dallas": {
+        "Alt": 2.62,
+        "Üst": 1.19
+    },
+    "San Diego - Puebla": {
+        "Alt": 2.29,
+        "Üst": 1.27
+    },
+    "S. Sounders - CD Guadalajara": {
+        "Alt": 2.04,
+        "Üst": 1.36
+    },
+    "Los Angeles - Queretaro": {
+        "Alt": 2.38,
+        "Üst": 1.25
+    },
+    "CD Fas - Verdes": {
+        "Alt": 3.94,
+        "Üst": 1.75
+    },
+    "Tobol - Partizan": {
+        "Alt": 1.73,
+        "Üst": 1.55
+    },
+    "Karabağ - Dinamo Kiev": {
+        "Alt": 1.65,
+        "Üst": 1.62
+    },
+    "Tampereen I. - Rijeka": {
+        "Alt": 1.51,
+        "Üst": 1.78
+    },
+    "Flora T. - Inter Escaldes": {
+        "Alt": 1.58,
+        "Üst": 1.69
     }
 }
