@@ -1,15 +1,11 @@
 {
-    "Egri - Tiszafuredi Vse": {
-        "Alt": 2.02,
-        "Üst": 1.37
-    },
     "Atl Tordesillas - Real Avila": {
         "Alt": 1.63,
         "Üst": 1.63
     },
     "Fuzesabony SC Eross Ut - Nyiregyhaza Spartacus II": {
-        "Alt": 2.02,
-        "Üst": 1.38
+        "Alt": 1.95,
+        "Üst": 1.4
     },
     "Hajdunanas FK - Kisvarda II": {
         "Alt": 1.97,
@@ -24,48 +20,52 @@
         "Üst": 1.44
     },
     "Tatabanya - Bicskei TC": {
-        "Alt": 1.73,
+        "Alt": 1.71,
         "Üst": 3.43
     },
     "SC Sopron - ETO Akademia": {
-        "Alt": 2.66,
-        "Üst": 3.67
+        "Alt": 2.47,
+        "Üst": 3.56
     },
     "Papai Perutz - Veszprem": {
-        "Alt": 1.96,
-        "Üst": 1.39
+        "Alt": 1.93,
+        "Üst": 1.42
     },
     "Puskas Akademia II - Komarom Vse": {
-        "Alt": 1.89,
-        "Üst": 1.44
+        "Alt": 1.36,
+        "Üst": 3.8
     },
     "1908 Szac Budapest - Zalaegerszeg TE II": {
         "Alt": 1.91,
         "Üst": 1.43
+    },
+    "Sarisapi S. - Szombathelyi II": {
+        "Alt": 1.7,
+        "Üst": 3.59
     },
     "Bss Monor - Dabas": {
         "Alt": 1.88,
         "Üst": 1.44
     },
     "Csepel - Esmtk Budapest": {
-        "Alt": 1.87,
-        "Üst": 1.44
+        "Alt": 1.83,
+        "Üst": 1.47
     },
     "BKV Elore - Gyulai": {
-        "Alt": 3.57,
-        "Üst": 2.0
+        "Alt": 3.56,
+        "Üst": 1.99
     },
     "Budaorsi - Ivancsa Kse": {
-        "Alt": 1.5,
-        "Üst": 3.72
+        "Alt": 1.66,
+        "Üst": 3.63
     },
     "Dunaujvaros Pase - Erdi Vse": {
-        "Alt": 2.01,
-        "Üst": 1.38
+        "Alt": 1.91,
+        "Üst": 1.43
     },
     "Dunaharaszti Mtk - Majosi SE": {
-        "Alt": 2.0,
-        "Üst": 1.38
+        "Alt": 3.77,
+        "Üst": 3.88
     },
     "Siofok - MTK Budapest II": {
         "Alt": 1.96,
@@ -73,18 +73,22 @@
     },
     "Budafoki Mte - PTE Peac": {
         "Alt": 1.95,
-        "Üst": 3.43
+        "Üst": 3.42
     },
     "Katowice - H. Tel Aviv": {
-        "Alt": 1.51,
-        "Üst": 1.76
+        "Alt": 1.61,
+        "Üst": 1.66
     },
     "Kopenhag - Debrecen": {
-        "Alt": 2.14,
-        "Üst": 1.31
+        "Alt": 2.22,
+        "Üst": 1.29
     },
     "Rapid Wien - Paide Flora": {
-        "Alt": 1.17,
-        "Üst": 1.63
+        "Alt": 1.15,
+        "Üst": 1.77
+    },
+    "Bremer SV 1906 - Phonix Lubeck": {
+        "Alt": 2.02,
+        "Üst": 1.38
     }
 }
