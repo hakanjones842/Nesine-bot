@@ -1,56 +1,4 @@
 {
-    "Orlando City - Atl San Luis": {
-        "Alt": 2.4,
-        "Üst": 1.24
-    },
-    "Inter Miami - Club Leon": {
-        "Alt": 1.96,
-        "Üst": 1.4
-    },
-    "Forward M. - Greenville T.": {
-        "Alt": 1.85,
-        "Üst": 1.46
-    },
-    "Monterrey - Nashville SC": {
-        "Alt": 1.94,
-        "Üst": 1.41
-    },
-    "San Antonio - Miami": {
-        "Alt": 1.81,
-        "Üst": 1.49
-    },
-    "Cruzeiro MG - Flamengo": {
-        "Alt": 1.42,
-        "Üst": 2.07
-    },
-    "Spokane Velocity - Colorado Spr.": {
-        "Alt": 1.76,
-        "Üst": 1.52
-    },
-    "Motagua - CS Cartagines": {
-        "Alt": 1.57,
-        "Üst": 1.7
-    },
-    "D. Toluca - Dallas": {
-        "Alt": 2.62,
-        "Üst": 1.19
-    },
-    "San Diego - Puebla": {
-        "Alt": 2.29,
-        "Üst": 1.27
-    },
-    "S. Sounders - CD Guadalajara": {
-        "Alt": 2.04,
-        "Üst": 1.36
-    },
-    "Los Angeles - Queretaro": {
-        "Alt": 2.38,
-        "Üst": 1.25
-    },
-    "CD Fas - Verdes": {
-        "Alt": 4.0,
-        "Üst": 1.78
-    },
     "Tobol - Partizan": {
         "Alt": 1.73,
         "Üst": 1.55
@@ -60,12 +8,12 @@
         "Üst": 1.62
     },
     "Tampereen I. - Rijeka": {
-        "Alt": 1.51,
-        "Üst": 1.78
+        "Alt": 1.52,
+        "Üst": 1.76
     },
     "Flora T. - Inter Escaldes": {
-        "Alt": 1.58,
-        "Üst": 1.69
+        "Alt": 1.71,
+        "Üst": 1.56
     },
     "Abha Club - AL Hazem": {
         "Alt": 1.57,
@@ -78,5 +26,89 @@
     "Pafos - Salzburg": {
         "Alt": 1.73,
         "Üst": 1.54
+    },
+    "Beşiktaş - H. Kralove": {
+        "Alt": 2.02,
+        "Üst": 1.38
+    },
+    "Omonia - Lincoln Red": {
+        "Alt": 1.25,
+        "Üst": 1.79
+    },
+    "Un. Craiova - Kuopion": {
+        "Alt": 1.69,
+        "Üst": 1.58
+    },
+    "Gornik Zabrze - Ferencvaros": {
+        "Alt": 1.6,
+        "Üst": 1.67
+    },
+    "M. Rogachev - Banja Luka": {
+        "Alt": 1.6,
+        "Üst": 1.66
+    },
+    "Hammarby - Rakow C.": {
+        "Alt": 1.75,
+        "Üst": 1.53
+    },
+    "Tromso - Cluj": {
+        "Alt": 1.87,
+        "Üst": 1.45
+    },
+    "Nordsjælland - Valur Reykjavik": {
+        "Alt": 1.08,
+        "Üst": 2.16
+    },
+    "D. Minsk - Braga": {
+        "Alt": 1.7,
+        "Üst": 1.57
+    },
+    "Midtjylland - Bohemians": {
+        "Alt": 1.22,
+        "Üst": 2.06
+    },
+    "Dunajska S. - Twente": {
+        "Alt": 1.95,
+        "Üst": 1.4
+    },
+    "Klaksvik - Lech Poznan": {
+        "Alt": 1.96,
+        "Üst": 1.39
+    },
+    "Vikingur Reykjavik - Thun": {
+        "Alt": 2.23,
+        "Üst": 1.29
+    },
+    "Vaduz - Inter Turku": {
+        "Alt": 1.82,
+        "Üst": 1.48
+    },
+    "Runavik - Lugano": {
+        "Alt": 2.1,
+        "Üst": 1.33
+    },
+    "CSKA Sofya - M. Tel Aviv": {
+        "Alt": 1.57,
+        "Üst": 1.7
+    },
+    "FK Shkendija - Hibernian": {
+        "Alt": 1.84,
+        "Üst": 1.46
+    },
+    "KF Drita - SP Tre Fiori": {
+        "Alt": 1.17,
+        "Üst": 1.64
+    },
+    "St. Gallen - Sheriff": {
+        "Alt": 2.09,
+        "Üst": 1.34
+    },
+    "IK Sleipner - Lindo FF": {
+        "Alt": 2.53,
+        "Üst": 3.45
+    },
+    "Grindavik - T. Reykjavik": {
+        "Alt": 1.98,
+        "Üst": 3.38
     }
 }
