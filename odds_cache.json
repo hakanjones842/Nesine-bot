@@ -1,19 +1,15 @@
 {
-    "Tobol - Partizan": {
-        "Alt": 1.83,
-        "Üst": 1.48
-    },
     "Karabağ - Dinamo Kiev": {
-        "Alt": 1.76,
-        "Üst": 1.52
+        "Alt": 1.64,
+        "Üst": 1.63
     },
     "Tampereen I. - Rijeka": {
-        "Alt": 1.48,
-        "Üst": 1.83
+        "Alt": 1.5,
+        "Üst": 1.79
     },
     "Flora T. - Inter Escaldes": {
-        "Alt": 1.74,
-        "Üst": 1.54
+        "Alt": 1.79,
+        "Üst": 1.5
     },
     "Abha Club - AL Hazem": {
         "Alt": 1.54,
@@ -24,20 +20,20 @@
         "Üst": 1.88
     },
     "Pafos - Salzburg": {
-        "Alt": 1.86,
-        "Üst": 1.53
+        "Alt": 1.92,
+        "Üst": 1.49
     },
     "Beşiktaş - H. Kralove": {
         "Alt": 2.08,
         "Üst": 1.41
     },
     "Omonia - Lincoln Red": {
-        "Alt": 1.26,
-        "Üst": 1.85
+        "Alt": 1.28,
+        "Üst": 2.02
     },
     "Un. Craiova - Kuopion": {
-        "Alt": 1.71,
-        "Üst": 1.64
+        "Alt": 1.83,
+        "Üst": 1.55
     },
     "Gornik Zabrze - Ferencvaros": {
         "Alt": 1.64,
@@ -56,47 +52,39 @@
         "Üst": 1.47
     },
     "Nordsjælland - Valur Reykjavik": {
-        "Alt": 1.06,
-        "Üst": 2.07
+        "Alt": 1.95,
+        "Üst": 3.9
     },
     "D. Minsk - Braga": {
-        "Alt": 1.6,
-        "Üst": 1.67
+        "Alt": 1.54,
+        "Üst": 1.73
     },
     "Midtjylland - Bohemians": {
         "Alt": 1.22,
-        "Üst": 2.02
+        "Üst": 2.0
     },
     "Dunajska S. - Twente": {
-        "Alt": 1.98,
-        "Üst": 1.38
+        "Alt": 1.95,
+        "Üst": 1.4
     },
-    "Klaksvik - Lech Poznan": {
-        "Alt": 2.0,
-        "Üst": 1.45
+    "Racing Ferrol - Real Aviles": {
+        "Alt": 1.59,
+        "Üst": 1.68
     },
     "Vikingur Reykjavik - Thun": {
-        "Alt": 2.36,
-        "Üst": 1.31
+        "Alt": 2.4,
+        "Üst": 1.29
     },
     "Vaduz - Inter Turku": {
-        "Alt": 1.87,
-        "Üst": 1.45
+        "Alt": 1.9,
+        "Üst": 1.43
     },
     "Runavik - Lugano": {
-        "Alt": 2.18,
-        "Üst": 1.31
+        "Alt": 2.22,
+        "Üst": 1.29
     },
     "CSKA Sofya - M. Tel Aviv": {
-        "Alt": 1.66,
-        "Üst": 1.7
-    },
-    "FK Shkendija - Hibernian": {
-        "Alt": 1.75,
-        "Üst": 1.53
-    },
-    "KF Drita - SP Tre Fiori": {
-        "Alt": 1.17,
-        "Üst": 1.66
+        "Alt": 1.68,
+        "Üst": 1.68
     }
 }
