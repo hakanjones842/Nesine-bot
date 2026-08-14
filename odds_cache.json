@@ -1,78 +1,74 @@
 {
-    "Turan Tovuz - Kabala": {
-        "Alt": 1.39,
-        "Üst": 1.96
+    "CSKA 1948 Sofia - Cherno More": {
+        "Alt": 1.46,
+        "Üst": 1.85
     },
-    "Japs - Haka": {
-        "Alt": 1.82,
-        "Üst": 1.49
+    "Galatasaray - Çorum FK": {
+        "Alt": 2.15,
+        "Üst": 1.38
     },
-    "AL Naft - AL Karkh": {
-        "Alt": 1.37,
-        "Üst": 2.02
+    "Esenler Erokspor - Sarıyer": {
+        "Alt": 1.61,
+        "Üst": 1.65
     },
-    "AL Nafit Maysan - AL Julan": {
-        "Alt": 1.4,
-        "Üst": 1.95
+    "St. Polten - Blau Weiss L.": {
+        "Alt": 1.74,
+        "Üst": 1.54
     },
-    "Club Portugalete - Barakaldo": {
-        "Alt": 1.37,
-        "Üst": 2.03
-    },
-    "Marsilya - Atl Madrid": {
-        "Alt": 2.17,
-        "Üst": 1.37
-    },
-    "Be1 Nfa - Hegelmann Litauen B": {
-        "Alt": 2.09,
-        "Üst": 3.64
-    },
-    "B. Honved - Vasas": {
-        "Alt": 1.85,
-        "Üst": 1.46
-    },
-    "Voluntari - Petrolul Ploiesti": {
-        "Alt": 1.41,
-        "Üst": 1.94
-    },
-    "NK Jesenice - NK Krsko": {
-        "Alt": 1.86,
-        "Üst": 1.45
-    },
-    "Parma - Calcio Catania": {
-        "Alt": 1.76,
-        "Üst": 1.61
-    },
-    "Dnepr Mogilev - Belshina": {
-        "Alt": 1.83,
-        "Üst": 1.47
-    },
-    "SK Kladno - S B Vlasim": {
-        "Alt": 1.95,
-        "Üst": 1.4
-    },
-    "Dukla Prag - Slavia Praha B": {
-        "Alt": 1.88,
-        "Üst": 1.44
-    },
-    "Hellerup - FA 2000": {
-        "Alt": 1.7,
-        "Üst": 1.57
-    },
-    "Esteghlal - Mes Shahr e B.": {
-        "Alt": 1.66,
-        "Üst": 1.6
-    },
-    "Kheybar K. - Fajr Sepasi": {
-        "Alt": 1.27,
-        "Üst": 2.28
-    },
-    "FK Transinvest B - Atmosphere": {
+    "Carmarthen - Afan Lido": {
         "Alt": 2.05,
         "Üst": 1.36
     },
-    "FA Siauliai B - Zalgiris B": {
-        "Alt": 2.03,
-        "Üst": 1.36
+    "Newroz SC - AL Jawiya": {
+        "Alt": 1.51,
+        "Üst": 1.77
+    },
+    "R. Sociedad B - Castellon": {
+        "Alt": 1.93,
+        "Üst": 1.49
+    },
+    "Coventry - Monaco": {
+        "Alt": 2.34,
+        "Üst": 1.31
+    },
+    "Balzan - Marsaxlokk": {
+        "Alt": 1.49,
+        "Üst": 1.82
+    },
+    "L. Varşova - Radomiak Radom": {
+        "Alt": 1.78,
+        "Üst": 1.51
+    },
+    "A. Pitesti - Farul Cons.": {
+        "Alt": 1.38,
+        "Üst": 2.0
+    },
+    "Cercle Brugge - St. Truidense": {
+        "Alt": 1.89,
+        "Üst": 1.51
+    },
+    "AC Monza - AS Avellino 1912": {
+        "Alt": 1.6,
+        "Üst": 1.76
+    },
+    "Stade Laval. - Nantes": {
+        "Alt": 1.57,
+        "Üst": 1.81
+    },
+    "Dijon - Pau": {
+        "Alt": 1.53,
+        "Üst": 1.86
+    },
+    "AS Nancy - Montpellier": {
+        "Alt": 1.58,
+        "Üst": 1.79
+    },
+    "Reims - Dunkerque": {
+        "Alt": 1.74,
+        "Üst": 1.62
+    },
+    "Guingamp - US Boulogne": {
+        "Alt": 1.5,
+        "Üst": 1.91
     }
 }
