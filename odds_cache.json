@@ -1,11 +1,7 @@
 {
-    "Boston River - Danubio": {
-        "Alt": 1.39,
-        "Üst": 1.97
-    },
     "Ponte Preta - Nautico PE": {
-        "Alt": 1.51,
-        "Üst": 1.78
+        "Alt": 1.48,
+        "Üst": 1.82
     },
     "Sao Bernardo FC - Botafogo": {
         "Alt": 1.31,
@@ -16,8 +12,8 @@
         "Üst": 3.58
     },
     "U. Concepcion - D. La Serena": {
-        "Alt": 1.57,
-        "Üst": 1.7
+        "Alt": 1.59,
+        "Üst": 1.68
     },
     "Racing Club - Banfield": {
         "Alt": 1.45,
@@ -33,7 +29,7 @@
     },
     "Club Bolivar - S. A. Bulo Bulo": {
         "Alt": 3.83,
-        "Üst": 2.39
+        "Üst": 2.1
     },
     "Independiente D. - Delfin": {
         "Alt": 1.38,
@@ -70,5 +66,9 @@
     "O Connor Knig. - Canberra White Eagles": {
         "Alt": 3.39,
         "Üst": 3.96
+    },
+    "Heidelberg - Hume City": {
+        "Alt": 1.82,
+        "Üst": 1.48
     }
 }
