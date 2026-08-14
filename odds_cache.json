@@ -1,44 +1,4 @@
 {
-    "Fleetwood T. U21 - Colchester Utd U21": {
-        "Alt": 2.98,
-        "Üst": 3.91
-    },
-    "Mbeya City - Geita Gold": {
-        "Alt": 1.35,
-        "Üst": 2.07
-    },
-    "Orenburg - L. Moskova": {
-        "Alt": 1.82,
-        "Üst": 1.57
-    },
-    "A. Dzerzhinsk - Slavia Mozyr": {
-        "Alt": 1.5,
-        "Üst": 1.8
-    },
-    "Al Nasr Dubai - AL Ittihad K.": {
-        "Alt": 1.95,
-        "Üst": 1.4
-    },
-    "TS Tabriz - Paykan": {
-        "Alt": 1.36,
-        "Üst": 2.05
-    },
-    "Vaasan Ps - TPS Turku": {
-        "Alt": 1.8,
-        "Üst": 1.57
-    },
-    "Neftekhimik - Shinnik Yar.": {
-        "Alt": 1.25,
-        "Üst": 3.49
-    },
-    "Pohronie - MFK Bytca": {
-        "Alt": 2.54,
-        "Üst": 3.54
-    },
-    "Epicentr Dunaivtsi - Veres Rivne": {
-        "Alt": 1.48,
-        "Üst": 1.82
-    },
     "Turan Tovuz - Kabala": {
         "Alt": 1.39,
         "Üst": 1.96
@@ -48,27 +8,71 @@
         "Üst": 1.49
     },
     "AL Naft - AL Karkh": {
-        "Alt": 1.38,
-        "Üst": 1.99
+        "Alt": 1.37,
+        "Üst": 2.02
     },
     "AL Nafit Maysan - AL Julan": {
         "Alt": 1.4,
         "Üst": 1.95
     },
     "Club Portugalete - Barakaldo": {
-        "Alt": 1.4,
-        "Üst": 1.96
+        "Alt": 1.37,
+        "Üst": 2.03
     },
     "Marsilya - Atl Madrid": {
-        "Alt": 2.08,
-        "Üst": 1.41
+        "Alt": 2.17,
+        "Üst": 1.37
+    },
+    "Be1 Nfa - Hegelmann Litauen B": {
+        "Alt": 2.09,
+        "Üst": 3.64
     },
     "B. Honved - Vasas": {
-        "Alt": 1.82,
-        "Üst": 1.49
+        "Alt": 1.85,
+        "Üst": 1.46
     },
     "Voluntari - Petrolul Ploiesti": {
-        "Alt": 1.44,
-        "Üst": 1.87
+        "Alt": 1.41,
+        "Üst": 1.94
+    },
+    "NK Jesenice - NK Krsko": {
+        "Alt": 1.86,
+        "Üst": 1.45
+    },
+    "Parma - Calcio Catania": {
+        "Alt": 1.76,
+        "Üst": 1.61
+    },
+    "Dnepr Mogilev - Belshina": {
+        "Alt": 1.83,
+        "Üst": 1.47
+    },
+    "SK Kladno - S B Vlasim": {
+        "Alt": 1.95,
+        "Üst": 1.4
+    },
+    "Dukla Prag - Slavia Praha B": {
+        "Alt": 1.88,
+        "Üst": 1.44
+    },
+    "Hellerup - FA 2000": {
+        "Alt": 1.7,
+        "Üst": 1.57
+    },
+    "Esteghlal - Mes Shahr e B.": {
+        "Alt": 1.66,
+        "Üst": 1.6
+    },
+    "Kheybar K. - Fajr Sepasi": {
+        "Alt": 1.27,
+        "Üst": 2.28
+    },
+    "FK Transinvest B - Atmosphere": {
+        "Alt": 2.05,
+        "Üst": 1.36
+    },
+    "FA Siauliai B - Zalgiris B": {
+        "Alt": 2.03,
+        "Üst": 1.36
     }
 }
