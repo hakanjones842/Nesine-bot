@@ -1,48 +1,4 @@
 {
-    "Dandenong City - Altona Magic": {
-        "Alt": 1.65,
-        "Üst": 1.61
-    },
-    "Tokyo Verdy - Kashiwa": {
-        "Alt": 1.44,
-        "Üst": 2.02
-    },
-    "Oakleigh C. - G. Gully Cavs": {
-        "Alt": 1.66,
-        "Üst": 3.33
-    },
-    "ST Albans S. - Bentleigh G.": {
-        "Alt": 1.81,
-        "Üst": 1.49
-    },
-    "Eltham Redbacks - Manningham Utd": {
-        "Alt": 2.09,
-        "Üst": 3.61
-    },
-    "Bayswater - Stirling Macedonia": {
-        "Alt": 2.15,
-        "Üst": 3.55
-    },
-    "Pamba SC - Dodoma": {
-        "Alt": 3.1,
-        "Üst": 2.92
-    },
-    "Shaanxi Union - Changchun Yatai": {
-        "Alt": 1.78,
-        "Üst": 1.51
-    },
-    "Shandong Taishan - Qingdao Jonoon": {
-        "Alt": 2.67,
-        "Üst": 1.18
-    },
-    "Wuhan T. T. - Shanghai Port": {
-        "Alt": 2.11,
-        "Üst": 1.33
-    },
-    "Qingdao Yth. Is. - Chongqing T.": {
-        "Alt": 1.36,
-        "Üst": 2.03
-    },
     "Fleetwood T. U21 - Colchester Utd U21": {
         "Alt": 2.98,
         "Üst": 3.91
@@ -56,8 +12,8 @@
         "Üst": 1.57
     },
     "A. Dzerzhinsk - Slavia Mozyr": {
-        "Alt": 1.48,
-        "Üst": 1.83
+        "Alt": 1.5,
+        "Üst": 1.8
     },
     "Al Nasr Dubai - AL Ittihad K.": {
         "Alt": 1.95,
@@ -68,7 +24,51 @@
         "Üst": 2.05
     },
     "Vaasan Ps - TPS Turku": {
-        "Alt": 1.77,
-        "Üst": 1.59
+        "Alt": 1.8,
+        "Üst": 1.57
+    },
+    "Neftekhimik - Shinnik Yar.": {
+        "Alt": 1.25,
+        "Üst": 3.49
+    },
+    "Pohronie - MFK Bytca": {
+        "Alt": 2.54,
+        "Üst": 3.54
+    },
+    "Epicentr Dunaivtsi - Veres Rivne": {
+        "Alt": 1.48,
+        "Üst": 1.82
+    },
+    "Turan Tovuz - Kabala": {
+        "Alt": 1.39,
+        "Üst": 1.96
+    },
+    "Japs - Haka": {
+        "Alt": 1.82,
+        "Üst": 1.49
+    },
+    "AL Naft - AL Karkh": {
+        "Alt": 1.38,
+        "Üst": 1.99
+    },
+    "AL Nafit Maysan - AL Julan": {
+        "Alt": 1.4,
+        "Üst": 1.95
+    },
+    "Club Portugalete - Barakaldo": {
+        "Alt": 1.4,
+        "Üst": 1.96
+    },
+    "Marsilya - Atl Madrid": {
+        "Alt": 2.08,
+        "Üst": 1.41
+    },
+    "B. Honved - Vasas": {
+        "Alt": 1.82,
+        "Üst": 1.49
+    },
+    "Voluntari - Petrolul Ploiesti": {
+        "Alt": 1.44,
+        "Üst": 1.87
     }
 }
