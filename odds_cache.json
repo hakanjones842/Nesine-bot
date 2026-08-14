@@ -1,98 +1,74 @@
 {
-    "Brisbane R. II - G. Coast Knights": {
-        "Alt": 1.68,
-        "Üst": 3.7
-    },
-    "Peninsula Power - Brisbane City": {
-        "Alt": 2.21,
-        "Üst": 3.62
-    },
-    "Gold Coast Utd - Suburbs Bri.": {
-        "Alt": 1.3,
-        "Üst": 3.88
-    },
-    "Wolves - Magic Utd Tfa": {
-        "Alt": 2.18,
-        "Üst": 3.75
-    },
-    "Moreton City E. - Queensland L.": {
-        "Alt": 1.31,
-        "Üst": 4.11
-    },
-    "Olympic - Rochedale Rovers": {
-        "Alt": 3.46,
-        "Üst": 4.02
-    },
-    "Sydney NPL Gençler - St George City": {
-        "Alt": 1.76,
-        "Üst": 1.52
-    },
     "Dandenong City - Altona Magic": {
-        "Alt": 1.85,
-        "Üst": 1.46
+        "Alt": 1.65,
+        "Üst": 1.61
     },
     "Tokyo Verdy - Kashiwa": {
-        "Alt": 1.42,
-        "Üst": 2.06
+        "Alt": 1.44,
+        "Üst": 2.02
     },
     "Oakleigh C. - G. Gully Cavs": {
-        "Alt": 2.28,
-        "Üst": 3.5
+        "Alt": 1.66,
+        "Üst": 3.33
     },
     "ST Albans S. - Bentleigh G.": {
-        "Alt": 1.76,
-        "Üst": 1.52
+        "Alt": 1.81,
+        "Üst": 1.49
     },
     "Eltham Redbacks - Manningham Utd": {
-        "Alt": 2.34,
-        "Üst": 3.65
+        "Alt": 2.09,
+        "Üst": 3.61
     },
     "Bayswater - Stirling Macedonia": {
-        "Alt": 2.54,
-        "Üst": 3.65
+        "Alt": 2.15,
+        "Üst": 3.55
     },
     "Pamba SC - Dodoma": {
-        "Alt": 3.2,
-        "Üst": 2.96
+        "Alt": 3.1,
+        "Üst": 2.92
     },
     "Shaanxi Union - Changchun Yatai": {
-        "Alt": 1.84,
-        "Üst": 1.47
+        "Alt": 1.78,
+        "Üst": 1.51
     },
     "Shandong Taishan - Qingdao Jonoon": {
-        "Alt": 2.72,
-        "Üst": 1.17
+        "Alt": 2.67,
+        "Üst": 1.18
     },
     "Wuhan T. T. - Shanghai Port": {
-        "Alt": 2.07,
-        "Üst": 1.35
+        "Alt": 2.11,
+        "Üst": 1.33
     },
     "Qingdao Yth. Is. - Chongqing T.": {
-        "Alt": 1.6,
-        "Üst": 1.67
+        "Alt": 1.36,
+        "Üst": 2.03
     },
     "Fleetwood T. U21 - Colchester Utd U21": {
-        "Alt": 2.94,
-        "Üst": 3.86
+        "Alt": 2.98,
+        "Üst": 3.91
     },
     "Mbeya City - Geita Gold": {
         "Alt": 1.35,
         "Üst": 2.07
     },
     "Orenburg - L. Moskova": {
-        "Alt": 1.9,
-        "Üst": 1.51
+        "Alt": 1.82,
+        "Üst": 1.57
     },
     "A. Dzerzhinsk - Slavia Mozyr": {
-        "Alt": 1.44,
-        "Üst": 1.88
+        "Alt": 1.48,
+        "Üst": 1.83
     },
     "Al Nasr Dubai - AL Ittihad K.": {
         "Alt": 1.95,
         "Üst": 1.4
     },
     "TS Tabriz - Paykan": {
-        "Alt": 1.06,
-        "Üst": 2.3
+        "Alt": 1.36,
+        "Üst": 2.05
+    },
+    "Vaasan Ps - TPS Turku": {
+        "Alt": 1.77,
+        "Üst": 1.59
     }
 }
