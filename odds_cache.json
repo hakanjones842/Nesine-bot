@@ -1,48 +1,4 @@
 {
-    "Sturt Lions - Campbelltown C.": {
-        "Alt": 3.08,
-        "Üst": 3.73
-    },
-    "W. Torrens B. - Adelaide U. Genç": {
-        "Alt": 4.0,
-        "Üst": 1.7
-    },
-    "N. E. Metrostars SC - Croydon Kings": {
-        "Alt": 2.27,
-        "Üst": 3.62
-    },
-    "White City B. - Adelaide City": {
-        "Alt": 2.02,
-        "Üst": 1.37
-    },
-    "West Adelaide - Playford City": {
-        "Alt": 1.71,
-        "Üst": 3.64
-    },
-    "Moreland Zebras - Melbourne Srbija": {
-        "Alt": 2.02,
-        "Üst": 1.37
-    },
-    "Shimizu - Yokohama M.": {
-        "Alt": 1.6,
-        "Üst": 1.76
-    },
-    "Fujieda Myfc - Iwaki": {
-        "Alt": 1.38,
-        "Üst": 1.98
-    },
-    "Cultural Leonesa - Salamanca": {
-        "Alt": 1.56,
-        "Üst": 1.71
-    },
-    "Atl Tordesillas - Guijuelo": {
-        "Alt": 1.48,
-        "Üst": 1.82
-    },
-    "Fagiano - V Varen": {
-        "Alt": 1.57,
-        "Üst": 1.81
-    },
     "Yanbian L. - Dalian Kuncheng C.": {
         "Alt": 1.43,
         "Üst": 1.9
@@ -52,16 +8,16 @@
         "Üst": 1.96
     },
     "Urawa Red - S. Hiroshima": {
-        "Alt": 1.73,
-        "Üst": 1.63
+        "Alt": 1.82,
+        "Üst": 1.57
     },
     "Fukuoka - Cerezo Osaka": {
         "Alt": 1.57,
         "Üst": 1.8
     },
     "Vissel Kobe - Tokyo": {
-        "Alt": 1.51,
-        "Üst": 1.89
+        "Alt": 1.49,
+        "Üst": 1.93
     },
     "Kawasaki Frontale - Kyoto Sanga": {
         "Alt": 1.72,
@@ -72,15 +28,67 @@
         "Üst": 1.95
     },
     "Niigata - Sapporo": {
-        "Alt": 1.47,
-        "Üst": 1.83
+        "Alt": 1.45,
+        "Üst": 1.87
     },
     "Sendai - Oita Trinata": {
         "Alt": 1.41,
-        "Üst": 1.94
+        "Üst": 1.95
     },
     "Imabari - Omiya Ardija": {
-        "Alt": 1.65,
-        "Üst": 1.62
+        "Alt": 1.68,
+        "Üst": 1.59
+    },
+    "S. Bellmare - M. Yamagata": {
+        "Alt": 1.51,
+        "Üst": 1.76
+    },
+    "R. Kumamoto - Tochigi": {
+        "Alt": 1.49,
+        "Üst": 1.81
+    },
+    "Thespakusatsu G. - SC Sagamihara": {
+        "Alt": 1.55,
+        "Üst": 1.73
+    },
+    "Z. Kanazawa - Fukushima Utd": {
+        "Alt": 1.72,
+        "Üst": 1.55
+    },
+    "Renofa Y. - Ryukyu": {
+        "Alt": 1.61,
+        "Üst": 1.66
+    },
+    "FK Garliava - FK Tauras Taurage": {
+        "Alt": 1.86,
+        "Üst": 1.45
+    },
+    "Gneist - Foerde": {
+        "Alt": 1.51,
+        "Üst": 4.02
+    },
+    "Slask W. II - Chojniczanka": {
+        "Alt": 1.93,
+        "Üst": 1.41
+    },
+    "Atletico CP - CD Mafra": {
+        "Alt": 1.43,
+        "Üst": 1.9
+    },
+    "Kryvbas K. R. - Levy Bereg Kiev": {
+        "Alt": 1.63,
+        "Üst": 1.63
+    },
+    "Jeju Utd - Anyang": {
+        "Alt": 1.79,
+        "Üst": 1.58
+    },
+    "Seoul - Daejeon Citizen": {
+        "Alt": 1.7,
+        "Üst": 1.67
+    },
+    "Gwangju - Pohang S.": {
+        "Alt": 1.37,
+        "Üst": 2.19
     }
 }
