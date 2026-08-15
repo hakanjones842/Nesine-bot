@@ -1,28 +1,4 @@
 {
-    "New Old Boys - Dep. Riestra": {
-        "Alt": 1.17,
-        "Üst": 2.98
-    },
-    "Belgrano - Ind. Mendoza": {
-        "Alt": 1.33,
-        "Üst": 2.27
-    },
-    "Quilmes - San Telmo": {
-        "Alt": 1.37,
-        "Üst": 2.03
-    },
-    "Estudiantes - Chac. Juniors": {
-        "Alt": 3.24,
-        "Üst": 2.79
-    },
-    "Alajuelense - Puntarenas": {
-        "Alt": 1.82,
-        "Üst": 1.48
-    },
-    "Montevideo - Cerro Largo": {
-        "Alt": 1.31,
-        "Üst": 2.19
-    },
     "Detroit City - Loudoun Utd": {
         "Alt": 1.85,
         "Üst": 1.46
@@ -86,5 +62,25 @@
     "Montreal I. - DC Utd": {
         "Alt": 1.99,
         "Üst": 1.45
+    },
+    "Charlotte - Columbus Cr.": {
+        "Alt": 1.94,
+        "Üst": 1.48
+    },
+    "Orlando City - Cincinnati": {
+        "Alt": 3.12,
+        "Üst": 1.15
+    },
+    "Tampa Bay - Rhode Island": {
+        "Alt": 1.73,
+        "Üst": 1.55
+    },
+    "Fort Wayne - C. Red Wolves SC": {
+        "Alt": 1.86,
+        "Üst": 1.45
+    },
+    "Blooming - Club Aurora": {
+        "Alt": 1.83,
+        "Üst": 1.47
     }
 }
