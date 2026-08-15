@@ -1,35 +1,27 @@
 {
-    "Monaro P. - Canberra": {
-        "Alt": 3.64,
-        "Üst": 4.16
-    },
-    "Caroline Springs G. C. - Avondale": {
-        "Alt": 2.02,
-        "Üst": 3.33
-    },
     "B. Dortmund U19 - Schalke 04 U19": {
         "Alt": 2.5,
         "Üst": 3.71
     },
     "M. Hollyhock - Gamba Osaka": {
-        "Alt": 1.55,
-        "Üst": 1.83
+        "Alt": 1.52,
+        "Üst": 1.87
     },
     "Kashima - Nagoya": {
-        "Alt": 1.64,
-        "Üst": 1.71
+        "Alt": 1.67,
+        "Üst": 1.69
     },
     "Tochigi City - V. Hachinohe": {
         "Alt": 1.49,
         "Üst": 1.81
     },
     "B. Akita - Kat. Toyama": {
-        "Alt": 1.38,
-        "Üst": 2.0
+        "Alt": 1.4,
+        "Üst": 1.95
     },
     "G. Kitakyushu - Kamatamare S.": {
-        "Alt": 1.46,
-        "Üst": 1.84
+        "Alt": 1.44,
+        "Üst": 1.87
     },
     "Gifu - Kochi Utd SC": {
         "Alt": 1.57,
@@ -44,8 +36,8 @@
         "Üst": 3.84
     },
     "Veszprem - Mosonmagyar.": {
-        "Alt": 1.71,
-        "Üst": 1.56
+        "Alt": 1.68,
+        "Üst": 1.59
     },
     "Paksi II - Ivancsa Kse": {
         "Alt": 1.46,
@@ -58,5 +50,25 @@
     "Sturt Lions - Campbelltown C.": {
         "Alt": 3.17,
         "Üst": 3.73
+    },
+    "W. Torrens B. - Adelaide U. Genç": {
+        "Alt": 3.95,
+        "Üst": 1.66
+    },
+    "N. E. Metrostars SC - Croydon Kings": {
+        "Alt": 2.06,
+        "Üst": 3.56
+    },
+    "White City B. - Adelaide City": {
+        "Alt": 2.02,
+        "Üst": 1.37
+    },
+    "West Adelaide - Playford City": {
+        "Alt": 1.71,
+        "Üst": 3.64
+    },
+    "Moreland Zebras - Melbourne Srbija": {
+        "Alt": 2.02,
+        "Üst": 1.37
     }
 }
