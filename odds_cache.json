@@ -1,86 +1,78 @@
 {
-    "Krasnodar - Akhmat Grozny": {
-        "Alt": 1.87,
-        "Üst": 1.53
-    },
-    "Excelsior - PSV": {
-        "Alt": 3.03,
-        "Üst": 1.16
-    },
-    "Agropecuario A. - Ciudad de Bolivar": {
-        "Alt": 3.29,
-        "Üst": 2.91
-    },
-    "San Miguel - Colegiales": {
-        "Alt": 4.71,
-        "Üst": 3.14
-    },
-    "Dep. Moron - Almagro": {
-        "Alt": 2.69,
-        "Üst": 2.85
-    },
-    "Ferro Carril Oeste - CA Atlanta": {
-        "Alt": 3.28,
-        "Üst": 2.91
-    },
-    "Excelsior V. - Lierse K.": {
-        "Alt": 1.73,
-        "Üst": 1.54
-    },
-    "Viktoria Plzen - Fastav Zlin": {
-        "Alt": 1.94,
-        "Üst": 1.41
-    },
-    "Milford - Kruger Utd": {
-        "Alt": 1.25,
-        "Üst": 2.38
-    },
-    "Durban City 2024 - Richards Bay": {
-        "Alt": 1.19,
-        "Üst": 2.64
-    },
-    "AL Zawraa - AL Minaa": {
-        "Alt": 1.56,
-        "Üst": 1.71
-    },
-    "AL Karma - AL Mosul SC": {
-        "Alt": 1.44,
-        "Üst": 1.87
-    },
-    "Aguilas - Lorca Deportiva": {
-        "Alt": 1.33,
-        "Üst": 2.09
-    },
-    "Orihuela - CD Cieza": {
-        "Alt": 1.7,
-        "Üst": 1.57
-    },
-    "Cruz Azul Hidalgo - Atl Morelia": {
-        "Alt": 1.83,
-        "Üst": 1.48
-    },
-    "A. Deportiva Tarma - Alianza Atl": {
-        "Alt": 1.64,
-        "Üst": 1.64
-    },
-    "AL Nassr - AL Fateh SC": {
-        "Alt": 1.11,
-        "Üst": 1.85
-    },
-    "AL Ittihad - AL Khlood": {
-        "Alt": 1.84,
-        "Üst": 1.46
-    },
-    "Namungo - Young Africans SC": {
-        "Alt": 1.48,
-        "Üst": 1.82
-    },
     "Ludogorets - Botev Plovdiv": {
-        "Alt": 1.9,
-        "Üst": 1.43
+        "Alt": 1.92,
+        "Üst": 1.42
     },
     "Widzew Lodz - Korona Kielce": {
         "Alt": 1.47,
         "Üst": 1.83
+    },
+    "O. Ljubljana - NK Maribor": {
+        "Alt": 1.53,
+        "Üst": 1.75
+    },
+    "Gençlerbirliği - Fenerbahçe": {
+        "Alt": 1.76,
+        "Üst": 1.61
+    },
+    "Gaziantep FK - Alanyaspor": {
+        "Alt": 1.55,
+        "Üst": 1.83
+    },
+    "Manisa FK - Vanspor FK": {
+        "Alt": 1.67,
+        "Üst": 1.6
+    },
+    "Bursaspor - Iğdır FK": {
+        "Alt": 1.64,
+        "Üst": 1.63
+    },
+    "Kaiserslautern - Karlsruhe": {
+        "Alt": 2.14,
+        "Üst": 1.38
+    },
+    "Rapid 1923 - D. Bükreş": {
+        "Alt": 1.56,
+        "Üst": 1.72
+    },
+    "Z. Podbrezova - AS Trencin": {
+        "Alt": 2.31,
+        "Üst": 1.26
+    },
+    "KRC Genk - Westerlo": {
+        "Alt": 2.83,
+        "Üst": 1.19
+    },
+    "O. H. Leuven - Club Brugge": {
+        "Alt": 2.37,
+        "Üst": 1.31
+    },
+    "Venezia - Modena": {
+        "Alt": 1.83,
+        "Üst": 1.56
+    },
+    "F. Sittard - SC Cambuur": {
+        "Alt": 2.26,
+        "Üst": 1.34
+    },
+    "Mitre Santia - CA Guemes": {
+        "Alt": 2.63,
+        "Üst": 2.83
+    },
+    "Cdt Real Oruro - O. Petrolero": {
+        "Alt": 2.64,
+        "Üst": 3.67
+    },
+    "Ceara CE - Cuiaba": {
+        "Alt": 1.22,
+        "Üst": 2.47
+    },
+    "Atl Goianiense - Vila Nova": {
+        "Alt": 1.38,
+        "Üst": 2.01
+    },
+    "Criciuma - Goias GO": {
+        "Alt": 1.3,
+        "Üst": 2.19
     }
 }
