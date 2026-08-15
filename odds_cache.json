@@ -1,82 +1,98 @@
 {
-    "Gomel - Naftan Novopolotsk": {
-        "Alt": 1.81,
-        "Üst": 1.49
+    "U. S. Gilloise - Zulte Waregem": {
+        "Alt": 1.91,
+        "Üst": 1.5
     },
-    "Hoek - Koninklijke": {
-        "Alt": 1.97,
-        "Üst": 1.39
+    "Chemnitz - Erzgebirge A.": {
+        "Alt": 3.88,
+        "Üst": 3.94
     },
-    "Kudrivka - Obolon Kiev": {
-        "Alt": 3.77,
-        "Üst": 3.15
+    "Slutsk - Osipovichi": {
+        "Alt": 2.34,
+        "Üst": 3.66
     },
-    "Zaglebie Lubin - Slask Wroclaw": {
-        "Alt": 1.55,
+    "UNI Minsk - Orsha": {
+        "Alt": 2.39,
+        "Üst": 3.55
+    },
+    "Patro M. - RSC Anderlecht U23": {
+        "Alt": 1.84,
+        "Üst": 1.46
+    },
+    "Eupen - J. KRC Genk U23": {
+        "Alt": 1.98,
+        "Üst": 1.38
+    },
+    "Arsenal Ceska L. - Karvina": {
+        "Alt": 1.87,
+        "Üst": 1.45
+    },
+    "HB Koege - Hvidovre": {
+        "Alt": 1.87,
+        "Üst": 1.44
+    },
+    "Tampere Utd - TPV": {
+        "Alt": 2.67,
+        "Üst": 1.18
+    },
+    "Ols Oulu - Rovaniemen": {
+        "Alt": 2.58,
+        "Üst": 1.19
+    },
+    "Portsmouth - QPR": {
+        "Alt": 1.47,
+        "Üst": 1.96
+    },
+    "Stoke City - Swansea City": {
+        "Alt": 1.61,
+        "Üst": 1.76
+    },
+    "Bristol City - Millwall": {
+        "Alt": 1.63,
         "Üst": 1.72
     },
-    "Singapur - Tayland": {
-        "Alt": 1.42,
-        "Üst": 1.93
+    "Norwich City - W. Bromwich": {
+        "Alt": 1.63,
+        "Üst": 1.73
     },
-    "Soligorsk - Niva Dolbizno": {
-        "Alt": 1.4,
-        "Üst": 3.81
+    "Middlesbrough - Lincoln City": {
+        "Alt": 1.83,
+        "Üst": 1.55
     },
-    "ASA Aarhus - Vanlose": {
+    "Charlton - Derby County": {
+        "Alt": 1.44,
+        "Üst": 2.0
+    },
+    "Bradford - Peterborough": {
+        "Alt": 1.86,
+        "Üst": 1.45
+    },
+    "Plymouth - Stockport": {
         "Alt": 1.79,
         "Üst": 1.51
     },
-    "Salpa - Jazz": {
-        "Alt": 2.36,
-        "Üst": 1.25
+    "Barnsley - Bromley": {
+        "Alt": 1.7,
+        "Üst": 1.57
     },
-    "Jippo - SJK Akatemia": {
-        "Alt": 1.77,
-        "Üst": 1.51
+    "Blackpool - Wycombe": {
+        "Alt": 1.6,
+        "Üst": 1.66
     },
-    "Kaizer Chiefs - Mamel Sundow": {
-        "Alt": 1.35,
-        "Üst": 2.07
+    "Mansfield - Doncaster": {
+        "Alt": 1.65,
+        "Üst": 1.62
     },
-    "AmaZulu - Siwelele": {
-        "Alt": 1.25,
-        "Üst": 2.34
+    "Leyton Orient - S. Wednesday": {
+        "Alt": 1.61,
+        "Üst": 1.65
     },
-    "KVV Quick Boys - Rkav Volendam": {
-        "Alt": 1.78,
-        "Üst": 3.33
+    "Cambridge - Wigan Ath": {
+        "Alt": 1.46,
+        "Üst": 1.85
     },
-    "Kozakken Boys - Ijsselmeervogels": {
-        "Alt": 2.02,
-        "Üst": 1.37
-    },
-    "J. S. Rotterdam - Rohda Raalte": {
-        "Alt": 3.11,
-        "Üst": 3.69
-    },
-    "Spakenburg - Katwijk": {
-        "Alt": 3.06,
-        "Üst": 3.81
-    },
-    "BVV Barendrecht - HHC Hardenberg": {
-        "Alt": 1.58,
-        "Üst": 3.65
-    },
-    "Mjallby - IK Sirius": {
-        "Alt": 1.95,
-        "Üst": 1.48
-    },
-    "Sundsvall - Helsingborg": {
+    "Huddersfield - Wimbledon": {
         "Alt": 1.79,
         "Üst": 1.5
-    },
-    "Utd IK Nordic - Varbergs": {
-        "Alt": 1.79,
-        "Üst": 1.5
-    },
-    "K. Almaty - Ulytau": {
-        "Alt": 1.94,
-        "Üst": 1.41
     }
 }
