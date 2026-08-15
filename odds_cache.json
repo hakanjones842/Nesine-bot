@@ -1,55 +1,11 @@
 {
-    "Godoy Cruz - CD Maipu": {
-        "Alt": 1.31,
-        "Üst": 2.19
-    },
-    "Genesis PN - Platense": {
-        "Alt": 1.55,
-        "Üst": 1.73
-    },
-    "Cavalry - Forge": {
-        "Alt": 1.45,
-        "Üst": 1.86
-    },
-    "Guabira M. - Strongest": {
-        "Alt": 1.91,
-        "Üst": 1.43
-    },
-    "Paranaense - Bragantino": {
-        "Alt": 1.49,
-        "Üst": 1.94
-    },
-    "Juventude - Fortaleza CE": {
-        "Alt": 1.26,
-        "Üst": 2.32
-    },
-    "Guayaquil - Libertad Loja": {
-        "Alt": 1.46,
-        "Üst": 1.84
-    },
-    "CD Aguila - Atletico Balboa": {
-        "Alt": 1.63,
-        "Üst": 1.63
-    },
-    "Fuerte San Francisco - Metapan": {
-        "Alt": 1.42,
-        "Üst": 1.93
-    },
-    "Deportes Limache - U. Chile": {
-        "Alt": 1.95,
-        "Üst": 1.4
-    },
-    "Ucv - Caracas": {
-        "Alt": 1.69,
-        "Üst": 1.58
-    },
     "New Old Boys - Dep. Riestra": {
-        "Alt": 1.18,
-        "Üst": 2.91
+        "Alt": 1.17,
+        "Üst": 2.98
     },
     "Belgrano - Ind. Mendoza": {
-        "Alt": 1.31,
-        "Üst": 2.34
+        "Alt": 1.33,
+        "Üst": 2.27
     },
     "Quilmes - San Telmo": {
         "Alt": 1.37,
@@ -65,7 +21,7 @@
     },
     "Montevideo - Cerro Largo": {
         "Alt": 1.31,
-        "Üst": 2.15
+        "Üst": 2.19
     },
     "Detroit City - Loudoun Utd": {
         "Alt": 1.85,
@@ -78,5 +34,57 @@
     "Sporting Jax - Indy Eleven": {
         "Alt": 1.97,
         "Üst": 1.39
+    },
+    "Pittsburgh R. - Charleston": {
+        "Alt": 1.51,
+        "Üst": 1.76
+    },
+    "Westchester SC - Naples": {
+        "Alt": 1.81,
+        "Üst": 1.49
+    },
+    "Charlotte Ind. - Sarasota Paradise": {
+        "Alt": 2.57,
+        "Üst": 3.5
+    },
+    "New York Cosmos - Av Alta": {
+        "Alt": 1.31,
+        "Üst": 3.88
+    },
+    "Greenville T. - One Knoxville SC": {
+        "Alt": 1.87,
+        "Üst": 1.45
+    },
+    "Dep. Guastatoya - Municipal": {
+        "Alt": 1.34,
+        "Üst": 2.09
+    },
+    "Atlante - D. Toluca": {
+        "Alt": 1.95,
+        "Üst": 1.4
+    },
+    "Rancho Santana - Walter Ferretti": {
+        "Alt": 1.87,
+        "Üst": 1.45
+    },
+    "Portuguesa - Trujillanos": {
+        "Alt": 1.46,
+        "Üst": 1.84
+    },
+    "Lobos Upnfm - CD Estrella Roja": {
+        "Alt": 1.43,
+        "Üst": 1.91
+    },
+    "Atlanta Utd - NY Red Bulls": {
+        "Alt": 2.53,
+        "Üst": 1.25
+    },
+    "Toronto - N. E. Revolution": {
+        "Alt": 1.98,
+        "Üst": 1.45
+    },
+    "Montreal I. - DC Utd": {
+        "Alt": 1.99,
+        "Üst": 1.45
     }
 }
