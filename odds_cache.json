@@ -1,94 +1,82 @@
 {
-    "Yanbian L. - Dalian Kuncheng C.": {
-        "Alt": 1.43,
-        "Üst": 1.9
+    "Rodina Moscow - Akron Tolyatti": {
+        "Alt": 1.89,
+        "Üst": 1.51
     },
-    "JEF Utd - Machida Zelvia": {
-        "Alt": 1.47,
-        "Üst": 1.96
+    "Osnabrück - Magdeburg": {
+        "Alt": 2.14,
+        "Üst": 1.38
     },
-    "Urawa Red - S. Hiroshima": {
-        "Alt": 1.82,
-        "Üst": 1.57
+    "Hertha Berlin - Heidenheim": {
+        "Alt": 4.09,
+        "Üst": 1.31
     },
-    "Fukuoka - Cerezo Osaka": {
-        "Alt": 1.57,
-        "Üst": 1.8
+    "G. Furth - Nürnberg": {
+        "Alt": 1.95,
+        "Üst": 1.47
     },
-    "Vissel Kobe - Tokyo": {
-        "Alt": 1.49,
-        "Üst": 1.93
+    "Hamburger U19 - W. Bremen U19": {
+        "Alt": 2.35,
+        "Üst": 3.82
     },
-    "Kawasaki Frontale - Kyoto Sanga": {
-        "Alt": 1.72,
-        "Üst": 1.63
-    },
-    "Ventforet - Tegevajaro Mi.": {
-        "Alt": 1.4,
-        "Üst": 1.95
-    },
-    "Niigata - Sapporo": {
-        "Alt": 1.45,
-        "Üst": 1.87
-    },
-    "Sendai - Oita Trinata": {
-        "Alt": 1.41,
-        "Üst": 1.95
-    },
-    "Imabari - Omiya Ardija": {
-        "Alt": 1.68,
-        "Üst": 1.59
-    },
-    "S. Bellmare - M. Yamagata": {
-        "Alt": 1.51,
-        "Üst": 1.76
-    },
-    "R. Kumamoto - Tochigi": {
-        "Alt": 1.49,
-        "Üst": 1.81
-    },
-    "Thespakusatsu G. - SC Sagamihara": {
-        "Alt": 1.55,
-        "Üst": 1.73
-    },
-    "Z. Kanazawa - Fukushima Utd": {
-        "Alt": 1.72,
-        "Üst": 1.55
-    },
-    "Renofa Y. - Ryukyu": {
-        "Alt": 1.61,
-        "Üst": 1.66
-    },
-    "FK Garliava - FK Tauras Taurage": {
+    "Liaoning S. - Sh. Peng City": {
         "Alt": 1.86,
         "Üst": 1.45
     },
-    "Gneist - Foerde": {
-        "Alt": 1.51,
-        "Üst": 4.02
+    "Wuxi Wuguo - Guangzhou E Power": {
+        "Alt": 1.86,
+        "Üst": 1.45
     },
-    "Slask W. II - Chojniczanka": {
+    "Hilleroed - Aarhus Fremad": {
+        "Alt": 1.81,
+        "Üst": 1.49
+    },
+    "Ringsted IF - Holstebro BK": {
+        "Alt": 1.31,
+        "Üst": 3.98
+    },
+    "Holbaek - Sundby BK": {
+        "Alt": 1.76,
+        "Üst": 3.38
+    },
+    "Ljungskile - Osters": {
+        "Alt": 2.15,
+        "Üst": 1.31
+    },
+    "Torslanda - Dalstorps IF": {
+        "Alt": 1.87,
+        "Üst": 1.44
+    },
+    "Jonsereds IF - Onsala BK": {
+        "Alt": 1.36,
+        "Üst": 3.82
+    },
+    "Lilla Torg FF - Karlskrona": {
+        "Alt": 2.5,
+        "Üst": 3.47
+    },
+    "Smedby AIS - IF Eker Orebro": {
+        "Alt": 2.41,
+        "Üst": 3.73
+    },
+    "Karlslund - IFK Haninge": {
+        "Alt": 2.12,
+        "Üst": 3.59
+    },
+    "Angby IF - Kungsangens IF": {
+        "Alt": 1.95,
+        "Üst": 3.32
+    },
+    "IFK Lidingo FK - Viggbyholms IK FF": {
+        "Alt": 2.02,
+        "Üst": 1.38
+    },
+    "Bodens Bk - Gottne IF": {
+        "Alt": 1.31,
+        "Üst": 1.09
+    },
+    "Notodden - Brattvag": {
         "Alt": 1.93,
         "Üst": 1.41
-    },
-    "Atletico CP - CD Mafra": {
-        "Alt": 1.43,
-        "Üst": 1.9
-    },
-    "Kryvbas K. R. - Levy Bereg Kiev": {
-        "Alt": 1.63,
-        "Üst": 1.63
-    },
-    "Jeju Utd - Anyang": {
-        "Alt": 1.79,
-        "Üst": 1.58
-    },
-    "Seoul - Daejeon Citizen": {
-        "Alt": 1.7,
-        "Üst": 1.67
-    },
-    "Gwangju - Pohang S.": {
-        "Alt": 1.37,
-        "Üst": 2.19
     }
 }
