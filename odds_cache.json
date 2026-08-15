@@ -1,12 +1,4 @@
 {
-    "Estudiante Merida - Academia Anzoategui": {
-        "Alt": 1.56,
-        "Üst": 1.71
-    },
-    "CD Los Chankas - Melgar": {
-        "Alt": 1.69,
-        "Üst": 1.58
-    },
     "Godoy Cruz - CD Maipu": {
         "Alt": 1.31,
         "Üst": 2.19
@@ -28,8 +20,8 @@
         "Üst": 1.94
     },
     "Juventude - Fortaleza CE": {
-        "Alt": 1.27,
-        "Üst": 2.27
+        "Alt": 1.26,
+        "Üst": 2.32
     },
     "Guayaquil - Libertad Loja": {
         "Alt": 1.46,
@@ -44,16 +36,16 @@
         "Üst": 1.93
     },
     "Deportes Limache - U. Chile": {
-        "Alt": 1.92,
-        "Üst": 1.42
+        "Alt": 1.95,
+        "Üst": 1.4
     },
     "Ucv - Caracas": {
         "Alt": 1.69,
         "Üst": 1.58
     },
     "New Old Boys - Dep. Riestra": {
-        "Alt": 1.19,
-        "Üst": 2.9
+        "Alt": 1.18,
+        "Üst": 2.91
     },
     "Belgrano - Ind. Mendoza": {
         "Alt": 1.31,
@@ -70,5 +62,21 @@
     "Alajuelense - Puntarenas": {
         "Alt": 1.82,
         "Üst": 1.48
+    },
+    "Montevideo - Cerro Largo": {
+        "Alt": 1.31,
+        "Üst": 2.15
+    },
+    "Detroit City - Loudoun Utd": {
+        "Alt": 1.85,
+        "Üst": 1.46
+    },
+    "Hartford Ath - Miami": {
+        "Alt": 1.76,
+        "Üst": 1.52
+    },
+    "Sporting Jax - Indy Eleven": {
+        "Alt": 1.97,
+        "Üst": 1.39
     }
 }
