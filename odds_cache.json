@@ -1,43 +1,35 @@
 {
-    "Melb. Sharks - Melbourne K.": {
-        "Alt": 3.48,
-        "Üst": 1.96
-    },
     "O Connor Knig. - Canberra White Eagles": {
-        "Alt": 3.08,
-        "Üst": 3.86
+        "Alt": 2.89,
+        "Üst": 3.79
     },
     "Heidelberg - Hume City": {
         "Alt": 1.82,
         "Üst": 1.48
     },
-    "Melbourne City 2 - South Melbourne": {
-        "Alt": 2.12,
-        "Üst": 3.36
-    },
     "WS Wanderers U23 - ST George Saints": {
-        "Alt": 3.33,
-        "Üst": 3.77
+        "Alt": 3.46,
+        "Üst": 3.84
     },
     "SKA Khabarovsk - Veles Mos.": {
-        "Alt": 1.34,
-        "Üst": 2.08
+        "Alt": 1.33,
+        "Üst": 2.12
     },
     "Apia Leic. - SD Raiders": {
-        "Alt": 2.02,
-        "Üst": 3.46
+        "Alt": 2.03,
+        "Üst": 3.41
     },
     "Perth Glory II - Fremantle City": {
         "Alt": 1.41,
-        "Üst": 3.97
+        "Üst": 3.99
     },
     "Oly. Kingsway - Sorrento": {
-        "Alt": 2.19,
-        "Üst": 3.59
+        "Alt": 2.16,
+        "Üst": 3.65
     },
     "Perth SC - Perth Redstar": {
-        "Alt": 3.63,
-        "Üst": 3.89
+        "Alt": 3.75,
+        "Üst": 3.94
     },
     "Western Knights SC - Balcatta": {
         "Alt": 2.43,
@@ -48,8 +40,8 @@
         "Üst": 4.1
     },
     "Sydney Oly. - Sydney Utd 58": {
-        "Alt": 1.83,
-        "Üst": 1.48
+        "Alt": 1.73,
+        "Üst": 1.55
     },
     "Manly Utd - NWS Spirit U23": {
         "Alt": 1.63,
@@ -78,5 +70,9 @@
     "Kashima - Nagoya": {
         "Alt": 1.6,
         "Üst": 1.76
+    },
+    "Tochigi City - V. Hachinohe": {
+        "Alt": 1.49,
+        "Üst": 1.81
     }
 }
