@@ -1,63 +1,15 @@
 {
-    "B. Dortmund U19 - Schalke 04 U19": {
-        "Alt": 2.5,
-        "Üst": 3.71
-    },
-    "M. Hollyhock - Gamba Osaka": {
-        "Alt": 1.52,
-        "Üst": 1.87
-    },
-    "Kashima - Nagoya": {
-        "Alt": 1.67,
-        "Üst": 1.69
-    },
-    "Tochigi City - V. Hachinohe": {
-        "Alt": 1.49,
-        "Üst": 1.81
-    },
-    "B. Akita - Kat. Toyama": {
-        "Alt": 1.4,
-        "Üst": 1.95
-    },
-    "G. Kitakyushu - Kamatamare S.": {
-        "Alt": 1.44,
-        "Üst": 1.87
-    },
-    "Gifu - Kochi Utd SC": {
-        "Alt": 1.57,
-        "Üst": 1.7
-    },
-    "Gimnastica S. - Unionistas": {
-        "Alt": 1.61,
-        "Üst": 1.65
-    },
-    "Egri - Nyiregyhaza Spartacus II": {
-        "Alt": 3.5,
-        "Üst": 3.84
-    },
-    "Veszprem - Mosonmagyar.": {
-        "Alt": 1.68,
-        "Üst": 1.59
-    },
-    "Paksi II - Ivancsa Kse": {
-        "Alt": 1.46,
-        "Üst": 3.81
-    },
-    "Y. Krasnoyarsk - Kamaz Chelny": {
-        "Alt": 1.47,
-        "Üst": 1.83
-    },
     "Sturt Lions - Campbelltown C.": {
-        "Alt": 3.17,
+        "Alt": 3.08,
         "Üst": 3.73
     },
     "W. Torrens B. - Adelaide U. Genç": {
-        "Alt": 3.95,
-        "Üst": 1.66
+        "Alt": 4.0,
+        "Üst": 1.7
     },
     "N. E. Metrostars SC - Croydon Kings": {
-        "Alt": 2.06,
-        "Üst": 3.56
+        "Alt": 2.27,
+        "Üst": 3.62
     },
     "White City B. - Adelaide City": {
         "Alt": 2.02,
@@ -70,5 +22,65 @@
     "Moreland Zebras - Melbourne Srbija": {
         "Alt": 2.02,
         "Üst": 1.37
+    },
+    "Shimizu - Yokohama M.": {
+        "Alt": 1.6,
+        "Üst": 1.76
+    },
+    "Fujieda Myfc - Iwaki": {
+        "Alt": 1.38,
+        "Üst": 1.98
+    },
+    "Cultural Leonesa - Salamanca": {
+        "Alt": 1.56,
+        "Üst": 1.71
+    },
+    "Atl Tordesillas - Guijuelo": {
+        "Alt": 1.48,
+        "Üst": 1.82
+    },
+    "Fagiano - V Varen": {
+        "Alt": 1.57,
+        "Üst": 1.81
+    },
+    "Yanbian L. - Dalian Kuncheng C.": {
+        "Alt": 1.43,
+        "Üst": 1.9
+    },
+    "JEF Utd - Machida Zelvia": {
+        "Alt": 1.47,
+        "Üst": 1.96
+    },
+    "Urawa Red - S. Hiroshima": {
+        "Alt": 1.73,
+        "Üst": 1.63
+    },
+    "Fukuoka - Cerezo Osaka": {
+        "Alt": 1.57,
+        "Üst": 1.8
+    },
+    "Vissel Kobe - Tokyo": {
+        "Alt": 1.51,
+        "Üst": 1.89
+    },
+    "Kawasaki Frontale - Kyoto Sanga": {
+        "Alt": 1.72,
+        "Üst": 1.63
+    },
+    "Ventforet - Tegevajaro Mi.": {
+        "Alt": 1.4,
+        "Üst": 1.95
+    },
+    "Niigata - Sapporo": {
+        "Alt": 1.47,
+        "Üst": 1.83
+    },
+    "Sendai - Oita Trinata": {
+        "Alt": 1.41,
+        "Üst": 1.94
+    },
+    "Imabari - Omiya Ardija": {
+        "Alt": 1.65,
+        "Üst": 1.62
     }
 }
