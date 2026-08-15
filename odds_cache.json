@@ -1,74 +1,86 @@
 {
-    "A. de Viseu - Santa Clara": {
-        "Alt": 1.37,
-        "Üst": 2.17
+    "Krasnodar - Akhmat Grozny": {
+        "Alt": 1.87,
+        "Üst": 1.53
     },
-    "Phonix Lubeck - Lubeck": {
-        "Alt": 1.92,
-        "Üst": 1.42
+    "Excelsior - PSV": {
+        "Alt": 3.03,
+        "Üst": 1.16
     },
-    "Bate Borisov - Vitebsk": {
-        "Alt": 1.38,
-        "Üst": 2.0
+    "Agropecuario A. - Ciudad de Bolivar": {
+        "Alt": 3.29,
+        "Üst": 2.91
     },
-    "KTP Kotka - Kapa": {
-        "Alt": 2.65,
-        "Üst": 1.18
+    "San Miguel - Colegiales": {
+        "Alt": 4.71,
+        "Üst": 3.14
     },
-    "Torpedo - Iberia 1999": {
-        "Alt": 1.52,
-        "Üst": 1.76
+    "Dep. Moron - Almagro": {
+        "Alt": 2.69,
+        "Üst": 2.85
     },
-    "Cadiz - Celta Vigo B": {
-        "Alt": 1.68,
-        "Üst": 1.68
+    "Ferro Carril Oeste - CA Atlanta": {
+        "Alt": 3.28,
+        "Üst": 2.91
     },
-    "Real Oviedo - Granada": {
-        "Alt": 1.32,
-        "Üst": 2.28
+    "Excelsior V. - Lierse K.": {
+        "Alt": 1.73,
+        "Üst": 1.54
     },
-    "Toulouse - Hamburg": {
-        "Alt": 1.82,
-        "Üst": 1.56
+    "Viktoria Plzen - Fastav Zlin": {
+        "Alt": 1.94,
+        "Üst": 1.41
     },
-    "Dacia Buiucani - Petrocub": {
-        "Alt": 1.65,
-        "Üst": 1.61
+    "Milford - Kruger Utd": {
+        "Alt": 1.25,
+        "Üst": 2.38
     },
-    "Resovia - GKS Tychy": {
-        "Alt": 1.68,
-        "Üst": 1.59
+    "Durban City 2024 - Richards Bay": {
+        "Alt": 1.19,
+        "Üst": 2.64
     },
-    "Torreense - Penafiel": {
-        "Alt": 1.48,
-        "Üst": 1.83
+    "AL Zawraa - AL Minaa": {
+        "Alt": 1.56,
+        "Üst": 1.71
     },
-    "Radnik Surdu. - FK M. Sabac": {
-        "Alt": 1.51,
-        "Üst": 1.78
+    "AL Karma - AL Mosul SC": {
+        "Alt": 1.44,
+        "Üst": 1.87
     },
-    "Primorje Ajdovscina - Jadran Dekani": {
+    "Aguilas - Lorca Deportiva": {
+        "Alt": 1.33,
+        "Üst": 2.09
+    },
+    "Orihuela - CD Cieza": {
         "Alt": 1.7,
         "Üst": 1.57
     },
-    "NK Brezice 1919 - NK Dren Vrhnika": {
-        "Alt": 1.66,
-        "Üst": 1.6
+    "Cruz Azul Hidalgo - Atl Morelia": {
+        "Alt": 1.83,
+        "Üst": 1.48
     },
-    "Alaves - Getafe": {
-        "Alt": 1.2,
-        "Üst": 2.8
+    "A. Deportiva Tarma - Alianza Atl": {
+        "Alt": 1.64,
+        "Üst": 1.64
     },
-    "B. Münih (K) - Wolfsburg (K)": {
-        "Alt": 1.94,
-        "Üst": 3.55
+    "AL Nassr - AL Fateh SC": {
+        "Alt": 1.11,
+        "Üst": 1.85
     },
-    "San Lorenzo - Union Santa Fe": {
-        "Alt": 1.34,
-        "Üst": 2.26
+    "AL Ittihad - AL Khlood": {
+        "Alt": 1.84,
+        "Üst": 1.46
     },
-    "Aldosivi - CA Tigre": {
-        "Alt": 1.19,
-        "Üst": 2.82
+    "Namungo - Young Africans SC": {
+        "Alt": 1.48,
+        "Üst": 1.82
+    },
+    "Ludogorets - Botev Plovdiv": {
+        "Alt": 1.9,
+        "Üst": 1.43
+    },
+    "Widzew Lodz - Korona Kielce": {
+        "Alt": 1.47,
+        "Üst": 1.83
     }
 }
