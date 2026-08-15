@@ -1,36 +1,4 @@
 {
-    "Torino - Carrarese C.": {
-        "Alt": 1.91,
-        "Üst": 1.5
-    },
-    "Sevilla - Vallecano": {
-        "Alt": 1.34,
-        "Üst": 2.25
-    },
-    "Rio Ave - Porto": {
-        "Alt": 1.8,
-        "Üst": 1.57
-    },
-    "Fluminense - Palmeiras SP": {
-        "Alt": 1.45,
-        "Üst": 1.99
-    },
-    "Colon - Patronato": {
-        "Alt": 2.63,
-        "Üst": 2.85
-    },
-    "Mallorca - Real Valladolid": {
-        "Alt": 1.64,
-        "Üst": 1.71
-    },
-    "R. Montevideo - Nacional": {
-        "Alt": 1.36,
-        "Üst": 2.03
-    },
-    "Estudiantes - Gimnasia": {
-        "Alt": 1.28,
-        "Üst": 2.44
-    },
     "Estudiante Merida - Academia Anzoategui": {
         "Alt": 1.56,
         "Üst": 1.71
@@ -70,5 +38,37 @@
     "CD Aguila - Atletico Balboa": {
         "Alt": 1.63,
         "Üst": 1.63
+    },
+    "Fuerte San Francisco - Metapan": {
+        "Alt": 1.42,
+        "Üst": 1.93
+    },
+    "Deportes Limache - U. Chile": {
+        "Alt": 1.92,
+        "Üst": 1.42
+    },
+    "Ucv - Caracas": {
+        "Alt": 1.69,
+        "Üst": 1.58
+    },
+    "New Old Boys - Dep. Riestra": {
+        "Alt": 1.19,
+        "Üst": 2.9
+    },
+    "Belgrano - Ind. Mendoza": {
+        "Alt": 1.31,
+        "Üst": 2.34
+    },
+    "Quilmes - San Telmo": {
+        "Alt": 1.37,
+        "Üst": 2.03
+    },
+    "Estudiantes - Chac. Juniors": {
+        "Alt": 3.24,
+        "Üst": 2.79
+    },
+    "Alajuelense - Puntarenas": {
+        "Alt": 1.82,
+        "Üst": 1.48
     }
 }
