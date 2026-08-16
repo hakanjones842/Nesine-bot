@@ -1,39 +1,7 @@
 {
-    "Union Omaha SC - Richmond": {
-        "Alt": 2.26,
-        "Üst": 3.58
-    },
-    "CD Suchitepequez - CD Marquense": {
-        "Alt": 2.81,
-        "Üst": 2.93
-    },
-    "America - Atl San Luis": {
-        "Alt": 1.67,
-        "Üst": 1.59
-    },
-    "Carabobo - Metropolitan": {
-        "Alt": 1.63,
-        "Üst": 1.64
-    },
-    "C. Cordoba - Instituto": {
-        "Alt": 1.29,
-        "Üst": 2.4
-    },
-    "CD Olimpia - Motagua": {
-        "Alt": 1.47,
-        "Üst": 1.83
-    },
-    "Independiente P. - GV San Jose": {
-        "Alt": 2.02,
-        "Üst": 1.37
-    },
-    "CS Cienciano - Deportivo Garcilaso": {
-        "Alt": 1.62,
-        "Üst": 1.64
-    },
     "SD Aucas - LDU Quito": {
-        "Alt": 1.41,
-        "Üst": 1.93
+        "Alt": 1.39,
+        "Üst": 1.96
     },
     "Platense M. - CD Fas": {
         "Alt": 1.48,
@@ -48,11 +16,55 @@
         "Üst": 1.47
     },
     "Santos Laguna - CD Guadalajara": {
-        "Alt": 2.07,
+        "Alt": 2.08,
         "Üst": 1.35
     },
     "S. Sounders - V. Whitecaps": {
         "Alt": 2.09,
         "Üst": 1.4
+    },
+    "Club Tijuana - Cruz Azul": {
+        "Alt": 1.63,
+        "Üst": 1.63
+    },
+    "Melbourne V. Gençler - Northcote City": {
+        "Alt": 1.31,
+        "Üst": 3.94
+    },
+    "Bulleen Lions - North Sunshine Eagles": {
+        "Alt": 2.54,
+        "Üst": 3.56
+    },
+    "Swansea U21 - Sheffield Utd U21": {
+        "Alt": 3.12,
+        "Üst": 3.84
+    },
+    "Molde II - Rosenborg 2": {
+        "Alt": 1.74,
+        "Üst": 4.07
+    },
+    "Gnistan - Tampereen I.": {
+        "Alt": 2.09,
+        "Üst": 1.4
+    },
+    "FK Auda - Grobinas SC": {
+        "Alt": 2.02,
+        "Üst": 1.37
+    },
+    "Siauliai - FK Panevezys": {
+        "Alt": 1.9,
+        "Üst": 1.43
+    },
+    "S. Bratislava B - FK Humenne": {
+        "Alt": 1.72,
+        "Üst": 1.56
+    },
+    "Polissya Zhytomyr - Zorya Luhansk": {
+        "Alt": 1.6,
+        "Üst": 1.67
+    },
+    "Karabağ - Shamakhi FK": {
+        "Alt": 1.92,
+        "Üst": 3.35
     }
 }
