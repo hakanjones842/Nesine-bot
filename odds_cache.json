@@ -1,31 +1,15 @@
 {
-    "CD Inca - Angel Firpo": {
-        "Alt": 1.83,
-        "Üst": 1.48
-    },
-    "M. Per. Zeledon - Inter San Carlos": {
-        "Alt": 1.82,
-        "Üst": 1.48
-    },
-    "P. Hearts of Pine - Forward M.": {
-        "Alt": 1.93,
-        "Üst": 1.42
-    },
-    "Dep. La Gua. - Zamora": {
-        "Alt": 1.32,
-        "Üst": 2.14
-    },
     "Union Omaha SC - Richmond": {
-        "Alt": 2.35,
-        "Üst": 3.59
+        "Alt": 2.26,
+        "Üst": 3.58
     },
     "CD Suchitepequez - CD Marquense": {
         "Alt": 2.81,
         "Üst": 2.93
     },
     "America - Atl San Luis": {
-        "Alt": 1.83,
-        "Üst": 1.47
+        "Alt": 1.67,
+        "Üst": 1.59
     },
     "Carabobo - Metropolitan": {
         "Alt": 1.63,
@@ -44,8 +28,8 @@
         "Üst": 1.37
     },
     "CS Cienciano - Deportivo Garcilaso": {
-        "Alt": 1.6,
-        "Üst": 1.67
+        "Alt": 1.62,
+        "Üst": 1.64
     },
     "SD Aucas - LDU Quito": {
         "Alt": 1.41,
@@ -54,5 +38,21 @@
     "Platense M. - CD Fas": {
         "Alt": 1.48,
         "Üst": 1.82
+    },
+    "Unan Managua - ART Jalapa": {
+        "Alt": 1.65,
+        "Üst": 1.61
+    },
+    "Austin - Dallas": {
+        "Alt": 1.96,
+        "Üst": 1.47
+    },
+    "Santos Laguna - CD Guadalajara": {
+        "Alt": 2.07,
+        "Üst": 1.35
+    },
+    "S. Sounders - V. Whitecaps": {
+        "Alt": 2.09,
+        "Üst": 1.4
     }
 }
