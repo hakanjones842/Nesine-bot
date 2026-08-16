@@ -1,82 +1,78 @@
 {
-    "Freiburg II - Hessen Kassel": {
-        "Alt": 3.5,
-        "Üst": 3.98
-    },
-    "Hamburg II - Drochtersen": {
-        "Alt": 1.76,
-        "Üst": 3.6
-    },
-    "St. Pauli II - W. Bremen II": {
-        "Alt": 1.43,
-        "Üst": 3.92
-    },
-    "Altglienicke - Hallescher": {
-        "Alt": 1.81,
-        "Üst": 1.49
-    },
-    "D. Minsk (Rzv) - Minsk 2": {
-        "Alt": 2.85,
-        "Üst": 3.58
-    },
-    "Nordsjælland - Silkeborg": {
-        "Alt": 2.82,
-        "Üst": 1.19
-    },
-    "Odense - AC Horsens": {
-        "Alt": 1.66,
-        "Üst": 1.7
-    },
-    "Vendsyssel - AB Gladsaxe": {
-        "Alt": 2.03,
-        "Üst": 1.37
-    },
-    "Degerfors IF - IFK Göteborg": {
-        "Alt": 1.61,
-        "Üst": 1.76
-    },
-    "Djurgarden - AIK Solna": {
-        "Alt": 2.39,
-        "Üst": 1.3
-    },
-    "Brommapojkarna - Orgryte": {
-        "Alt": 2.1,
-        "Üst": 1.4
-    },
-    "Linero IF - Rappe Goif": {
-        "Alt": 2.06,
-        "Üst": 3.36
-    },
-    "Fittja IF - Raagsveds IF": {
-        "Alt": 1.32,
-        "Üst": 4.07
-    },
-    "I Pavlodar - Tobol": {
-        "Alt": 1.73,
-        "Üst": 1.55
-    },
-    "Sandviken - Jerv": {
-        "Alt": 2.38,
-        "Üst": 1.25
-    },
-    "Ull. Kisa - Trygg Lade": {
-        "Alt": 2.72,
-        "Üst": 1.17
-    },
-    "Stromsgodset 2 - Skedsmo": {
-        "Alt": 1.43,
-        "Üst": 4.26
-    },
     "Twente - Zwolle": {
         "Alt": 2.65,
         "Üst": 1.23
     },
     "Feyenoord - Go Ahead Eagles": {
-        "Alt": 3.05,
-        "Üst": 1.16
+        "Alt": 3.12,
+        "Üst": 1.15
     },
     "Watford - Southampton": {
         "Alt": 1.88,
         "Üst": 1.52
+    },
+    "Aalesunds - Valerenga": {
+        "Alt": 2.65,
+        "Üst": 1.23
+    },
+    "P. Grenland - Bjarg": {
+        "Alt": 2.01,
+        "Üst": 1.38
+    },
+    "LKS Lodz - Nieciecza": {
+        "Alt": 1.68,
+        "Üst": 1.58
+    },
+    "Metalist 1925 - Shakhtar D.": {
+        "Alt": 1.43,
+        "Üst": 1.9
+    },
+    "Motor Lublin - Katowice": {
+        "Alt": 2.0,
+        "Üst": 1.38
+    },
+    "Malezya - Vietnam": {
+        "Alt": 1.52,
+        "Üst": 1.76
+    },
+    "Bremer SV 1906 - Hannoverscher": {
+        "Alt": 1.99,
+        "Üst": 1.38
+    },
+    "Ostrovets - FK Bumprom": {
+        "Alt": 1.51,
+        "Üst": 3.63
+    },
+    "Banik Ostrava - SK Artis Brno": {
+        "Alt": 1.91,
+        "Üst": 1.42
+    },
+    "HJK Helsinki - FF Jaro": {
+        "Alt": 2.34,
+        "Üst": 1.31
+    },
+    "KuPS Akatemia - PK Keski Uusimaa": {
+        "Alt": 2.85,
+        "Üst": 1.14
+    },
+    "Inter 2 - Kokkolan P.": {
+        "Alt": 3.24,
+        "Üst": 1.09
+    },
+    "Chippa Utd - Orlando Pirates": {
+        "Alt": 1.55,
+        "Üst": 1.72
+    },
+    "St. Patricks - Shamrock R.": {
+        "Alt": 1.74,
+        "Üst": 1.54
+    },
+    "Stenhousemuir - Motherwell": {
+        "Alt": 2.01,
+        "Üst": 1.38
+    },
+    "Hearts - Inverness": {
+        "Alt": 1.95,
+        "Üst": 1.4
     }
 }
