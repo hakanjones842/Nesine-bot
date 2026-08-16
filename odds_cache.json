@@ -1,78 +1,82 @@
 {
-    "Loko Plovdiv - Dunav 2010": {
-        "Alt": 1.46,
-        "Üst": 1.84
+    "Lazio - Mantova 1911": {
+        "Alt": 2.05,
+        "Üst": 1.43
     },
-    "CD Moquegua - Sport Boys": {
-        "Alt": 1.35,
-        "Üst": 2.06
+    "Famalicao - Maritimo": {
+        "Alt": 1.5,
+        "Üst": 1.91
     },
-    "Gornik Zabrze - Wisla Krakow": {
-        "Alt": 1.91,
-        "Üst": 1.42
+    "Las Palmas - Albacete": {
+        "Alt": 1.61,
+        "Üst": 1.76
     },
-    "Koper - NK Bravo": {
-        "Alt": 2.08,
-        "Üst": 1.34
+    "Tucuman - Dep. Madryn": {
+        "Alt": 3.31,
+        "Üst": 2.85
     },
-    "Amed Sportif - Erzurumspor FK": {
-        "Alt": 1.71,
-        "Üst": 1.65
+    "Central N. Salta - Gimnasia Y. Tiro": {
+        "Alt": 6.26,
+        "Üst": 3.43
     },
-    "Beşiktaş - Eyüpspor": {
-        "Alt": 2.24,
-        "Üst": 1.34
+    "Racing de Cordoba - S. Martin SJ": {
+        "Alt": 4.44,
+        "Üst": 3.11
     },
-    "Mardin 1969 - Antalyaspor": {
-        "Alt": 1.47,
-        "Üst": 1.83
+    "York Utd - Hfx Wan.": {
+        "Alt": 1.95,
+        "Üst": 1.4
     },
-    "Muğlaspor - Bandırmaspor": {
-        "Alt": 1.32,
-        "Üst": 2.12
-    },
-    "Sliema Wanderers - Hibernians": {
-        "Alt": 1.49,
-        "Üst": 1.81
-    },
-    "CS Corvinul 1921 H. - Cluj": {
-        "Alt": 1.56,
-        "Üst": 1.71
-    },
-    "RC Lens - PSG": {
-        "Alt": 2.23,
-        "Üst": 1.35
-    },
-    "Hellas Verona - V. Entella": {
-        "Alt": 1.57,
+    "Cajamarca - U. Deportes": {
+        "Alt": 1.5,
         "Üst": 1.8
     },
-    "Atl Mineiro - Gremio P.": {
-        "Alt": 1.59,
+    "River Plate - Argentinos J.": {
+        "Alt": 1.32,
+        "Üst": 2.29
+    },
+    "CA Temperley - CA Los Andes": {
+        "Alt": 4.53,
+        "Üst": 3.1
+    },
+    "Dep. San Pedro - Aurora": {
+        "Alt": 1.54,
+        "Üst": 1.73
+    },
+    "CD Choloma - Marathon": {
+        "Alt": 1.83,
+        "Üst": 1.47
+    },
+    "Dep. Tachira - Monagas SC": {
+        "Alt": 1.61,
+        "Üst": 1.65
+    },
+    "Nacional Potosi - Academia del Balompie": {
+        "Alt": 2.02,
+        "Üst": 3.54
+    },
+    "CS Emelec - CD Tecnico Uni.": {
+        "Alt": 1.31,
+        "Üst": 2.16
+    },
+    "Vitoria BA - Botafogo RJ": {
+        "Alt": 1.6,
         "Üst": 1.77
     },
-    "Vasco Da G. - Santos SP": {
-        "Alt": 1.62,
-        "Üst": 1.75
-    },
-    "Gimnasia Jujuy - Chaco For Ever": {
-        "Alt": 1.31,
-        "Üst": 2.15
-    },
-    "Always Ready - Real Potosi": {
-        "Alt": 1.64,
-        "Üst": 3.39
-    },
-    "Rad. Bijelji - Zrinjski Mostar": {
+    "Mirassol SP - Flamengo": {
         "Alt": 1.61,
-        "Üst": 2.98
+        "Üst": 1.76
     },
-    "Orense SC - CD Cuenca": {
-        "Alt": 1.4,
-        "Üst": 1.95
+    "America MG - Athletic Club MG": {
+        "Alt": 1.27,
+        "Üst": 2.29
     },
-    "HNK Gorica - Hajduk Split": {
-        "Alt": 1.7,
-        "Üst": 1.57
+    "Crb Al - Gremio Novo": {
+        "Alt": 1.5,
+        "Üst": 1.79
+    },
+    "Colo Colo - O'Higgins": {
+        "Alt": 1.92,
+        "Üst": 1.42
     }
 }
