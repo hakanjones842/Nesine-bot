@@ -1,78 +1,90 @@
 {
-    "CA Platense - Boca Juniors": {
-        "Alt": 1.28,
-        "Üst": 2.45
+    "Broad. Magic - Charlestown C.": {
+        "Alt": 2.26,
+        "Üst": 3.75
     },
-    "Houston Dyn. - LA Galaxy": {
-        "Alt": 2.0,
-        "Üst": 1.44
+    "Maitland - Edgeworth": {
+        "Alt": 1.31,
+        "Üst": 3.88
     },
-    "Alianza Lima - Cajamarca": {
-        "Alt": 1.74,
-        "Üst": 1.54
+    "Belmont Swansea Utd - Adamstown Rosebuds": {
+        "Alt": 1.35,
+        "Üst": 4.07
     },
-    "Colorado Spr. - Birmingham Legion": {
-        "Alt": 2.05,
-        "Üst": 1.36
-    },
-    "Spokane Velocity - Corpus Chri": {
-        "Alt": 1.59,
-        "Üst": 1.67
-    },
-    "Alianza - C.D. Cacahuatique": {
-        "Alt": 1.61,
-        "Üst": 1.65
-    },
-    "Comunicacion - Malacateco": {
-        "Alt": 3.29,
-        "Üst": 3.04
-    },
-    "Cancun - Alac. de Durango": {
-        "Alt": 1.48,
-        "Üst": 1.82
-    },
-    "CSD D. Sinaloa - Tlaxcala": {
-        "Alt": 1.55,
-        "Üst": 1.73
-    },
-    "Indigenas de Matagalpa - San Marcos": {
+    "Valentine - Weston W.": {
         "Alt": 1.96,
+        "Üst": 3.57
+    },
+    "Lambton Jaffas - Newcastle Oly.": {
+        "Alt": 2.85,
+        "Üst": 3.71
+    },
+    "Kahibah - Cooks Hill Utd": {
+        "Alt": 2.09,
+        "Üst": 3.75
+    },
+    "Belconnen Utd - Canberra Olym.": {
+        "Alt": 1.47,
+        "Üst": 3.95
+    },
+    "Preston Lions - D. Thunder": {
+        "Alt": 3.53,
+        "Üst": 2.27
+    },
+    "Blacktown Gençler - University of Nsw": {
+        "Alt": 1.98,
         "Üst": 1.39
     },
-    "Monterrey - Juarez": {
-        "Alt": 2.15,
-        "Üst": 1.31
+    "Rockdale City - Woll. Wolves": {
+        "Alt": 2.02,
+        "Üst": 1.37
     },
-    "Real Salt Lake - Minnesota Utd": {
-        "Alt": 2.1,
-        "Üst": 1.4
+    "Marconi Stal - Sutherland S.": {
+        "Alt": 1.83,
+        "Üst": 1.47
     },
-    "Colorado R. - Kansas City": {
-        "Alt": 2.4,
-        "Üst": 1.29
+    "Canberra Juventus - Queanbeyan City": {
+        "Alt": 1.44,
+        "Üst": 3.88
     },
-    "New Mexico - Tulsa Roughnecks": {
-        "Alt": 1.67,
-        "Üst": 1.6
+    "Vik. Zizkov - Banik Ostrava B": {
+        "Alt": 1.83,
+        "Üst": 1.47
     },
-    "Real CD Espana - CA Independiente S.": {
-        "Alt": 1.78,
-        "Üst": 1.51
-    },
-    "Oakland Roots SC - Monterey Bay": {
+    "First Vienna - Liefering": {
         "Alt": 1.9,
         "Üst": 1.43
     },
-    "Orange Count - Louisville": {
-        "Alt": 1.75,
-        "Üst": 1.53
+    "Sochi - Volga Ulyan.": {
+        "Alt": 1.71,
+        "Üst": 1.56
     },
-    "D. Saprissa - CS Cartagines": {
-        "Alt": 1.58,
-        "Üst": 1.69
+    "OFK Malzenice - FK R. Povazska Bystrica": {
+        "Alt": 1.72,
+        "Üst": 1.55
     },
-    "San Jose E. - S. Louis City SC": {
-        "Alt": 2.3,
-        "Üst": 1.32
+    "A. Petrzalka - 1. Tatran P.": {
+        "Alt": 1.53,
+        "Üst": 1.75
+    },
+    "Yokohama - Iwata Jubilo": {
+        "Alt": 1.5,
+        "Üst": 1.8
+    },
+    "Nara Club - Kagoshima Utd": {
+        "Alt": 1.6,
+        "Üst": 1.67
+    },
+    "Osaka - AC N. Parceiro": {
+        "Alt": 1.44,
+        "Üst": 1.89
+    },
+    "Diosgyori Vtk II - Godolloi SK": {
+        "Alt": 1.94,
+        "Üst": 1.41
+    },
+    "Vasas SC II - Ujpest II": {
+        "Alt": 2.01,
+        "Üst": 1.38
     }
 }
