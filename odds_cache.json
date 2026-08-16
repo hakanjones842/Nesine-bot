@@ -1,71 +1,11 @@
 {
-    "River Plate - Argentinos J.": {
-        "Alt": 1.34,
-        "Üst": 2.25
-    },
-    "CA Temperley - CA Los Andes": {
-        "Alt": 4.53,
-        "Üst": 3.1
-    },
-    "Dep. San Pedro - Aurora": {
-        "Alt": 1.54,
-        "Üst": 1.73
-    },
-    "CD Choloma - Marathon": {
-        "Alt": 1.83,
-        "Üst": 1.47
-    },
-    "Dep. Tachira - Monagas SC": {
-        "Alt": 1.61,
-        "Üst": 1.65
-    },
-    "Nacional Potosi - Academia del Balompie": {
-        "Alt": 2.08,
-        "Üst": 3.52
-    },
-    "CS Emelec - CD Tecnico Uni.": {
-        "Alt": 2.59,
-        "Üst": 2.87
-    },
-    "Vitoria BA - Botafogo RJ": {
-        "Alt": 1.6,
-        "Üst": 1.77
-    },
-    "Mirassol SP - Flamengo": {
-        "Alt": 1.63,
-        "Üst": 1.73
-    },
-    "America MG - Athletic Club MG": {
-        "Alt": 1.27,
-        "Üst": 2.29
-    },
-    "Crb Al - Gremio Novo": {
-        "Alt": 1.5,
-        "Üst": 1.79
-    },
-    "Colo Colo - O'Higgins": {
-        "Alt": 1.92,
-        "Üst": 1.42
-    },
-    "Penarol - Central Espanol": {
-        "Alt": 1.5,
-        "Üst": 1.79
-    },
-    "New York C. - Phila. Union": {
-        "Alt": 1.99,
-        "Üst": 1.45
-    },
-    "Chicago Fire - Portland Tim.": {
-        "Alt": 2.89,
-        "Üst": 1.19
-    },
     "CD Inca - Angel Firpo": {
         "Alt": 1.83,
         "Üst": 1.48
     },
     "M. Per. Zeledon - Inter San Carlos": {
-        "Alt": 1.84,
-        "Üst": 1.46
+        "Alt": 1.82,
+        "Üst": 1.48
     },
     "Corinthians - Cruzeiro MG": {
         "Alt": 1.31,
@@ -74,5 +14,57 @@
     "P. Hearts of Pine - Forward M.": {
         "Alt": 1.93,
         "Üst": 1.42
+    },
+    "Dep. La Gua. - Zamora": {
+        "Alt": 1.32,
+        "Üst": 2.14
+    },
+    "Union Omaha SC - Richmond": {
+        "Alt": 2.45,
+        "Üst": 3.6
+    },
+    "CD Suchitepequez - CD Marquense": {
+        "Alt": 2.81,
+        "Üst": 2.93
+    },
+    "America - Atl San Luis": {
+        "Alt": 1.83,
+        "Üst": 1.47
+    },
+    "Carabobo - Metropolitan": {
+        "Alt": 1.63,
+        "Üst": 1.64
+    },
+    "C. Cordoba - Instituto": {
+        "Alt": 1.29,
+        "Üst": 2.4
+    },
+    "Barracas - Rosario C.": {
+        "Alt": 1.23,
+        "Üst": 2.66
+    },
+    "CD Olimpia - Motagua": {
+        "Alt": 1.47,
+        "Üst": 1.83
+    },
+    "Independiente P. - GV San Jose": {
+        "Alt": 2.02,
+        "Üst": 1.37
+    },
+    "CS Cienciano - Deportivo Garcilaso": {
+        "Alt": 1.6,
+        "Üst": 1.67
+    },
+    "SD Aucas - LDU Quito": {
+        "Alt": 1.41,
+        "Üst": 1.93
+    },
+    "Platense M. - CD Fas": {
+        "Alt": 1.48,
+        "Üst": 1.82
+    },
+    "Unan Managua - ART Jalapa": {
+        "Alt": 1.69,
+        "Üst": 1.58
     }
 }
