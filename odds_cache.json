@@ -1,58 +1,54 @@
 {
-    "RAAL La Louviere - KAA Gent": {
+    "Santander - Villarreal": {
+        "Alt": 2.18,
+        "Üst": 1.37
+    },
+    "Hartberg - Austria Wien": {
+        "Alt": 1.63,
+        "Üst": 1.73
+    },
+    "WSG Tirol - Salzburg": {
+        "Alt": 2.48,
+        "Üst": 1.27
+    },
+    "Sumgayit - Neftçi": {
+        "Alt": 1.57,
+        "Üst": 1.7
+    },
+    "FK BSK Banja Luka - Velez Mostar": {
         "Alt": 1.46,
-        "Üst": 1.98
+        "Üst": 1.85
     },
-    "Arsenal - Man. City": {
-        "Alt": 1.78,
-        "Üst": 1.59
-    },
-    "Chapecoense - Bahia BA": {
-        "Alt": 1.64,
-        "Üst": 1.71
-    },
-    "Krylia Sovetov - Dyn. Makhachkala": {
-        "Alt": 1.42,
-        "Üst": 2.05
-    },
-    "Beerschot - KAA Gent II": {
-        "Alt": 2.08,
-        "Üst": 1.34
-    },
-    "Operario - Avai SC": {
-        "Alt": 1.47,
-        "Üst": 1.83
-    },
-    "Lyngby BK - Midtjylland": {
-        "Alt": 2.05,
-        "Üst": 1.43
-    },
-    "Trans Narva - Paide Flora": {
-        "Alt": 1.82,
-        "Üst": 1.48
-    },
-    "Runavik - EB Streymur": {
-        "Alt": 3.68,
-        "Üst": 2.21
-    },
-    "HB Torshavn - Tofta Itrottarfelag B68": {
-        "Alt": 2.4,
-        "Üst": 3.56
-    },
-    "Lahti - Kuopion": {
-        "Alt": 1.7,
-        "Üst": 1.65
-    },
-    "Oulu - Inter Turku": {
-        "Alt": 1.6,
-        "Üst": 1.77
-    },
-    "VJS - JJK Jyvaskyla": {
-        "Alt": 2.84,
-        "Üst": 1.14
-    },
-    "Mikkeli - Ekenas I.": {
+    "Dila Gori - Meshakhte Tkibuli": {
         "Alt": 1.66,
         "Üst": 1.61
+    },
+    "Burnley - West Ham": {
+        "Alt": 1.81,
+        "Üst": 1.57
+    },
+    "Rangers - St. Mirren": {
+        "Alt": 2.1,
+        "Üst": 1.33
+    },
+    "Eibar - Tenerife": {
+        "Alt": 1.43,
+        "Üst": 2.04
+    },
+    "FK Atyrau - Okzhetpes K": {
+        "Alt": 1.61,
+        "Üst": 1.65
+    },
+    "Schalke 04 - Real Madrid": {
+        "Alt": 2.78,
+        "Üst": 1.2
+    },
+    "Brann - Hamkam": {
+        "Alt": 2.1,
+        "Üst": 1.4
+    },
+    "Molde - Tromso": {
+        "Alt": 2.24,
+        "Üst": 1.34
     }
 }
