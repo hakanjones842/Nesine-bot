@@ -4,12 +4,12 @@
         "Üst": 1.45
     },
     "T. Vortis - Sagan Tosu": {
-        "Alt": 1.33,
-        "Üst": 2.1
+        "Alt": 1.31,
+        "Üst": 2.15
     },
     "Matsumoto Y. - MIO Biwako Shiga": {
-        "Alt": 1.49,
-        "Üst": 1.8
+        "Alt": 1.51,
+        "Üst": 1.77
     },
     "Ehime - Gainare Tottori": {
         "Alt": 1.64,
@@ -20,36 +20,36 @@
         "Üst": 1.36
     },
     "Portimonense - Vizela": {
-        "Alt": 1.5,
-        "Üst": 1.8
+        "Alt": 1.43,
+        "Üst": 1.9
     },
     "LNZ Cherkasy - Ch. Odessa": {
-        "Alt": 1.47,
-        "Üst": 1.83
+        "Alt": 1.44,
+        "Üst": 1.88
     },
     "ADO Den Haag - Groningen": {
-        "Alt": 1.99,
-        "Üst": 1.45
+        "Alt": 1.95,
+        "Üst": 1.47
     },
     "Utrecht (K) - Ajax (K)": {
-        "Alt": 1.94,
-        "Üst": 3.55
+        "Alt": 3.51,
+        "Üst": 1.95
     },
     "Bucheon - Jeonbuk": {
         "Alt": 1.63,
         "Üst": 1.74
     },
     "Ulsan Hora - Gangwon": {
-        "Alt": 1.65,
-        "Üst": 1.7
+        "Alt": 1.58,
+        "Üst": 1.79
     },
     "Incheon Utd - Gimcheon S.": {
         "Alt": 1.46,
         "Üst": 1.98
     },
     "Gimpo Citizen - Cheonan City": {
-        "Alt": 1.67,
-        "Üst": 1.6
+        "Alt": 1.7,
+        "Üst": 1.57
     },
     "Paju Citizen - Seongnam": {
         "Alt": 1.36,
@@ -60,8 +60,8 @@
         "Üst": 1.41
     },
     "Seoul E Land - Ansan Greene": {
-        "Alt": 2.12,
-        "Üst": 1.33
+        "Alt": 2.05,
+        "Üst": 1.36
     },
     "VfL Osnabruck U19 - F. Dusseldorf U19": {
         "Alt": 3.86,
@@ -70,17 +70,5 @@
     "Suzhou Jinfu - Nantong Z.": {
         "Alt": 1.36,
         "Üst": 2.05
-    },
-    "Shenzhen Juniors - Shang J. C.": {
-        "Alt": 1.63,
-        "Üst": 1.63
-    },
-    "IFK Varnamo - Ostersunds FK": {
-        "Alt": 1.76,
-        "Üst": 1.52
-    },
-    "Vaxjo Norra - Staffenstorp Utd": {
-        "Alt": 2.04,
-        "Üst": 1.36
     }
 }
