@@ -1,56 +1,4 @@
 {
-    "CA Sarmiento - CA Huracan": {
-        "Alt": 1.22,
-        "Üst": 2.72
-    },
-    "T. Suarez - Almir. Brown": {
-        "Alt": 4.46,
-        "Üst": 3.01
-    },
-    "Slovan Liberec - Slavia Prag": {
-        "Alt": 1.7,
-        "Üst": 1.57
-    },
-    "Erbil SC - AL Kahraba": {
-        "Alt": 1.62,
-        "Üst": 1.64
-    },
-    "AL Shorta - Karbalaa": {
-        "Alt": 1.93,
-        "Üst": 1.41
-    },
-    "Bohemians - Longford": {
-        "Alt": 2.36,
-        "Üst": 3.47
-    },
-    "KR Reykjavik - Breidablik": {
-        "Alt": 1.83,
-        "Üst": 4.11
-    },
-    "Vestmannaeyjar - IA Akranes": {
-        "Alt": 1.32,
-        "Üst": 3.98
-    },
-    "Hafnarfjordur - Vikingur Reykjavik": {
-        "Alt": 1.95,
-        "Üst": 3.49
-    },
-    "Pumas Unam - Queretaro": {
-        "Alt": 1.8,
-        "Üst": 1.5
-    },
-    "Leones Negros - Jaiba Brava": {
-        "Alt": 1.48,
-        "Üst": 1.83
-    },
-    "AL Wehda - AL Shabab (Sar)": {
-        "Alt": 1.84,
-        "Üst": 1.47
-    },
-    "Defensor Sp. - Liverpool M.": {
-        "Alt": 1.33,
-        "Üst": 2.11
-    },
     "Loko Plovdiv - Dunav 2010": {
         "Alt": 1.46,
         "Üst": 1.84
@@ -72,11 +20,59 @@
         "Üst": 1.65
     },
     "Beşiktaş - Eyüpspor": {
-        "Alt": 2.2,
-        "Üst": 1.36
+        "Alt": 2.24,
+        "Üst": 1.34
     },
     "Mardin 1969 - Antalyaspor": {
-        "Alt": 1.5,
+        "Alt": 1.47,
+        "Üst": 1.83
+    },
+    "Muğlaspor - Bandırmaspor": {
+        "Alt": 1.32,
+        "Üst": 2.12
+    },
+    "Sliema Wanderers - Hibernians": {
+        "Alt": 1.49,
+        "Üst": 1.81
+    },
+    "CS Corvinul 1921 H. - Cluj": {
+        "Alt": 1.56,
+        "Üst": 1.71
+    },
+    "RC Lens - PSG": {
+        "Alt": 2.23,
+        "Üst": 1.35
+    },
+    "Hellas Verona - V. Entella": {
+        "Alt": 1.57,
         "Üst": 1.8
+    },
+    "Atl Mineiro - Gremio P.": {
+        "Alt": 1.59,
+        "Üst": 1.77
+    },
+    "Vasco Da G. - Santos SP": {
+        "Alt": 1.62,
+        "Üst": 1.75
+    },
+    "Gimnasia Jujuy - Chaco For Ever": {
+        "Alt": 1.31,
+        "Üst": 2.15
+    },
+    "Always Ready - Real Potosi": {
+        "Alt": 1.64,
+        "Üst": 3.39
+    },
+    "Rad. Bijelji - Zrinjski Mostar": {
+        "Alt": 1.61,
+        "Üst": 2.98
+    },
+    "Orense SC - CD Cuenca": {
+        "Alt": 1.4,
+        "Üst": 1.95
+    },
+    "HNK Gorica - Hajduk Split": {
+        "Alt": 1.7,
+        "Üst": 1.57
     }
 }
