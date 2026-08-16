@@ -1,74 +1,58 @@
 {
-    "Nacka Iliria - Orebro Syrianska": {
-        "Alt": 1.86,
-        "Üst": 1.45
+    "VfL Osnabruck U19 - F. Dusseldorf U19": {
+        "Alt": 3.85,
+        "Üst": 1.83
     },
-    "T. Vortis - Sagan Tosu": {
-        "Alt": 1.31,
-        "Üst": 2.15
+    "Suzhou Jinfu - Nantong Z.": {
+        "Alt": 1.28,
+        "Üst": 2.24
     },
-    "Matsumoto Y. - MIO Biwako Shiga": {
-        "Alt": 1.51,
-        "Üst": 1.77
+    "Shenzhen Juniors - Shang J. C.": {
+        "Alt": 1.56,
+        "Üst": 1.71
     },
-    "Ehime - Gainare Tottori": {
-        "Alt": 1.64,
-        "Üst": 1.63
+    "IFK Varnamo - Ostersunds FK": {
+        "Alt": 1.74,
+        "Üst": 1.54
     },
-    "Z. Pruszkow - Olimpia": {
+    "Vaxjo Norra - Staffenstorp Utd": {
         "Alt": 2.04,
         "Üst": 1.36
     },
-    "Portimonense - Vizela": {
-        "Alt": 1.43,
-        "Üst": 1.9
+    "BK Forward - Syrianska": {
+        "Alt": 1.89,
+        "Üst": 3.52
     },
-    "LNZ Cherkasy - Ch. Odessa": {
-        "Alt": 1.44,
-        "Üst": 1.88
+    "Skiljebo SK - Helges IF": {
+        "Alt": 3.64,
+        "Üst": 2.25
     },
-    "ADO Den Haag - Groningen": {
-        "Alt": 1.95,
-        "Üst": 1.47
-    },
-    "Utrecht (K) - Ajax (K)": {
-        "Alt": 3.51,
-        "Üst": 1.95
-    },
-    "Bucheon - Jeonbuk": {
-        "Alt": 1.63,
-        "Üst": 1.74
-    },
-    "Ulsan Hora - Gangwon": {
-        "Alt": 1.58,
-        "Üst": 1.79
-    },
-    "Incheon Utd - Gimcheon S.": {
-        "Alt": 1.46,
-        "Üst": 1.98
-    },
-    "Gimpo Citizen - Cheonan City": {
+    "Enskede - Korsnas IF FK": {
         "Alt": 1.7,
-        "Üst": 1.57
+        "Üst": 3.54
     },
-    "Paju Citizen - Seongnam": {
-        "Alt": 1.36,
-        "Üst": 2.05
+    "Follo - Rana FK": {
+        "Alt": 2.27,
+        "Üst": 1.27
     },
-    "Daegu - Chungnam Asan": {
-        "Alt": 1.94,
-        "Üst": 1.41
+    "Fauske Sprint - Finnsnes IL": {
+        "Alt": 1.53,
+        "Üst": 4.26
     },
-    "Seoul E Land - Ansan Greene": {
-        "Alt": 2.05,
-        "Üst": 1.36
+    "Zawisza Bydgoszcz - Lechia Zielona G.": {
+        "Alt": 1.88,
+        "Üst": 1.44
     },
-    "VfL Osnabruck U19 - F. Dusseldorf U19": {
-        "Alt": 3.86,
-        "Üst": 1.85
+    "SK Beveren - Anderlecht": {
+        "Alt": 1.88,
+        "Üst": 1.51
     },
-    "Suzhou Jinfu - Nantong Z.": {
-        "Alt": 1.36,
-        "Üst": 2.05
+    "Zenit - D. Moskova": {
+        "Alt": 1.85,
+        "Üst": 1.54
+    },
+    "Hannover 96 - Wolfsburg": {
+        "Alt": 2.18,
+        "Üst": 1.37
     }
 }
