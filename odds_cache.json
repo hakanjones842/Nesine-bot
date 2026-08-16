@@ -1,54 +1,66 @@
 {
-    "Santander - Villarreal": {
-        "Alt": 2.18,
-        "Üst": 1.37
+    "Zalgiris Kaunas - FK Transinvest": {
+        "Alt": 1.75,
+        "Üst": 1.53
     },
-    "Hartberg - Austria Wien": {
+    "Başakşehir - Kocaelispor": {
+        "Alt": 1.58,
+        "Üst": 1.79
+    },
+    "A. Keçiörengücü - Pendikspor": {
+        "Alt": 1.68,
+        "Üst": 1.59
+    },
+    "Kayserispor - Sivasspor": {
         "Alt": 1.63,
-        "Üst": 1.73
+        "Üst": 1.63
     },
-    "WSG Tirol - Salzburg": {
-        "Alt": 2.48,
-        "Üst": 1.27
+    "Frosinone - Juve Stabia": {
+        "Alt": 1.9,
+        "Üst": 1.51
     },
-    "Sumgayit - Neftçi": {
+    "CSKA Sofya - Botev Vratsa": {
+        "Alt": 1.74,
+        "Üst": 1.54
+    },
+    "Randers - Kopenhag": {
+        "Alt": 2.08,
+        "Üst": 1.4
+    },
+    "Supra Du Quebec - Atl Ottawa": {
+        "Alt": 1.99,
+        "Üst": 1.38
+    },
+    "Valletta - Zabbar Saint Patrick": {
+        "Alt": 1.47,
+        "Üst": 1.83
+    },
+    "S. Cristal - Huancayo": {
+        "Alt": 1.79,
+        "Üst": 1.5
+    },
+    "SAO Joao Ver - AD Fafe": {
+        "Alt": 1.39,
+        "Üst": 1.96
+    },
+    "Vitoria Sernache - SC Covilha": {
+        "Alt": 1.38,
+        "Üst": 1.98
+    },
+    "NK Brinje Grosuplje - NS Mura": {
         "Alt": 1.57,
         "Üst": 1.7
     },
-    "FK BSK Banja Luka - Velez Mostar": {
-        "Alt": 1.46,
-        "Üst": 1.85
+    "07 Vestur Sorvagur - B36 Torshavn": {
+        "Alt": 1.87,
+        "Üst": 1.45
     },
-    "Dila Gori - Meshakhte Tkibuli": {
-        "Alt": 1.66,
-        "Üst": 1.61
+    "AL Bukayriyah - AL Hazem": {
+        "Alt": 1.48,
+        "Üst": 1.83
     },
-    "Burnley - West Ham": {
-        "Alt": 1.81,
-        "Üst": 1.57
-    },
-    "Rangers - St. Mirren": {
-        "Alt": 2.1,
-        "Üst": 1.33
-    },
-    "Eibar - Tenerife": {
-        "Alt": 1.43,
-        "Üst": 2.04
-    },
-    "FK Atyrau - Okzhetpes K": {
-        "Alt": 1.61,
-        "Üst": 1.65
-    },
-    "Schalke 04 - Real Madrid": {
-        "Alt": 2.78,
-        "Üst": 1.2
-    },
-    "Brann - Hamkam": {
-        "Alt": 2.1,
-        "Üst": 1.4
-    },
-    "Molde - Tromso": {
-        "Alt": 2.24,
-        "Üst": 1.34
+    "Mechelen - Standard Liege": {
+        "Alt": 1.56,
+        "Üst": 1.83
     }
 }
