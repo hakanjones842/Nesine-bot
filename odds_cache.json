@@ -1,59 +1,15 @@
 {
-    "Broad. Magic - Charlestown C.": {
-        "Alt": 2.26,
-        "Üst": 3.75
-    },
-    "Maitland - Edgeworth": {
-        "Alt": 1.31,
-        "Üst": 3.88
-    },
-    "Belmont Swansea Utd - Adamstown Rosebuds": {
-        "Alt": 1.35,
-        "Üst": 4.07
-    },
-    "Valentine - Weston W.": {
-        "Alt": 1.96,
-        "Üst": 3.57
-    },
-    "Lambton Jaffas - Newcastle Oly.": {
-        "Alt": 2.85,
-        "Üst": 3.71
-    },
-    "Kahibah - Cooks Hill Utd": {
-        "Alt": 2.09,
-        "Üst": 3.75
-    },
-    "Belconnen Utd - Canberra Olym.": {
-        "Alt": 1.47,
-        "Üst": 3.95
-    },
-    "Preston Lions - D. Thunder": {
-        "Alt": 3.53,
-        "Üst": 2.27
-    },
-    "Blacktown Gençler - University of Nsw": {
-        "Alt": 1.98,
-        "Üst": 1.39
-    },
-    "Rockdale City - Woll. Wolves": {
-        "Alt": 2.02,
-        "Üst": 1.37
-    },
-    "Marconi Stal - Sutherland S.": {
-        "Alt": 1.83,
-        "Üst": 1.47
-    },
     "Canberra Juventus - Queanbeyan City": {
-        "Alt": 1.44,
-        "Üst": 3.88
+        "Alt": 1.56,
+        "Üst": 3.74
     },
     "Vik. Zizkov - Banik Ostrava B": {
         "Alt": 1.83,
         "Üst": 1.47
     },
     "First Vienna - Liefering": {
-        "Alt": 1.9,
-        "Üst": 1.43
+        "Alt": 2.02,
+        "Üst": 1.37
     },
     "Sochi - Volga Ulyan.": {
         "Alt": 1.71,
@@ -80,11 +36,43 @@
         "Üst": 1.89
     },
     "Diosgyori Vtk II - Godolloi SK": {
-        "Alt": 1.94,
-        "Üst": 1.41
+        "Alt": 1.98,
+        "Üst": 1.39
     },
     "Vasas SC II - Ujpest II": {
-        "Alt": 2.01,
-        "Üst": 1.38
+        "Alt": 3.05,
+        "Üst": 3.68
+    },
+    "Nacka Iliria - Orebro Syrianska": {
+        "Alt": 1.86,
+        "Üst": 1.45
+    },
+    "T. Vortis - Sagan Tosu": {
+        "Alt": 1.31,
+        "Üst": 2.14
+    },
+    "Matsumoto Y. - MIO Biwako Shiga": {
+        "Alt": 1.49,
+        "Üst": 1.8
+    },
+    "Ehime - Gainare Tottori": {
+        "Alt": 1.62,
+        "Üst": 1.64
+    },
+    "Z. Pruszkow - Olimpia": {
+        "Alt": 2.04,
+        "Üst": 1.36
+    },
+    "Portimonense - Vizela": {
+        "Alt": 1.55,
+        "Üst": 1.73
+    },
+    "LNZ Cherkasy - Ch. Odessa": {
+        "Alt": 1.47,
+        "Üst": 1.83
+    },
+    "ADO Den Haag - Groningen": {
+        "Alt": 1.99,
+        "Üst": 1.45
     }
 }
