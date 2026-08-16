@@ -1,7 +1,11 @@
 {
+    "Independiente P. - GV San Jose": {
+        "Alt": 2.01,
+        "Üst": 1.38
+    },
     "SD Aucas - LDU Quito": {
-        "Alt": 1.39,
-        "Üst": 1.96
+        "Alt": 1.38,
+        "Üst": 2.0
     },
     "Platense M. - CD Fas": {
         "Alt": 1.48,
@@ -58,13 +62,5 @@
     "S. Bratislava B - FK Humenne": {
         "Alt": 1.72,
         "Üst": 1.56
-    },
-    "Polissya Zhytomyr - Zorya Luhansk": {
-        "Alt": 1.6,
-        "Üst": 1.67
-    },
-    "Karabağ - Shamakhi FK": {
-        "Alt": 1.92,
-        "Üst": 3.35
     }
 }
