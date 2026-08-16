@@ -1,19 +1,7 @@
 {
-    "Sao Paulo SP - Coritiba": {
-        "Alt": 1.51,
-        "Üst": 1.9
-    },
-    "Mushuc Runa - Barcelona (Ekv)": {
-        "Alt": 1.48,
-        "Üst": 1.83
-    },
-    "Everton DV - Audax Ital.": {
-        "Alt": 1.6,
-        "Üst": 1.66
-    },
     "CA Platense - Boca Juniors": {
-        "Alt": 1.26,
-        "Üst": 2.52
+        "Alt": 1.28,
+        "Üst": 2.45
     },
     "Houston Dyn. - LA Galaxy": {
         "Alt": 2.0,
@@ -32,8 +20,8 @@
         "Üst": 1.67
     },
     "Alianza - C.D. Cacahuatique": {
-        "Alt": 1.58,
-        "Üst": 1.68
+        "Alt": 1.61,
+        "Üst": 1.65
     },
     "Comunicacion - Malacateco": {
         "Alt": 3.29,
@@ -70,5 +58,21 @@
     "Real CD Espana - CA Independiente S.": {
         "Alt": 1.78,
         "Üst": 1.51
+    },
+    "Oakland Roots SC - Monterey Bay": {
+        "Alt": 1.9,
+        "Üst": 1.43
+    },
+    "Orange Count - Louisville": {
+        "Alt": 1.75,
+        "Üst": 1.53
+    },
+    "D. Saprissa - CS Cartagines": {
+        "Alt": 1.58,
+        "Üst": 1.69
+    },
+    "San Jose E. - S. Louis City SC": {
+        "Alt": 2.3,
+        "Üst": 1.32
     }
 }
