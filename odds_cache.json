@@ -1,66 +1,70 @@
 {
-    "Zalgiris Kaunas - FK Transinvest": {
-        "Alt": 1.75,
-        "Üst": 1.53
+    "Espanyol - Levante": {
+        "Alt": 1.53,
+        "Üst": 1.85
     },
-    "Başakşehir - Kocaelispor": {
-        "Alt": 1.58,
-        "Üst": 1.79
+    "Arouca - Moreirense": {
+        "Alt": 1.53,
+        "Üst": 1.86
     },
-    "A. Keçiörengücü - Pendikspor": {
-        "Alt": 1.68,
-        "Üst": 1.59
+    "Rapid Wien - Grazer AK": {
+        "Alt": 1.78,
+        "Üst": 1.58
     },
-    "Kayserispor - Sivasspor": {
+    "Zira - Safa": {
+        "Alt": 1.82,
+        "Üst": 1.49
+    },
+    "Dinamo Brest - Isloch": {
         "Alt": 1.63,
         "Üst": 1.63
     },
-    "Frosinone - Juve Stabia": {
-        "Alt": 1.9,
-        "Üst": 1.51
+    "Samgurali Tskaltubo - Dinamo B.": {
+        "Alt": 1.68,
+        "Üst": 1.59
     },
-    "CSKA Sofya - Botev Vratsa": {
-        "Alt": 1.74,
-        "Üst": 1.54
+    "Girona - Leganes": {
+        "Alt": 1.71,
+        "Üst": 1.65
     },
-    "Randers - Kopenhag": {
-        "Alt": 2.08,
-        "Üst": 1.4
+    "Burgos - Cordoba": {
+        "Alt": 1.48,
+        "Üst": 1.94
     },
-    "Supra Du Quebec - Atl Ottawa": {
-        "Alt": 1.99,
-        "Üst": 1.38
+    "Sunnersta AIF - Taby FK": {
+        "Alt": 2.34,
+        "Üst": 3.48
     },
-    "Valletta - Zabbar Saint Patrick": {
-        "Alt": 1.47,
-        "Üst": 1.83
+    "Real Sireti - Sheriff": {
+        "Alt": 3.37,
+        "Üst": 2.01
     },
-    "S. Cristal - Huancayo": {
-        "Alt": 1.79,
-        "Üst": 1.5
+    "Zimbru Chisinau - Milsami": {
+        "Alt": 1.7,
+        "Üst": 1.57
     },
-    "SAO Joao Ver - AD Fafe": {
-        "Alt": 1.39,
-        "Üst": 1.96
+    "Valerenga II - IF Ready": {
+        "Alt": 1.38,
+        "Üst": 4.43
     },
-    "Vitoria Sernache - SC Covilha": {
+    "Porto B - S. Farense": {
         "Alt": 1.38,
         "Üst": 1.98
     },
-    "NK Brinje Grosuplje - NS Mura": {
-        "Alt": 1.57,
-        "Üst": 1.7
+    "FK IMT Novi Beograd - Radnicki Nis": {
+        "Alt": 1.4,
+        "Üst": 1.95
     },
-    "07 Vestur Sorvagur - B36 Torshavn": {
-        "Alt": 1.87,
-        "Üst": 1.45
-    },
-    "AL Bukayriyah - AL Hazem": {
-        "Alt": 1.48,
-        "Üst": 1.83
-    },
-    "Mechelen - Standard Liege": {
+    "KFC Komarno - Dunajska S.": {
         "Alt": 1.56,
-        "Üst": 1.83
+        "Üst": 1.72
+    },
+    "Lommel SK - Charleroi": {
+        "Alt": 1.98,
+        "Üst": 1.46
+    },
+    "Fredrikstad - Kristiansund": {
+        "Alt": 1.9,
+        "Üst": 1.51
     }
 }
