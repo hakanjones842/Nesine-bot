@@ -1,78 +1,58 @@
 {
-    "Twente - Zwolle": {
-        "Alt": 2.65,
-        "Üst": 1.23
+    "RAAL La Louviere - KAA Gent": {
+        "Alt": 1.46,
+        "Üst": 1.98
     },
-    "Feyenoord - Go Ahead Eagles": {
-        "Alt": 3.12,
-        "Üst": 1.15
+    "Arsenal - Man. City": {
+        "Alt": 1.78,
+        "Üst": 1.59
     },
-    "Watford - Southampton": {
-        "Alt": 1.88,
-        "Üst": 1.52
+    "Chapecoense - Bahia BA": {
+        "Alt": 1.64,
+        "Üst": 1.71
     },
-    "Aalesunds - Valerenga": {
-        "Alt": 2.65,
-        "Üst": 1.23
+    "Krylia Sovetov - Dyn. Makhachkala": {
+        "Alt": 1.42,
+        "Üst": 2.05
     },
-    "P. Grenland - Bjarg": {
-        "Alt": 2.01,
-        "Üst": 1.38
+    "Beerschot - KAA Gent II": {
+        "Alt": 2.08,
+        "Üst": 1.34
     },
-    "LKS Lodz - Nieciecza": {
-        "Alt": 1.68,
-        "Üst": 1.58
+    "Operario - Avai SC": {
+        "Alt": 1.47,
+        "Üst": 1.83
     },
-    "Metalist 1925 - Shakhtar D.": {
-        "Alt": 1.43,
-        "Üst": 1.9
+    "Lyngby BK - Midtjylland": {
+        "Alt": 2.05,
+        "Üst": 1.43
     },
-    "Motor Lublin - Katowice": {
-        "Alt": 2.0,
-        "Üst": 1.38
+    "Trans Narva - Paide Flora": {
+        "Alt": 1.82,
+        "Üst": 1.48
     },
-    "Malezya - Vietnam": {
-        "Alt": 1.52,
-        "Üst": 1.76
+    "Runavik - EB Streymur": {
+        "Alt": 3.68,
+        "Üst": 2.21
     },
-    "Bremer SV 1906 - Hannoverscher": {
-        "Alt": 1.99,
-        "Üst": 1.38
+    "HB Torshavn - Tofta Itrottarfelag B68": {
+        "Alt": 2.4,
+        "Üst": 3.56
     },
-    "Ostrovets - FK Bumprom": {
-        "Alt": 1.51,
-        "Üst": 3.63
+    "Lahti - Kuopion": {
+        "Alt": 1.7,
+        "Üst": 1.65
     },
-    "Banik Ostrava - SK Artis Brno": {
-        "Alt": 1.91,
-        "Üst": 1.42
+    "Oulu - Inter Turku": {
+        "Alt": 1.6,
+        "Üst": 1.77
     },
-    "HJK Helsinki - FF Jaro": {
-        "Alt": 2.34,
-        "Üst": 1.31
-    },
-    "KuPS Akatemia - PK Keski Uusimaa": {
-        "Alt": 2.85,
+    "VJS - JJK Jyvaskyla": {
+        "Alt": 2.84,
         "Üst": 1.14
     },
-    "Inter 2 - Kokkolan P.": {
-        "Alt": 3.24,
-        "Üst": 1.09
-    },
-    "Chippa Utd - Orlando Pirates": {
-        "Alt": 1.55,
-        "Üst": 1.72
-    },
-    "St. Patricks - Shamrock R.": {
-        "Alt": 1.74,
-        "Üst": 1.54
-    },
-    "Stenhousemuir - Motherwell": {
-        "Alt": 2.01,
-        "Üst": 1.38
-    },
-    "Hearts - Inverness": {
-        "Alt": 1.95,
-        "Üst": 1.4
+    "Mikkeli - Ekenas I.": {
+        "Alt": 1.66,
+        "Üst": 1.61
     }
 }
