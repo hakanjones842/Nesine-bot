@@ -1,23 +1,19 @@
 {
-    "V. Sarsfield - Def. Justicia": {
-        "Alt": 1.48,
-        "Üst": 2.0
-    },
     "Internacional - Clube do Remo": {
-        "Alt": 1.82,
-        "Üst": 1.59
+        "Alt": 1.73,
+        "Üst": 1.66
     },
     "CSD Macara - Uni. Catolica": {
-        "Alt": 1.48,
-        "Üst": 1.86
+        "Alt": 1.56,
+        "Üst": 3.24
     },
     "Gimnasia Y. - Talleres": {
         "Alt": 1.3,
         "Üst": 2.46
     },
     "Palestino - Huachipato": {
-        "Alt": 1.93,
-        "Üst": 1.44
+        "Alt": 2.3,
+        "Üst": 3.37
     },
     "Necaxa - Club Leon": {
         "Alt": 1.76,
@@ -29,7 +25,7 @@
     },
     "SD Raiders - Sydney": {
         "Alt": 2.58,
-        "Üst": 3.49
+        "Üst": 3.47
     },
     "Shanghai S. - Beijing Guoan": {
         "Alt": 2.58,
@@ -44,8 +40,8 @@
         "Üst": 4.15
     },
     "Tayland - Singapur": {
-        "Alt": 1.86,
-        "Üst": 1.49
+        "Alt": 1.83,
+        "Üst": 1.51
     },
     "Cardiff City U21 - Barnsley U21": {
         "Alt": 2.43,
@@ -60,15 +56,11 @@
         "Üst": 3.47
     },
     "Rodina Moscow - Orenburg": {
-        "Alt": 1.93,
-        "Üst": 1.44
+        "Alt": 1.9,
+        "Üst": 1.46
     },
     "CSKA Moskova - Akron Tolyatti": {
         "Alt": 1.97,
         "Üst": 1.42
-    },
-    "Paykan - GOL Gohar": {
-        "Alt": 1.27,
-        "Üst": 2.37
     }
 }
