@@ -1,8 +1,4 @@
 {
-    "Lanus - Independiente": {
-        "Alt": 1.27,
-        "Üst": 2.56
-    },
     "V. Sarsfield - Def. Justicia": {
         "Alt": 1.46,
         "Üst": 2.04
@@ -32,8 +28,8 @@
         "Üst": 1.47
     },
     "SD Raiders - Sydney": {
-        "Alt": 2.47,
-        "Üst": 3.51
+        "Alt": 2.58,
+        "Üst": 3.49
     },
     "Shanghai S. - Beijing Guoan": {
         "Alt": 2.58,
@@ -74,5 +70,9 @@
     "Paykan - GOL Gohar": {
         "Alt": 1.27,
         "Üst": 2.37
+    },
+    "Nassaji Maz. - Esteghlal": {
+        "Alt": 1.7,
+        "Üst": 1.18
     }
 }
