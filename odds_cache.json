@@ -1,78 +1,82 @@
 {
-    "AC Pisa - Empoli": {
-        "Alt": 1.69,
-        "Üst": 1.72
-    },
-    "PFC Spartak Varna - FK Septemvri Sofia": {
-        "Alt": 1.48,
-        "Üst": 1.87
-    },
-    "Trinec - Usti Nad Labem": {
-        "Alt": 2.05,
-        "Üst": 1.38
-    },
-    "Gagra - Spaeri": {
-        "Alt": 1.68,
-        "Üst": 1.62
-    },
-    "Birkirkara - Gzira Utd": {
-        "Alt": 1.42,
-        "Üst": 1.98
-    },
-    "Varhaug - Stabaek II": {
-        "Alt": 2.06,
-        "Üst": 4.05
-    },
-    "Stord - Aasane Fotball 2": {
-        "Alt": 3.37,
-        "Üst": 4.5
-    },
-    "S. Joerpeland - FK Haugesund 2": {
-        "Alt": 2.03,
-        "Üst": 4.05
-    },
-    "Brann 2 - Os": {
-        "Alt": 2.24,
-        "Üst": 4.17
-    },
-    "Viking (A) - Madla": {
-        "Alt": 3.08,
-        "Üst": 4.45
-    },
-    "Fram Larvik - Sarpsborg 08 2": {
-        "Alt": 1.5,
-        "Üst": 4.16
-    },
-    "AL Anwar - Ahli Saudi": {
-        "Alt": 3.9,
-        "Üst": 2.47
-    },
-    "Bul - Gaddafi": {
-        "Alt": 1.46,
-        "Üst": 1.91
-    },
-    "AL Tai - AL Qadisiyah": {
-        "Alt": 3.89,
-        "Üst": 2.11
-    },
-    "Al Zlfe - AL Riyadh": {
-        "Alt": 1.8,
-        "Üst": 1.52
-    },
-    "Sassuolo - AC Cesena": {
-        "Alt": 2.21,
-        "Üst": 1.37
-    },
-    "Fk Kvik Trondheim - Aalesun FK 2": {
-        "Alt": 2.85,
-        "Üst": 4.07
-    },
-    "Spartak Kostroma - Ufa": {
-        "Alt": 1.44,
-        "Üst": 1.95
-    },
     "Brondby - Sonderjyske": {
+        "Alt": 2.16,
+        "Üst": 1.4
+    },
+    "S. Gijon - CE Sabadell": {
+        "Alt": 1.44,
+        "Üst": 2.07
+    },
+    "BK Hacken - Halmstads": {
+        "Alt": 2.59,
+        "Üst": 1.26
+    },
+    "KFUM II - Nordstrand": {
+        "Alt": 1.37,
+        "Üst": 4.32
+    },
+    "Arka Gdynia - Puszcza": {
+        "Alt": 1.57,
+        "Üst": 1.74
+    },
+    "Felgueiras 1932 - Avs Futebol Sad": {
+        "Alt": 1.37,
+        "Üst": 2.06
+    },
+    "AB Argir - Klaksvik": {
+        "Alt": 2.0,
+        "Üst": 1.41
+    },
+    "Vanersborgs IF - Vanersborgs FK": {
+        "Alt": 1.42,
+        "Üst": 3.81
+    },
+    "Estudiantes Río C. - Atl Tucuman": {
+        "Alt": 1.23,
+        "Üst": 2.72
+    },
+    "All Boys - Nueva Chicago": {
+        "Alt": 4.71,
+        "Üst": 3.14
+    },
+    "RFC Liege - Francs Borains": {
+        "Alt": 1.75,
+        "Üst": 1.57
+    },
+    "Graafschap - Jong AZ Alkmaar": {
+        "Alt": 2.94,
+        "Üst": 1.15
+    },
+    "Jong Ajax - Emmen": {
+        "Alt": 2.45,
+        "Üst": 1.24
+    },
+    "Jong Utrecht - Vitesse": {
+        "Alt": 1.89,
+        "Üst": 1.46
+    },
+    "Valur Reykjavik - KA Akureyri": {
+        "Alt": 2.38,
+        "Üst": 3.91
+    },
+    "Völsungur - IF Vestri": {
+        "Alt": 2.03,
+        "Üst": 1.39
+    },
+    "Grindavik - Grotta": {
+        "Alt": 3.68,
+        "Üst": 4.01
+    },
+    "Ir Reykjavik - UMF Njardvik": {
+        "Alt": 1.56,
+        "Üst": 3.62
+    },
+    "L. Reykjavik - Aegir": {
         "Alt": 2.13,
-        "Üst": 1.42
+        "Üst": 3.61
+    },
+    "Novi Pazar - FK Vojvodina": {
+        "Alt": 1.84,
+        "Üst": 1.51
     }
 }
