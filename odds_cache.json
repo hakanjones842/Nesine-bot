@@ -1,7 +1,7 @@
 {
     "V. Sarsfield - Def. Justicia": {
-        "Alt": 1.46,
-        "Üst": 2.04
+        "Alt": 1.48,
+        "Üst": 2.0
     },
     "Internacional - Clube do Remo": {
         "Alt": 1.82,
@@ -16,8 +16,8 @@
         "Üst": 2.46
     },
     "Palestino - Huachipato": {
-        "Alt": 1.9,
-        "Üst": 1.46
+        "Alt": 1.93,
+        "Üst": 1.44
     },
     "Necaxa - Club Leon": {
         "Alt": 1.76,
@@ -70,9 +70,5 @@
     "Paykan - GOL Gohar": {
         "Alt": 1.27,
         "Üst": 2.37
-    },
-    "Nassaji Maz. - Esteghlal": {
-        "Alt": 1.7,
-        "Üst": 1.18
     }
 }
