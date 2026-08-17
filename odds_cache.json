@@ -1,39 +1,7 @@
 {
-    "Independiente P. - GV San Jose": {
-        "Alt": 2.01,
-        "Üst": 1.38
-    },
-    "SD Aucas - LDU Quito": {
-        "Alt": 1.38,
-        "Üst": 2.0
-    },
-    "Platense M. - CD Fas": {
-        "Alt": 1.48,
-        "Üst": 1.82
-    },
-    "Unan Managua - ART Jalapa": {
-        "Alt": 1.65,
-        "Üst": 1.61
-    },
-    "Austin - Dallas": {
-        "Alt": 1.96,
-        "Üst": 1.47
-    },
-    "Santos Laguna - CD Guadalajara": {
-        "Alt": 2.08,
-        "Üst": 1.35
-    },
-    "S. Sounders - V. Whitecaps": {
-        "Alt": 2.09,
-        "Üst": 1.4
-    },
-    "Club Tijuana - Cruz Azul": {
-        "Alt": 1.63,
-        "Üst": 1.63
-    },
     "Melbourne V. Gençler - Northcote City": {
-        "Alt": 1.31,
-        "Üst": 3.94
+        "Alt": 3.76,
+        "Üst": 3.96
     },
     "Bulleen Lions - North Sunshine Eagles": {
         "Alt": 2.54,
@@ -44,16 +12,12 @@
         "Üst": 3.84
     },
     "Molde II - Rosenborg 2": {
-        "Alt": 1.74,
-        "Üst": 4.07
+        "Alt": 1.63,
+        "Üst": 3.94
     },
     "Gnistan - Tampereen I.": {
         "Alt": 2.09,
         "Üst": 1.4
-    },
-    "FK Auda - Grobinas SC": {
-        "Alt": 2.02,
-        "Üst": 1.37
     },
     "Siauliai - FK Panevezys": {
         "Alt": 1.9,
@@ -62,5 +26,45 @@
     "S. Bratislava B - FK Humenne": {
         "Alt": 1.72,
         "Üst": 1.56
+    },
+    "Polissya Zhytomyr - Zorya Luhansk": {
+        "Alt": 1.6,
+        "Üst": 1.67
+    },
+    "Karabağ - Shamakhi FK": {
+        "Alt": 1.92,
+        "Üst": 3.35
+    },
+    "Zalaegerszeg - Ferencvaros": {
+        "Alt": 2.0,
+        "Üst": 1.38
+    },
+    "U. Cluj - UTA Arad": {
+        "Alt": 1.51,
+        "Üst": 1.76
+    },
+    "Dziugas - Suduva": {
+        "Alt": 1.44,
+        "Üst": 1.89
+    },
+    "AC Pisa - Empoli": {
+        "Alt": 1.54,
+        "Üst": 1.84
+    },
+    "PFC Spartak Varna - FK Septemvri Sofia": {
+        "Alt": 1.47,
+        "Üst": 1.83
+    },
+    "Trinec - Usti Nad Labem": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "Gagra - Spaeri": {
+        "Alt": 1.57,
+        "Üst": 1.7
+    },
+    "Birkirkara - Gzira Utd": {
+        "Alt": 1.4,
+        "Üst": 1.95
     }
 }
