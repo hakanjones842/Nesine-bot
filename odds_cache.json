@@ -1,7 +1,7 @@
 {
     "Melbourne V. Gençler - Northcote City": {
-        "Alt": 3.76,
-        "Üst": 3.96
+        "Alt": 3.81,
+        "Üst": 3.92
     },
     "Bulleen Lions - North Sunshine Eagles": {
         "Alt": 2.54,
@@ -12,8 +12,8 @@
         "Üst": 3.84
     },
     "Molde II - Rosenborg 2": {
-        "Alt": 1.63,
-        "Üst": 3.98
+        "Alt": 1.53,
+        "Üst": 4.07
     },
     "Gnistan - Tampereen I.": {
         "Alt": 2.09,
@@ -24,12 +24,12 @@
         "Üst": 1.43
     },
     "S. Bratislava B - FK Humenne": {
-        "Alt": 1.72,
-        "Üst": 1.56
+        "Alt": 1.82,
+        "Üst": 1.48
     },
     "Polissya Zhytomyr - Zorya Luhansk": {
-        "Alt": 1.63,
-        "Üst": 1.64
+        "Alt": 1.65,
+        "Üst": 1.62
     },
     "Karabağ - Shamakhi FK": {
         "Alt": 1.92,
@@ -52,8 +52,8 @@
         "Üst": 1.84
     },
     "PFC Spartak Varna - FK Septemvri Sofia": {
-        "Alt": 1.47,
-        "Üst": 1.83
+        "Alt": 1.45,
+        "Üst": 1.87
     },
     "Trinec - Usti Nad Labem": {
         "Alt": 1.83,
@@ -68,19 +68,7 @@
         "Üst": 1.95
     },
     "Varhaug - Stabaek II": {
-        "Alt": 2.22,
-        "Üst": 3.88
-    },
-    "Lillehammer FK - Lyn 1896 FK II": {
-        "Alt": 2.02,
-        "Üst": 4.03
-    },
-    "S. Joerpeland - FK Haugesund 2": {
-        "Alt": 3.34,
-        "Üst": 4.39
-    },
-    "Brann 2 - Os": {
-        "Alt": 1.75,
-        "Üst": 3.96
+        "Alt": 2.27,
+        "Üst": 3.94
     }
 }
