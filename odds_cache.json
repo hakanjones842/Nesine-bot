@@ -7,6 +7,10 @@
         "Alt": 2.14,
         "Üst": 1.38
     },
+    "FK Auda - Grobinas SC": {
+        "Alt": 2.05,
+        "Üst": 1.36
+    },
     "Siauliai - FK Panevezys": {
         "Alt": 1.98,
         "Üst": 1.38
@@ -16,12 +20,12 @@
         "Üst": 1.51
     },
     "Polissya Zhytomyr - Zorya Luhansk": {
-        "Alt": 1.68,
-        "Üst": 1.59
+        "Alt": 1.7,
+        "Üst": 1.57
     },
     "Karabağ - Shamakhi FK": {
-        "Alt": 1.83,
-        "Üst": 3.34
+        "Alt": 1.77,
+        "Üst": 3.32
     },
     "Zalaegerszeg - Ferencvaros": {
         "Alt": 2.03,
@@ -44,8 +48,8 @@
         "Üst": 1.87
     },
     "Trinec - Usti Nad Labem": {
-        "Alt": 1.83,
-        "Üst": 1.48
+        "Alt": 1.86,
+        "Üst": 1.45
     },
     "Gagra - Spaeri": {
         "Alt": 1.66,
@@ -60,11 +64,19 @@
         "Üst": 4.02
     },
     "Lillehammer FK - Lyn 1896 FK II": {
-        "Alt": 4.15,
-        "Üst": 2.36
+        "Alt": 4.32,
+        "Üst": 1.59
     },
     "Stord - Aasane Fotball 2": {
         "Alt": 1.39,
         "Üst": 4.21
+    },
+    "S. Joerpeland - FK Haugesund 2": {
+        "Alt": 1.73,
+        "Üst": 3.96
+    },
+    "Brann 2 - Os": {
+        "Alt": 2.01,
+        "Üst": 4.0
     }
 }
