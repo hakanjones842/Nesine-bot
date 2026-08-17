@@ -1,19 +1,7 @@
 {
-    "Melbourne V. Gençler - Northcote City": {
-        "Alt": 3.81,
-        "Üst": 3.92
-    },
-    "Bulleen Lions - North Sunshine Eagles": {
-        "Alt": 2.58,
-        "Üst": 3.58
-    },
-    "Swansea U21 - Sheffield Utd U21": {
-        "Alt": 3.12,
-        "Üst": 3.84
-    },
-    "Molde II - Rosenborg 2": {
-        "Alt": 1.43,
-        "Üst": 4.25
+    "Maroons - Uganda Police": {
+        "Alt": 1.39,
+        "Üst": 1.98
     },
     "Gnistan - Tampereen I.": {
         "Alt": 2.14,
@@ -32,12 +20,12 @@
         "Üst": 1.59
     },
     "Karabağ - Shamakhi FK": {
-        "Alt": 1.9,
-        "Üst": 3.35
+        "Alt": 1.83,
+        "Üst": 3.34
     },
     "Zalaegerszeg - Ferencvaros": {
-        "Alt": 2.0,
-        "Üst": 1.38
+        "Alt": 2.03,
+        "Üst": 1.37
     },
     "U. Cluj - UTA Arad": {
         "Alt": 1.54,
@@ -48,8 +36,8 @@
         "Üst": 1.85
     },
     "AC Pisa - Empoli": {
-        "Alt": 1.54,
-        "Üst": 1.84
+        "Alt": 1.57,
+        "Üst": 1.82
     },
     "PFC Spartak Varna - FK Septemvri Sofia": {
         "Alt": 1.45,
@@ -68,11 +56,15 @@
         "Üst": 1.95
     },
     "Varhaug - Stabaek II": {
-        "Alt": 2.27,
-        "Üst": 3.94
+        "Alt": 2.08,
+        "Üst": 4.02
     },
     "Lillehammer FK - Lyn 1896 FK II": {
-        "Alt": 4.18,
-        "Üst": 2.34
+        "Alt": 4.15,
+        "Üst": 2.36
+    },
+    "Stord - Aasane Fotball 2": {
+        "Alt": 1.39,
+        "Üst": 4.21
     }
 }
