@@ -13,7 +13,7 @@
     },
     "Molde II - Rosenborg 2": {
         "Alt": 1.63,
-        "Üst": 3.94
+        "Üst": 3.98
     },
     "Gnistan - Tampereen I.": {
         "Alt": 2.09,
@@ -28,8 +28,8 @@
         "Üst": 1.56
     },
     "Polissya Zhytomyr - Zorya Luhansk": {
-        "Alt": 1.6,
-        "Üst": 1.67
+        "Alt": 1.63,
+        "Üst": 1.64
     },
     "Karabağ - Shamakhi FK": {
         "Alt": 1.92,
@@ -60,11 +60,27 @@
         "Üst": 1.48
     },
     "Gagra - Spaeri": {
-        "Alt": 1.57,
-        "Üst": 1.7
+        "Alt": 1.66,
+        "Üst": 1.6
     },
     "Birkirkara - Gzira Utd": {
         "Alt": 1.4,
         "Üst": 1.95
+    },
+    "Varhaug - Stabaek II": {
+        "Alt": 2.22,
+        "Üst": 3.88
+    },
+    "Lillehammer FK - Lyn 1896 FK II": {
+        "Alt": 2.02,
+        "Üst": 4.03
+    },
+    "S. Joerpeland - FK Haugesund 2": {
+        "Alt": 3.34,
+        "Üst": 4.39
+    },
+    "Brann 2 - Os": {
+        "Alt": 1.75,
+        "Üst": 3.96
     }
 }
