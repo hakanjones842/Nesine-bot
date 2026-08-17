@@ -1,82 +1,74 @@
 {
-    "Brondby - Sonderjyske": {
-        "Alt": 2.16,
+    "Arda Kardzha - Loko Sofya": {
+        "Alt": 1.58,
+        "Üst": 1.72
+    },
+    "Samsunspor - Göztepe": {
+        "Alt": 1.68,
+        "Üst": 1.72
+    },
+    "Batman Petrol - Boluspor": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "Hamrun Spartans - Mosta": {
+        "Alt": 2.01,
         "Üst": 1.4
     },
-    "S. Gijon - CE Sabadell": {
+    "FCSB - Botosani": {
+        "Alt": 2.07,
+        "Üst": 1.37
+    },
+    "Cremonese - Sampdoria": {
+        "Alt": 1.47,
+        "Üst": 2.01
+    },
+    "Dep. La Coruna - Elche": {
         "Alt": 1.44,
-        "Üst": 2.07
+        "Üst": 2.09
     },
-    "BK Hacken - Halmstads": {
-        "Alt": 2.59,
-        "Üst": 1.26
+    "Cardiff City - Wrexham": {
+        "Alt": 1.91,
+        "Üst": 1.53
     },
-    "KFUM II - Nordstrand": {
-        "Alt": 1.37,
-        "Üst": 4.32
+    "Casa Pia - Benfica": {
+        "Alt": 2.21,
+        "Üst": 1.38
     },
-    "Arka Gdynia - Puszcza": {
-        "Alt": 1.57,
-        "Üst": 1.74
+    "US Palermo - Lecce": {
+        "Alt": 1.62,
+        "Üst": 1.79
     },
-    "Felgueiras 1932 - Avs Futebol Sad": {
-        "Alt": 1.37,
-        "Üst": 2.06
+    "Fram Rey - Stjarnan Gard.": {
+        "Alt": 3.05,
+        "Üst": 4.1
     },
-    "AB Argir - Klaksvik": {
-        "Alt": 2.0,
-        "Üst": 1.41
+    "T. Reykjavik - Fylkir Reykj.": {
+        "Alt": 2.92,
+        "Üst": 3.64
     },
-    "Vanersborgs IF - Vanersborgs FK": {
-        "Alt": 1.42,
-        "Üst": 3.81
+    "Afturelding - Kopavogur": {
+        "Alt": 2.01,
+        "Üst": 3.87
     },
-    "Estudiantes Río C. - Atl Tucuman": {
-        "Alt": 1.23,
-        "Üst": 2.72
+    "Almeria - C. Dep. Eldense": {
+        "Alt": 2.05,
+        "Üst": 1.45
     },
-    "All Boys - Nueva Chicago": {
-        "Alt": 4.71,
-        "Üst": 3.14
+    "Lanus - Independiente": {
+        "Alt": 1.27,
+        "Üst": 2.56
     },
-    "RFC Liege - Francs Borains": {
-        "Alt": 1.75,
-        "Üst": 1.57
+    "V. Sarsfield - Def. Justicia": {
+        "Alt": 1.46,
+        "Üst": 2.04
     },
-    "Graafschap - Jong AZ Alkmaar": {
-        "Alt": 2.94,
-        "Üst": 1.15
+    "Internacional - Clube do Remo": {
+        "Alt": 1.79,
+        "Üst": 1.62
     },
-    "Jong Ajax - Emmen": {
-        "Alt": 2.45,
-        "Üst": 1.24
-    },
-    "Jong Utrecht - Vitesse": {
-        "Alt": 1.89,
-        "Üst": 1.46
-    },
-    "Valur Reykjavik - KA Akureyri": {
-        "Alt": 2.38,
-        "Üst": 3.91
-    },
-    "Völsungur - IF Vestri": {
-        "Alt": 2.03,
-        "Üst": 1.39
-    },
-    "Grindavik - Grotta": {
-        "Alt": 3.68,
-        "Üst": 4.01
-    },
-    "Ir Reykjavik - UMF Njardvik": {
-        "Alt": 1.56,
-        "Üst": 3.62
-    },
-    "L. Reykjavik - Aegir": {
-        "Alt": 2.13,
-        "Üst": 3.61
-    },
-    "Novi Pazar - FK Vojvodina": {
-        "Alt": 1.84,
-        "Üst": 1.51
+    "CSD Macara - Uni. Catolica": {
+        "Alt": 1.48,
+        "Üst": 1.86
     }
 }
