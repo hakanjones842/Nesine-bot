@@ -1,12 +1,4 @@
 {
-    "Internacional - Clube do Remo": {
-        "Alt": 1.73,
-        "Üst": 1.66
-    },
-    "CSD Macara - Uni. Catolica": {
-        "Alt": 1.56,
-        "Üst": 3.24
-    },
     "Gimnasia Y. - Talleres": {
         "Alt": 1.3,
         "Üst": 2.46
@@ -15,13 +7,9 @@
         "Alt": 2.3,
         "Üst": 3.37
     },
-    "Necaxa - Club Leon": {
-        "Alt": 1.76,
-        "Üst": 1.56
-    },
     "Pachuca - Puebla": {
-        "Alt": 1.88,
-        "Üst": 1.47
+        "Alt": 1.92,
+        "Üst": 1.45
     },
     "SD Raiders - Sydney": {
         "Alt": 2.58,
@@ -56,11 +44,31 @@
         "Üst": 3.47
     },
     "Rodina Moscow - Orenburg": {
-        "Alt": 1.9,
-        "Üst": 1.46
+        "Alt": 1.88,
+        "Üst": 1.47
     },
     "CSKA Moskova - Akron Tolyatti": {
         "Alt": 1.97,
         "Üst": 1.42
+    },
+    "Paykan - GOL Gohar": {
+        "Alt": 1.27,
+        "Üst": 2.37
+    },
+    "Nassaji Maz. - Esteghlal": {
+        "Alt": 1.7,
+        "Üst": 1.18
+    },
+    "Aluminium A. - Chador Malu Y.": {
+        "Alt": 1.19,
+        "Üst": 2.68
+    },
+    "Heidenheim - Bayern Münih": {
+        "Alt": 3.34,
+        "Üst": 1.14
+    },
+    "Estrela A. U23 - Leixoes U23": {
+        "Alt": 1.58,
+        "Üst": 1.73
     }
 }
