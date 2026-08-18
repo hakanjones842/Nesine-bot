@@ -1,11 +1,11 @@
 {
     "Ind. Mendoza - Fluminense": {
-        "Alt": 1.3,
-        "Üst": 2.42
+        "Alt": 1.31,
+        "Üst": 2.41
     },
     "CD Recoleta - Boca Juniors": {
         "Alt": 1.79,
-        "Üst": 1.63
+        "Üst": 1.62
     },
     "Londrina PR - Atl Goianiense": {
         "Alt": 1.38,
@@ -24,8 +24,8 @@
         "Üst": 2.44
     },
     "CD Tolima - Independiente D.": {
-        "Alt": 1.36,
-        "Üst": 2.27
+        "Alt": 1.34,
+        "Üst": 2.32
     },
     "Sao Paulo SP - Club Bolivar": {
         "Alt": 1.79,
@@ -36,16 +36,16 @@
         "Üst": 2.38
     },
     "CS Cartagines - Verdes": {
-        "Alt": 3.98,
-        "Üst": 2.25
+        "Alt": 3.96,
+        "Üst": 2.26
     },
     "Real Esteli - CS Herediano": {
         "Alt": 1.59,
         "Üst": 1.71
     },
     "Xelaju - Diriangen": {
-        "Alt": 2.0,
-        "Üst": 1.4
+        "Alt": 2.05,
+        "Üst": 1.38
     },
     "Vasas SC II - Budapest Honved MFA": {
         "Alt": 2.21,
@@ -80,6 +80,14 @@
         "Üst": 3.53
     },
     "Anyang - Jeju Utd": {
+        "Alt": 1.48,
+        "Üst": 1.86
+    },
+    "Gangwon - Seongnam": {
+        "Alt": 1.83,
+        "Üst": 1.51
+    },
+    "Busan I Park - Bucheon": {
         "Alt": 1.48,
         "Üst": 1.86
     }
