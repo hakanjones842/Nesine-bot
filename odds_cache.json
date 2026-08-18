@@ -1,71 +1,11 @@
 {
-    "Heidenheim - Bayern Münih": {
-        "Alt": 4.03,
-        "Üst": 1.08
-    },
-    "Felgueiras 1932 U23 - Braga U23": {
-        "Alt": 2.02,
-        "Üst": 1.39
-    },
-    "Estrela A. U23 - Leixoes U23": {
-        "Alt": 1.58,
-        "Üst": 1.73
-    },
-    "Torreense U23 - Portimonense U23": {
-        "Alt": 2.0,
-        "Üst": 1.4
-    },
-    "Gil Vicente U23 - Academico V. U23": {
-        "Alt": 1.76,
-        "Üst": 1.56
-    },
-    "Penafiel U23 - CS Maritimo U23": {
-        "Alt": 1.88,
-        "Üst": 1.47
-    },
-    "Vizela U23 - Sporting U23": {
-        "Alt": 1.78,
-        "Üst": 1.54
-    },
-    "Namungo - Geita Gold": {
-        "Alt": 2.84,
-        "Üst": 2.93
-    },
-    "Kampala C. - NEC": {
-        "Alt": 1.4,
-        "Üst": 2.01
-    },
-    "AL Akhdood - AL Khaleej Saihat": {
-        "Alt": 1.9,
-        "Üst": 1.46
-    },
-    "AL Jabalain - AL Ettifaq": {
-        "Alt": 1.75,
-        "Üst": 1.57
-    },
-    "AL Najma - AL Ittihad": {
-        "Alt": 2.61,
-        "Üst": 3.41
-    },
-    "M. Sepahan - TS Tabriz": {
-        "Alt": 1.23,
-        "Üst": 2.52
-    },
-    "Nosaby - IFK Trelleborg": {
-        "Alt": 1.64,
-        "Üst": 3.55
-    },
-    "UD Mutilvera - Pena Sport": {
-        "Alt": 2.01,
-        "Üst": 1.4
-    },
     "Akhmat Grozny - Fakel": {
         "Alt": 1.59,
         "Üst": 1.71
     },
     "FK Rostov - L. Moskova": {
-        "Alt": 1.66,
-        "Üst": 1.65
+        "Alt": 1.69,
+        "Üst": 1.61
     },
     "Reading - Wycombe": {
         "Alt": 2.08,
@@ -80,7 +20,79 @@
         "Üst": 1.4
     },
     "Wigan Ath - Aston Villa U21": {
-        "Alt": 2.35,
-        "Üst": 1.28
+        "Alt": 2.42,
+        "Üst": 1.25
+    },
+    "Stockport - Everton U21": {
+        "Alt": 2.75,
+        "Üst": 1.18
+    },
+    "Fleetwood T. U21 - Preston U21": {
+        "Alt": 1.54,
+        "Üst": 3.75
+    },
+    "Huddersfield T. U21 - Gillingham U21": {
+        "Alt": 1.75,
+        "Üst": 3.72
+    },
+    "Boreham Wood - Leeds Utd U21": {
+        "Alt": 1.77,
+        "Üst": 3.63
+    },
+    "Sutton Utd - Leicester City U21": {
+        "Alt": 2.99,
+        "Üst": 3.8
+    },
+    "Wealdstone - Wolverhampton U21": {
+        "Alt": 2.68,
+        "Üst": 3.69
+    },
+    "Hornchurch - Norwich City U21": {
+        "Alt": 2.91,
+        "Üst": 3.75
+    },
+    "Scunthorpe - Stoke City U21": {
+        "Alt": 2.08,
+        "Üst": 3.58
+    },
+    "Halifax Town - Derby County U21": {
+        "Alt": 3.57,
+        "Üst": 4.01
+    },
+    "Gateshead - Nottingham F. U21": {
+        "Alt": 1.98,
+        "Üst": 1.42
+    },
+    "Boston Utd - Birmingham City U21": {
+        "Alt": 2.73,
+        "Üst": 3.75
+    },
+    "Truro City - Southampton U21": {
+        "Alt": 1.35,
+        "Üst": 3.97
+    },
+    "Solihull Moors - Middlesbrough U21": {
+        "Alt": 1.3,
+        "Üst": 4.03
+    },
+    "Bellinzona - Basel II": {
+        "Alt": 1.3,
+        "Üst": 3.99
+    },
+    "AL Draih - AL Nassr": {
+        "Alt": 1.73,
+        "Üst": 3.56
+    },
+    "Worthing - W. Ham U21": {
+        "Alt": 3.66,
+        "Üst": 3.99
+    },
+    "Braintree - Ipswich Town U21": {
+        "Alt": 1.46,
+        "Üst": 3.83
+    },
+    "Barnet - Arsenal U21": {
+        "Alt": 2.38,
+        "Üst": 1.26
     }
 }
