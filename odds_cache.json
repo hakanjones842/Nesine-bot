@@ -1,19 +1,7 @@
 {
-    "Dep. Riestra - Gimnasia": {
-        "Alt": 1.46,
-        "Üst": 3.02
-    },
-    "Yaracuyanos - Caracas": {
-        "Alt": 1.48,
-        "Üst": 1.86
-    },
-    "Trujillanos - Urena SC": {
-        "Alt": 1.51,
-        "Üst": 1.83
-    },
     "Ind. Mendoza - Fluminense": {
         "Alt": 1.3,
-        "Üst": 2.48
+        "Üst": 2.42
     },
     "CD Recoleta - Boca Juniors": {
         "Alt": 1.79,
@@ -78,5 +66,21 @@
     "Chungnam Asan - Daejeon Citizen": {
         "Alt": 1.65,
         "Üst": 1.65
+    },
+    "Pohang S. - Jinju Citizen": {
+        "Alt": 2.0,
+        "Üst": 1.41
+    },
+    "Jeonbuk - Dangjin Citizen": {
+        "Alt": 2.02,
+        "Üst": 1.39
+    },
+    "Preston Lions - Melbourne City 2": {
+        "Alt": 2.18,
+        "Üst": 3.53
+    },
+    "Anyang - Jeju Utd": {
+        "Alt": 1.48,
+        "Üst": 1.86
     }
 }
