@@ -1,26 +1,14 @@
 {
-    "Gimnasia Y. - Talleres": {
-        "Alt": 1.3,
-        "Üst": 2.46
-    },
-    "Palestino - Huachipato": {
-        "Alt": 2.3,
-        "Üst": 3.37
-    },
-    "Pachuca - Puebla": {
-        "Alt": 1.92,
-        "Üst": 1.45
-    },
     "SD Raiders - Sydney": {
-        "Alt": 2.58,
-        "Üst": 3.47
+        "Alt": 2.64,
+        "Üst": 3.48
     },
     "Shanghai S. - Beijing Guoan": {
         "Alt": 2.58,
         "Üst": 1.22
     },
     "Bristol City U21 - Wigan Ath U21": {
-        "Alt": 2.7,
+        "Alt": 2.77,
         "Üst": 3.89
     },
     "Peterborough Utd U21 - QPR U21": {
@@ -36,8 +24,8 @@
         "Üst": 3.54
     },
     "Charlton Ath U21 - Bolton Wanderers U21": {
-        "Alt": 1.87,
-        "Üst": 3.7
+        "Alt": 1.86,
+        "Üst": 3.67
     },
     "Fountain Gate - Mashujaa": {
         "Alt": 4.92,
@@ -64,11 +52,35 @@
         "Üst": 2.68
     },
     "Heidenheim - Bayern Münih": {
-        "Alt": 3.34,
-        "Üst": 1.14
+        "Alt": 1.14,
+        "Üst": 2.3
     },
     "Estrela A. U23 - Leixoes U23": {
         "Alt": 1.58,
         "Üst": 1.73
+    },
+    "Torreense U23 - Portimonense U23": {
+        "Alt": 1.7,
+        "Üst": 1.61
+    },
+    "Gil Vicente U23 - Academico V. U23": {
+        "Alt": 1.79,
+        "Üst": 1.54
+    },
+    "Vizela U23 - Sporting U23": {
+        "Alt": 1.71,
+        "Üst": 1.6
+    },
+    "Namungo - Geita Gold": {
+        "Alt": 1.32,
+        "Üst": 2.2
+    },
+    "AL Akhdood - AL Khaleej Saihat": {
+        "Alt": 1.95,
+        "Üst": 1.44
+    },
+    "AL Jabalain - AL Ettifaq": {
+        "Alt": 1.72,
+        "Üst": 1.59
     }
 }
