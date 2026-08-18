@@ -1,22 +1,6 @@
 {
-    "Rodina Moscow - Orenburg": {
-        "Alt": 1.88,
-        "Üst": 1.47
-    },
-    "CSKA Moskova - Akron Tolyatti": {
-        "Alt": 2.46,
-        "Üst": 1.24
-    },
-    "Paykan - GOL Gohar": {
-        "Alt": 1.27,
-        "Üst": 2.37
-    },
-    "Nassaji Maz. - Esteghlal": {
-        "Alt": 1.31,
-        "Üst": 2.22
-    },
     "Heidenheim - Bayern Münih": {
-        "Alt": 4.01,
+        "Alt": 4.03,
         "Üst": 1.08
     },
     "Felgueiras 1932 U23 - Braga U23": {
@@ -44,32 +28,32 @@
         "Üst": 1.54
     },
     "Namungo - Geita Gold": {
-        "Alt": 1.32,
-        "Üst": 2.2
+        "Alt": 2.84,
+        "Üst": 2.93
     },
     "Kampala C. - NEC": {
         "Alt": 1.4,
         "Üst": 2.01
     },
     "AL Akhdood - AL Khaleej Saihat": {
-        "Alt": 1.98,
-        "Üst": 1.42
+        "Alt": 1.9,
+        "Üst": 1.46
     },
     "AL Jabalain - AL Ettifaq": {
-        "Alt": 1.8,
-        "Üst": 1.52
+        "Alt": 1.75,
+        "Üst": 1.57
     },
     "AL Najma - AL Ittihad": {
-        "Alt": 2.42,
-        "Üst": 3.47
+        "Alt": 2.61,
+        "Üst": 3.41
     },
     "M. Sepahan - TS Tabriz": {
         "Alt": 1.23,
         "Üst": 2.52
     },
     "Nosaby - IFK Trelleborg": {
-        "Alt": 1.71,
-        "Üst": 3.51
+        "Alt": 1.64,
+        "Üst": 3.55
     },
     "UD Mutilvera - Pena Sport": {
         "Alt": 2.01,
@@ -86,5 +70,17 @@
     "Reading - Wycombe": {
         "Alt": 2.08,
         "Üst": 1.37
+    },
+    "Northampton - Brighton U21": {
+        "Alt": 2.32,
+        "Üst": 1.28
+    },
+    "Leyton Orient - Wimbledon": {
+        "Alt": 2.0,
+        "Üst": 1.4
+    },
+    "Wigan Ath - Aston Villa U21": {
+        "Alt": 2.35,
+        "Üst": 1.28
     }
 }
