@@ -1,10 +1,10 @@
 {
     "SD Raiders - Sydney": {
-        "Alt": 2.38,
-        "Üst": 3.47
+        "Alt": 1.64,
+        "Üst": 3.71
     },
     "Shanghai S. - Beijing Guoan": {
-        "Alt": 2.62,
+        "Alt": 2.63,
         "Üst": 1.21
     },
     "Bristol City U21 - Wigan Ath U21": {
@@ -12,32 +12,32 @@
         "Üst": 3.89
     },
     "Peterborough Utd U21 - QPR U21": {
-        "Alt": 3.21,
-        "Üst": 4.15
+        "Alt": 3.09,
+        "Üst": 4.1
     },
     "Tayland - Singapur": {
-        "Alt": 1.77,
-        "Üst": 1.55
+        "Alt": 1.73,
+        "Üst": 1.58
     },
     "Cardiff City U21 - Barnsley U21": {
-        "Alt": 2.43,
-        "Üst": 3.54
+        "Alt": 2.47,
+        "Üst": 3.58
     },
     "Charlton Ath U21 - Bolton Wanderers U21": {
-        "Alt": 1.86,
-        "Üst": 3.67
+        "Alt": 1.83,
+        "Üst": 3.68
     },
     "Fountain Gate - Mashujaa": {
-        "Alt": 4.92,
-        "Üst": 3.47
+        "Alt": 5.13,
+        "Üst": 3.54
     },
     "Rodina Moscow - Orenburg": {
         "Alt": 1.88,
         "Üst": 1.47
     },
     "CSKA Moskova - Akron Tolyatti": {
-        "Alt": 1.97,
-        "Üst": 1.42
+        "Alt": 2.2,
+        "Üst": 1.32
     },
     "Paykan - GOL Gohar": {
         "Alt": 1.27,
@@ -52,8 +52,8 @@
         "Üst": 2.68
     },
     "Heidenheim - Bayern Münih": {
-        "Alt": 1.14,
-        "Üst": 2.26
+        "Alt": 3.44,
+        "Üst": 1.13
     },
     "FC Felgueiras 1932 U23 - Braga U23": {
         "Alt": 2.02,
@@ -64,12 +64,16 @@
         "Üst": 1.73
     },
     "Torreense U23 - Portimonense U23": {
-        "Alt": 1.75,
-        "Üst": 1.56
+        "Alt": 1.82,
+        "Üst": 1.51
     },
     "Gil Vicente U23 - Academico V. U23": {
-        "Alt": 1.79,
-        "Üst": 1.54
+        "Alt": 1.76,
+        "Üst": 1.56
+    },
+    "Penafiel U23 - CS Maritimo U23": {
+        "Alt": 1.92,
+        "Üst": 1.45
     },
     "Vizela U23 - Sporting U23": {
         "Alt": 1.71,
@@ -86,9 +90,5 @@
     "AL Jabalain - AL Ettifaq": {
         "Alt": 1.72,
         "Üst": 1.59
-    },
-    "AL Najma - AL Ittihad": {
-        "Alt": 2.34,
-        "Üst": 3.44
     }
 }
