@@ -1,15 +1,11 @@
 {
-    "Shanghai S. - Beijing Guoan": {
-        "Alt": 2.68,
-        "Üst": 1.19
-    },
     "Bristol City U21 - Wigan Ath U21": {
-        "Alt": 2.7,
-        "Üst": 3.93
+        "Alt": 2.07,
+        "Üst": 3.74
     },
     "Peterborough Utd U21 - QPR U21": {
-        "Alt": 2.75,
-        "Üst": 3.97
+        "Alt": 2.21,
+        "Üst": 3.88
     },
     "Tayland - Singapur": {
         "Alt": 1.76,
@@ -32,8 +28,8 @@
         "Üst": 1.47
     },
     "CSKA Moskova - Akron Tolyatti": {
-        "Alt": 2.3,
-        "Üst": 1.29
+        "Alt": 2.46,
+        "Üst": 1.24
     },
     "Paykan - GOL Gohar": {
         "Alt": 1.27,
@@ -44,7 +40,7 @@
         "Üst": 2.22
     },
     "Heidenheim - Bayern Münih": {
-        "Alt": 3.61,
+        "Alt": 3.62,
         "Üst": 1.11
     },
     "Felgueiras 1932 U23 - Braga U23": {
@@ -64,8 +60,8 @@
         "Üst": 1.56
     },
     "Penafiel U23 - CS Maritimo U23": {
-        "Alt": 1.92,
-        "Üst": 1.45
+        "Alt": 1.88,
+        "Üst": 1.47
     },
     "Vizela U23 - Sporting U23": {
         "Alt": 1.71,
@@ -78,5 +74,9 @@
     "AL Akhdood - AL Khaleej Saihat": {
         "Alt": 1.95,
         "Üst": 1.44
+    },
+    "AL Jabalain - AL Ettifaq": {
+        "Alt": 1.72,
+        "Üst": 1.59
     }
 }
