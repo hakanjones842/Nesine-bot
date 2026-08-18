@@ -1,106 +1,82 @@
 {
-    "Worthing - W. Ham U21": {
-        "Alt": 3.66,
-        "Üst": 3.99
+    "Dep. Riestra - Gimnasia": {
+        "Alt": 1.46,
+        "Üst": 3.02
     },
-    "Braintree - Ipswich Town U21": {
+    "Yaracuyanos - Caracas": {
         "Alt": 1.48,
-        "Üst": 3.82
+        "Üst": 1.86
     },
-    "Barnet - Arsenal U21": {
-        "Alt": 2.38,
-        "Üst": 1.27
-    },
-    "Curzon Ashton - Bamber Bridge": {
-        "Alt": 1.86,
-        "Üst": 1.48
-    },
-    "G'borough Tr. - Stockton Town": {
+    "Trujillanos - Urena SC": {
         "Alt": 1.51,
-        "Üst": 1.82
+        "Üst": 1.83
     },
-    "Warrington R. 1906 - Quorn": {
-        "Alt": 1.81,
-        "Üst": 1.52
-    },
-    "Ilkeston Town - Warrington T.": {
-        "Alt": 1.64,
-        "Üst": 1.66
-    },
-    "Guiseley - Bury": {
-        "Alt": 1.64,
-        "Üst": 1.67
-    },
-    "Hyde Utd - Utd Of Manch.": {
-        "Alt": 1.75,
-        "Üst": 1.57
-    },
-    "Leek Town - AFC Emley": {
-        "Alt": 1.53,
-        "Üst": 1.79
-    },
-    "Cleethorpes - Alfreton": {
-        "Alt": 1.65,
-        "Üst": 1.66
-    },
-    "Ashton Utd - Whitby Town": {
-        "Alt": 1.64,
-        "Üst": 1.66
-    },
-    "Redcar Athletic - Lancaster": {
-        "Alt": 1.66,
-        "Üst": 1.65
-    },
-    "Aldershot - Fulham U21": {
+    "Ind. Mendoza - Fluminense": {
         "Alt": 1.3,
-        "Üst": 3.95
+        "Üst": 2.48
     },
-    "Tamworth - Newcastle U21": {
-        "Alt": 3.41,
-        "Üst": 3.9
+    "CD Recoleta - Boca Juniors": {
+        "Alt": 1.79,
+        "Üst": 1.63
     },
-    "Woking - W. Bromwich U21": {
-        "Alt": 2.54,
-        "Üst": 3.65
+    "Londrina PR - Atl Goianiense": {
+        "Alt": 1.38,
+        "Üst": 2.05
     },
-    "Torquay - Weston Super Mare": {
-        "Alt": 1.69,
+    "Banfield - F. Midland": {
+        "Alt": 1.38,
+        "Üst": 2.05
+    },
+    "Nautico PE - Ceara CE": {
+        "Alt": 1.43,
+        "Üst": 1.96
+    },
+    "Uni. Catolica - Estudiantes": {
+        "Alt": 1.3,
+        "Üst": 2.43
+    },
+    "CD Tolima - Independiente D.": {
+        "Alt": 1.36,
+        "Üst": 2.27
+    },
+    "Sao Paulo SP - Club Bolivar": {
+        "Alt": 1.79,
         "Üst": 1.62
     },
-    "Maidst. Utd - Folkestone I.": {
-        "Alt": 1.75,
-        "Üst": 1.57
+    "Goias GO - Juventude": {
+        "Alt": 1.26,
+        "Üst": 2.38
     },
-    "Walton & Hersham - Dagenham Red": {
-        "Alt": 1.84,
-        "Üst": 1.5
+    "CS Cartagines - Verdes": {
+        "Alt": 3.97,
+        "Üst": 2.26
     },
-    "Dover - Tonbridge Angels": {
-        "Alt": 1.95,
-        "Üst": 1.43
+    "Real Esteli - CS Herediano": {
+        "Alt": 1.59,
+        "Üst": 1.71
     },
-    "Horsham - Hampton&Richmond": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "AFC Totton - Dorking Wanderers": {
+    "Xelaju - Diriangen": {
         "Alt": 1.96,
         "Üst": 1.43
     },
-    "H. Hempstead - Maidenhead": {
-        "Alt": 1.5,
-        "Üst": 1.84
+    "Vasas SC II - Budapest Honved MFA": {
+        "Alt": 2.21,
+        "Üst": 3.41
     },
-    "Slough Town - Farnham Town": {
-        "Alt": 2.09,
-        "Üst": 1.37
+    "Apia Leic. - Melbourne V.": {
+        "Alt": 1.85,
+        "Üst": 1.5
     },
-    "Morecambe - South Shields": {
-        "Alt": 2.15,
-        "Üst": 1.34
+    "Ulsan Citizen - Gwangju": {
+        "Alt": 1.6,
+        "Üst": 1.7
     },
-    "Scarborough - Spennymoor": {
+    "Gimpo Citizen - Gimcheon S.": {
         "Alt": 1.58,
         "Üst": 1.72
+    },
+    "Chungnam Asan - Daejeon Citizen": {
+        "Alt": 1.65,
+        "Üst": 1.65
     }
 }
