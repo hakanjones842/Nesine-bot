@@ -1,28 +1,4 @@
 {
-    "Bristol City U21 - Wigan Ath U21": {
-        "Alt": 2.07,
-        "Üst": 3.74
-    },
-    "Peterborough Utd U21 - QPR U21": {
-        "Alt": 2.21,
-        "Üst": 3.88
-    },
-    "Tayland - Singapur": {
-        "Alt": 1.76,
-        "Üst": 1.56
-    },
-    "Cardiff City U21 - Barnsley U21": {
-        "Alt": 2.47,
-        "Üst": 3.58
-    },
-    "Charlton Ath U21 - Bolton Wanderers U21": {
-        "Alt": 1.83,
-        "Üst": 3.68
-    },
-    "Fountain Gate - Mashujaa": {
-        "Alt": 5.13,
-        "Üst": 3.54
-    },
     "Rodina Moscow - Orenburg": {
         "Alt": 1.88,
         "Üst": 1.47
@@ -40,8 +16,8 @@
         "Üst": 2.22
     },
     "Heidenheim - Bayern Münih": {
-        "Alt": 3.62,
-        "Üst": 1.11
+        "Alt": 4.01,
+        "Üst": 1.08
     },
     "Felgueiras 1932 U23 - Braga U23": {
         "Alt": 2.02,
@@ -52,8 +28,8 @@
         "Üst": 1.73
     },
     "Torreense U23 - Portimonense U23": {
-        "Alt": 1.97,
-        "Üst": 1.43
+        "Alt": 2.0,
+        "Üst": 1.4
     },
     "Gil Vicente U23 - Academico V. U23": {
         "Alt": 1.76,
@@ -64,19 +40,51 @@
         "Üst": 1.47
     },
     "Vizela U23 - Sporting U23": {
-        "Alt": 1.71,
-        "Üst": 1.6
+        "Alt": 1.78,
+        "Üst": 1.54
     },
     "Namungo - Geita Gold": {
         "Alt": 1.32,
         "Üst": 2.2
     },
+    "Kampala C. - NEC": {
+        "Alt": 1.4,
+        "Üst": 2.01
+    },
     "AL Akhdood - AL Khaleej Saihat": {
-        "Alt": 1.95,
-        "Üst": 1.44
+        "Alt": 1.98,
+        "Üst": 1.42
     },
     "AL Jabalain - AL Ettifaq": {
-        "Alt": 1.72,
-        "Üst": 1.59
+        "Alt": 1.8,
+        "Üst": 1.52
+    },
+    "AL Najma - AL Ittihad": {
+        "Alt": 2.42,
+        "Üst": 3.47
+    },
+    "M. Sepahan - TS Tabriz": {
+        "Alt": 1.23,
+        "Üst": 2.52
+    },
+    "Nosaby - IFK Trelleborg": {
+        "Alt": 1.71,
+        "Üst": 3.51
+    },
+    "UD Mutilvera - Pena Sport": {
+        "Alt": 2.01,
+        "Üst": 1.4
+    },
+    "Akhmat Grozny - Fakel": {
+        "Alt": 1.59,
+        "Üst": 1.71
+    },
+    "FK Rostov - L. Moskova": {
+        "Alt": 1.66,
+        "Üst": 1.65
+    },
+    "Reading - Wycombe": {
+        "Alt": 2.08,
+        "Üst": 1.37
     }
 }
