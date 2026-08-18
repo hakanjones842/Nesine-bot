@@ -4,16 +4,16 @@
         "Üst": 1.19
     },
     "Bristol City U21 - Wigan Ath U21": {
-        "Alt": 2.8,
-        "Üst": 3.89
+        "Alt": 2.7,
+        "Üst": 3.93
     },
     "Peterborough Utd U21 - QPR U21": {
-        "Alt": 2.84,
-        "Üst": 4.02
+        "Alt": 2.75,
+        "Üst": 3.97
     },
     "Tayland - Singapur": {
-        "Alt": 1.73,
-        "Üst": 1.58
+        "Alt": 1.76,
+        "Üst": 1.56
     },
     "Cardiff City U21 - Barnsley U21": {
         "Alt": 2.47,
@@ -43,13 +43,9 @@
         "Alt": 1.31,
         "Üst": 2.22
     },
-    "Aluminium A. - Chador Malu Y.": {
-        "Alt": 1.19,
-        "Üst": 2.7
-    },
     "Heidenheim - Bayern Münih": {
-        "Alt": 3.54,
-        "Üst": 1.12
+        "Alt": 3.61,
+        "Üst": 1.11
     },
     "Felgueiras 1932 U23 - Braga U23": {
         "Alt": 2.02,
@@ -60,8 +56,8 @@
         "Üst": 1.73
     },
     "Torreense U23 - Portimonense U23": {
-        "Alt": 1.9,
-        "Üst": 1.46
+        "Alt": 1.97,
+        "Üst": 1.43
     },
     "Gil Vicente U23 - Academico V. U23": {
         "Alt": 1.76,
@@ -82,9 +78,5 @@
     "AL Akhdood - AL Khaleej Saihat": {
         "Alt": 1.95,
         "Üst": 1.44
-    },
-    "AL Jabalain - AL Ettifaq": {
-        "Alt": 1.72,
-        "Üst": 1.59
     }
 }
