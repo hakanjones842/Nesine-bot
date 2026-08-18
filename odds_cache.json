@@ -1,14 +1,14 @@
 {
     "SD Raiders - Sydney": {
-        "Alt": 2.33,
+        "Alt": 2.38,
         "Üst": 3.47
     },
     "Shanghai S. - Beijing Guoan": {
-        "Alt": 2.58,
-        "Üst": 1.22
+        "Alt": 2.62,
+        "Üst": 1.21
     },
     "Bristol City U21 - Wigan Ath U21": {
-        "Alt": 2.77,
+        "Alt": 2.8,
         "Üst": 3.89
     },
     "Peterborough Utd U21 - QPR U21": {
@@ -16,8 +16,8 @@
         "Üst": 4.15
     },
     "Tayland - Singapur": {
-        "Alt": 1.8,
-        "Üst": 1.52
+        "Alt": 1.77,
+        "Üst": 1.55
     },
     "Cardiff City U21 - Barnsley U21": {
         "Alt": 2.43,
@@ -44,8 +44,8 @@
         "Üst": 2.37
     },
     "Nassaji Maz. - Esteghlal": {
-        "Alt": 1.33,
-        "Üst": 2.18
+        "Alt": 1.31,
+        "Üst": 2.22
     },
     "Aluminium A. - Chador Malu Y.": {
         "Alt": 1.19,
@@ -82,5 +82,13 @@
     "AL Akhdood - AL Khaleej Saihat": {
         "Alt": 1.95,
         "Üst": 1.44
+    },
+    "AL Jabalain - AL Ettifaq": {
+        "Alt": 1.72,
+        "Üst": 1.59
+    },
+    "AL Najma - AL Ittihad": {
+        "Alt": 2.34,
+        "Üst": 3.44
     }
 }
