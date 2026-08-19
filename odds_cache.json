@@ -1,35 +1,11 @@
 {
-    "Cerro Porteno - Palmeiras SP": {
-        "Alt": 1.35,
-        "Üst": 2.31
-    },
-    "Coquimbo U. - CA Platense": {
-        "Alt": 1.21,
-        "Üst": 2.89
-    },
-    "Atl Mineiro - Bragantino": {
-        "Alt": 1.45,
-        "Üst": 2.04
-    },
-    "Racing Club - Belgrano": {
-        "Alt": 1.32,
-        "Üst": 2.2
-    },
-    "Fortaleza CE - Sao Bernardo": {
-        "Alt": 1.43,
-        "Üst": 1.96
-    },
-    "Avai SC - Recife": {
-        "Alt": 1.42,
-        "Üst": 1.98
-    },
     "One Knoxville SC - P. Hearts of Pine": {
-        "Alt": 2.04,
-        "Üst": 1.39
+        "Alt": 2.07,
+        "Üst": 1.37
     },
     "Forge - Supra Du Quebec": {
-        "Alt": 1.82,
-        "Üst": 1.51
+        "Alt": 1.86,
+        "Üst": 1.49
     },
     "Atl Ottawa - Vancouver Langley": {
         "Alt": 2.05,
@@ -48,8 +24,8 @@
         "Üst": 2.17
     },
     "NY Red Bulls - Nashville SC": {
-        "Alt": 2.2,
-        "Üst": 1.38
+        "Alt": 2.22,
+        "Üst": 1.37
     },
     "Toronto - Charlotte": {
         "Alt": 2.07,
@@ -60,8 +36,8 @@
         "Üst": 1.22
     },
     "Phila. Union - Inter Miami": {
-        "Alt": 3.02,
-        "Üst": 1.18
+        "Alt": 3.09,
+        "Üst": 1.17
     },
     "Columbus Cr. - Montreal I.": {
         "Alt": 2.16,
@@ -72,8 +48,8 @@
         "Üst": 1.31
     },
     "DC Utd - N. E. Revolution": {
-        "Alt": 1.93,
-        "Üst": 1.52
+        "Alt": 1.96,
+        "Üst": 1.5
     },
     "Sarasota Paradise - C. Red Wolves SC": {
         "Alt": 1.71,
@@ -84,7 +60,27 @@
         "Üst": 2.3
     },
     "Vila Nova - Ponte Preta": {
-        "Alt": 1.62,
-        "Üst": 1.68
+        "Alt": 1.65,
+        "Üst": 1.66
+    },
+    "Kansas City - S. Louis City SC": {
+        "Alt": 2.14,
+        "Üst": 1.41
+    },
+    "Minnesota Utd - Atlanta Utd": {
+        "Alt": 2.13,
+        "Üst": 1.42
+    },
+    "Corpus Chri - New York Cosmos": {
+        "Alt": 1.9,
+        "Üst": 1.46
+    },
+    "Botafogo - Criciuma": {
+        "Alt": 1.28,
+        "Üst": 2.33
+    },
+    "Flamengo - Cruzeiro MG": {
+        "Alt": 1.66,
+        "Üst": 1.74
     }
 }
