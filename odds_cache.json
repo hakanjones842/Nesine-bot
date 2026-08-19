@@ -1,23 +1,15 @@
 {
-    "Monagas SC - Miner Guayan": {
-        "Alt": 1.84,
-        "Üst": 1.5
-    },
-    "Aragua - Barquisimeto SC": {
-        "Alt": 1.48,
-        "Üst": 1.87
-    },
     "CSD Imperial - Antigua": {
         "Alt": 1.47,
         "Üst": 1.89
     },
     "R. Aguilas - Llaneros": {
-        "Alt": 3.35,
-        "Üst": 3.08
+        "Alt": 3.19,
+        "Üst": 3.07
     },
     "Cerro Porteno - Palmeiras SP": {
-        "Alt": 1.36,
-        "Üst": 2.27
+        "Alt": 1.35,
+        "Üst": 2.31
     },
     "Coquimbo U. - CA Platense": {
         "Alt": 1.22,
@@ -29,7 +21,7 @@
     },
     "Racing Club - Belgrano": {
         "Alt": 1.26,
-        "Üst": 3.54
+        "Üst": 3.56
     },
     "Fortaleza CE - Sao Bernardo": {
         "Alt": 1.44,
@@ -52,8 +44,8 @@
         "Üst": 1.38
     },
     "Cucuta D. - Inter Bogota": {
-        "Alt": 1.44,
-        "Üst": 1.93
+        "Alt": 1.46,
+        "Üst": 1.9
     },
     "Guaros Lara - Rayo Zuliano": {
         "Alt": 1.43,
@@ -68,7 +60,7 @@
         "Üst": 1.37
     },
     "Toronto - Charlotte": {
-        "Alt": 2.03,
+        "Alt": 2.02,
         "Üst": 1.46
     },
     "Orlando City - Chicago Fire": {
@@ -76,8 +68,8 @@
         "Üst": 1.23
     },
     "Phila. Union - Inter Miami": {
-        "Alt": 2.88,
-        "Üst": 1.21
+        "Alt": 2.97,
+        "Üst": 1.19
     },
     "Columbus Cr. - Montreal I.": {
         "Alt": 2.16,
@@ -86,5 +78,9 @@
     "Cincinnati - New York C.": {
         "Alt": 2.41,
         "Üst": 1.31
+    },
+    "DC Utd - N. E. Revolution": {
+        "Alt": 1.89,
+        "Üst": 1.54
     }
 }
