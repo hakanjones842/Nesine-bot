@@ -1,42 +1,18 @@
 {
-    "B. Münih U19 - Stuttgart U19": {
-        "Alt": 1.37,
-        "Üst": 4.31
-    },
-    "Vietnam - Malezya": {
-        "Alt": 1.68,
-        "Üst": 1.62
-    },
-    "Altay Vko - Ordabasy": {
-        "Alt": 2.33,
-        "Üst": 3.47
-    },
-    "Krylia Sovetov - Zenit": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "Pamba SC - Simba SC": {
-        "Alt": 1.56,
-        "Üst": 1.75
-    },
-    "Zhenis Nur Sultan - K. Kyzylorda": {
-        "Alt": 1.54,
-        "Üst": 1.78
-    },
     "Kamaz Chelny - T. Telec Ivan": {
-        "Alt": 1.47,
-        "Üst": 1.88
+        "Alt": 1.5,
+        "Üst": 1.85
     },
     "Diosgyori Vtk II - Debreceni VSC II": {
-        "Alt": 1.41,
-        "Üst": 3.88
+        "Alt": 2.02,
+        "Üst": 1.39
     },
     "Rubin Kazan - S. Moskova": {
         "Alt": 1.72,
         "Üst": 1.59
     },
     "M. Rogachev - Baranovich": {
-        "Alt": 2.32,
+        "Alt": 2.31,
         "Üst": 1.29
     },
     "Malavan Bandar A. - Zob Ahan": {
@@ -44,8 +20,8 @@
         "Üst": 1.26
     },
     "Persepolis - Esteghlal K.": {
-        "Alt": 1.46,
-        "Üst": 1.9
+        "Alt": 1.44,
+        "Üst": 1.93
     },
     "Mes Shahr e B. - Kheybar K.": {
         "Alt": 1.65,
@@ -74,5 +50,25 @@
     "Zurich II - Amical Saint Prex": {
         "Alt": 2.39,
         "Üst": 3.54
+    },
+    "Veles Mos. - Nizhny Nov.": {
+        "Alt": 1.52,
+        "Üst": 1.8
+    },
+    "Jeddah Club - AL Khlood": {
+        "Alt": 1.89,
+        "Üst": 3.49
+    },
+    "F. Khuzestan - Shams Azar Qazvin": {
+        "Alt": 1.06,
+        "Üst": 1.19
+    },
+    "Mamel Sundow - Marumo Gallants": {
+        "Alt": 1.91,
+        "Üst": 1.45
+    },
+    "SC Bruhl ST Gallen - Biel Bienne": {
+        "Alt": 3.23,
+        "Üst": 3.9
     }
 }
