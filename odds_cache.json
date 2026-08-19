@@ -1,36 +1,4 @@
 {
-    "Banfield - F. Midland": {
-        "Alt": 1.37,
-        "Üst": 2.09
-    },
-    "Nautico PE - Ceara CE": {
-        "Alt": 1.43,
-        "Üst": 1.96
-    },
-    "Uni. Catolica - Estudiantes": {
-        "Alt": 1.3,
-        "Üst": 2.44
-    },
-    "CD Tolima - Independiente D.": {
-        "Alt": 1.33,
-        "Üst": 2.35
-    },
-    "Sao Paulo SP - Club Bolivar": {
-        "Alt": 1.82,
-        "Üst": 1.59
-    },
-    "Goias GO - Juventude": {
-        "Alt": 1.26,
-        "Üst": 2.38
-    },
-    "Real Esteli - CS Herediano": {
-        "Alt": 1.59,
-        "Üst": 1.71
-    },
-    "Xelaju - Diriangen": {
-        "Alt": 2.15,
-        "Üst": 3.4
-    },
     "Vasas SC II - Budapest Honved MFA": {
         "Alt": 2.21,
         "Üst": 3.41
@@ -40,8 +8,8 @@
         "Üst": 1.5
     },
     "Ulsan Citizen - Gwangju": {
-        "Alt": 1.6,
-        "Üst": 1.7
+        "Alt": 1.58,
+        "Üst": 1.73
     },
     "Gimpo Citizen - Gimcheon S.": {
         "Alt": 1.58,
@@ -64,8 +32,8 @@
         "Üst": 3.53
     },
     "Anyang - Jeju Utd": {
-        "Alt": 1.48,
-        "Üst": 1.86
+        "Alt": 1.5,
+        "Üst": 1.84
     },
     "Gangwon - Seongnam": {
         "Alt": 1.83,
@@ -80,7 +48,39 @@
         "Üst": 3.32
     },
     "Shanghai Port - Dalian Yingbo": {
-        "Alt": 2.35,
-        "Üst": 1.28
+        "Alt": 2.39,
+        "Üst": 1.26
+    },
+    "Vietnam - Malezya": {
+        "Alt": 1.68,
+        "Üst": 1.63
+    },
+    "Altay Vko - Ordabasy": {
+        "Alt": 1.85,
+        "Üst": 1.5
+    },
+    "Krylia Sovetov - Zenit": {
+        "Alt": 1.93,
+        "Üst": 1.44
+    },
+    "Pamba SC - Simba SC": {
+        "Alt": 1.47,
+        "Üst": 1.89
+    },
+    "Zhenis Nur Sultan - K. Kyzylorda": {
+        "Alt": 1.63,
+        "Üst": 1.67
+    },
+    "Kamaz Chelny - T. Telec Ivan": {
+        "Alt": 1.47,
+        "Üst": 1.87
+    },
+    "Diosgyori Vtk II - Debreceni VSC II": {
+        "Alt": 1.48,
+        "Üst": 3.66
+    },
+    "Rubin Kazan - S. Moskova": {
+        "Alt": 1.69,
+        "Üst": 1.62
     }
 }
