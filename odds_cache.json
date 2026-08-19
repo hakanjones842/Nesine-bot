@@ -1,19 +1,11 @@
 {
-    "Mbeya City - Dodoma": {
-        "Alt": 1.49,
-        "Üst": 1.86
-    },
-    "Shanghai Port - Dalian Yingbo": {
-        "Alt": 2.45,
-        "Üst": 1.24
-    },
     "B. Münih U19 - Stuttgart U19": {
         "Alt": 1.37,
-        "Üst": 4.23
+        "Üst": 4.31
     },
     "Vietnam - Malezya": {
-        "Alt": 1.65,
-        "Üst": 1.65
+        "Alt": 1.68,
+        "Üst": 1.62
     },
     "Altay Vko - Ordabasy": {
         "Alt": 2.33,
@@ -36,8 +28,8 @@
         "Üst": 1.88
     },
     "Diosgyori Vtk II - Debreceni VSC II": {
-        "Alt": 1.43,
-        "Üst": 3.87
+        "Alt": 1.41,
+        "Üst": 3.88
     },
     "Rubin Kazan - S. Moskova": {
         "Alt": 1.72,
@@ -74,5 +66,13 @@
     "W. Bremen II - W. Flensburg": {
         "Alt": 1.41,
         "Üst": 3.98
+    },
+    "B.M'gladbach U19 - B. Leverkusen U19": {
+        "Alt": 1.33,
+        "Üst": 4.17
+    },
+    "Zurich II - Amical Saint Prex": {
+        "Alt": 2.39,
+        "Üst": 3.54
     }
 }
