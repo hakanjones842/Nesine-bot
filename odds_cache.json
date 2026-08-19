@@ -1,19 +1,7 @@
 {
-    "Kamaz Chelny - T. Telec Ivan": {
-        "Alt": 1.5,
-        "Üst": 1.85
-    },
-    "Diosgyori Vtk II - Debreceni VSC II": {
-        "Alt": 2.02,
-        "Üst": 1.39
-    },
-    "Rubin Kazan - S. Moskova": {
-        "Alt": 1.72,
-        "Üst": 1.59
-    },
     "M. Rogachev - Baranovich": {
-        "Alt": 2.31,
-        "Üst": 1.29
+        "Alt": 2.37,
+        "Üst": 1.27
     },
     "Malavan Bandar A. - Zob Ahan": {
         "Alt": 1.09,
@@ -24,51 +12,47 @@
         "Üst": 1.93
     },
     "Mes Shahr e B. - Kheybar K.": {
-        "Alt": 1.65,
-        "Üst": 1.17
+        "Alt": 1.23,
+        "Üst": 2.52
     },
     "Fajr Sepasi - SN Abadan": {
         "Alt": 1.12,
         "Üst": 3.17
     },
     "Kagera Sugar - Black Star": {
-        "Alt": 1.51,
-        "Üst": 1.81
+        "Alt": 1.49,
+        "Üst": 1.85
     },
     "Damac - AL Taawoun": {
-        "Alt": 1.7,
-        "Üst": 1.6
+        "Alt": 1.68,
+        "Üst": 1.63
     },
     "W. Bremen II - W. Flensburg": {
-        "Alt": 1.41,
-        "Üst": 3.98
+        "Alt": 1.51,
+        "Üst": 3.86
     },
     "B.M'gladbach U19 - B. Leverkusen U19": {
         "Alt": 1.33,
         "Üst": 4.17
     },
     "Zurich II - Amical Saint Prex": {
-        "Alt": 2.39,
-        "Üst": 3.54
+        "Alt": 2.38,
+        "Üst": 3.56
     },
     "Veles Mos. - Nizhny Nov.": {
         "Alt": 1.52,
         "Üst": 1.8
     },
     "Jeddah Club - AL Khlood": {
-        "Alt": 1.89,
-        "Üst": 3.49
+        "Alt": 3.43,
+        "Üst": 2.11
     },
     "F. Khuzestan - Shams Azar Qazvin": {
-        "Alt": 1.06,
-        "Üst": 1.19
+        "Alt": 1.05,
+        "Üst": 1.18
     },
     "Mamel Sundow - Marumo Gallants": {
-        "Alt": 1.91,
-        "Üst": 1.45
-    },
-    "SC Bruhl ST Gallen - Biel Bienne": {
-        "Alt": 3.23,
-        "Üst": 3.9
+        "Alt": 1.98,
+        "Üst": 1.42
     }
 }
