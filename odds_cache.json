@@ -1,47 +1,19 @@
 {
-    "F. Khuzestan - Shams Azar Qazvin": {
-        "Alt": 1.05,
-        "Üst": 1.18
-    },
-    "Mamel Sundow - Marumo Gallants": {
-        "Alt": 1.94,
-        "Üst": 1.44
-    },
-    "SC Bruhl ST Gallen - Biel Bienne": {
-        "Alt": 3.69,
-        "Üst": 4.07
-    },
-    "Grand Saconnex - Schaffhausen": {
-        "Alt": 3.52,
-        "Üst": 3.93
-    },
-    "Kreuzlingen - SC Cham": {
-        "Alt": 1.48,
-        "Üst": 3.69
-    },
-    "Breitenrain - BSC Young Boys": {
-        "Alt": 1.31,
-        "Üst": 3.96
-    },
-    "D. Moskova - Krasnodar": {
-        "Alt": 1.83,
-        "Üst": 1.51
-    },
     "Chac. Juniors - CA Guemes": {
-        "Alt": 3.49,
-        "Üst": 3.07
+        "Alt": 3.46,
+        "Üst": 3.09
     },
     "Mansfield - Man. City U21": {
-        "Alt": 2.21,
-        "Üst": 1.32
+        "Alt": 2.3,
+        "Üst": 1.29
     },
     "UMF Selfoss - Kari": {
-        "Alt": 2.18,
+        "Alt": 2.14,
         "Üst": 3.89
     },
     "Vikingur Olafsvik - Throttur V.": {
-        "Alt": 3.03,
-        "Üst": 3.85
+        "Alt": 2.96,
+        "Üst": 3.81
     },
     "Hviti Riddarinn - Gardabaer": {
         "Alt": 2.25,
@@ -49,18 +21,50 @@
     },
     "Fjölnir - Kfa": {
         "Alt": 2.45,
-        "Üst": 4.11
+        "Üst": 4.14
     },
     "Dalverik - Magni": {
-        "Alt": 2.65,
-        "Üst": 3.66
+        "Alt": 2.71,
+        "Üst": 3.7
     },
     "Kormakur - Haukar": {
         "Alt": 1.87,
         "Üst": 3.61
     },
     "Barcelona - El Ahly (Mıs)": {
-        "Alt": 4.04,
-        "Üst": 1.86
+        "Alt": 4.07,
+        "Üst": 1.83
+    },
+    "Avro - Workington": {
+        "Alt": 2.13,
+        "Üst": 3.46
+    },
+    "Farnborough - Chesham Utd": {
+        "Alt": 2.12,
+        "Üst": 1.36
+    },
+    "NEC Nijmegen - Bodo Glimt": {
+        "Alt": 2.6,
+        "Üst": 1.26
+    },
+    "Celtic - LASK": {
+        "Alt": 2.15,
+        "Üst": 1.4
+    },
+    "HB Sheva - Sabah": {
+        "Alt": 1.76,
+        "Üst": 1.65
+    },
+    "S. Bratislava - NK Celje": {
+        "Alt": 1.79,
+        "Üst": 1.63
+    },
+    "Atl Madrid - Malaga": {
+        "Alt": 2.15,
+        "Üst": 1.4
+    },
+    "Moreirense U23 - Famalicao U23": {
+        "Alt": 1.88,
+        "Üst": 1.47
     }
 }
