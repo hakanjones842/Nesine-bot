@@ -1,58 +1,66 @@
 {
-    "M. Rogachev - Baranovich": {
-        "Alt": 2.37,
-        "Üst": 1.27
-    },
-    "Malavan Bandar A. - Zob Ahan": {
-        "Alt": 1.09,
-        "Üst": 1.26
-    },
-    "Persepolis - Esteghlal K.": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
-    "Mes Shahr e B. - Kheybar K.": {
-        "Alt": 1.23,
-        "Üst": 2.52
-    },
-    "Fajr Sepasi - SN Abadan": {
-        "Alt": 1.12,
-        "Üst": 3.17
-    },
-    "Kagera Sugar - Black Star": {
-        "Alt": 1.49,
-        "Üst": 1.85
-    },
-    "Damac - AL Taawoun": {
-        "Alt": 1.68,
-        "Üst": 1.63
-    },
-    "W. Bremen II - W. Flensburg": {
-        "Alt": 1.51,
-        "Üst": 3.86
-    },
-    "B.M'gladbach U19 - B. Leverkusen U19": {
-        "Alt": 1.33,
-        "Üst": 4.17
-    },
-    "Zurich II - Amical Saint Prex": {
-        "Alt": 2.38,
-        "Üst": 3.56
-    },
-    "Veles Mos. - Nizhny Nov.": {
-        "Alt": 1.52,
-        "Üst": 1.8
-    },
-    "Jeddah Club - AL Khlood": {
-        "Alt": 3.43,
-        "Üst": 2.11
-    },
     "F. Khuzestan - Shams Azar Qazvin": {
         "Alt": 1.05,
         "Üst": 1.18
     },
     "Mamel Sundow - Marumo Gallants": {
-        "Alt": 1.98,
-        "Üst": 1.42
+        "Alt": 1.94,
+        "Üst": 1.44
+    },
+    "SC Bruhl ST Gallen - Biel Bienne": {
+        "Alt": 3.69,
+        "Üst": 4.07
+    },
+    "Grand Saconnex - Schaffhausen": {
+        "Alt": 3.52,
+        "Üst": 3.93
+    },
+    "Kreuzlingen - SC Cham": {
+        "Alt": 1.48,
+        "Üst": 3.69
+    },
+    "Breitenrain - BSC Young Boys": {
+        "Alt": 1.31,
+        "Üst": 3.96
+    },
+    "D. Moskova - Krasnodar": {
+        "Alt": 1.83,
+        "Üst": 1.51
+    },
+    "Chac. Juniors - CA Guemes": {
+        "Alt": 3.49,
+        "Üst": 3.07
+    },
+    "Mansfield - Man. City U21": {
+        "Alt": 2.21,
+        "Üst": 1.32
+    },
+    "UMF Selfoss - Kari": {
+        "Alt": 2.18,
+        "Üst": 3.89
+    },
+    "Vikingur Olafsvik - Throttur V.": {
+        "Alt": 3.03,
+        "Üst": 3.85
+    },
+    "Hviti Riddarinn - Gardabaer": {
+        "Alt": 2.25,
+        "Üst": 3.89
+    },
+    "Fjölnir - Kfa": {
+        "Alt": 2.45,
+        "Üst": 4.11
+    },
+    "Dalverik - Magni": {
+        "Alt": 2.65,
+        "Üst": 3.66
+    },
+    "Kormakur - Haukar": {
+        "Alt": 1.87,
+        "Üst": 3.61
+    },
+    "Barcelona - El Ahly (Mıs)": {
+        "Alt": 4.04,
+        "Üst": 1.86
     }
 }
