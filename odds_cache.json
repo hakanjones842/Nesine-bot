@@ -1,70 +1,82 @@
 {
-    "Chac. Juniors - CA Guemes": {
-        "Alt": 3.46,
-        "Üst": 3.09
+    "Paraguari AC - S. Luqueno": {
+        "Alt": 1.97,
+        "Üst": 1.43
     },
-    "Mansfield - Man. City U21": {
-        "Alt": 2.3,
-        "Üst": 1.29
-    },
-    "UMF Selfoss - Kari": {
-        "Alt": 2.14,
-        "Üst": 3.89
-    },
-    "Vikingur Olafsvik - Throttur V.": {
-        "Alt": 2.96,
-        "Üst": 3.81
-    },
-    "Hviti Riddarinn - Gardabaer": {
-        "Alt": 2.25,
-        "Üst": 3.89
-    },
-    "Fjölnir - Kfa": {
-        "Alt": 2.45,
-        "Üst": 4.14
-    },
-    "Dalverik - Magni": {
-        "Alt": 2.71,
-        "Üst": 3.7
-    },
-    "Kormakur - Haukar": {
-        "Alt": 1.87,
-        "Üst": 3.61
-    },
-    "Barcelona - El Ahly (Mıs)": {
-        "Alt": 4.07,
-        "Üst": 1.83
-    },
-    "Avro - Workington": {
-        "Alt": 2.13,
-        "Üst": 3.46
-    },
-    "Farnborough - Chesham Utd": {
-        "Alt": 2.12,
-        "Üst": 1.36
-    },
-    "NEC Nijmegen - Bodo Glimt": {
-        "Alt": 2.6,
-        "Üst": 1.26
-    },
-    "Celtic - LASK": {
-        "Alt": 2.15,
-        "Üst": 1.4
-    },
-    "HB Sheva - Sabah": {
-        "Alt": 1.76,
-        "Üst": 1.65
-    },
-    "S. Bratislava - NK Celje": {
+    "Atl El Vigia - Real Frontera": {
         "Alt": 1.79,
-        "Üst": 1.63
+        "Üst": 1.54
     },
-    "Atl Madrid - Malaga": {
-        "Alt": 2.15,
-        "Üst": 1.4
+    "Bolivar SC - Dynamo Puerto": {
+        "Alt": 1.38,
+        "Üst": 2.06
     },
-    "Moreirense U23 - Famalicao U23": {
-        "Alt": 1.88,
-        "Üst": 1.47
+    "Club Atletico Barinas - Zamora": {
+        "Alt": 3.58,
+        "Üst": 3.89
+    },
+    "Monagas SC - Miner Guayan": {
+        "Alt": 1.77,
+        "Üst": 1.55
+    },
+    "Aragua - Barquisimeto SC": {
+        "Alt": 1.4,
+        "Üst": 2.01
+    },
+    "CSD Imperial - Antigua": {
+        "Alt": 1.47,
+        "Üst": 1.89
+    },
+    "R. Aguilas - Llaneros": {
+        "Alt": 3.33,
+        "Üst": 3.11
+    },
+    "Cerro Porteno - Palmeiras SP": {
+        "Alt": 1.36,
+        "Üst": 2.27
+    },
+    "Coquimbo U. - CA Platense": {
+        "Alt": 1.22,
+        "Üst": 2.82
+    },
+    "Atl Mineiro - Bragantino": {
+        "Alt": 1.45,
+        "Üst": 2.04
+    },
+    "Racing Club - Belgrano": {
+        "Alt": 1.26,
+        "Üst": 3.54
+    },
+    "Fortaleza CE - Sao Bernardo": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "Avai SC - Recife": {
+        "Alt": 1.44,
+        "Üst": 1.94
+    },
+    "One Knoxville SC - P. Hearts of Pine": {
+        "Alt": 2.04,
+        "Üst": 1.39
+    },
+    "Forge - Supra Du Quebec": {
+        "Alt": 1.82,
+        "Üst": 1.51
+    },
+    "Atl Ottawa - Vancouver Langley": {
+        "Alt": 2.05,
+        "Üst": 1.38
+    },
+    "Cucuta D. - Inter Bogota": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "Guaros Lara - Rayo Zuliano": {
+        "Alt": 1.43,
+        "Üst": 1.97
+    },
+    "Atletico Avila - Deportivo Miranda": {
+        "Alt": 1.32,
+        "Üst": 2.21
     }
 }
