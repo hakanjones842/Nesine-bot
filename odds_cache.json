@@ -1,47 +1,11 @@
 {
-    "Ulsan Citizen - Gwangju": {
-        "Alt": 1.55,
-        "Üst": 1.77
-    },
-    "Gimpo Citizen - Gimcheon S.": {
-        "Alt": 1.56,
-        "Üst": 1.75
-    },
-    "Chungnam Asan - Daejeon Citizen": {
-        "Alt": 1.89,
-        "Üst": 1.46
-    },
-    "Pohang S. - Jinju Citizen": {
-        "Alt": 1.97,
-        "Üst": 1.43
-    },
-    "Jeonbuk - Dangjin Citizen": {
-        "Alt": 2.02,
-        "Üst": 1.39
-    },
-    "Preston Lions - Melbourne City 2": {
-        "Alt": 2.55,
-        "Üst": 3.82
-    },
-    "Anyang - Jeju Utd": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "Gangwon - Seongnam": {
-        "Alt": 1.68,
-        "Üst": 1.63
-    },
-    "Busan I Park - Bucheon": {
-        "Alt": 1.68,
-        "Üst": 1.63
-    },
     "Mbeya City - Dodoma": {
-        "Alt": 1.38,
-        "Üst": 2.05
+        "Alt": 1.49,
+        "Üst": 1.86
     },
     "Shanghai Port - Dalian Yingbo": {
-        "Alt": 2.35,
-        "Üst": 1.27
+        "Alt": 2.45,
+        "Üst": 1.24
     },
     "B. Münih U19 - Stuttgart U19": {
         "Alt": 1.37,
@@ -60,8 +24,8 @@
         "Üst": 1.44
     },
     "Pamba SC - Simba SC": {
-        "Alt": 1.49,
-        "Üst": 1.86
+        "Alt": 1.56,
+        "Üst": 1.75
     },
     "Zhenis Nur Sultan - K. Kyzylorda": {
         "Alt": 1.54,
@@ -70,5 +34,45 @@
     "Kamaz Chelny - T. Telec Ivan": {
         "Alt": 1.47,
         "Üst": 1.88
+    },
+    "Diosgyori Vtk II - Debreceni VSC II": {
+        "Alt": 1.43,
+        "Üst": 3.87
+    },
+    "Rubin Kazan - S. Moskova": {
+        "Alt": 1.72,
+        "Üst": 1.59
+    },
+    "M. Rogachev - Baranovich": {
+        "Alt": 2.32,
+        "Üst": 1.29
+    },
+    "Malavan Bandar A. - Zob Ahan": {
+        "Alt": 1.09,
+        "Üst": 1.26
+    },
+    "Persepolis - Esteghlal K.": {
+        "Alt": 1.46,
+        "Üst": 1.9
+    },
+    "Mes Shahr e B. - Kheybar K.": {
+        "Alt": 1.65,
+        "Üst": 1.17
+    },
+    "Fajr Sepasi - SN Abadan": {
+        "Alt": 1.12,
+        "Üst": 3.17
+    },
+    "Kagera Sugar - Black Star": {
+        "Alt": 1.51,
+        "Üst": 1.81
+    },
+    "Damac - AL Taawoun": {
+        "Alt": 1.7,
+        "Üst": 1.6
+    },
+    "W. Bremen II - W. Flensburg": {
+        "Alt": 1.41,
+        "Üst": 3.98
     }
 }
