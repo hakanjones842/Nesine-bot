@@ -1,74 +1,78 @@
 {
-    "Kansas City - S. Louis City SC": {
-        "Alt": 2.14,
-        "Üst": 1.41
-    },
-    "Minnesota Utd - Atlanta Utd": {
-        "Alt": 2.16,
-        "Üst": 1.4
-    },
-    "Corpus Chri - New York Cosmos": {
-        "Alt": 1.9,
-        "Üst": 1.46
-    },
-    "Botafogo - Criciuma": {
-        "Alt": 1.28,
-        "Üst": 2.33
-    },
-    "Flamengo - Cruzeiro MG": {
-        "Alt": 1.68,
-        "Üst": 1.72
-    },
-    "Torque - CA Tigre": {
-        "Alt": 1.28,
-        "Üst": 2.52
-    },
-    "I. Santa Fe - River Plate": {
-        "Alt": 1.3,
-        "Üst": 2.44
-    },
-    "Marathon - Alianza": {
-        "Alt": 1.58,
-        "Üst": 1.74
-    },
-    "Deportivo Mixco - Umecit": {
-        "Alt": 1.72,
-        "Üst": 1.58
-    },
-    "Real Salt Lake - Dallas": {
-        "Alt": 2.29,
-        "Üst": 1.35
-    },
-    "S. Sounders - Austin": {
-        "Alt": 1.98,
-        "Üst": 1.49
-    },
-    "Colorado R. - Los Angeles": {
-        "Alt": 1.93,
-        "Üst": 1.51
-    },
-    "Phoenix Rising - Colorado Spr.": {
-        "Alt": 1.72,
-        "Üst": 1.58
-    },
-    "V. Whitecaps - Houston Dyn.": {
-        "Alt": 1.99,
-        "Üst": 1.49
-    },
-    "Portland Tim. - San Diego": {
-        "Alt": 2.69,
-        "Üst": 1.24
-    },
-    "LA Galaxy - San Jose E.": {
-        "Alt": 2.56,
-        "Üst": 1.27
-    },
-    "CD Fas - Municipal": {
-        "Alt": 1.38,
-        "Üst": 2.05
-    },
     "Polisi Tanzania - Jkt Tanzania": {
         "Alt": 1.36,
         "Üst": 2.12
+    },
+    "La Viena - Kahrabaa Ismailia": {
+        "Alt": 4.75,
+        "Üst": 3.4
+    },
+    "Entag Harby - AL Nasr Cairo": {
+        "Alt": 1.4,
+        "Üst": 2.01
+    },
+    "Haras Hodood - Telecom Egypt": {
+        "Alt": 3.22,
+        "Üst": 3.01
+    },
+    "El Daklyeh - Mega Sport Belqas": {
+        "Alt": 1.32,
+        "Üst": 2.2
+    },
+    "El Mansurah - Baladiyyat AL M.": {
+        "Alt": 6.33,
+        "Üst": 3.57
+    },
+    "AL Wakrah - Katar SC": {
+        "Alt": 1.96,
+        "Üst": 1.43
+    },
+    "K. Almaty - Anderlecht": {
+        "Alt": 1.63,
+        "Üst": 1.78
+    },
+    "Kapa - Jippo": {
+        "Alt": 1.77,
+        "Üst": 1.55
+    },
+    "Neftekhimik - Sochi": {
+        "Alt": 1.62,
+        "Üst": 1.68
+    },
+    "Gas Alshimal - AL Kahraba": {
+        "Alt": 5.47,
+        "Üst": 3.45
+    },
+    "Arsenal Tula - Rotor": {
+        "Alt": 1.35,
+        "Üst": 2.13
+    },
+    "Young Africans SC - Coastal Union": {
+        "Alt": 1.41,
+        "Üst": 1.98
+    },
+    "D. Minsk - Torpedo Belaz Z.": {
+        "Alt": 1.48,
+        "Üst": 1.86
+    },
+    "J. Bialystok - Iberia 1999": {
+        "Alt": 1.91,
+        "Üst": 1.53
+    },
+    "Mjallby - Salzburg": {
+        "Alt": 2.09,
+        "Üst": 1.43
+    },
+    "Lincoln Red - Larne": {
+        "Alt": 1.63,
+        "Üst": 1.78
+    },
+    "Inter Turku - Kopenhag": {
+        "Alt": 2.05,
+        "Üst": 1.45
+    },
+    "Benfica U23 - Rio Ave U23": {
+        "Alt": 1.84,
+        "Üst": 1.51
     }
 }
