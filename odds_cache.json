@@ -20,8 +20,8 @@
         "Üst": 2.2
     },
     "El Mansurah - Baladiyyat AL M.": {
-        "Alt": 5.92,
-        "Üst": 3.64
+        "Alt": 5.83,
+        "Üst": 3.68
     },
     "AL Wakrah - Katar SC": {
         "Alt": 1.97,
@@ -35,13 +35,13 @@
         "Alt": 1.74,
         "Üst": 1.57
     },
-    "Neftekhimik - Sochi": {
-        "Alt": 1.41,
-        "Üst": 1.99
-    },
     "Gas Alshimal - AL Kahraba": {
         "Alt": 1.24,
         "Üst": 3.54
+    },
+    "AL Nafit Maysan - AL Naft": {
+        "Alt": 1.37,
+        "Üst": 2.07
     },
     "Arsenal Tula - Rotor": {
         "Alt": 1.35,
@@ -52,8 +52,8 @@
         "Üst": 1.72
     },
     "J. Bialystok - Iberia 1999": {
-        "Alt": 1.91,
-        "Üst": 1.53
+        "Alt": 1.88,
+        "Üst": 1.55
     },
     "Mjallby - Salzburg": {
         "Alt": 2.14,
@@ -64,11 +64,15 @@
         "Üst": 1.8
     },
     "Inter Turku - Kopenhag": {
-        "Alt": 2.09,
-        "Üst": 1.43
+        "Alt": 2.14,
+        "Üst": 1.41
     },
     "Benfica U23 - Rio Ave U23": {
-        "Alt": 1.84,
-        "Üst": 1.51
+        "Alt": 1.86,
+        "Üst": 1.48
+    },
+    "Neftekhimik - Sochi": {
+        "Alt": 1.41,
+        "Üst": 1.99
     }
 }
