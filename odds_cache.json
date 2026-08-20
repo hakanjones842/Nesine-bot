@@ -1,7 +1,7 @@
 {
     "Polisi Tanzania - Jkt Tanzania": {
-        "Alt": 1.33,
-        "Üst": 2.19
+        "Alt": 1.31,
+        "Üst": 2.23
     },
     "La Viena - Kahrabaa Ismailia": {
         "Alt": 4.75,
@@ -28,16 +28,16 @@
         "Üst": 1.43
     },
     "K. Almaty - Anderlecht": {
-        "Alt": 1.58,
-        "Üst": 1.84
+        "Alt": 1.52,
+        "Üst": 1.93
     },
     "Kapa - Jippo": {
-        "Alt": 1.77,
-        "Üst": 1.55
+        "Alt": 1.74,
+        "Üst": 1.57
     },
     "Neftekhimik - Sochi": {
-        "Alt": 1.62,
-        "Üst": 1.68
+        "Alt": 1.5,
+        "Üst": 1.84
     },
     "Gas Alshimal - AL Kahraba": {
         "Alt": 1.24,
@@ -48,35 +48,35 @@
         "Üst": 2.13
     },
     "Young Africans SC - Coastal Union": {
-        "Alt": 3.39,
-        "Üst": 2.63
+        "Alt": 3.38,
+        "Üst": 2.65
     },
     "D. Minsk - Torpedo Belaz Z.": {
-        "Alt": 1.46,
-        "Üst": 1.9
+        "Alt": 1.59,
+        "Üst": 1.72
     },
     "J. Bialystok - Iberia 1999": {
         "Alt": 1.91,
         "Üst": 1.53
     },
     "Mjallby - Salzburg": {
-        "Alt": 2.09,
-        "Üst": 1.43
+        "Alt": 2.17,
+        "Üst": 1.39
     },
     "Lincoln Red - Larne": {
         "Alt": 1.6,
         "Üst": 1.8
     },
     "Inter Turku - Kopenhag": {
-        "Alt": 2.05,
-        "Üst": 1.45
+        "Alt": 2.09,
+        "Üst": 1.43
     },
     "Benfica U23 - Rio Ave U23": {
         "Alt": 1.84,
         "Üst": 1.51
     },
     "AL Rayyan - Lusail SC": {
-        "Alt": 2.73,
-        "Üst": 1.18
+        "Alt": 2.78,
+        "Üst": 1.17
     }
 }
