@@ -1,8 +1,4 @@
 {
-    "Cde Juventud Italiana - Delfin": {
-        "Alt": 1.42,
-        "Üst": 1.98
-    },
     "LDU Quito - Mirassol SP": {
         "Alt": 1.51,
         "Üst": 1.94
@@ -28,24 +24,24 @@
         "Üst": 1.84
     },
     "Corinthians - Rosario C.": {
-        "Alt": 1.21,
-        "Üst": 2.88
+        "Alt": 1.2,
+        "Üst": 2.89
     },
     "Botafogo RJ - CS Cienciano": {
-        "Alt": 1.14,
-        "Üst": 1.66
+        "Alt": 1.15,
+        "Üst": 1.67
     },
     "Tepatitlan - Tlaxcala": {
         "Alt": 1.54,
         "Üst": 1.78
     },
     "Atl Morelia - Correcaminos": {
-        "Alt": 2.49,
-        "Üst": 3.49
+        "Alt": 2.23,
+        "Üst": 3.42
     },
     "Alianza - CD Olimpia": {
-        "Alt": 1.52,
-        "Üst": 1.81
+        "Alt": 1.54,
+        "Üst": 1.78
     },
     "Angel Firpo - Alajuelense": {
         "Alt": 1.68,
@@ -74,5 +70,9 @@
     "Eastern Sports - Sha Tin": {
         "Alt": 2.14,
         "Üst": 3.41
+    },
+    "Meshakhte Tkibuli - Dinamo B.": {
+        "Alt": 1.7,
+        "Üst": 1.61
     }
 }
