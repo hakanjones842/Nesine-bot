@@ -1,26 +1,6 @@
 {
-    "LDU Quito - Mirassol SP": {
-        "Alt": 1.44,
-        "Üst": 2.08
-    },
-    "CSD Macara - Santos SP": {
-        "Alt": 1.51,
-        "Üst": 1.94
-    },
-    "Club Olimpia - Vasco Da G.": {
-        "Alt": 1.37,
-        "Üst": 2.22
-    },
-    "Athletic Club MG - Crb Al": {
-        "Alt": 1.36,
-        "Üst": 2.11
-    },
-    "Venados - CSD D. Sinaloa": {
-        "Alt": 2.48,
-        "Üst": 3.53
-    },
     "Gremio Novo - America MG": {
-        "Alt": 1.51,
+        "Alt": 1.5,
         "Üst": 1.84
     },
     "Corinthians - Rosario C.": {
@@ -36,8 +16,8 @@
         "Üst": 1.78
     },
     "Atl Morelia - Correcaminos": {
-        "Alt": 2.17,
-        "Üst": 3.4
+        "Alt": 2.16,
+        "Üst": 3.43
     },
     "Alianza - CD Olimpia": {
         "Alt": 1.54,
@@ -66,5 +46,37 @@
     "Tokyo - JEF Utd": {
         "Alt": 1.73,
         "Üst": 1.66
+    },
+    "Eastern Sports - Sha Tin": {
+        "Alt": 2.14,
+        "Üst": 3.41
+    },
+    "Meshakhte Tkibuli - Dinamo B.": {
+        "Alt": 1.7,
+        "Üst": 1.61
+    },
+    "Johor Darul - Kuching FA": {
+        "Alt": 3.44,
+        "Üst": 2.48
+    },
+    "Proxy SC - Farco": {
+        "Alt": 1.32,
+        "Üst": 2.21
+    },
+    "El Sekka El Hadid - EL Terasanah": {
+        "Alt": 5.16,
+        "Üst": 3.38
+    },
+    "Ismaily Sc - Masar": {
+        "Alt": 1.35,
+        "Üst": 2.14
+    },
+    "Dayrout - Maleyat Kafr El Z.": {
+        "Alt": 6.01,
+        "Üst": 3.52
+    },
+    "AL Ittihad K. - Al Wasl": {
+        "Alt": 2.14,
+        "Üst": 1.35
     }
 }
