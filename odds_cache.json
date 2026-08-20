@@ -1,83 +1,31 @@
 {
-    "AL Rayyan - Lusail SC": {
-        "Alt": 2.84,
-        "Üst": 1.16
-    },
-    "Trabzonspor - Ferencvaros": {
-        "Alt": 1.81,
-        "Üst": 1.6
-    },
-    "Beşiktaş - Zalgiris Kaunas": {
-        "Alt": 1.28,
-        "Üst": 1.62
-    },
-    "Un. Craiova - Ararat": {
-        "Alt": 1.87,
-        "Üst": 1.55
-    },
-    "Lech Poznan - Thun": {
-        "Alt": 2.46,
-        "Üst": 1.3
-    },
-    "KF Egnatia R. - Lillestrom": {
-        "Alt": 1.65,
-        "Üst": 1.74
-    },
-    "Nordsjælland - St. Gallen": {
-        "Alt": 2.83,
-        "Üst": 1.22
-    },
-    "Tromso - Brighton": {
-        "Alt": 2.09,
-        "Üst": 1.43
-    },
-    "Midtjylland - Rijeka": {
-        "Alt": 1.65,
-        "Üst": 1.75
-    },
-    "Vendsyssel - Hilleroed": {
-        "Alt": 1.7,
-        "Üst": 1.61
-    },
-    "Klaksvik - Riga": {
-        "Alt": 1.99,
-        "Üst": 1.49
-    },
-    "PAOK - Brann": {
-        "Alt": 1.71,
-        "Üst": 1.69
-    },
-    "B. Kaliningrad - Dyn. Makhachkala": {
-        "Alt": 1.4,
+    "St. Truidense - Omonia": {
+        "Alt": 1.47,
         "Üst": 2.01
     },
-    "St. Truidense - Omonia": {
-        "Alt": 1.57,
-        "Üst": 1.86
-    },
     "Kızıl Yıldız - Viktoria Plzen": {
-        "Alt": 2.12,
-        "Üst": 1.42
+        "Alt": 2.16,
+        "Üst": 1.4
     },
     "Ofi Crete - CSKA Sofya": {
-        "Alt": 1.51,
-        "Üst": 1.96
+        "Alt": 1.39,
+        "Üst": 2.19
     },
     "KF Drita - Inter Escaldes": {
         "Alt": 1.83,
         "Üst": 1.58
     },
     "Vikingur Reykjavik - Banja Luka": {
-        "Alt": 1.86,
-        "Üst": 1.56
+        "Alt": 1.77,
+        "Üst": 1.64
     },
     "Gornik Zabrze - Monaco": {
-        "Alt": 1.79,
-        "Üst": 1.62
+        "Alt": 1.68,
+        "Üst": 1.72
     },
     "Twente - Karabağ": {
-        "Alt": 2.16,
-        "Üst": 1.4
+        "Alt": 2.38,
+        "Üst": 1.32
     },
     "AL Minaa - Zakho": {
         "Alt": 1.37,
@@ -86,5 +34,73 @@
     "AL Julan - AL Karkh": {
         "Alt": 1.34,
         "Üst": 2.15
+    },
+    "AL Fayha - Al Hilal": {
+        "Alt": 2.0,
+        "Üst": 1.41
+    },
+    "Azam - Tabora Utd": {
+        "Alt": 1.4,
+        "Üst": 2.01
+    },
+    "Sion - Ajax": {
+        "Alt": 2.15,
+        "Üst": 1.4
+    },
+    "Lugano - M. Tel Aviv": {
+        "Alt": 1.79,
+        "Üst": 1.62
+    },
+    "Panathinaikos - H. Kralove": {
+        "Alt": 1.62,
+        "Üst": 1.79
+    },
+    "Atalanta - H. Tel Aviv": {
+        "Alt": 1.33,
+        "Üst": 2.07
+    },
+    "KAA Gent - Hibernian": {
+        "Alt": 1.53,
+        "Üst": 1.91
+    },
+    "Motherwell - Freiburg": {
+        "Alt": 1.73,
+        "Üst": 1.66
+    },
+    "Rangers - Jablonec": {
+        "Alt": 1.85,
+        "Üst": 1.58
+    },
+    "Hearts - Rapid Wien": {
+        "Alt": 2.01,
+        "Üst": 1.47
+    },
+    "Fleury 91 - Orleans": {
+        "Alt": 1.67,
+        "Üst": 1.64
+    },
+    "Bourg En Bresse - Thionville Lusitanos": {
+        "Alt": 1.67,
+        "Üst": 1.63
+    },
+    "US Concarneau - Villefranche": {
+        "Alt": 1.6,
+        "Üst": 1.71
+    },
+    "SC Bastia - Versailles 78": {
+        "Alt": 1.57,
+        "Üst": 1.74
+    },
+    "Caen - Aubagne": {
+        "Alt": 1.91,
+        "Üst": 1.45
+    },
+    "La Roche Vendee - Cannes": {
+        "Alt": 1.69,
+        "Üst": 1.62
+    },
+    "Rouen - US Quevilly": {
+        "Alt": 1.51,
+        "Üst": 1.83
     }
 }
