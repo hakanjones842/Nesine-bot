@@ -28,8 +28,8 @@
         "Üst": 1.43
     },
     "K. Almaty - Anderlecht": {
-        "Alt": 1.63,
-        "Üst": 1.78
+        "Alt": 1.61,
+        "Üst": 1.8
     },
     "Kapa - Jippo": {
         "Alt": 1.77,
@@ -40,8 +40,8 @@
         "Üst": 1.68
     },
     "Gas Alshimal - AL Kahraba": {
-        "Alt": 5.47,
-        "Üst": 3.45
+        "Alt": 1.25,
+        "Üst": 3.48
     },
     "Arsenal Tula - Rotor": {
         "Alt": 1.35,
@@ -64,8 +64,8 @@
         "Üst": 1.43
     },
     "Lincoln Red - Larne": {
-        "Alt": 1.63,
-        "Üst": 1.78
+        "Alt": 1.6,
+        "Üst": 1.8
     },
     "Inter Turku - Kopenhag": {
         "Alt": 2.05,
@@ -74,5 +74,17 @@
     "Benfica U23 - Rio Ave U23": {
         "Alt": 1.84,
         "Üst": 1.51
+    },
+    "AL Rayyan - Lusail SC": {
+        "Alt": 2.73,
+        "Üst": 1.18
+    },
+    "Trabzonspor - Ferencvaros": {
+        "Alt": 1.87,
+        "Üst": 1.56
+    },
+    "Beşiktaş - Zalgiris Kaunas": {
+        "Alt": 1.3,
+        "Üst": 1.93
     }
 }
