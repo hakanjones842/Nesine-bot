@@ -1,39 +1,7 @@
 {
-    "Meshakhte Tkibuli - Dinamo B.": {
-        "Alt": 1.89,
-        "Üst": 1.46
-    },
-    "Johor Darul - Kuching FA": {
-        "Alt": 3.85,
-        "Üst": 1.83
-    },
-    "Proxy SC - Farco": {
-        "Alt": 1.34,
-        "Üst": 2.16
-    },
-    "El Sekka El Hadid - EL Terasanah": {
-        "Alt": 4.82,
-        "Üst": 3.3
-    },
-    "Ismaily Sc - Masar": {
-        "Alt": 4.9,
-        "Üst": 3.44
-    },
-    "Dayrout - Maleyat Kafr El Z.": {
-        "Alt": 1.23,
-        "Üst": 3.53
-    },
-    "AL Ittihad K. - Al Wasl": {
-        "Alt": 2.09,
-        "Üst": 1.37
-    },
-    "Wadi Degla - ZED": {
-        "Alt": 1.29,
-        "Üst": 2.29
-    },
     "AL Gharrafa - Al Shahaniya": {
-        "Alt": 1.98,
-        "Üst": 1.42
+        "Alt": 2.01,
+        "Üst": 1.4
     },
     "Orsha - Bate Borisov II": {
         "Alt": 3.19,
@@ -48,12 +16,12 @@
         "Üst": 4.03
     },
     "Minsk - Vitebsk": {
-        "Alt": 1.37,
-        "Üst": 2.07
+        "Alt": 1.46,
+        "Üst": 1.89
     },
     "FK Auda - FK Tukums 2000 Tss": {
-        "Alt": 2.09,
-        "Üst": 1.37
+        "Alt": 1.73,
+        "Üst": 3.37
     },
     "FK Liepaja - Grobinas SC": {
         "Alt": 1.78,
@@ -68,15 +36,47 @@
         "Üst": 1.45
     },
     "Al Urooba (Bae) - AL Dhaid": {
-        "Alt": 1.65,
-        "Üst": 1.65
+        "Alt": 1.63,
+        "Üst": 1.67
     },
     "City Football Club - Dibba": {
         "Alt": 1.69,
         "Üst": 3.52
     },
     "AL Bataeh - AL Ittifaq": {
-        "Alt": 1.97,
-        "Üst": 1.43
+        "Alt": 2.0,
+        "Üst": 1.41
+    },
+    "PK Keski Uusimaa - JJK Jyvaskyla": {
+        "Alt": 2.66,
+        "Üst": 1.2
+    },
+    "Kokkolan P. - KuPS Akatemia": {
+        "Alt": 3.08,
+        "Üst": 1.13
+    },
+    "Haka - SJK Akatemia": {
+        "Alt": 2.36,
+        "Üst": 1.27
+    },
+    "Mladost Zdralovi - HNK Vukovar 1991": {
+        "Alt": 1.51,
+        "Üst": 1.81
+    },
+    "NK Sesvete - NK Karlovac 1919": {
+        "Alt": 1.54,
+        "Üst": 1.78
+    },
+    "Karbalaa - AL Zawraa": {
+        "Alt": 1.41,
+        "Üst": 2.0
+    },
+    "Be1 Nfa - FK Garliava": {
+        "Alt": 1.77,
+        "Üst": 1.55
+    },
+    "Paksi - Ujpest": {
+        "Alt": 2.56,
+        "Üst": 1.22
     }
 }
