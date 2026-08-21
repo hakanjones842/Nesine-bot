@@ -1,35 +1,15 @@
 {
-    "Kashiwa - V Varen": {
-        "Alt": 1.94,
-        "Üst": 1.51
-    },
-    "Northcote City - Moreland Zebras": {
-        "Alt": 2.0,
-        "Üst": 1.41
-    },
-    "Tokyo - JEF Utd": {
-        "Alt": 2.02,
-        "Üst": 1.47
-    },
-    "Lokomotiv Kiev - Probiy Gorodenka": {
-        "Alt": 1.78,
-        "Üst": 1.54
-    },
-    "Podillya Khmelnytskyi - Victoria Mykolaivka": {
-        "Alt": 2.4,
-        "Üst": 3.63
-    },
     "Eastern Sports - Sha Tin": {
-        "Alt": 1.83,
-        "Üst": 3.44
+        "Alt": 1.82,
+        "Üst": 3.47
     },
     "Meshakhte Tkibuli - Dinamo B.": {
         "Alt": 1.77,
         "Üst": 1.55
     },
     "Johor Darul - Kuching FA": {
-        "Alt": 3.84,
-        "Üst": 1.83
+        "Alt": 3.82,
+        "Üst": 1.93
     },
     "Proxy SC - Farco": {
         "Alt": 1.34,
@@ -40,8 +20,8 @@
         "Üst": 3.3
     },
     "Ismaily Sc - Masar": {
-        "Alt": 4.64,
-        "Üst": 3.37
+        "Alt": 4.9,
+        "Üst": 3.44
     },
     "Dayrout - Maleyat Kafr El Z.": {
         "Alt": 1.23,
@@ -62,5 +42,41 @@
     "Orsha - Bate Borisov II": {
         "Alt": 3.19,
         "Üst": 3.81
+    },
+    "AL Mosul SC - Diyala": {
+        "Alt": 1.4,
+        "Üst": 2.01
+    },
+    "Molodechno - Soligorsk": {
+        "Alt": 1.36,
+        "Üst": 4.03
+    },
+    "Minsk - Vitebsk": {
+        "Alt": 1.37,
+        "Üst": 2.07
+    },
+    "FK Auda - FK Tukums 2000 Tss": {
+        "Alt": 1.77,
+        "Üst": 3.33
+    },
+    "FK Liepaja - Grobinas SC": {
+        "Alt": 1.81,
+        "Üst": 1.51
+    },
+    "FK Babrungas Plunge - FK Tauras Taurage": {
+        "Alt": 1.67,
+        "Üst": 1.64
+    },
+    "Jadran Dekani - NK Jesenice": {
+        "Alt": 1.92,
+        "Üst": 1.45
+    },
+    "Al Urooba (Bae) - AL Dhaid": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "City Football Club - Dibba": {
+        "Alt": 1.69,
+        "Üst": 3.52
     }
 }
