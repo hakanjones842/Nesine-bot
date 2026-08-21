@@ -1,47 +1,35 @@
 {
-    "Dep. Madryn - Mitre Santia": {
-        "Alt": 3.22,
-        "Üst": 2.96
-    },
-    "Liverpool M. - Ca Cerro": {
-        "Alt": 1.43,
-        "Üst": 1.96
-    },
-    "Strongest - U. de Vinto": {
-        "Alt": 2.6,
-        "Üst": 3.76
-    },
     "Estudiantes Río C. - San Lorenzo": {
-        "Alt": 1.16,
-        "Üst": 3.22
+        "Alt": 1.15,
+        "Üst": 3.3
     },
     "Caracas - Carabobo": {
-        "Alt": 1.49,
-        "Üst": 1.86
+        "Alt": 1.51,
+        "Üst": 1.82
     },
     "CD Cuenca - Mushuc Runa": {
         "Alt": 1.44,
         "Üst": 1.93
     },
     "Club Leones D. N. - Independiente D.": {
-        "Alt": 1.55,
+        "Alt": 1.56,
         "Üst": 1.76
     },
     "O. Petrolero - S. A. Bulo Bulo": {
-        "Alt": 1.98,
-        "Üst": 3.49
+        "Alt": 1.97,
+        "Üst": 3.51
     },
     "Alianza Valledupar - Dep. Pereira": {
         "Alt": 1.48,
         "Üst": 1.86
     },
     "Audax Ital. - D. Union La Calera": {
-        "Alt": 1.5,
+        "Alt": 1.51,
         "Üst": 1.84
     },
     "Fundacion F. Un Atleta - CD Inca": {
         "Alt": 2.04,
-        "Üst": 1.39
+        "Üst": 1.38
     },
     "Motagua - Lobos Upnfm": {
         "Alt": 1.71,
@@ -72,7 +60,7 @@
         "Üst": 1.42
     },
     "Melb. Sharks - Eltham Redbacks": {
-        "Alt": 1.84,
-        "Üst": 3.69
+        "Alt": 1.79,
+        "Üst": 3.71
     }
 }
