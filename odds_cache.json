@@ -1,15 +1,19 @@
 {
+    "Rebel - Agrobiznes": {
+        "Alt": 1.68,
+        "Üst": 1.62
+    },
     "G. Gully Cavs - ST Albans S.": {
-        "Alt": 2.07,
-        "Üst": 1.37
+        "Alt": 2.04,
+        "Üst": 1.38
     },
     "Sydney NPL Gençler - Rockdale City": {
-        "Alt": 1.87,
-        "Üst": 1.48
+        "Alt": 1.95,
+        "Üst": 1.44
     },
     "Kashiwa - V Varen": {
-        "Alt": 1.82,
-        "Üst": 1.59
+        "Alt": 1.88,
+        "Üst": 1.55
     },
     "Northcote City - Moreland Zebras": {
         "Alt": 2.0,
@@ -19,33 +23,41 @@
         "Alt": 1.82,
         "Üst": 1.59
     },
+    "Lokomotiv Kiev - Probiy Gorodenka": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "Podillya Khmelnytskyi - Victoria Mykolaivka": {
+        "Alt": 2.4,
+        "Üst": 3.63
+    },
     "Eastern Sports - Sha Tin": {
-        "Alt": 2.05,
+        "Alt": 1.92,
         "Üst": 3.4
     },
     "Meshakhte Tkibuli - Dinamo B.": {
-        "Alt": 1.7,
-        "Üst": 1.61
+        "Alt": 1.77,
+        "Üst": 1.55
     },
     "Johor Darul - Kuching FA": {
-        "Alt": 3.51,
-        "Üst": 2.56
+        "Alt": 3.82,
+        "Üst": 1.67
     },
     "Proxy SC - Farco": {
         "Alt": 1.34,
         "Üst": 2.16
     },
     "El Sekka El Hadid - EL Terasanah": {
-        "Alt": 5.16,
-        "Üst": 3.38
+        "Alt": 4.98,
+        "Üst": 3.33
     },
     "Ismaily Sc - Masar": {
         "Alt": 4.81,
         "Üst": 3.48
     },
     "Dayrout - Maleyat Kafr El Z.": {
-        "Alt": 6.01,
-        "Üst": 3.52
+        "Alt": 1.23,
+        "Üst": 3.53
     },
     "AL Ittihad K. - Al Wasl": {
         "Alt": 2.1,
@@ -59,24 +71,16 @@
         "Alt": 1.98,
         "Üst": 1.42
     },
+    "Orsha - Bate Borisov II": {
+        "Alt": 3.19,
+        "Üst": 3.81
+    },
     "AL Mosul SC - Diyala": {
         "Alt": 1.4,
         "Üst": 2.01
     },
-    "Minsk - Vitebsk": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
-    "FK Auda - FK Tukums 2000 Tss": {
-        "Alt": 2.0,
-        "Üst": 1.4
-    },
-    "FK Liepaja - Grobinas SC": {
-        "Alt": 1.77,
-        "Üst": 1.55
-    },
-    "FK Babrungas Plunge - FK Tauras Taurage": {
-        "Alt": 1.67,
-        "Üst": 1.64
+    "Molodechno - Soligorsk": {
+        "Alt": 1.36,
+        "Üst": 4.03
     }
 }
