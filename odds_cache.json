@@ -1,27 +1,15 @@
 {
-    "Rebel - Agrobiznes": {
-        "Alt": 1.68,
-        "Üst": 1.62
-    },
-    "G. Gully Cavs - ST Albans S.": {
-        "Alt": 2.04,
-        "Üst": 1.38
-    },
-    "Sydney NPL Gençler - Rockdale City": {
-        "Alt": 1.95,
-        "Üst": 1.44
-    },
     "Kashiwa - V Varen": {
-        "Alt": 1.88,
-        "Üst": 1.55
+        "Alt": 1.94,
+        "Üst": 1.51
     },
     "Northcote City - Moreland Zebras": {
         "Alt": 2.0,
         "Üst": 1.41
     },
     "Tokyo - JEF Utd": {
-        "Alt": 1.82,
-        "Üst": 1.59
+        "Alt": 2.02,
+        "Üst": 1.47
     },
     "Lokomotiv Kiev - Probiy Gorodenka": {
         "Alt": 1.78,
@@ -32,40 +20,40 @@
         "Üst": 3.63
     },
     "Eastern Sports - Sha Tin": {
-        "Alt": 1.92,
-        "Üst": 3.4
+        "Alt": 1.83,
+        "Üst": 3.44
     },
     "Meshakhte Tkibuli - Dinamo B.": {
         "Alt": 1.77,
         "Üst": 1.55
     },
     "Johor Darul - Kuching FA": {
-        "Alt": 3.82,
-        "Üst": 1.67
+        "Alt": 3.84,
+        "Üst": 1.83
     },
     "Proxy SC - Farco": {
         "Alt": 1.34,
         "Üst": 2.16
     },
     "El Sekka El Hadid - EL Terasanah": {
-        "Alt": 4.98,
-        "Üst": 3.33
+        "Alt": 4.82,
+        "Üst": 3.3
     },
     "Ismaily Sc - Masar": {
-        "Alt": 4.81,
-        "Üst": 3.48
+        "Alt": 4.64,
+        "Üst": 3.37
     },
     "Dayrout - Maleyat Kafr El Z.": {
         "Alt": 1.23,
         "Üst": 3.53
     },
     "AL Ittihad K. - Al Wasl": {
-        "Alt": 2.1,
-        "Üst": 1.36
+        "Alt": 2.09,
+        "Üst": 1.37
     },
     "Wadi Degla - ZED": {
-        "Alt": 1.31,
-        "Üst": 2.23
+        "Alt": 1.3,
+        "Üst": 2.28
     },
     "AL Gharrafa - Al Shahaniya": {
         "Alt": 1.98,
@@ -74,13 +62,5 @@
     "Orsha - Bate Borisov II": {
         "Alt": 3.19,
         "Üst": 3.81
-    },
-    "AL Mosul SC - Diyala": {
-        "Alt": 1.4,
-        "Üst": 2.01
-    },
-    "Molodechno - Soligorsk": {
-        "Alt": 1.36,
-        "Üst": 4.03
     }
 }
