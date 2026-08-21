@@ -1,74 +1,82 @@
 {
-    "Preussen M. - Karlsruhe": {
-        "Alt": 2.08,
-        "Üst": 1.37
+    "Vanersborgs FK - IFK Skovde FK": {
+        "Alt": 1.72,
+        "Üst": 3.5
     },
-    "Mannheim 07 - Kaiserslautern": {
-        "Alt": 2.08,
-        "Üst": 1.37
+    "Aldosivi - Union Santa Fe": {
+        "Alt": 1.31,
+        "Üst": 2.4
     },
-    "S B Vlasim - Pribram": {
-        "Alt": 1.84,
+    "SV Ried - Grazer AK": {
+        "Alt": 1.68,
+        "Üst": 1.72
+    },
+    "Vikingur Gota - B36 Torshavn": {
+        "Alt": 1.9,
+        "Üst": 1.46
+    },
+    "N. Xamax - Stade Ouchy": {
+        "Alt": 2.21,
+        "Üst": 1.31
+    },
+    "Std. Nyonnis - Etoile Carouge": {
+        "Alt": 2.0,
+        "Üst": 1.4
+    },
+    "Colegios Diocesanos - Galapagar": {
+        "Alt": 1.96,
+        "Üst": 1.43
+    },
+    "Petrolul Ploiesti - Rapid 1923": {
+        "Alt": 1.48,
+        "Üst": 1.87
+    },
+    "AL Wehda - AL Adalh": {
+        "Alt": 1.96,
+        "Üst": 1.43
+    },
+    "Acassuso - Godoy Cruz": {
+        "Alt": 1.37,
+        "Üst": 3.26
+    },
+    "KSC Lokeren Temse - Eupen": {
+        "Alt": 1.85,
         "Üst": 1.5
     },
-    "SK Prostej - SK Kladno": {
+    "RSC Anderlecht U23 - Excelsior V.": {
+        "Alt": 2.0,
+        "Üst": 1.41
+    },
+    "Sarajevo - FK BSK Banja Luka": {
         "Alt": 1.69,
         "Üst": 1.62
     },
-    "Karvina - Vik. Zizkov": {
-        "Alt": 1.68,
-        "Üst": 3.5
+    "US Boulogne - Red Star": {
+        "Alt": 1.47,
+        "Üst": 2.02
     },
-    "Jihlava - Taborsko": {
-        "Alt": 1.72,
-        "Üst": 1.59
+    "Clermont - Dijon": {
+        "Alt": 1.53,
+        "Üst": 1.91
     },
-    "Usti Nad Labem - Dukla Prag": {
-        "Alt": 1.82,
-        "Üst": 1.51
+    "Dunkerque - Montpellier": {
+        "Alt": 1.92,
+        "Üst": 1.53
     },
-    "Opava - Trinec": {
-        "Alt": 1.78,
-        "Üst": 1.54
+    "Sochaux - Guingamp": {
+        "Alt": 1.61,
+        "Üst": 1.8
     },
-    "Hobro - Aalborg BK": {
+    "Pau - AS Nancy": {
+        "Alt": 1.53,
+        "Üst": 1.92
+    },
+    "Mold Alexandra - Buckley Town": {
+        "Alt": 2.51,
+        "Üst": 3.55
+    },
+    "NK Rudes - L. Zagreb": {
         "Alt": 1.79,
         "Üst": 1.54
-    },
-    "Vejle - Esbjerg": {
-        "Alt": 2.34,
-        "Üst": 1.28
-    },
-    "SJK Seinöjoen - Lahti": {
-        "Alt": 2.0,
-        "Üst": 1.48
-    },
-    "PK 35 - Japs": {
-        "Alt": 1.7,
-        "Üst": 1.61
-    },
-    "Solvesborgs GoIF - IFK Karlshamn": {
-        "Alt": 1.99,
-        "Üst": 3.56
-    },
-    "Como 1907 (K) - Juventus (K)": {
-        "Alt": 1.65,
-        "Üst": 3.63
-    },
-    "FK Jonava - FA Siauliai B": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "Hegelmann Litauen B - FK Ekranas": {
-        "Alt": 1.98,
-        "Üst": 1.42
-    },
-    "C. Glogow - Warta Poznan": {
-        "Alt": 1.67,
-        "Üst": 1.64
-    },
-    "Sandecja - G. Leczna": {
-        "Alt": 1.71,
-        "Üst": 1.6
     }
 }
