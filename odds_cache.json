@@ -1,82 +1,74 @@
 {
-    "AL Gharrafa - Al Shahaniya": {
-        "Alt": 2.01,
-        "Üst": 1.4
+    "Preussen M. - Karlsruhe": {
+        "Alt": 2.08,
+        "Üst": 1.37
     },
-    "Orsha - Bate Borisov II": {
-        "Alt": 3.19,
-        "Üst": 3.81
+    "Mannheim 07 - Kaiserslautern": {
+        "Alt": 2.08,
+        "Üst": 1.37
     },
-    "AL Mosul SC - Diyala": {
-        "Alt": 1.4,
-        "Üst": 2.01
+    "S B Vlasim - Pribram": {
+        "Alt": 1.84,
+        "Üst": 1.5
     },
-    "Molodechno - Soligorsk": {
-        "Alt": 1.36,
-        "Üst": 4.03
+    "SK Prostej - SK Kladno": {
+        "Alt": 1.69,
+        "Üst": 1.62
     },
-    "Minsk - Vitebsk": {
-        "Alt": 1.46,
-        "Üst": 1.89
+    "Karvina - Vik. Zizkov": {
+        "Alt": 1.68,
+        "Üst": 3.5
     },
-    "FK Auda - FK Tukums 2000 Tss": {
-        "Alt": 1.73,
-        "Üst": 3.37
+    "Jihlava - Taborsko": {
+        "Alt": 1.72,
+        "Üst": 1.59
     },
-    "FK Liepaja - Grobinas SC": {
+    "Usti Nad Labem - Dukla Prag": {
+        "Alt": 1.82,
+        "Üst": 1.51
+    },
+    "Opava - Trinec": {
         "Alt": 1.78,
         "Üst": 1.54
     },
-    "FK Babrungas Plunge - FK Tauras Taurage": {
+    "Hobro - Aalborg BK": {
+        "Alt": 1.79,
+        "Üst": 1.54
+    },
+    "Vejle - Esbjerg": {
+        "Alt": 2.34,
+        "Üst": 1.28
+    },
+    "SJK Seinöjoen - Lahti": {
+        "Alt": 2.0,
+        "Üst": 1.48
+    },
+    "PK 35 - Japs": {
+        "Alt": 1.7,
+        "Üst": 1.61
+    },
+    "Solvesborgs GoIF - IFK Karlshamn": {
+        "Alt": 1.99,
+        "Üst": 3.56
+    },
+    "Como 1907 (K) - Juventus (K)": {
+        "Alt": 1.65,
+        "Üst": 3.63
+    },
+    "FK Jonava - FA Siauliai B": {
+        "Alt": 1.93,
+        "Üst": 1.44
+    },
+    "Hegelmann Litauen B - FK Ekranas": {
+        "Alt": 1.98,
+        "Üst": 1.42
+    },
+    "C. Glogow - Warta Poznan": {
         "Alt": 1.67,
         "Üst": 1.64
     },
-    "Jadran Dekani - NK Jesenice": {
-        "Alt": 1.92,
-        "Üst": 1.45
-    },
-    "Al Urooba (Bae) - AL Dhaid": {
-        "Alt": 1.63,
-        "Üst": 1.67
-    },
-    "City Football Club - Dibba": {
-        "Alt": 1.69,
-        "Üst": 3.52
-    },
-    "AL Bataeh - AL Ittifaq": {
-        "Alt": 2.0,
-        "Üst": 1.41
-    },
-    "PK Keski Uusimaa - JJK Jyvaskyla": {
-        "Alt": 2.66,
-        "Üst": 1.2
-    },
-    "Kokkolan P. - KuPS Akatemia": {
-        "Alt": 3.08,
-        "Üst": 1.13
-    },
-    "Haka - SJK Akatemia": {
-        "Alt": 2.36,
-        "Üst": 1.27
-    },
-    "Mladost Zdralovi - HNK Vukovar 1991": {
-        "Alt": 1.51,
-        "Üst": 1.81
-    },
-    "NK Sesvete - NK Karlovac 1919": {
-        "Alt": 1.54,
-        "Üst": 1.78
-    },
-    "Karbalaa - AL Zawraa": {
-        "Alt": 1.41,
-        "Üst": 2.0
-    },
-    "Be1 Nfa - FK Garliava": {
-        "Alt": 1.77,
-        "Üst": 1.55
-    },
-    "Paksi - Ujpest": {
-        "Alt": 2.56,
-        "Üst": 1.22
+    "Sandecja - G. Leczna": {
+        "Alt": 1.71,
+        "Üst": 1.6
     }
 }
