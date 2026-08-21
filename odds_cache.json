@@ -1,15 +1,7 @@
 {
-    "Alianza Atl - S. Cristal": {
-        "Alt": 1.69,
-        "Üst": 1.61
-    },
-    "Academia Anzoategui - Trujillanos": {
-        "Alt": 1.54,
-        "Üst": 1.78
-    },
     "J. De Cordoba - Boyaca Chico": {
-        "Alt": 1.39,
-        "Üst": 2.03
+        "Alt": 1.37,
+        "Üst": 2.07
     },
     "Dep. Madryn - Mitre Santia": {
         "Alt": 3.22,
@@ -20,27 +12,27 @@
         "Üst": 1.96
     },
     "Strongest - U. de Vinto": {
-        "Alt": 1.67,
-        "Üst": 3.54
+        "Alt": 1.66,
+        "Üst": 3.57
     },
     "Estudiantes Río C. - San Lorenzo": {
         "Alt": 1.16,
-        "Üst": 3.14
+        "Üst": 3.21
     },
     "Caracas - Carabobo": {
         "Alt": 1.49,
         "Üst": 1.86
     },
     "CD Cuenca - Mushuc Runa": {
-        "Alt": 1.46,
-        "Üst": 1.89
+        "Alt": 1.44,
+        "Üst": 1.93
     },
     "Club Leones D. N. - Independiente D.": {
         "Alt": 1.56,
         "Üst": 1.76
     },
     "O. Petrolero - S. A. Bulo Bulo": {
-        "Alt": 2.02,
+        "Alt": 1.98,
         "Üst": 3.49
     },
     "Alianza Valledupar - Dep. Pereira": {
@@ -72,7 +64,15 @@
         "Üst": 1.48
     },
     "Juarez - America": {
-        "Alt": 1.82,
-        "Üst": 1.51
+        "Alt": 1.76,
+        "Üst": 1.56
+    },
+    "Atl La Paz - Cruz Azul Hidalgo": {
+        "Alt": 1.91,
+        "Üst": 3.48
+    },
+    "Queretaro - D. Toluca": {
+        "Alt": 1.97,
+        "Üst": 1.42
     }
 }
