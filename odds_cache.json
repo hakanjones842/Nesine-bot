@@ -1,8 +1,4 @@
 {
-    "J. De Cordoba - Boyaca Chico": {
-        "Alt": 1.37,
-        "Üst": 2.07
-    },
     "Dep. Madryn - Mitre Santia": {
         "Alt": 3.22,
         "Üst": 2.96
@@ -12,12 +8,12 @@
         "Üst": 1.96
     },
     "Strongest - U. de Vinto": {
-        "Alt": 1.66,
-        "Üst": 3.57
+        "Alt": 2.6,
+        "Üst": 3.76
     },
     "Estudiantes Río C. - San Lorenzo": {
         "Alt": 1.16,
-        "Üst": 3.21
+        "Üst": 3.22
     },
     "Caracas - Carabobo": {
         "Alt": 1.49,
@@ -28,7 +24,7 @@
         "Üst": 1.93
     },
     "Club Leones D. N. - Independiente D.": {
-        "Alt": 1.56,
+        "Alt": 1.55,
         "Üst": 1.76
     },
     "O. Petrolero - S. A. Bulo Bulo": {
@@ -45,7 +41,7 @@
     },
     "Fundacion F. Un Atleta - CD Inca": {
         "Alt": 2.04,
-        "Üst": 1.38
+        "Üst": 1.39
     },
     "Motagua - Lobos Upnfm": {
         "Alt": 1.71,
@@ -64,15 +60,19 @@
         "Üst": 1.48
     },
     "Juarez - America": {
-        "Alt": 1.76,
-        "Üst": 1.56
+        "Alt": 1.73,
+        "Üst": 1.58
     },
     "Atl La Paz - Cruz Azul Hidalgo": {
-        "Alt": 1.91,
-        "Üst": 3.48
+        "Alt": 2.03,
+        "Üst": 3.49
     },
     "Queretaro - D. Toluca": {
         "Alt": 1.97,
         "Üst": 1.42
+    },
+    "Melb. Sharks - Eltham Redbacks": {
+        "Alt": 1.84,
+        "Üst": 3.69
     }
 }
