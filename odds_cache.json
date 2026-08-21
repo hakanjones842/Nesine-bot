@@ -1,28 +1,4 @@
 {
-    "Corinthians - Rosario C.": {
-        "Alt": 1.19,
-        "Üst": 2.95
-    },
-    "Botafogo RJ - CS Cienciano": {
-        "Alt": 1.15,
-        "Üst": 1.73
-    },
-    "Tepatitlan - Tlaxcala": {
-        "Alt": 1.54,
-        "Üst": 1.78
-    },
-    "Atl Morelia - Correcaminos": {
-        "Alt": 2.16,
-        "Üst": 3.43
-    },
-    "Alianza - CD Olimpia": {
-        "Alt": 1.54,
-        "Üst": 1.78
-    },
-    "Angel Firpo - Alajuelense": {
-        "Alt": 1.68,
-        "Üst": 1.62
-    },
     "G. Gully Cavs - ST Albans S.": {
         "Alt": 1.94,
         "Üst": 1.44
@@ -44,16 +20,16 @@
         "Üst": 1.66
     },
     "Eastern Sports - Sha Tin": {
-        "Alt": 2.14,
-        "Üst": 3.41
+        "Alt": 2.05,
+        "Üst": 3.4
     },
     "Meshakhte Tkibuli - Dinamo B.": {
         "Alt": 1.7,
         "Üst": 1.61
     },
     "Johor Darul - Kuching FA": {
-        "Alt": 3.44,
-        "Üst": 2.48
+        "Alt": 3.46,
+        "Üst": 2.35
     },
     "Proxy SC - Farco": {
         "Alt": 1.32,
@@ -72,7 +48,35 @@
         "Üst": 3.52
     },
     "AL Ittihad K. - Al Wasl": {
-        "Alt": 2.14,
-        "Üst": 1.35
+        "Alt": 2.1,
+        "Üst": 1.36
+    },
+    "Wadi Degla - ZED": {
+        "Alt": 1.32,
+        "Üst": 2.19
+    },
+    "AL Gharrafa - Al Shahaniya": {
+        "Alt": 1.98,
+        "Üst": 1.42
+    },
+    "AL Mosul SC - Diyala": {
+        "Alt": 1.4,
+        "Üst": 2.01
+    },
+    "Minsk - Vitebsk": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "FK Auda - FK Tukums 2000 Tss": {
+        "Alt": 1.97,
+        "Üst": 1.42
+    },
+    "FK Liepaja - Grobinas SC": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "FK Babrungas Plunge - FK Tauras Taurage": {
+        "Alt": 1.67,
+        "Üst": 1.64
     }
 }
