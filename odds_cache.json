@@ -1,71 +1,19 @@
 {
-    "Hume City - Caroline Springs G. C.": {
-        "Alt": 1.9,
-        "Üst": 1.46
-    },
-    "Sutherland S. - St George City": {
-        "Alt": 1.64,
-        "Üst": 1.67
-    },
-    "Sapporo - Omiya Ardija": {
-        "Alt": 2.03,
-        "Üst": 1.39
-    },
-    "Stirling Macedonia - Western Knights SC": {
-        "Alt": 1.36,
-        "Üst": 4.08
-    },
-    "Armadale SC - Perth Redstar": {
-        "Alt": 3.07,
-        "Üst": 3.84
-    },
-    "Balcatta - Dianella White E.": {
-        "Alt": 1.72,
-        "Üst": 3.57
-    },
-    "Bayswater - Perth Glory II": {
-        "Alt": 2.21,
-        "Üst": 3.86
-    },
-    "Oly. Kingsway - Fremantle City": {
-        "Alt": 2.76,
-        "Üst": 3.7
-    },
-    "Perth SC - Sorrento": {
-        "Alt": 2.55,
-        "Üst": 3.81
-    },
-    "Dandenong City - Preston Lions": {
-        "Alt": 1.82,
-        "Üst": 1.51
-    },
-    "D. Thunder - Oakleigh C.": {
-        "Alt": 3.56,
-        "Üst": 1.71
-    },
-    "University of Nsw - Manly Utd": {
-        "Alt": 1.78,
-        "Üst": 1.54
-    },
-    "NWS Spirit U23 - SD Raiders": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
     "Southern District - Hong Kong": {
         "Alt": 1.86,
         "Üst": 3.39
     },
     "V. Hachinohe - Sendai": {
-        "Alt": 1.38,
-        "Üst": 2.05
+        "Alt": 1.33,
+        "Üst": 2.18
     },
     "Melbourne Srbija - Bulleen Lions": {
         "Alt": 1.91,
         "Üst": 1.45
     },
     "ST George Saints - Blacktown Gençler": {
-        "Alt": 1.96,
-        "Üst": 1.43
+        "Alt": 1.89,
+        "Üst": 1.46
     },
     "Espanyol II - Gimnastic": {
         "Alt": 1.51,
@@ -78,5 +26,61 @@
     "Pocheon Citi. - Mokpo City": {
         "Alt": 1.89,
         "Üst": 1.46
+    },
+    "Dangjin Citizen - Yeoju Citizen": {
+        "Alt": 1.7,
+        "Üst": 1.61
+    },
+    "Roma U20 - AC Monza U20": {
+        "Alt": 1.74,
+        "Üst": 1.58
+    },
+    "Lecce U20 - Lazio U20": {
+        "Alt": 1.52,
+        "Üst": 1.8
+    },
+    "Kashima - Fukuoka": {
+        "Alt": 1.4,
+        "Üst": 2.17
+    },
+    "B. Akita - Ventforet": {
+        "Alt": 1.34,
+        "Üst": 2.16
+    },
+    "Matsumoto Y. - Ehime": {
+        "Alt": 1.6,
+        "Üst": 1.71
+    },
+    "Nara Club - Renofa Y.": {
+        "Alt": 1.85,
+        "Üst": 1.49
+    },
+    "Osaka - Ryukyu": {
+        "Alt": 1.85,
+        "Üst": 1.5
+    },
+    "INAC Kobe L. (K) - S. Hiroshima (K)": {
+        "Alt": 1.36,
+        "Üst": 2.12
+    },
+    "Omiya (K) - Urawa Red (K)": {
+        "Alt": 1.45,
+        "Üst": 1.92
+    },
+    "Kanagawa (K) - Saitama (K)": {
+        "Alt": 1.53,
+        "Üst": 1.79
+    },
+    "Gimnastica S. - Rayo Majadah": {
+        "Alt": 1.51,
+        "Üst": 1.82
+    },
+    "Alaves II - Amorebieta": {
+        "Alt": 1.32,
+        "Üst": 2.2
+    },
+    "N. Sembilan - Kuala Lumpur": {
+        "Alt": 1.71,
+        "Üst": 1.59
     }
 }
