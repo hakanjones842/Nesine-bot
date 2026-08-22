@@ -1,82 +1,66 @@
 {
-    "Ipswich Town - Sunderland": {
+    "Ath Bilbao - Sevilla": {
         "Alt": 1.51,
-        "Üst": 1.93
+        "Üst": 1.95
     },
-    "Everton - Crystal Palace": {
-        "Alt": 1.66,
-        "Üst": 1.74
+    "Akhmat Grozny - FK Rostov": {
+        "Alt": 1.42,
+        "Üst": 2.13
     },
-    "Nottingham F. - Leeds Utd": {
-        "Alt": 1.52,
-        "Üst": 1.92
-    },
-    "Zulte Waregem - SK Beveren": {
-        "Alt": 1.93,
-        "Üst": 1.52
-    },
-    "Al Ahli Dubai - AL Dhafra Scc": {
-        "Alt": 2.49,
-        "Üst": 1.23
-    },
-    "Ajman Club - Hatta SC": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "Smorgon - Ostrovets": {
-        "Alt": 3.15,
-        "Üst": 3.67
-    },
-    "C. Brugge U23 - RFC Seraing": {
-        "Alt": 1.72,
-        "Üst": 1.58
-    },
-    "FCV Dender EH - Beerschot": {
-        "Alt": 1.7,
-        "Üst": 1.6
-    },
-    "Tartu JK Tam. - Kuressaare": {
-        "Alt": 1.96,
-        "Üst": 1.43
-    },
-    "FF Jaro - Oulu": {
-        "Alt": 1.86,
-        "Üst": 1.57
-    },
-    "Tampereen I. - Vaasan Ps": {
-        "Alt": 1.9,
-        "Üst": 1.54
-    },
-    "Blackburn R. - Middlesbrough": {
-        "Alt": 1.76,
-        "Üst": 1.65
-    },
-    "Preston - Wolverhampton": {
-        "Alt": 1.72,
-        "Üst": 1.67
-    },
-    "Derby County - Cardiff City": {
-        "Alt": 1.77,
-        "Üst": 1.64
-    },
-    "Swansea City - Sheffield Utd": {
-        "Alt": 1.64,
-        "Üst": 1.77
-    },
-    "Wrexham - Watford": {
+    "Altach - Hartberg": {
         "Alt": 1.72,
         "Üst": 1.68
     },
-    "Southampton - Stoke City": {
-        "Alt": 1.98,
-        "Üst": 1.49
+    "Mlada Boleslav - Slovacko": {
+        "Alt": 1.75,
+        "Üst": 1.56
     },
-    "QPR - Bolton": {
-        "Alt": 1.7,
-        "Üst": 1.7
+    "Fastav Zlin - Slovan Liberec": {
+        "Alt": 1.57,
+        "Üst": 1.74
     },
-    "West Ham - Charlton": {
+    "SK Artis Brno - Sparta Prag": {
         "Alt": 2.1,
-        "Üst": 1.43
+        "Üst": 1.36
+    },
+    "Dila Gori - Torpedo": {
+        "Alt": 1.66,
+        "Üst": 1.64
+    },
+    "Spaeri - Samgurali Tskaltubo": {
+        "Alt": 1.64,
+        "Üst": 1.66
+    },
+    "Real Oviedo - Leganes": {
+        "Alt": 1.39,
+        "Üst": 2.19
+    },
+    "Syrianska - Smedby AIS": {
+        "Alt": 1.57,
+        "Üst": 3.7
+    },
+    "Paradiso - Kreuzlingen": {
+        "Alt": 2.07,
+        "Üst": 1.37
+    },
+    "IF Vestri - L. Reykjavik": {
+        "Alt": 3.06,
+        "Üst": 3.72
+    },
+    "Minija 2017 - Kauno Zalgiris B": {
+        "Alt": 3.89,
+        "Üst": 1.62
+    },
+    "Balti - Zimbru Chisinau": {
+        "Alt": 3.58,
+        "Üst": 2.02
+    },
+    "NK Bilje - NK Bistrica": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "NK Ilirija - Rudar": {
+        "Alt": 1.65,
+        "Üst": 1.66
     }
 }
