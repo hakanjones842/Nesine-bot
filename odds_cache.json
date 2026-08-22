@@ -1,74 +1,70 @@
 {
-    "AL Khlood - AL Taawoun": {
-        "Alt": 1.72,
-        "Üst": 1.59
-    },
-    "Charleroi - Mechelen": {
-        "Alt": 1.86,
-        "Üst": 1.56
-    },
-    "AL Najma - AL Jandal": {
-        "Alt": 1.86,
-        "Üst": 1.48
-    },
-    "AL Tai - AL Akhdood": {
-        "Alt": 1.7,
-        "Üst": 1.6
-    },
-    "Brentford - Tottenham": {
-        "Alt": 1.93,
-        "Üst": 1.51
-    },
-    "Udinese - Como 1907": {
-        "Alt": 1.55,
-        "Üst": 1.88
-    },
-    "Inter - AC Monza": {
-        "Alt": 1.35,
-        "Üst": 2.03
-    },
-    "AB Gladsaxe - Hvidovre": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "NK Slaven - HNK Gorica": {
-        "Alt": 1.72,
-        "Üst": 1.59
-    },
-    "AL Sadd - Al Ahli Doha": {
-        "Alt": 2.77,
-        "Üst": 1.17
-    },
-    "CD Laredo - A. Club De Getxo": {
-        "Alt": 1.82,
-        "Üst": 1.51
-    },
-    "Birkirkara - Hamrun Spartans": {
-        "Alt": 1.35,
-        "Üst": 2.13
-    },
-    "FK M. Sabac - Radnicki Nis": {
-        "Alt": 1.46,
-        "Üst": 1.9
-    },
-    "AL Ain - Khor Fakkan": {
-        "Alt": 2.59,
-        "Üst": 1.22
-    },
-    "S. Rotterdam - Utrecht": {
-        "Alt": 1.9,
-        "Üst": 1.54
-    },
-    "Zira - Imisli FK": {
-        "Alt": 1.47,
-        "Üst": 1.88
-    },
-    "Dundee Utd - Dundee": {
-        "Alt": 1.86,
-        "Üst": 1.57
-    },
     "Estoril Praia - Rio Ave": {
         "Alt": 1.7,
         "Üst": 1.7
+    },
+    "Rustvai - Gagra": {
+        "Alt": 1.58,
+        "Üst": 1.73
+    },
+    "HNK Cibalia Vinkovci - NK Dubrava": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "AD Ceuta - Las Palmas": {
+        "Alt": 1.96,
+        "Üst": 1.5
+    },
+    "Albacete - R. Sociedad B": {
+        "Alt": 1.76,
+        "Üst": 1.64
+    },
+    "Carrarese C. - Mantova 1911": {
+        "Alt": 1.58,
+        "Üst": 1.84
+    },
+    "Sudtirol - V. Entella": {
+        "Alt": 1.37,
+        "Üst": 2.22
+    },
+    "Real Avila - Pozuelo De Alarcon": {
+        "Alt": 1.66,
+        "Üst": 1.65
+    },
+    "Crusaders - Portadown": {
+        "Alt": 1.68,
+        "Üst": 1.62
+    },
+    "FK Rfs 2 - JDFS Alberts": {
+        "Alt": 2.24,
+        "Üst": 3.54
+    },
+    "Al Masry - Smouha SC": {
+        "Alt": 1.29,
+        "Üst": 2.31
+    },
+    "Ghazl El Mahallah - Pyramids": {
+        "Alt": 1.3,
+        "Üst": 2.24
+    },
+    "Milsami - Petrocub": {
+        "Alt": 1.53,
+        "Üst": 1.79
+    },
+    "Lusitania - Torreense": {
+        "Alt": 1.52,
+        "Üst": 1.8
+    },
+    "SC Covilha - Atletico CP": {
+        "Alt": 1.34,
+        "Üst": 2.15
+    },
+    "Radnicki - FK IMT Novi Beograd": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Ramtha SC - AL Hussein Irbid": {
+        "Alt": 1.58,
+        "Üst": 1.73
     }
 }
