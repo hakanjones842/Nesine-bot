@@ -1,24 +1,4 @@
 {
-    "Espanyol - Real Madrid": {
-        "Alt": 2.19,
-        "Üst": 1.39
-    },
-    "Sporting CP - Alverca": {
-        "Alt": 2.42,
-        "Üst": 1.31
-    },
-    "C. Dep. Eldense - Cadiz": {
-        "Alt": 1.51,
-        "Üst": 1.94
-    },
-    "P. Ferreira - Varzim": {
-        "Alt": 1.41,
-        "Üst": 2.0
-    },
-    "Rayo Zuliano - Dep. La Gua.": {
-        "Alt": 1.49,
-        "Üst": 1.86
-    },
     "Estudiante Merida - A. Puerto C.": {
         "Alt": 1.43,
         "Üst": 1.96
@@ -68,11 +48,27 @@
         "Üst": 1.51
     },
     "Internacional - Atl Mineiro": {
-        "Alt": 1.58,
-        "Üst": 1.85
+        "Alt": 1.59,
+        "Üst": 1.82
     },
     "Independiente - Ind. Mendoza": {
-        "Alt": 1.39,
-        "Üst": 2.19
+        "Alt": 1.36,
+        "Üst": 2.28
+    },
+    "Cuiaba - Goias GO": {
+        "Alt": 1.13,
+        "Üst": 3.05
+    },
+    "CD Tecnico Uni. - Guayaquil": {
+        "Alt": 1.32,
+        "Üst": 2.2
+    },
+    "Huachipato - Deportes Limache": {
+        "Alt": 1.95,
+        "Üst": 1.43
+    },
+    "D. Maldonado - Penarol": {
+        "Alt": 1.45,
+        "Üst": 1.91
     }
 }
