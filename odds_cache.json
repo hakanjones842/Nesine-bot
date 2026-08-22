@@ -1,82 +1,86 @@
 {
-    "E. Frankfurt (K) - Köln (K)": {
-        "Alt": 1.66,
-        "Üst": 3.55
-    },
-    "Busan - Changwon City": {
-        "Alt": 1.39,
-        "Üst": 2.02
-    },
-    "Qviding FIF - Torslanda": {
-        "Alt": 3.4,
-        "Üst": 3.99
-    },
-    "Cerezo Osaka - Shimizu": {
-        "Alt": 1.59,
-        "Üst": 1.81
-    },
-    "Nagoya - Gamba Osaka": {
-        "Alt": 1.84,
-        "Üst": 1.58
-    },
-    "Kyoto Sanga - M. Hollyhock": {
-        "Alt": 1.57,
-        "Üst": 1.86
-    },
-    "Sagan Tosu - Tochigi City": {
-        "Alt": 1.61,
-        "Üst": 1.69
-    },
-    "M. Yamagata - Yokohama": {
-        "Alt": 1.68,
-        "Üst": 1.63
-    },
-    "Tegevajaro Mi. - S. Bellmare": {
-        "Alt": 1.46,
-        "Üst": 1.89
-    },
-    "Oita Trinata - Iwaki": {
-        "Alt": 1.3,
-        "Üst": 2.28
-    },
-    "Iwata Jubilo - T. Vortis": {
-        "Alt": 1.44,
-        "Üst": 1.94
-    },
-    "Niigata - Fujieda Myfc": {
-        "Alt": 1.35,
+    "W. Wiesbaden - B. Leverkusen": {
+        "Alt": 3.99,
         "Üst": 2.14
     },
-    "Kagoshima Utd - Gifu": {
-        "Alt": 1.58,
-        "Üst": 1.72
+    "E. Cottbus - Augsburg": {
+        "Alt": 2.47,
+        "Üst": 1.3
     },
-    "Thespakusatsu G. - MIO Biwako Shiga": {
+    "Belshina - A. Dzerzhinsk": {
+        "Alt": 1.68,
+        "Üst": 1.62
+    },
+    "Wuhan T. T. - Tianjin Jin.": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "Dalian Kuncheng C. - Wuxi Wuguo": {
+        "Alt": 1.74,
+        "Üst": 1.57
+    },
+    "Shang J. C. - Yanbian L.": {
+        "Alt": 1.39,
+        "Üst": 2.03
+    },
+    "Ishoej IF - Naesby": {
+        "Alt": 1.85,
+        "Üst": 1.5
+    },
+    "S. Wednesday U21 - Bristol City U21": {
+        "Alt": 3.41,
+        "Üst": 4.05
+    },
+    "BK Astrio - IF Boljan Falkenberg": {
+        "Alt": 1.65,
+        "Üst": 3.62
+    },
+    "Lindo FF - Karlslund": {
+        "Alt": 2.4,
+        "Üst": 3.61
+    },
+    "BK Forward - Nacka Iliria": {
+        "Alt": 1.13,
+        "Üst": 1.09
+    },
+    "IFK Haninge - Nykoping BIS": {
+        "Alt": 2.7,
+        "Üst": 3.85
+    },
+    "Viggbyholms IK FF - Kungsangens IF": {
+        "Alt": 2.82,
+        "Üst": 3.64
+    },
+    "Bodens Bk - IFK Östersund": {
+        "Alt": 1.49,
+        "Üst": 3.71
+    },
+    "Gottne IF - Skelleftea": {
+        "Alt": 2.07,
+        "Üst": 1.37
+    },
+    "Luleaa - Kubikenborgs IF": {
+        "Alt": 2.55,
+        "Üst": 3.7
+    },
+    "Avia Swidnik - Zawisza Bydgoszcz": {
         "Alt": 1.69,
         "Üst": 1.61
     },
-    "Gainare Tottori - Fukushima Utd": {
-        "Alt": 1.75,
-        "Üst": 1.57
+    "Hull City - Man. Utd": {
+        "Alt": 2.14,
+        "Üst": 1.41
     },
-    "Tochigi - G. Kitakyushu": {
-        "Alt": 1.48,
-        "Üst": 1.87
+    "Nantong Z. - Shaanxi Union": {
+        "Alt": 1.57,
+        "Üst": 1.74
     },
-    "R. Kumamoto - AC N. Parceiro": {
-        "Alt": 1.51,
-        "Üst": 1.81
+    "Guangxi Hengchen - Suzhou Jinfu": {
+        "Alt": 1.67,
+        "Üst": 1.63
     },
-    "Podhale Nowy Targ - Resovia": {
-        "Alt": 1.75,
-        "Üst": 1.57
-    },
-    "Leixoes - Uniao Leiria": {
-        "Alt": 1.62,
-        "Üst": 1.69
-    },
-    "Os Belenenses - UD Santarem": {
-        "Alt": 1.52,
-        "Üst": 1.8
+    "Meizhou Hakka - Guangzhou E Power": {
+        "Alt": 2.02,
+        "Üst": 1.39
     }
 }
