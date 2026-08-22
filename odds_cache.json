@@ -1,8 +1,4 @@
 {
-    "Metropolitan - Dep. Tachira": {
-        "Alt": 1.39,
-        "Üst": 2.03
-    },
     "Loudoun Utd - New Mexico": {
         "Alt": 2.04,
         "Üst": 1.39
@@ -44,12 +40,12 @@
         "Üst": 1.72
     },
     "Managua - Sebaco": {
-        "Alt": 1.79,
-        "Üst": 1.53
+        "Alt": 1.77,
+        "Üst": 1.55
     },
     "CD Guadalajara - Club Tijuana": {
         "Alt": 1.89,
-        "Üst": 1.46
+        "Üst": 1.47
     },
     "I. Santa Fe - America De Cali": {
         "Alt": 1.33,
@@ -76,8 +72,8 @@
         "Üst": 1.46
     },
     "Inter Miami - Toronto": {
-        "Alt": 4.06,
-        "Üst": 1.08
+        "Alt": 4.16,
+        "Üst": 1.07
     },
     "Orlando City - Real Salt Lake": {
         "Alt": 2.54,
@@ -90,5 +86,9 @@
     "Rhode Island - Monterey Bay": {
         "Alt": 2.03,
         "Üst": 1.39
+    },
+    "One Knoxville SC - AC Boise": {
+        "Alt": 1.84,
+        "Üst": 1.51
     }
 }
