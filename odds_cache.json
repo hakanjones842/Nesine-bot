@@ -1,8 +1,4 @@
 {
-    "Loudoun Utd - New Mexico": {
-        "Alt": 2.04,
-        "Üst": 1.39
-    },
     "Brooklyn - Pittsburgh R.": {
         "Alt": 1.49,
         "Üst": 1.86
@@ -20,8 +16,8 @@
         "Üst": 1.52
     },
     "Richmond - P. Hearts of Pine": {
-        "Alt": 1.98,
-        "Üst": 1.42
+        "Alt": 2.05,
+        "Üst": 1.38
     },
     "C. Red Wolves SC - New York Cosmos": {
         "Alt": 1.91,
@@ -31,40 +27,36 @@
         "Alt": 2.06,
         "Üst": 1.37
     },
-    "Forge - Pacific": {
-        "Alt": 2.32,
-        "Üst": 1.28
-    },
     "CD Esc. Belen - CS Cartagines": {
-        "Alt": 1.59,
-        "Üst": 1.72
+        "Alt": 1.62,
+        "Üst": 1.69
     },
     "Managua - Sebaco": {
         "Alt": 1.77,
         "Üst": 1.55
     },
     "CD Guadalajara - Club Tijuana": {
-        "Alt": 1.89,
-        "Üst": 1.47
+        "Alt": 1.92,
+        "Üst": 1.44
     },
     "I. Santa Fe - America De Cali": {
         "Alt": 1.33,
         "Üst": 2.17
     },
     "Cruzeiro MG - Flamengo": {
-        "Alt": 1.65,
-        "Üst": 1.76
+        "Alt": 1.67,
+        "Üst": 1.73
     },
     "Montreal I. - LA Galaxy": {
         "Alt": 2.07,
         "Üst": 1.44
     },
     "Cincinnati - S. Sounders": {
-        "Alt": 2.83,
-        "Üst": 1.22
+        "Alt": 2.84,
+        "Üst": 1.21
     },
     "NY Red Bulls - Chicago Fire": {
-        "Alt": 2.88,
+        "Alt": 2.89,
         "Üst": 1.21
     },
     "Charlotte - DC Utd": {
@@ -72,12 +64,12 @@
         "Üst": 1.46
     },
     "Inter Miami - Toronto": {
-        "Alt": 4.16,
+        "Alt": 4.17,
         "Üst": 1.07
     },
     "Orlando City - Real Salt Lake": {
-        "Alt": 2.54,
-        "Üst": 1.28
+        "Alt": 2.59,
+        "Üst": 1.27
     },
     "Charleston - Miami": {
         "Alt": 2.1,
@@ -90,5 +82,13 @@
     "One Knoxville SC - AC Boise": {
         "Alt": 1.84,
         "Üst": 1.51
+    },
+    "Nacional Potosi - Independiente P.": {
+        "Alt": 2.04,
+        "Üst": 3.49
+    },
+    "Forge - Pacific": {
+        "Alt": 2.32,
+        "Üst": 1.28
     }
 }
