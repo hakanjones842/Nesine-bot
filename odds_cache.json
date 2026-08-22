@@ -1,36 +1,4 @@
 {
-    "Canberra White Eagles - Monaro P.": {
-        "Alt": 4.18,
-        "Üst": 2.39
-    },
-    "Queanbeyan City - O Connor Knig.": {
-        "Alt": 2.0,
-        "Üst": 3.74
-    },
-    "Canberra - Belconnen Utd": {
-        "Alt": 4.19,
-        "Üst": 1.7
-    },
-    "Tuggeranong Utd - Canberra Juventus": {
-        "Alt": 2.67,
-        "Üst": 4.1
-    },
-    "Melbourne City 2 - Bentleigh G.": {
-        "Alt": 2.02,
-        "Üst": 1.39
-    },
-    "North Sunshine Eagles - Brunswick City SC": {
-        "Alt": 3.23,
-        "Üst": 3.93
-    },
-    "Altona Magic - Avondale": {
-        "Alt": 1.93,
-        "Üst": 3.42
-    },
-    "Playford City - White City B.": {
-        "Alt": 2.11,
-        "Üst": 1.36
-    },
     "Hume City - Caroline Springs G. C.": {
         "Alt": 1.9,
         "Üst": 1.46
@@ -40,24 +8,24 @@
         "Üst": 1.67
     },
     "Sapporo - Omiya Ardija": {
-        "Alt": 1.81,
-        "Üst": 1.51
+        "Alt": 2.03,
+        "Üst": 1.39
     },
     "Stirling Macedonia - Western Knights SC": {
         "Alt": 1.36,
-        "Üst": 1.09
+        "Üst": 4.08
     },
     "Armadale SC - Perth Redstar": {
-        "Alt": 3.17,
-        "Üst": 3.85
+        "Alt": 3.07,
+        "Üst": 3.84
     },
     "Balcatta - Dianella White E.": {
         "Alt": 1.72,
         "Üst": 3.57
     },
     "Bayswater - Perth Glory II": {
-        "Alt": 2.15,
-        "Üst": 3.89
+        "Alt": 2.21,
+        "Üst": 3.86
     },
     "Oly. Kingsway - Fremantle City": {
         "Alt": 2.76,
@@ -70,5 +38,45 @@
     "Dandenong City - Preston Lions": {
         "Alt": 1.82,
         "Üst": 1.51
+    },
+    "D. Thunder - Oakleigh C.": {
+        "Alt": 3.56,
+        "Üst": 1.71
+    },
+    "University of Nsw - Manly Utd": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "NWS Spirit U23 - SD Raiders": {
+        "Alt": 1.93,
+        "Üst": 1.44
+    },
+    "Southern District - Hong Kong": {
+        "Alt": 1.86,
+        "Üst": 3.39
+    },
+    "V. Hachinohe - Sendai": {
+        "Alt": 1.38,
+        "Üst": 2.05
+    },
+    "Melbourne Srbija - Bulleen Lions": {
+        "Alt": 1.91,
+        "Üst": 1.45
+    },
+    "ST George Saints - Blacktown Gençler": {
+        "Alt": 1.96,
+        "Üst": 1.43
+    },
+    "Espanyol II - Gimnastic": {
+        "Alt": 1.51,
+        "Üst": 1.83
+    },
+    "Yangpyeong - Gyeongju": {
+        "Alt": 1.53,
+        "Üst": 1.79
+    },
+    "Pocheon Citi. - Mokpo City": {
+        "Alt": 1.89,
+        "Üst": 1.46
     }
 }
