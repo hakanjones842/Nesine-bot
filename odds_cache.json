@@ -1,94 +1,82 @@
 {
-    "Brooklyn - Pittsburgh R.": {
+    "Birmingham Legion - Sporting Jax": {
+        "Alt": 2.32,
+        "Üst": 1.29
+    },
+    "Forward M. - Charlotte Ind.": {
+        "Alt": 3.03,
+        "Üst": 3.76
+    },
+    "CA Huracan - Dep. Riestra": {
+        "Alt": 1.09,
+        "Üst": 3.95
+    },
+    "New Old Boys - Banfield": {
+        "Alt": 1.37,
+        "Üst": 2.25
+    },
+    "Barcelona (Ekv) - Orense SC": {
+        "Alt": 1.46,
+        "Üst": 1.89
+    },
+    "Metapan - Alianza": {
+        "Alt": 1.41,
+        "Üst": 2.0
+    },
+    "Antigua - Comunicacion": {
         "Alt": 1.49,
         "Üst": 1.86
     },
-    "Indy Eleven - Louisville": {
-        "Alt": 1.93,
-        "Üst": 1.44
+    "Deportivo Garcilaso - Cusco": {
+        "Alt": 1.48,
+        "Üst": 1.86
     },
-    "Detroit City - Tampa Bay": {
-        "Alt": 1.51,
-        "Üst": 1.84
+    "Uni. Catolica - Nublense": {
+        "Alt": 1.53,
+        "Üst": 1.79
     },
-    "Lexington SC - Las Vegas L.": {
-        "Alt": 1.8,
-        "Üst": 1.52
+    "S. Louis City SC - Houston Dyn.": {
+        "Alt": 1.79,
+        "Üst": 1.62
     },
-    "Richmond - P. Hearts of Pine": {
-        "Alt": 2.05,
-        "Üst": 1.38
+    "Nashville SC - Columbus Cr.": {
+        "Alt": 1.86,
+        "Üst": 1.57
     },
-    "C. Red Wolves SC - New York Cosmos": {
-        "Alt": 1.91,
-        "Üst": 1.46
-    },
-    "Union Omaha SC - Sarasota Paradise": {
-        "Alt": 2.06,
-        "Üst": 1.37
-    },
-    "CD Esc. Belen - CS Cartagines": {
-        "Alt": 1.62,
-        "Üst": 1.69
-    },
-    "Managua - Sebaco": {
-        "Alt": 1.77,
-        "Üst": 1.55
-    },
-    "CD Guadalajara - Club Tijuana": {
-        "Alt": 1.92,
-        "Üst": 1.44
-    },
-    "I. Santa Fe - America De Cali": {
-        "Alt": 1.33,
-        "Üst": 2.17
-    },
-    "Cruzeiro MG - Flamengo": {
-        "Alt": 1.67,
-        "Üst": 1.73
-    },
-    "Montreal I. - LA Galaxy": {
-        "Alt": 2.07,
-        "Üst": 1.44
-    },
-    "Cincinnati - S. Sounders": {
-        "Alt": 2.84,
-        "Üst": 1.21
-    },
-    "NY Red Bulls - Chicago Fire": {
-        "Alt": 2.89,
-        "Üst": 1.21
-    },
-    "Charlotte - DC Utd": {
-        "Alt": 2.03,
-        "Üst": 1.46
-    },
-    "Inter Miami - Toronto": {
-        "Alt": 4.17,
-        "Üst": 1.07
-    },
-    "Orlando City - Real Salt Lake": {
-        "Alt": 2.59,
-        "Üst": 1.27
-    },
-    "Charleston - Miami": {
-        "Alt": 2.1,
-        "Üst": 1.36
-    },
-    "Rhode Island - Monterey Bay": {
-        "Alt": 2.03,
-        "Üst": 1.39
-    },
-    "One Knoxville SC - AC Boise": {
+    "Corpus Chri - Westchester SC": {
         "Alt": 1.84,
-        "Üst": 1.51
+        "Üst": 1.5
     },
-    "Nacional Potosi - Independiente P.": {
-        "Alt": 2.04,
-        "Üst": 3.49
+    "Austin - Phila. Union": {
+        "Alt": 2.08,
+        "Üst": 1.44
     },
-    "Forge - Pacific": {
-        "Alt": 2.32,
-        "Üst": 1.28
+    "Colorado Spr. - El Paso Loc.": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "San Antonio - Oakland Roots SC": {
+        "Alt": 1.72,
+        "Üst": 1.58
+    },
+    "Central N. Salta - Estudiantes": {
+        "Alt": 5.63,
+        "Üst": 3.28
+    },
+    "Puebla - Santos Laguna": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "Alac. de Durango - Leones Negros": {
+        "Alt": 1.55,
+        "Üst": 1.76
+    },
+    "Jaiba Brava - A. Oaxaca": {
+        "Alt": 1.68,
+        "Üst": 1.63
+    },
+    "Piratas Veracruz - Cancun": {
+        "Alt": 1.51,
+        "Üst": 1.81
     }
 }
