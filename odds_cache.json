@@ -1,78 +1,82 @@
 {
-    "Fakel - Orenburg": {
-        "Alt": 1.48,
-        "Üst": 2.0
+    "Ipswich Town - Sunderland": {
+        "Alt": 1.51,
+        "Üst": 1.93
     },
-    "Holstebro BK - Helsingoer": {
-        "Alt": 2.04,
-        "Üst": 1.39
+    "Everton - Crystal Palace": {
+        "Alt": 1.66,
+        "Üst": 1.74
     },
-    "Gvvv Veenendaal - Amsterdamsche": {
-        "Alt": 3.82,
-        "Üst": 3.9
+    "Nottingham F. - Leeds Utd": {
+        "Alt": 1.52,
+        "Üst": 1.92
     },
-    "Rijnsburgse Boys - J. S. Rotterdam": {
-        "Alt": 2.16,
-        "Üst": 3.81
+    "Zulte Waregem - SK Beveren": {
+        "Alt": 1.93,
+        "Üst": 1.52
     },
-    "HHC Hardenberg - Almere City": {
-        "Alt": 3.4,
-        "Üst": 3.82
+    "Al Ahli Dubai - AL Dhafra Scc": {
+        "Alt": 2.49,
+        "Üst": 1.23
     },
-    "Rkav Volendam - Spakenburg": {
+    "Ajman Club - Hatta SC": {
+        "Alt": 1.93,
+        "Üst": 1.44
+    },
+    "Smorgon - Ostrovets": {
+        "Alt": 3.15,
+        "Üst": 3.67
+    },
+    "C. Brugge U23 - RFC Seraing": {
+        "Alt": 1.72,
+        "Üst": 1.58
+    },
+    "FCV Dender EH - Beerschot": {
+        "Alt": 1.7,
+        "Üst": 1.6
+    },
+    "Tartu JK Tam. - Kuressaare": {
+        "Alt": 1.96,
+        "Üst": 1.43
+    },
+    "FF Jaro - Oulu": {
+        "Alt": 1.86,
+        "Üst": 1.57
+    },
+    "Tampereen I. - Vaasan Ps": {
         "Alt": 1.9,
-        "Üst": 3.72
+        "Üst": 1.54
     },
-    "Korona Kielce - Motor Lublin": {
-        "Alt": 1.87,
-        "Üst": 1.48
+    "Blackburn R. - Middlesbrough": {
+        "Alt": 1.76,
+        "Üst": 1.65
     },
-    "Tayland - Vietnam": {
-        "Alt": 1.35,
-        "Üst": 2.14
+    "Preston - Wolverhampton": {
+        "Alt": 1.72,
+        "Üst": 1.67
     },
-    "Slavia Mozyr - Gomel": {
-        "Alt": 1.45,
-        "Üst": 1.91
+    "Derby County - Cardiff City": {
+        "Alt": 1.77,
+        "Üst": 1.64
     },
-    "Salpa - Ols Oulu": {
-        "Alt": 2.45,
-        "Üst": 1.24
+    "Swansea City - Sheffield Utd": {
+        "Alt": 1.64,
+        "Üst": 1.77
     },
-    "Sekhukhune Utd - Orlando Pirates": {
-        "Alt": 1.38,
-        "Üst": 2.05
+    "Wrexham - Watford": {
+        "Alt": 1.72,
+        "Üst": 1.68
     },
-    "Katwijk - Hoek": {
-        "Alt": 3.93,
-        "Üst": 4.03
+    "Southampton - Stoke City": {
+        "Alt": 1.98,
+        "Üst": 1.49
     },
-    "VV Kloetinge - Kozakken Boys": {
-        "Alt": 2.05,
-        "Üst": 1.38
+    "QPR - Bolton": {
+        "Alt": 1.7,
+        "Üst": 1.7
     },
-    "Ijsselmeervogels - KVV Quick Boys": {
-        "Alt": 1.97,
-        "Üst": 1.42
-    },
-    "Orgryte - Halmstads": {
-        "Alt": 1.91,
-        "Üst": 1.53
-    },
-    "IFK Berga - Staffenstorp Utd": {
-        "Alt": 1.09,
-        "Üst": 1.09
-    },
-    "Sunnersta AIF - Angby IF": {
-        "Alt": 2.03,
-        "Üst": 3.49
-    },
-    "K. Red Warrior - Selangor FA": {
-        "Alt": 3.76,
-        "Üst": 2.36
-    },
-    "Terengganu - Melaka": {
-        "Alt": 1.95,
+    "West Ham - Charlton": {
+        "Alt": 2.1,
         "Üst": 1.43
     }
 }
