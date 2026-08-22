@@ -1,1 +1,74 @@
-{}
+{
+    "AL Khlood - AL Taawoun": {
+        "Alt": 1.72,
+        "Üst": 1.59
+    },
+    "Charleroi - Mechelen": {
+        "Alt": 1.86,
+        "Üst": 1.56
+    },
+    "AL Najma - AL Jandal": {
+        "Alt": 1.86,
+        "Üst": 1.48
+    },
+    "AL Tai - AL Akhdood": {
+        "Alt": 1.7,
+        "Üst": 1.6
+    },
+    "Brentford - Tottenham": {
+        "Alt": 1.93,
+        "Üst": 1.51
+    },
+    "Udinese - Como 1907": {
+        "Alt": 1.55,
+        "Üst": 1.88
+    },
+    "Inter - AC Monza": {
+        "Alt": 1.35,
+        "Üst": 2.03
+    },
+    "AB Gladsaxe - Hvidovre": {
+        "Alt": 1.93,
+        "Üst": 1.44
+    },
+    "NK Slaven - HNK Gorica": {
+        "Alt": 1.72,
+        "Üst": 1.59
+    },
+    "AL Sadd - Al Ahli Doha": {
+        "Alt": 2.77,
+        "Üst": 1.17
+    },
+    "CD Laredo - A. Club De Getxo": {
+        "Alt": 1.82,
+        "Üst": 1.51
+    },
+    "Birkirkara - Hamrun Spartans": {
+        "Alt": 1.35,
+        "Üst": 2.13
+    },
+    "FK M. Sabac - Radnicki Nis": {
+        "Alt": 1.46,
+        "Üst": 1.9
+    },
+    "AL Ain - Khor Fakkan": {
+        "Alt": 2.59,
+        "Üst": 1.22
+    },
+    "S. Rotterdam - Utrecht": {
+        "Alt": 1.9,
+        "Üst": 1.54
+    },
+    "Zira - Imisli FK": {
+        "Alt": 1.47,
+        "Üst": 1.88
+    },
+    "Dundee Utd - Dundee": {
+        "Alt": 1.86,
+        "Üst": 1.57
+    },
+    "Estoril Praia - Rio Ave": {
+        "Alt": 1.7,
+        "Üst": 1.7
+    }
+}
