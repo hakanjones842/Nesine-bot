@@ -1,70 +1,70 @@
 {
-    "Estoril Praia - Rio Ave": {
-        "Alt": 1.7,
-        "Üst": 1.7
+    "AL Orubah - AL Raed": {
+        "Alt": 1.69,
+        "Üst": 1.61
     },
-    "Rustvai - Gagra": {
-        "Alt": 1.58,
-        "Üst": 1.73
+    "T. Suarez - Agropecuario A.": {
+        "Alt": 3.13,
+        "Üst": 2.92
     },
-    "HNK Cibalia Vinkovci - NK Dubrava": {
-        "Alt": 1.65,
-        "Üst": 1.65
+    "Lierse K. - Patro M.": {
+        "Alt": 1.55,
+        "Üst": 1.77
     },
-    "AD Ceuta - Las Palmas": {
+    "Slavia Prag - Bohemians P.": {
+        "Alt": 2.26,
+        "Üst": 1.3
+    },
+    "St Etienne - Grenoble": {
+        "Alt": 1.84,
+        "Üst": 1.58
+    },
+    "Duhok - AL Talaba": {
+        "Alt": 1.39,
+        "Üst": 2.04
+    },
+    "Hfx Wan. - Vancouver Langley": {
+        "Alt": 1.85,
+        "Üst": 1.49
+    },
+    "Numancia - Zaragoza": {
+        "Alt": 1.72,
+        "Üst": 1.58
+    },
+    "CD Alcoyano - Valencia M.": {
+        "Alt": 1.5,
+        "Üst": 1.85
+    },
+    "AL Khaleej Saihat - AL Shabab (Sar)": {
         "Alt": 1.96,
-        "Üst": 1.5
+        "Üst": 1.43
     },
-    "Albacete - R. Sociedad B": {
-        "Alt": 1.76,
-        "Üst": 1.64
+    "Ahli Saudi - Abha Club": {
+        "Alt": 2.36,
+        "Üst": 1.27
     },
-    "Carrarese C. - Mantova 1911": {
-        "Alt": 1.58,
-        "Üst": 1.84
+    "Cerro Largo - Defensor Sp.": {
+        "Alt": 1.33,
+        "Üst": 2.19
     },
-    "Sudtirol - V. Entella": {
-        "Alt": 1.37,
-        "Üst": 2.22
+    "Levski Sofya - PFC Spartak Varna": {
+        "Alt": 1.89,
+        "Üst": 1.46
     },
-    "Real Avila - Pozuelo De Alarcon": {
-        "Alt": 1.66,
-        "Üst": 1.65
+    "Cajamarca - Comerciantes Uni.": {
+        "Alt": 1.44,
+        "Üst": 1.93
     },
-    "Crusaders - Portadown": {
-        "Alt": 1.68,
-        "Üst": 1.62
+    "Slask Wroclaw - Widzew Lodz": {
+        "Alt": 1.64,
+        "Üst": 1.66
     },
-    "FK Rfs 2 - JDFS Alberts": {
-        "Alt": 2.24,
-        "Üst": 3.54
+    "Fenerbahçe - Konyaspor": {
+        "Alt": 2.14,
+        "Üst": 1.41
     },
-    "Al Masry - Smouha SC": {
-        "Alt": 1.29,
-        "Üst": 2.31
-    },
-    "Ghazl El Mahallah - Pyramids": {
-        "Alt": 1.3,
-        "Üst": 2.24
-    },
-    "Milsami - Petrocub": {
-        "Alt": 1.53,
-        "Üst": 1.79
-    },
-    "Lusitania - Torreense": {
-        "Alt": 1.52,
-        "Üst": 1.8
-    },
-    "SC Covilha - Atletico CP": {
-        "Alt": 1.34,
-        "Üst": 2.15
-    },
-    "Radnicki - FK IMT Novi Beograd": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "Ramtha SC - AL Hussein Irbid": {
-        "Alt": 1.58,
-        "Üst": 1.73
+    "Bodrum FK - Muğlaspor": {
+        "Alt": 1.08,
+        "Üst": 1.16
     }
 }
