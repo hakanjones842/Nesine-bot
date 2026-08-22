@@ -1,31 +1,19 @@
 {
-    "Queretaro - D. Toluca": {
-        "Alt": 1.97,
-        "Üst": 1.42
-    },
-    "Melb. Sharks - Eltham Redbacks": {
-        "Alt": 1.79,
-        "Üst": 3.71
-    },
-    "Canberra Olym. - Brindabella B.": {
-        "Alt": 1.87,
-        "Üst": 4.03
-    },
     "Canberra White Eagles - Monaro P.": {
-        "Alt": 4.2,
-        "Üst": 2.42
+        "Alt": 4.18,
+        "Üst": 2.39
     },
     "Queanbeyan City - O Connor Knig.": {
         "Alt": 2.0,
         "Üst": 3.74
     },
     "Canberra - Belconnen Utd": {
-        "Alt": 4.21,
-        "Üst": 1.67
+        "Alt": 4.19,
+        "Üst": 1.7
     },
     "Tuggeranong Utd - Canberra Juventus": {
-        "Alt": 2.72,
-        "Üst": 4.12
+        "Alt": 2.67,
+        "Üst": 4.1
     },
     "Melbourne City 2 - Bentleigh G.": {
         "Alt": 2.02,
@@ -36,44 +24,44 @@
         "Üst": 3.93
     },
     "Altona Magic - Avondale": {
-        "Alt": 2.06,
-        "Üst": 3.4
+        "Alt": 1.93,
+        "Üst": 3.42
     },
     "Playford City - White City B.": {
         "Alt": 2.11,
         "Üst": 1.36
     },
     "Hume City - Caroline Springs G. C.": {
-        "Alt": 1.93,
-        "Üst": 1.44
+        "Alt": 1.9,
+        "Üst": 1.46
     },
     "Sutherland S. - St George City": {
         "Alt": 1.64,
         "Üst": 1.67
     },
     "Sapporo - Omiya Ardija": {
-        "Alt": 1.76,
-        "Üst": 1.56
+        "Alt": 1.81,
+        "Üst": 1.51
     },
     "Stirling Macedonia - Western Knights SC": {
-        "Alt": 3.47,
-        "Üst": 4.01
+        "Alt": 1.36,
+        "Üst": 1.09
     },
     "Armadale SC - Perth Redstar": {
-        "Alt": 3.28,
-        "Üst": 3.87
+        "Alt": 3.17,
+        "Üst": 3.85
     },
     "Balcatta - Dianella White E.": {
-        "Alt": 1.65,
-        "Üst": 3.62
+        "Alt": 1.72,
+        "Üst": 3.57
     },
     "Bayswater - Perth Glory II": {
-        "Alt": 2.16,
-        "Üst": 3.87
+        "Alt": 2.15,
+        "Üst": 3.89
     },
     "Oly. Kingsway - Fremantle City": {
-        "Alt": 2.39,
-        "Üst": 3.61
+        "Alt": 2.76,
+        "Üst": 3.7
     },
     "Perth SC - Sorrento": {
         "Alt": 2.55,
@@ -82,9 +70,5 @@
     "Dandenong City - Preston Lions": {
         "Alt": 1.82,
         "Üst": 1.51
-    },
-    "D. Thunder - Oakleigh C.": {
-        "Alt": 3.56,
-        "Üst": 1.75
     }
 }
