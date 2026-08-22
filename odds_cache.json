@@ -1,31 +1,7 @@
 {
-    "Estudiante Merida - A. Puerto C.": {
-        "Alt": 1.43,
-        "Üst": 1.96
-    },
-    "Zamora - Ucv": {
-        "Alt": 1.55,
-        "Üst": 1.78
-    },
-    "Monagas SC - Portuguesa": {
-        "Alt": 1.53,
-        "Üst": 1.79
-    },
-    "Cavalry - Atl Ottawa": {
-        "Alt": 1.98,
-        "Üst": 1.42
-    },
-    "R. Aguilas - Millonarios": {
-        "Alt": 1.49,
-        "Üst": 1.85
-    },
-    "Juan Pablo II - A. Deportiva Tarma": {
-        "Alt": 1.58,
-        "Üst": 1.72
-    },
     "Ceara CE - Londrina PR": {
-        "Alt": 1.54,
-        "Üst": 1.78
+        "Alt": 1.47,
+        "Üst": 1.88
     },
     "C.D. Cacahuatique - Municipal L.": {
         "Alt": 1.54,
@@ -39,36 +15,32 @@
         "Alt": 1.52,
         "Üst": 1.81
     },
+    "Monagas SC - Portuguesa": {
+        "Alt": 1.53,
+        "Üst": 1.79
+    },
     "CD Tolima - CA Bucaramanga": {
         "Alt": 1.41,
         "Üst": 2.0
     },
     "Club Aurora - Real Potosi": {
-        "Alt": 1.84,
-        "Üst": 1.51
+        "Alt": 1.8,
+        "Üst": 1.52
     },
     "Internacional - Atl Mineiro": {
-        "Alt": 1.59,
-        "Üst": 1.82
+        "Alt": 1.62,
+        "Üst": 1.79
     },
     "Independiente - Ind. Mendoza": {
-        "Alt": 1.36,
-        "Üst": 2.28
+        "Alt": 1.34,
+        "Üst": 2.33
     },
     "Cuiaba - Goias GO": {
-        "Alt": 1.13,
-        "Üst": 3.05
+        "Alt": 1.16,
+        "Üst": 2.87
     },
     "CD Tecnico Uni. - Guayaquil": {
         "Alt": 1.32,
         "Üst": 2.2
-    },
-    "Huachipato - Deportes Limache": {
-        "Alt": 1.95,
-        "Üst": 1.43
-    },
-    "D. Maldonado - Penarol": {
-        "Alt": 1.45,
-        "Üst": 1.91
     }
 }
