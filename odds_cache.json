@@ -1,39 +1,19 @@
 {
-    "Belgrano - Def. Justicia": {
-        "Alt": 1.43,
-        "Üst": 2.1
-    },
-    "York Utd - Supra Du Quebec": {
-        "Alt": 2.29,
-        "Üst": 1.29
-    },
-    "N. E. Revolution - New York C.": {
-        "Alt": 1.95,
-        "Üst": 1.51
-    },
-    "Delfin - SD Aucas": {
-        "Alt": 1.38,
-        "Üst": 3.28
-    },
-    "Melgar - Alianza Lima": {
-        "Alt": 1.39,
-        "Üst": 2.03
-    },
     "Operario - Vila Nova": {
-        "Alt": 1.47,
-        "Üst": 1.88
+        "Alt": 1.43,
+        "Üst": 1.95
     },
     "Atletico Balboa - Fuerte San Francisco": {
         "Alt": 1.4,
         "Üst": 2.01
     },
     "Deportivo Mixco - Dep. Guastatoya": {
-        "Alt": 1.36,
-        "Üst": 2.1
+        "Alt": 1.37,
+        "Üst": 2.07
     },
     "Marathon - Real CD Espana": {
-        "Alt": 1.38,
-        "Üst": 2.06
+        "Alt": 1.37,
+        "Üst": 2.09
     },
     "Inter San Carlos - D. Saprissa": {
         "Alt": 1.55,
@@ -44,12 +24,12 @@
         "Üst": 1.61
     },
     "Deportivo Pasto - Llaneros": {
-        "Alt": 1.41,
-        "Üst": 2.0
+        "Alt": 1.37,
+        "Üst": 2.08
     },
     "Guabira M. - Blooming": {
-        "Alt": 2.07,
-        "Üst": 1.37
+        "Alt": 3.1,
+        "Üst": 3.68
     },
     "Chapecoense - Sao Paulo SP": {
         "Alt": 1.45,
@@ -66,5 +46,25 @@
     "Nacional - CA Progreso": {
         "Alt": 1.72,
         "Üst": 1.59
+    },
+    "Rancho Santana - San Marcos": {
+        "Alt": 1.81,
+        "Üst": 1.51
+    },
+    "River Plate - V. Sarsfield": {
+        "Alt": 1.35,
+        "Üst": 2.29
+    },
+    "Coritiba - Corinthians": {
+        "Alt": 1.31,
+        "Üst": 2.42
+    },
+    "Atlanta Utd - Kansas City": {
+        "Alt": 2.27,
+        "Üst": 1.36
+    },
+    "Atl San Luis - Pachuca": {
+        "Alt": 1.77,
+        "Üst": 1.55
     }
 }
