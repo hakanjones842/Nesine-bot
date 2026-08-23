@@ -1,82 +1,82 @@
 {
-    "Santa Clara - Famalicao": {
+    "Barracas - CA Platense": {
+        "Alt": 1.19,
+        "Üst": 2.99
+    },
+    "CA Sarmiento - Estudiantes": {
         "Alt": 1.31,
         "Üst": 2.4
     },
-    "S. Moskova - Zenit": {
-        "Alt": 1.6,
-        "Üst": 1.8
+    "Chac. Juniors - Tucuman": {
+        "Alt": 5.51,
+        "Üst": 3.4
     },
-    "M. Rogachev - Bate Borisov": {
-        "Alt": 1.88,
-        "Üst": 1.47
+    "Sigma Olomouc - FK Pardubice": {
+        "Alt": 1.77,
+        "Üst": 1.55
     },
-    "S. Gijon - Burgos": {
-        "Alt": 1.45,
-        "Üst": 2.06
-    },
-    "Castellon - CE Sabadell": {
-        "Alt": 1.69,
-        "Üst": 1.71
-    },
-    "Hellas Verona - Ascoli": {
-        "Alt": 1.63,
+    "Sport Boys - CS Cienciano": {
+        "Alt": 1.54,
         "Üst": 1.78
     },
-    "AC Pisa - Padova": {
+    "AL Ula - AL Jabalain": {
+        "Alt": 1.7,
+        "Üst": 1.61
+    },
+    "Torque - Montevideo": {
+        "Alt": 1.59,
+        "Üst": 1.72
+    },
+    "PAOK - Levadeiakos": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "Pogon Szczecin - Wisla Krakow": {
+        "Alt": 2.01,
+        "Üst": 1.4
+    },
+    "NK Maribor - NK Bravo": {
+        "Alt": 2.11,
+        "Üst": 1.36
+    },
+    "Göztepe - Gençlerbirliği": {
+        "Alt": 1.65,
+        "Üst": 1.76
+    },
+    "Alanyaspor - Beşiktaş": {
+        "Alt": 1.65,
+        "Üst": 1.76
+    },
+    "Vanspor FK - İstanbulspor": {
+        "Alt": 1.67,
+        "Üst": 1.63
+    },
+    "Sarıyer - Batman Petrol": {
+        "Alt": 1.51,
+        "Üst": 1.83
+    },
+    "CD Maipu - Quilmes": {
+        "Alt": 1.31,
+        "Üst": 2.21
+    },
+    "Ciudad de Bolivar - Racing de Cordoba": {
+        "Alt": 4.91,
+        "Üst": 3.29
+    },
+    "Lazio (K) - SSD Napoli (K)": {
         "Alt": 1.56,
-        "Üst": 1.87
-    },
-    "Keflavik - Vestmannaeyjar": {
-        "Alt": 2.98,
-        "Üst": 3.69
-    },
-    "Stjarnan Gard. - Thor Akureyr": {
-        "Alt": 1.72,
-        "Üst": 3.75
-    },
-    "IA Akranes - Hafnarfjordur": {
-        "Alt": 2.76,
-        "Üst": 3.7
-    },
-    "KA Akureyri - KR Reykjavik": {
-        "Alt": 1.93,
-        "Üst": 4.21
-    },
-    "Cer. Cleopatra - Alqana": {
-        "Alt": 1.33,
-        "Üst": 2.17
-    },
-    "El Ahly (Mıs) - Enppi Club": {
-        "Alt": 1.4,
-        "Üst": 2.01
-    },
-    "Sheriff - Politehnica Chisinau": {
-        "Alt": 1.66,
-        "Üst": 3.49
-    },
-    "LKS Lodz - Stal Mielec": {
-        "Alt": 1.81,
-        "Üst": 1.52
-    },
-    "Radnik Surdu. - Novi Pazar": {
-        "Alt": 1.57,
         "Üst": 1.75
     },
-    "Kızıl Yıldız - FK Cukaricki": {
-        "Alt": 2.19,
-        "Üst": 3.67
+    "Cluj - FCSB": {
+        "Alt": 1.84,
+        "Üst": 1.5
     },
-    "MSK Zilina - KFC Komarno": {
-        "Alt": 2.12,
-        "Üst": 1.35
+    "Paneitolikos - Asteras T.": {
+        "Alt": 1.35,
+        "Üst": 2.14
     },
-    "Francs Borains - Sporting Hasselt": {
-        "Alt": 1.74,
-        "Üst": 1.57
-    },
-    "Getafe - Santander": {
-        "Alt": 1.47,
-        "Üst": 2.02
+    "Atalanta - Sassuolo": {
+        "Alt": 1.94,
+        "Üst": 1.51
     }
 }
