@@ -1,54 +1,78 @@
 {
-    "Atl Madrid - Villarreal": {
-        "Alt": 2.03,
-        "Üst": 1.46
+    "Trabzonspor - Başakşehir": {
+        "Alt": 2.12,
+        "Üst": 1.42
     },
-    "Teplice - Brno": {
-        "Alt": 1.52,
-        "Üst": 1.81
+    "Eyüpspor - Gaziantep FK": {
+        "Alt": 1.67,
+        "Üst": 1.72
     },
-    "TPS Turku - Inter Turku": {
-        "Alt": 1.6,
-        "Üst": 1.81
+    "Boluspor - Mardin 1969": {
+        "Alt": 1.69,
+        "Üst": 1.61
     },
-    "Eibar - Real Valladolid": {
-        "Alt": 1.36,
+    "Weiss Essen - St. Pauli": {
+        "Alt": 2.07,
+        "Üst": 1.37
+    },
+    "Phonix Lubeck - Paderborn": {
+        "Alt": 4.18,
+        "Üst": 2.47
+    },
+    "F. Düsseldorf - Freiburg": {
+        "Alt": 2.42,
+        "Üst": 1.25
+    },
+    "FK Septemvri Sofia - CSKA 1948 Sofia": {
+        "Alt": 1.64,
+        "Üst": 1.67
+    },
+    "Viborg - Kopenhag": {
+        "Alt": 1.95,
+        "Üst": 1.51
+    },
+    "Esteghlal K. - Nassaji Maz.": {
+        "Alt": 1.15,
+        "Üst": 2.97
+    },
+    "Esteghlal - M. Sepahan": {
+        "Alt": 1.3,
         "Üst": 2.27
     },
-    "Norrby - Sandvikens": {
-        "Alt": 2.01,
-        "Üst": 1.4
+    "Shams Azar Qazvin - Aluminium A.": {
+        "Alt": 1.16,
+        "Üst": 2.91
     },
-    "Real Sireti - Dacia Buiucani": {
-        "Alt": 1.65,
-        "Üst": 1.65
+    "Fiorentina (K) - Sassuolo Calcio (K)": {
+        "Alt": 1.82,
+        "Üst": 1.51
     },
-    "Puszcza - Unia Skier": {
-        "Alt": 1.75,
-        "Üst": 1.57
+    "AZ Picerno - AC Savoia 1908": {
+        "Alt": 1.51,
+        "Üst": 1.81
     },
-    "AS Trencin - S. Trnava": {
-        "Alt": 1.91,
-        "Üst": 1.45
+    "Latina C. - ASD Pineto Calcio": {
+        "Alt": 1.33,
+        "Üst": 2.17
     },
-    "ND Beltinci - Primorje Ajdovscina": {
-        "Alt": 1.67,
-        "Üst": 1.63
+    "Citta Di C. - US Pianese": {
+        "Alt": 1.37,
+        "Üst": 2.07
     },
-    "Le Havre - Monaco": {
-        "Alt": 1.73,
-        "Üst": 1.66
+    "Pro Vercelli - Desenzano Calvina": {
+        "Alt": 1.55,
+        "Üst": 1.77
     },
-    "Dibba AL Hisn SC - Al Hamriyah": {
-        "Alt": 1.75,
-        "Üst": 1.56
+    "Calcio Catania - Inter Milano U23": {
+        "Alt": 1.5,
+        "Üst": 1.85
     },
-    "Gulf - Emirates Club": {
-        "Alt": 1.85,
-        "Üst": 1.5
+    "Haukar - Dalverik": {
+        "Alt": 2.48,
+        "Üst": 3.81
     },
-    "Newcastle Utd - Liverpool": {
-        "Alt": 2.43,
-        "Üst": 1.3
+    "Rigas Skola - Riga": {
+        "Alt": 1.78,
+        "Üst": 1.54
     }
 }
