@@ -1,78 +1,74 @@
 {
-    "Sportfreunde - VfL Bochum II": {
-        "Alt": 1.4,
-        "Üst": 3.87
+    "SV Westfalia Rhynern - D. Dresden": {
+        "Alt": 4.12,
+        "Üst": 2.48
     },
-    "Eintracht Norder. - W. Flensburg": {
-        "Alt": 1.48,
-        "Üst": 3.86
+    "Carl Zeiss Jena - Darmstadt 98": {
+        "Alt": 2.3,
+        "Üst": 1.29
     },
-    "Hoffenheim (K) - VfB Stuttgart (K)": {
-        "Alt": 1.74,
-        "Üst": 3.58
+    "Braunschweig - Union Berlin": {
+        "Alt": 2.01,
+        "Üst": 1.47
     },
-    "Gomel 2 - UNI Minsk": {
-        "Alt": 1.28,
-        "Üst": 1.11
+    "Bahlinger - Magdeburg": {
+        "Alt": 3.89,
+        "Üst": 1.84
     },
-    "Chongqing T. - Dalian Yingbo": {
+    "Monagas SC - Portuguesa": {
         "Alt": 1.53,
         "Üst": 1.79
     },
-    "AGF Aarhus - Odense": {
-        "Alt": 2.09,
-        "Üst": 1.44
+    "NK Bsk Bijelo Brdo - Dinamo Zagreb II": {
+        "Alt": 1.5,
+        "Üst": 1.84
     },
-    "Midtjylland - Randers": {
-        "Alt": 2.21,
-        "Üst": 1.38
+    "Bandırmaspor - A. Keçiörengücü": {
+        "Alt": 1.53,
+        "Üst": 1.79
     },
-    "Kuopion - Mariehamn": {
-        "Alt": 2.44,
-        "Üst": 1.3
-    },
-    "HJK Helsinki - Gnistan": {
-        "Alt": 2.29,
-        "Üst": 1.35
-    },
-    "Rohda Raalte - De Treffers": {
-        "Alt": 1.81,
-        "Üst": 3.55
-    },
-    "Leeds Utd U21 - W. Bromwich U21": {
-        "Alt": 1.32,
-        "Üst": 4.03
-    },
-    "Barnsley U21 - Charlton Ath U21": {
-        "Alt": 3.72,
-        "Üst": 4.14
-    },
-    "Vasteraas - Kalmar": {
-        "Alt": 1.81,
-        "Üst": 1.6
-    },
-    "IFK Göteborg - IF Elfsborg": {
-        "Alt": 1.8,
-        "Üst": 1.6
-    },
-    "Galtabacks BK - Jonsereds IF": {
-        "Alt": 1.4,
-        "Üst": 3.91
-    },
-    "Motala - IF Karlstad F.": {
-        "Alt": 1.95,
-        "Üst": 1.44
-    },
-    "Young Boys - Vaduz": {
-        "Alt": 4.01,
-        "Üst": 1.08
-    },
-    "Yverdon - Aarau": {
-        "Alt": 2.02,
+    "Lommel SK - Westerlo": {
+        "Alt": 2.16,
         "Üst": 1.4
     },
-    "D. Moskova - Rodina Moscow": {
-        "Alt": 2.26,
-        "Üst": 1.37
+    "RB Leipzig (K) - B. Leverkusen (K)": {
+        "Alt": 1.98,
+        "Üst": 1.42
+    },
+    "Baniyas - Dubai Utd": {
+        "Alt": 1.98,
+        "Üst": 1.42
+    },
+    "Lida - Niva Dolbizno": {
+        "Alt": 1.39,
+        "Üst": 4.05
+    },
+    "J. KRC Genk U23 - RFC Liege": {
+        "Alt": 1.99,
+        "Üst": 1.41
+    },
+    "AC Horsens - Lyngby BK": {
+        "Alt": 1.65,
+        "Üst": 1.75
+    },
+    "HB Torshavn - 07 Vestur Sorvagur": {
+        "Alt": 1.65,
+        "Üst": 3.47
+    },
+    "Klaksvik - Runavik": {
+        "Alt": 1.94,
+        "Üst": 1.44
+    },
+    "EB Streymur - AB Argir": {
+        "Alt": 1.89,
+        "Üst": 1.47
+    },
+    "VJS - Jazz": {
+        "Alt": 2.59,
+        "Üst": 1.22
+    },
+    "Orebro Syrianska - FOC Farsta": {
+        "Alt": 1.31,
+        "Üst": 4.01
     }
 }
