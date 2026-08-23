@@ -1,39 +1,35 @@
 {
-    "Tokyo Verdy B. (K) - JEF Utd Ichihara (K)": {
-        "Alt": 1.78,
-        "Üst": 1.55
-    },
     "Akron Tolyatti - Krylia Sovetov": {
         "Alt": 1.83,
         "Üst": 1.58
     },
     "Sonderjyske - Nordsjælland": {
-        "Alt": 2.46,
-        "Üst": 1.3
+        "Alt": 2.08,
+        "Üst": 1.44
     },
     "Gangneung City - Chuncheon": {
-        "Alt": 1.54,
-        "Üst": 1.78
+        "Alt": 1.41,
+        "Üst": 2.0
     },
     "Kochi Utd SC - Kamatamare S.": {
-        "Alt": 1.4,
-        "Üst": 2.01
+        "Alt": 1.42,
+        "Üst": 1.98
     },
     "Saldus SS/Leevon - FK Smiltene Bjss": {
-        "Alt": 2.3,
-        "Üst": 3.82
+        "Alt": 2.14,
+        "Üst": 3.75
     },
     "SK Super Nova II - Skanstes SK": {
         "Alt": 3.92,
         "Üst": 4.03
     },
     "Legia Varşova II - Sokol Kleczew": {
-        "Alt": 2.05,
-        "Üst": 1.38
+        "Alt": 2.06,
+        "Üst": 1.37
     },
     "Chaves - Avs Futebol Sad": {
-        "Alt": 1.57,
-        "Üst": 1.75
+        "Alt": 1.54,
+        "Üst": 1.78
     },
     "Paredes - Leca": {
         "Alt": 1.44,
@@ -48,12 +44,12 @@
         "Üst": 1.45
     },
     "Daejeon Citizen - Gangwon": {
-        "Alt": 1.54,
-        "Üst": 1.9
+        "Alt": 1.51,
+        "Üst": 1.93
     },
     "Gwangju - Incheon Utd": {
-        "Alt": 1.44,
-        "Üst": 2.08
+        "Alt": 1.42,
+        "Üst": 2.13
     },
     "Seoul E Land - Paju Citizen": {
         "Alt": 2.0,
@@ -62,17 +58,5 @@
     "Chungbuk Cheongju - Gyeongnam": {
         "Alt": 1.57,
         "Üst": 1.74
-    },
-    "Jeonnam Dragons - Hwaseong": {
-        "Alt": 1.75,
-        "Üst": 1.57
-    },
-    "Chungnam Asan - Yongin": {
-        "Alt": 1.61,
-        "Üst": 1.7
-    },
-    "Lee Man Warriors - Kowloon City": {
-        "Alt": 2.57,
-        "Üst": 3.75
     }
 }
