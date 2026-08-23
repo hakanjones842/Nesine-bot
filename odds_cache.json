@@ -1,32 +1,4 @@
 {
-    "Atlanta Utd - Kansas City": {
-        "Alt": 2.2,
-        "Üst": 1.38
-    },
-    "Atl San Luis - Pachuca": {
-        "Alt": 1.77,
-        "Üst": 1.55
-    },
-    "O'Higgins - Palestino": {
-        "Alt": 1.67,
-        "Üst": 1.64
-    },
-    "Deport Cali - Inter Bogota": {
-        "Alt": 1.49,
-        "Üst": 1.86
-    },
-    "Olancho - CD Olimpia": {
-        "Alt": 1.56,
-        "Üst": 1.76
-    },
-    "Angel Firpo - Platense M.": {
-        "Alt": 1.7,
-        "Üst": 1.6
-    },
-    "U. Deportes - CD Los Chankas": {
-        "Alt": 1.91,
-        "Üst": 1.45
-    },
     "LDU Quito - CS Emelec": {
         "Alt": 1.58,
         "Üst": 1.72
@@ -60,7 +32,43 @@
         "Üst": 1.67
     },
     "Malacateco - Dep. San Pedro": {
-        "Alt": 1.81,
-        "Üst": 1.51
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "Sabah - Imigresen": {
+        "Alt": 1.99,
+        "Üst": 1.41
+    },
+    "Isloch - D. Minsk": {
+        "Alt": 1.39,
+        "Üst": 2.03
+    },
+    "Kamaz Chelny - Sochi": {
+        "Alt": 1.51,
+        "Üst": 1.82
+    },
+    "TS Tabriz - Persepolis": {
+        "Alt": 1.37,
+        "Üst": 2.07
+    },
+    "Hellas Verona U20 - Cesena U20": {
+        "Alt": 1.96,
+        "Üst": 1.43
+    },
+    "MFK Lokomotiva Zvolen - A. Petrzalka": {
+        "Alt": 1.63,
+        "Üst": 1.68
+    },
+    "Young Africans SC - Jkt Tanzania": {
+        "Alt": 1.55,
+        "Üst": 2.19
+    },
+    "Botosani - Csikszereda M. C.": {
+        "Alt": 1.76,
+        "Üst": 1.55
+    },
+    "Rotor - Neftekhimik": {
+        "Alt": 1.48,
+        "Üst": 1.87
     }
 }
