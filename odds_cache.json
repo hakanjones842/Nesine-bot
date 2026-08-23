@@ -1,74 +1,70 @@
 {
-    "SV Westfalia Rhynern - D. Dresden": {
-        "Alt": 4.12,
-        "Üst": 2.48
+    "V. Guimaraes - N. Madeira": {
+        "Alt": 1.72,
+        "Üst": 1.67
     },
-    "Carl Zeiss Jena - Darmstadt 98": {
-        "Alt": 2.3,
-        "Üst": 1.29
+    "Dyn. Makhachkala - Krasnodar": {
+        "Alt": 1.44,
+        "Üst": 2.06
     },
-    "Braunschweig - Union Berlin": {
+    "Turan Tovuz - Shamakhi FK": {
+        "Alt": 1.51,
+        "Üst": 1.83
+    },
+    "Brommapojkarna - Degerfors IF": {
+        "Alt": 1.75,
+        "Üst": 1.65
+    },
+    "Hammarby - Gais": {
+        "Alt": 2.46,
+        "Üst": 1.3
+    },
+    "Rekord Bielsko Biala - Olimpia": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "SC Cambuur - Feyenoord": {
+        "Alt": 2.91,
+        "Üst": 1.2
+    },
+    "ADO Den Haag (K) - Twente (K)": {
+        "Alt": 1.83,
+        "Üst": 3.5
+    },
+    "VVV Venlo - Graafschap": {
+        "Alt": 2.62,
+        "Üst": 1.21
+    },
+    "Genoa U20 - İnter U20": {
+        "Alt": 1.83,
+        "Üst": 1.51
+    },
+    "Atl Madrid - Villarreal": {
         "Alt": 2.01,
         "Üst": 1.47
     },
-    "Bahlinger - Magdeburg": {
-        "Alt": 3.89,
-        "Üst": 1.84
+    "Teplice - Brno": {
+        "Alt": 1.52,
+        "Üst": 1.81
     },
-    "Monagas SC - Portuguesa": {
-        "Alt": 1.53,
-        "Üst": 1.79
+    "TPS Turku - Inter Turku": {
+        "Alt": 1.6,
+        "Üst": 1.81
     },
-    "NK Bsk Bijelo Brdo - Dinamo Zagreb II": {
-        "Alt": 1.5,
-        "Üst": 1.84
+    "Eibar - Real Valladolid": {
+        "Alt": 1.35,
+        "Üst": 2.31
     },
-    "Bandırmaspor - A. Keçiörengücü": {
-        "Alt": 1.53,
-        "Üst": 1.79
-    },
-    "Lommel SK - Westerlo": {
-        "Alt": 2.16,
+    "Norrby - Sandvikens": {
+        "Alt": 2.01,
         "Üst": 1.4
     },
-    "RB Leipzig (K) - B. Leverkusen (K)": {
-        "Alt": 1.98,
-        "Üst": 1.42
-    },
-    "Baniyas - Dubai Utd": {
-        "Alt": 1.98,
-        "Üst": 1.42
-    },
-    "Lida - Niva Dolbizno": {
-        "Alt": 1.39,
-        "Üst": 4.05
-    },
-    "J. KRC Genk U23 - RFC Liege": {
-        "Alt": 1.99,
+    "Thun - Servette": {
+        "Alt": 2.14,
         "Üst": 1.41
     },
-    "AC Horsens - Lyngby BK": {
-        "Alt": 1.65,
-        "Üst": 1.75
-    },
-    "HB Torshavn - 07 Vestur Sorvagur": {
-        "Alt": 1.65,
-        "Üst": 3.47
-    },
-    "Klaksvik - Runavik": {
-        "Alt": 1.94,
-        "Üst": 1.44
-    },
-    "EB Streymur - AB Argir": {
-        "Alt": 1.89,
-        "Üst": 1.47
-    },
-    "VJS - Jazz": {
-        "Alt": 2.59,
-        "Üst": 1.22
-    },
-    "Orebro Syrianska - FOC Farsta": {
-        "Alt": 1.31,
-        "Üst": 4.01
+    "Real Sireti - Dacia Buiucani": {
+        "Alt": 1.63,
+        "Üst": 1.68
     }
 }
