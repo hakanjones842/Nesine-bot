@@ -1,82 +1,74 @@
 {
-    "Pogon Szczecin - Wisla Krakow": {
-        "Alt": 2.01,
-        "Üst": 1.4
+    "Vikingur Reykjavik - Valur Reykjavik": {
+        "Alt": 2.38,
+        "Üst": 3.92
     },
-    "NK Maribor - NK Bravo": {
-        "Alt": 2.14,
-        "Üst": 1.35
+    "Elche - Barcelona": {
+        "Alt": 2.35,
+        "Üst": 1.33
     },
-    "Göztepe - Gençlerbirliği": {
-        "Alt": 1.65,
-        "Üst": 1.76
+    "Porto - Arouca": {
+        "Alt": 2.06,
+        "Üst": 1.44
     },
-    "Alanyaspor - Beşiktaş": {
-        "Alt": 1.65,
-        "Üst": 1.76
+    "Tenerife - Almeria": {
+        "Alt": 1.58,
+        "Üst": 1.85
     },
-    "Vanspor FK - İstanbulspor": {
-        "Alt": 1.67,
-        "Üst": 1.63
+    "Belgrano - Def. Justicia": {
+        "Alt": 1.41,
+        "Üst": 2.14
     },
-    "Sarıyer - Batman Petrol": {
-        "Alt": 1.51,
-        "Üst": 1.83
+    "York Utd - Supra Du Quebec": {
+        "Alt": 2.29,
+        "Üst": 1.29
     },
-    "CD Maipu - Quilmes": {
-        "Alt": 1.31,
+    "N. E. Revolution - New York C.": {
+        "Alt": 1.92,
+        "Üst": 1.52
+    },
+    "Delfin - SD Aucas": {
+        "Alt": 1.32,
         "Üst": 2.21
     },
-    "Ciudad de Bolivar - Racing de Cordoba": {
-        "Alt": 5.07,
-        "Üst": 3.33
+    "Melgar - Alianza Lima": {
+        "Alt": 1.39,
+        "Üst": 2.03
     },
-    "Lazio (K) - SSD Napoli (K)": {
-        "Alt": 1.56,
-        "Üst": 1.75
+    "Operario - Vila Nova": {
+        "Alt": 1.47,
+        "Üst": 1.88
     },
-    "Cluj - FCSB": {
-        "Alt": 1.84,
-        "Üst": 1.5
+    "Atletico Balboa - Fuerte San Francisco": {
+        "Alt": 1.38,
+        "Üst": 2.05
     },
-    "Paneitolikos - Asteras T.": {
-        "Alt": 1.35,
-        "Üst": 2.13
+    "Deportivo Mixco - Dep. Guastatoya": {
+        "Alt": 1.36,
+        "Üst": 2.1
     },
-    "Atalanta - Sassuolo": {
-        "Alt": 1.93,
-        "Üst": 1.51
+    "Marathon - Real CD Espana": {
+        "Alt": 1.38,
+        "Üst": 2.06
     },
-    "Torino - AC Milan": {
-        "Alt": 1.51,
-        "Üst": 1.95
+    "Inter San Carlos - D. Saprissa": {
+        "Alt": 1.55,
+        "Üst": 1.77
     },
-    "Rennes - PSG": {
-        "Alt": 2.38,
-        "Üst": 1.32
+    "ART Jalapa - Indigenas de Matagalpa": {
+        "Alt": 1.7,
+        "Üst": 1.61
     },
-    "Vitoria BA - Bahia BA": {
-        "Alt": 1.49,
-        "Üst": 1.98
+    "Deportivo Pasto - Llaneros": {
+        "Alt": 1.41,
+        "Üst": 2.0
     },
-    "Bragantino - Gremio P.": {
-        "Alt": 1.72,
-        "Üst": 1.68
+    "Guabira M. - Blooming": {
+        "Alt": 2.07,
+        "Üst": 1.37
     },
-    "Palmeiras SP - Vasco Da G.": {
-        "Alt": 1.65,
-        "Üst": 1.75
-    },
-    "CA Temperley - F. Midland": {
-        "Alt": 4.68,
-        "Üst": 3.23
-    },
-    "Cdt Real Oruro - Club Bolivar": {
-        "Alt": 2.41,
-        "Üst": 3.63
-    },
-    "Zrinjski Mostar - Zelezniçar": {
-        "Alt": 1.66,
-        "Üst": 1.64
+    "Chapecoense - Sao Paulo SP": {
+        "Alt": 1.45,
+        "Üst": 2.04
     }
 }
