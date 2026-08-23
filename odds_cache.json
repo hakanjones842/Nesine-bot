@@ -1,35 +1,15 @@
 {
-    "Sydney Utd 58 - Apia Leic.": {
-        "Alt": 1.72,
-        "Üst": 1.58
-    },
-    "Maitland - Weston W.": {
-        "Alt": 2.49,
-        "Üst": 1.23
-    },
-    "Sydney Oly. - Marconi Stal": {
-        "Alt": 1.9,
-        "Üst": 1.46
-    },
-    "Woll. Wolves - WS Wanderers U23": {
-        "Alt": 3.06,
-        "Üst": 3.78
-    },
-    "Melbourne K. - Langwarrin SC": {
-        "Alt": 1.81,
-        "Üst": 3.57
-    },
     "Manningham Utd - Melbourne V. Gençler": {
-        "Alt": 1.72,
-        "Üst": 3.7
+        "Alt": 2.44,
+        "Üst": 3.67
     },
     "South Melbourne - Heidelberg": {
         "Alt": 1.82,
         "Üst": 1.51
     },
     "Siheung Citi. - Daejeon Korail": {
-        "Alt": 1.54,
-        "Üst": 1.79
+        "Alt": 1.51,
+        "Üst": 1.81
     },
     "Jeonbuk II - Ulsan Citizen": {
         "Alt": 1.56,
@@ -40,8 +20,8 @@
         "Üst": 4.04
     },
     "Slavia Praha B - SK Hanacka S. K.": {
-        "Alt": 1.95,
-        "Üst": 1.43
+        "Alt": 1.99,
+        "Üst": 1.41
     },
     "Blau Weiss L. - ASK Voitsberg": {
         "Alt": 1.99,
@@ -50,6 +30,10 @@
     "MSK Zilina B - OFK Malzenice": {
         "Alt": 1.87,
         "Üst": 1.48
+    },
+    "Hoffenheim U19 - Karlsruher SC U19": {
+        "Alt": 1.68,
+        "Üst": 3.65
     },
     "Alemannia A. U19 - B.M'gladbach U19": {
         "Alt": 2.24,
@@ -60,8 +44,8 @@
         "Üst": 1.71
     },
     "SC Sagamihara - Z. Kanazawa": {
-        "Alt": 1.5,
-        "Üst": 1.85
+        "Alt": 1.51,
+        "Üst": 1.81
     },
     "Cerezo Osaka S. (K) - Albirex Niigata (K)": {
         "Alt": 1.39,
@@ -78,5 +62,17 @@
     "Penang FA - Brunei Dpmm": {
         "Alt": 1.97,
         "Üst": 1.42
+    },
+    "Akron Tolyatti - Krylia Sovetov": {
+        "Alt": 1.83,
+        "Üst": 1.58
+    },
+    "Sonderjyske - Nordsjælland": {
+        "Alt": 2.41,
+        "Üst": 1.31
+    },
+    "Gangneung City - Chuncheon": {
+        "Alt": 1.6,
+        "Üst": 1.71
     }
 }
