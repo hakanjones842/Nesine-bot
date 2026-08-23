@@ -1,47 +1,7 @@
 {
-    "V. Guimaraes - N. Madeira": {
-        "Alt": 1.72,
-        "Üst": 1.67
-    },
-    "Dyn. Makhachkala - Krasnodar": {
-        "Alt": 1.44,
-        "Üst": 2.06
-    },
-    "Turan Tovuz - Shamakhi FK": {
-        "Alt": 1.51,
-        "Üst": 1.83
-    },
-    "Brommapojkarna - Degerfors IF": {
-        "Alt": 1.75,
-        "Üst": 1.65
-    },
-    "Hammarby - Gais": {
-        "Alt": 2.46,
-        "Üst": 1.3
-    },
-    "Rekord Bielsko Biala - Olimpia": {
-        "Alt": 1.86,
-        "Üst": 1.49
-    },
-    "SC Cambuur - Feyenoord": {
-        "Alt": 2.91,
-        "Üst": 1.2
-    },
-    "ADO Den Haag (K) - Twente (K)": {
-        "Alt": 1.83,
-        "Üst": 3.5
-    },
-    "VVV Venlo - Graafschap": {
-        "Alt": 2.62,
-        "Üst": 1.21
-    },
-    "Genoa U20 - İnter U20": {
-        "Alt": 1.83,
-        "Üst": 1.51
-    },
     "Atl Madrid - Villarreal": {
-        "Alt": 2.01,
-        "Üst": 1.47
+        "Alt": 2.03,
+        "Üst": 1.46
     },
     "Teplice - Brno": {
         "Alt": 1.52,
@@ -52,19 +12,43 @@
         "Üst": 1.81
     },
     "Eibar - Real Valladolid": {
-        "Alt": 1.35,
-        "Üst": 2.31
+        "Alt": 1.36,
+        "Üst": 2.27
     },
     "Norrby - Sandvikens": {
         "Alt": 2.01,
         "Üst": 1.4
     },
-    "Thun - Servette": {
-        "Alt": 2.14,
-        "Üst": 1.41
-    },
     "Real Sireti - Dacia Buiucani": {
-        "Alt": 1.63,
-        "Üst": 1.68
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Puszcza - Unia Skier": {
+        "Alt": 1.75,
+        "Üst": 1.57
+    },
+    "AS Trencin - S. Trnava": {
+        "Alt": 1.91,
+        "Üst": 1.45
+    },
+    "ND Beltinci - Primorje Ajdovscina": {
+        "Alt": 1.67,
+        "Üst": 1.63
+    },
+    "Le Havre - Monaco": {
+        "Alt": 1.73,
+        "Üst": 1.66
+    },
+    "Dibba AL Hisn SC - Al Hamriyah": {
+        "Alt": 1.75,
+        "Üst": 1.56
+    },
+    "Gulf - Emirates Club": {
+        "Alt": 1.85,
+        "Üst": 1.5
+    },
+    "Newcastle Utd - Liverpool": {
+        "Alt": 2.43,
+        "Üst": 1.3
     }
 }
