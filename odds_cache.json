@@ -1,70 +1,78 @@
 {
-    "Siheung Citi. - Daejeon Korail": {
-        "Alt": 1.51,
-        "Üst": 1.81
-    },
-    "Jeonbuk II - Ulsan Citizen": {
-        "Alt": 1.58,
-        "Üst": 1.73
-    },
-    "Golik North D. - Wofoo Tai PO": {
-        "Alt": 1.31,
-        "Üst": 4.13
-    },
-    "Slavia Praha B - SK Hanacka S. K.": {
-        "Alt": 2.02,
-        "Üst": 1.39
-    },
-    "Blau Weiss L. - ASK Voitsberg": {
-        "Alt": 2.06,
-        "Üst": 1.38
-    },
-    "MSK Zilina B - OFK Malzenice": {
-        "Alt": 1.87,
-        "Üst": 1.48
-    },
-    "Hoffenheim U19 - Karlsruher SC U19": {
-        "Alt": 1.69,
-        "Üst": 3.66
-    },
-    "Alemannia A. U19 - B.M'gladbach U19": {
-        "Alt": 2.24,
-        "Üst": 3.73
-    },
-    "Bologna U20 - Atalanta U20": {
-        "Alt": 1.59,
-        "Üst": 1.71
-    },
-    "SC Sagamihara - Z. Kanazawa": {
-        "Alt": 1.51,
-        "Üst": 1.81
-    },
-    "Cerezo Osaka S. (K) - Albirex Niigata (K)": {
-        "Alt": 1.39,
-        "Üst": 2.03
-    },
-    "Mynavi S. (K) - Nagano P. (K)": {
-        "Alt": 1.51,
-        "Üst": 1.83
-    },
     "Tokyo Verdy B. (K) - JEF Utd Ichihara (K)": {
         "Alt": 1.78,
         "Üst": 1.55
-    },
-    "Penang FA - Brunei Dpmm": {
-        "Alt": 1.86,
-        "Üst": 1.48
     },
     "Akron Tolyatti - Krylia Sovetov": {
         "Alt": 1.83,
         "Üst": 1.58
     },
     "Sonderjyske - Nordsjælland": {
-        "Alt": 2.41,
-        "Üst": 1.31
+        "Alt": 2.46,
+        "Üst": 1.3
     },
     "Gangneung City - Chuncheon": {
         "Alt": 1.54,
         "Üst": 1.78
+    },
+    "Kochi Utd SC - Kamatamare S.": {
+        "Alt": 1.4,
+        "Üst": 2.01
+    },
+    "Saldus SS/Leevon - FK Smiltene Bjss": {
+        "Alt": 2.3,
+        "Üst": 3.82
+    },
+    "SK Super Nova II - Skanstes SK": {
+        "Alt": 3.92,
+        "Üst": 4.03
+    },
+    "Legia Varşova II - Sokol Kleczew": {
+        "Alt": 2.05,
+        "Üst": 1.38
+    },
+    "Chaves - Avs Futebol Sad": {
+        "Alt": 1.57,
+        "Üst": 1.75
+    },
+    "Paredes - Leca": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "Go Ahead Eagles - ADO Den Haag": {
+        "Alt": 2.41,
+        "Üst": 1.31
+    },
+    "de Graafschap - SC Heerenveen (K)": {
+        "Alt": 1.91,
+        "Üst": 1.45
+    },
+    "Daejeon Citizen - Gangwon": {
+        "Alt": 1.54,
+        "Üst": 1.9
+    },
+    "Gwangju - Incheon Utd": {
+        "Alt": 1.44,
+        "Üst": 2.08
+    },
+    "Seoul E Land - Paju Citizen": {
+        "Alt": 2.0,
+        "Üst": 1.41
+    },
+    "Chungbuk Cheongju - Gyeongnam": {
+        "Alt": 1.57,
+        "Üst": 1.74
+    },
+    "Jeonnam Dragons - Hwaseong": {
+        "Alt": 1.75,
+        "Üst": 1.57
+    },
+    "Chungnam Asan - Yongin": {
+        "Alt": 1.61,
+        "Üst": 1.7
+    },
+    "Lee Man Warriors - Kowloon City": {
+        "Alt": 2.57,
+        "Üst": 3.75
     }
 }
