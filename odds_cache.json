@@ -1,40 +1,4 @@
 {
-    "Birmingham Legion - Sporting Jax": {
-        "Alt": 2.32,
-        "Üst": 1.29
-    },
-    "Forward M. - Charlotte Ind.": {
-        "Alt": 3.03,
-        "Üst": 3.76
-    },
-    "CA Huracan - Dep. Riestra": {
-        "Alt": 1.09,
-        "Üst": 3.95
-    },
-    "New Old Boys - Banfield": {
-        "Alt": 1.37,
-        "Üst": 2.25
-    },
-    "Barcelona (Ekv) - Orense SC": {
-        "Alt": 1.46,
-        "Üst": 1.89
-    },
-    "Metapan - Alianza": {
-        "Alt": 1.41,
-        "Üst": 2.0
-    },
-    "Antigua - Comunicacion": {
-        "Alt": 1.49,
-        "Üst": 1.86
-    },
-    "Deportivo Garcilaso - Cusco": {
-        "Alt": 1.48,
-        "Üst": 1.86
-    },
-    "Uni. Catolica - Nublense": {
-        "Alt": 1.53,
-        "Üst": 1.79
-    },
     "S. Louis City SC - Houston Dyn.": {
         "Alt": 1.79,
         "Üst": 1.62
@@ -42,6 +6,10 @@
     "Nashville SC - Columbus Cr.": {
         "Alt": 1.86,
         "Üst": 1.57
+    },
+    "Charleston - Miami": {
+        "Alt": 2.1,
+        "Üst": 1.36
     },
     "Corpus Chri - Westchester SC": {
         "Alt": 1.84,
@@ -78,5 +46,37 @@
     "Piratas Veracruz - Cancun": {
         "Alt": 1.51,
         "Üst": 1.81
+    },
+    "Real Esteli - Diriangen": {
+        "Alt": 1.51,
+        "Üst": 1.81
+    },
+    "I. Medellin - Cucuta D.": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "V. Whitecaps - Dallas": {
+        "Alt": 2.44,
+        "Üst": 1.3
+    },
+    "Spokane Velocity - Greenville T.": {
+        "Alt": 1.84,
+        "Üst": 1.5
+    },
+    "CD Choloma - Platense": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Orange Count - Tulsa Roughnecks": {
+        "Alt": 1.59,
+        "Üst": 1.72
+    },
+    "CD Fas - CD Aguila": {
+        "Alt": 1.59,
+        "Üst": 1.72
+    },
+    "Municipal - Xelaju": {
+        "Alt": 1.72,
+        "Üst": 1.58
     }
 }
