@@ -1,43 +1,11 @@
 {
-    "Barracas - CA Platense": {
-        "Alt": 1.19,
-        "Üst": 2.99
-    },
-    "CA Sarmiento - Estudiantes": {
-        "Alt": 1.31,
-        "Üst": 2.4
-    },
-    "Chac. Juniors - Tucuman": {
-        "Alt": 5.51,
-        "Üst": 3.4
-    },
-    "Sigma Olomouc - FK Pardubice": {
-        "Alt": 1.77,
-        "Üst": 1.55
-    },
-    "Sport Boys - CS Cienciano": {
-        "Alt": 1.54,
-        "Üst": 1.78
-    },
-    "AL Ula - AL Jabalain": {
-        "Alt": 1.7,
-        "Üst": 1.61
-    },
-    "Torque - Montevideo": {
-        "Alt": 1.59,
-        "Üst": 1.72
-    },
-    "PAOK - Levadeiakos": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
     "Pogon Szczecin - Wisla Krakow": {
         "Alt": 2.01,
         "Üst": 1.4
     },
     "NK Maribor - NK Bravo": {
-        "Alt": 2.11,
-        "Üst": 1.36
+        "Alt": 2.14,
+        "Üst": 1.35
     },
     "Göztepe - Gençlerbirliği": {
         "Alt": 1.65,
@@ -60,8 +28,8 @@
         "Üst": 2.21
     },
     "Ciudad de Bolivar - Racing de Cordoba": {
-        "Alt": 4.91,
-        "Üst": 3.29
+        "Alt": 5.07,
+        "Üst": 3.33
     },
     "Lazio (K) - SSD Napoli (K)": {
         "Alt": 1.56,
@@ -73,10 +41,42 @@
     },
     "Paneitolikos - Asteras T.": {
         "Alt": 1.35,
-        "Üst": 2.14
+        "Üst": 2.13
     },
     "Atalanta - Sassuolo": {
-        "Alt": 1.94,
+        "Alt": 1.93,
         "Üst": 1.51
+    },
+    "Torino - AC Milan": {
+        "Alt": 1.51,
+        "Üst": 1.95
+    },
+    "Rennes - PSG": {
+        "Alt": 2.38,
+        "Üst": 1.32
+    },
+    "Vitoria BA - Bahia BA": {
+        "Alt": 1.49,
+        "Üst": 1.98
+    },
+    "Bragantino - Gremio P.": {
+        "Alt": 1.72,
+        "Üst": 1.68
+    },
+    "Palmeiras SP - Vasco Da G.": {
+        "Alt": 1.65,
+        "Üst": 1.75
+    },
+    "CA Temperley - F. Midland": {
+        "Alt": 4.68,
+        "Üst": 3.23
+    },
+    "Cdt Real Oruro - Club Bolivar": {
+        "Alt": 2.41,
+        "Üst": 3.63
+    },
+    "Zrinjski Mostar - Zelezniçar": {
+        "Alt": 1.66,
+        "Üst": 1.64
     }
 }
