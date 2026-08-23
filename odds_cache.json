@@ -1,62 +1,66 @@
 {
-    "Akron Tolyatti - Krylia Sovetov": {
-        "Alt": 1.83,
-        "Üst": 1.58
+    "SSV Jeddeloh II - Heidenheim": {
+        "Alt": 4.12,
+        "Üst": 1.85
     },
-    "Sonderjyske - Nordsjælland": {
-        "Alt": 2.08,
-        "Üst": 1.44
+    "G. Furth - Bochum": {
+        "Alt": 1.96,
+        "Üst": 1.5
     },
-    "Gangneung City - Chuncheon": {
-        "Alt": 1.41,
-        "Üst": 2.0
+    "Baranovich - Dinamo Brest": {
+        "Alt": 1.84,
+        "Üst": 1.5
     },
-    "Kochi Utd SC - Kamatamare S.": {
-        "Alt": 1.42,
-        "Üst": 1.98
+    "Liaoning S. - Henan Songs.": {
+        "Alt": 1.9,
+        "Üst": 1.46
     },
-    "Saldus SS/Leevon - FK Smiltene Bjss": {
-        "Alt": 2.14,
+    "Changchun Yatai - Foshan Nanshi": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "Shenzhen Juniors - Nanjing City": {
+        "Alt": 1.59,
+        "Üst": 1.72
+    },
+    "HB Koege - Kolding": {
+        "Alt": 1.79,
+        "Üst": 1.54
+    },
+    "Naestved - VSK Aarhus": {
+        "Alt": 1.81,
+        "Üst": 1.51
+    },
+    "W. Bromwich - Burnley": {
+        "Alt": 1.62,
+        "Üst": 1.79
+    },
+    "Middlesbrough U21 - Norwich City U21": {
+        "Alt": 2.3,
+        "Üst": 3.52
+    },
+    "IK Oddevold - Helsingborg": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "Vastra Frolunda IF - Landvetter IS": {
+        "Alt": 1.46,
         "Üst": 3.75
     },
-    "SK Super Nova II - Skanstes SK": {
-        "Alt": 3.92,
-        "Üst": 4.03
+    "Onsala BK - Lindome": {
+        "Alt": 1.19,
+        "Üst": 1.09
     },
-    "Legia Varşova II - Sokol Kleczew": {
-        "Alt": 2.06,
-        "Üst": 1.37
+    "IF Eker Orebro - Fittja IF": {
+        "Alt": 1.5,
+        "Üst": 3.89
     },
-    "Chaves - Avs Futebol Sad": {
-        "Alt": 1.54,
-        "Üst": 1.78
-    },
-    "Paredes - Leca": {
+    "IK Franke - Skiljebo SK": {
         "Alt": 1.44,
-        "Üst": 1.93
+        "Üst": 3.84
     },
-    "Go Ahead Eagles - ADO Den Haag": {
-        "Alt": 2.41,
-        "Üst": 1.31
-    },
-    "de Graafschap - SC Heerenveen (K)": {
-        "Alt": 1.91,
-        "Üst": 1.45
-    },
-    "Daejeon Citizen - Gangwon": {
-        "Alt": 1.51,
-        "Üst": 1.93
-    },
-    "Gwangju - Incheon Utd": {
-        "Alt": 1.42,
-        "Üst": 2.13
-    },
-    "Seoul E Land - Paju Citizen": {
-        "Alt": 2.0,
-        "Üst": 1.41
-    },
-    "Chungbuk Cheongju - Gyeongnam": {
-        "Alt": 1.57,
-        "Üst": 1.74
+    "IFK Lidingo FK - Enskede": {
+        "Alt": 1.58,
+        "Üst": 3.63
     }
 }
