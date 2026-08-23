@@ -1,12 +1,4 @@
 {
-    "Manningham Utd - Melbourne V. Gençler": {
-        "Alt": 2.44,
-        "Üst": 3.67
-    },
-    "South Melbourne - Heidelberg": {
-        "Alt": 1.82,
-        "Üst": 1.51
-    },
     "Siheung Citi. - Daejeon Korail": {
         "Alt": 1.51,
         "Üst": 1.81
@@ -32,7 +24,7 @@
         "Üst": 1.48
     },
     "Hoffenheim U19 - Karlsruher SC U19": {
-        "Alt": 1.68,
+        "Alt": 1.81,
         "Üst": 3.65
     },
     "Alemannia A. U19 - B.M'gladbach U19": {
@@ -60,8 +52,8 @@
         "Üst": 1.57
     },
     "Penang FA - Brunei Dpmm": {
-        "Alt": 1.97,
-        "Üst": 1.42
+        "Alt": 1.9,
+        "Üst": 1.46
     },
     "Akron Tolyatti - Krylia Sovetov": {
         "Alt": 1.83,
@@ -74,5 +66,13 @@
     "Gangneung City - Chuncheon": {
         "Alt": 1.6,
         "Üst": 1.71
+    },
+    "Kochi Utd SC - Kamatamare S.": {
+        "Alt": 1.4,
+        "Üst": 2.01
+    },
+    "Saldus SS/Leevon - FK Smiltene Bjss": {
+        "Alt": 2.3,
+        "Üst": 3.82
     }
 }
