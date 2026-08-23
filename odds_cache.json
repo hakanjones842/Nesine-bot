@@ -1,35 +1,19 @@
 {
-    "Vikingur Reykjavik - Valur Reykjavik": {
-        "Alt": 2.38,
-        "Üst": 3.92
-    },
-    "Elche - Barcelona": {
-        "Alt": 2.35,
-        "Üst": 1.33
-    },
-    "Porto - Arouca": {
-        "Alt": 2.06,
-        "Üst": 1.44
-    },
-    "Tenerife - Almeria": {
-        "Alt": 1.58,
-        "Üst": 1.85
-    },
     "Belgrano - Def. Justicia": {
-        "Alt": 1.41,
-        "Üst": 2.14
+        "Alt": 1.43,
+        "Üst": 2.1
     },
     "York Utd - Supra Du Quebec": {
         "Alt": 2.29,
         "Üst": 1.29
     },
     "N. E. Revolution - New York C.": {
-        "Alt": 1.92,
-        "Üst": 1.52
+        "Alt": 1.95,
+        "Üst": 1.51
     },
     "Delfin - SD Aucas": {
-        "Alt": 1.32,
-        "Üst": 2.21
+        "Alt": 1.38,
+        "Üst": 3.28
     },
     "Melgar - Alianza Lima": {
         "Alt": 1.39,
@@ -40,8 +24,8 @@
         "Üst": 1.88
     },
     "Atletico Balboa - Fuerte San Francisco": {
-        "Alt": 1.38,
-        "Üst": 2.05
+        "Alt": 1.4,
+        "Üst": 2.01
     },
     "Deportivo Mixco - Dep. Guastatoya": {
         "Alt": 1.36,
@@ -70,5 +54,17 @@
     "Chapecoense - Sao Paulo SP": {
         "Alt": 1.45,
         "Üst": 2.04
+    },
+    "Santos SP - Mirassol SP": {
+        "Alt": 1.68,
+        "Üst": 1.72
+    },
+    "Criciuma - Fortaleza CE": {
+        "Alt": 1.32,
+        "Üst": 2.21
+    },
+    "Nacional - CA Progreso": {
+        "Alt": 1.72,
+        "Üst": 1.59
     }
 }
