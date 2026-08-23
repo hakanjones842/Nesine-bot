@@ -4,28 +4,28 @@
         "Üst": 1.81
     },
     "Jeonbuk II - Ulsan Citizen": {
-        "Alt": 1.56,
-        "Üst": 1.76
+        "Alt": 1.58,
+        "Üst": 1.73
     },
     "Golik North D. - Wofoo Tai PO": {
-        "Alt": 1.33,
-        "Üst": 4.04
+        "Alt": 1.31,
+        "Üst": 4.13
     },
     "Slavia Praha B - SK Hanacka S. K.": {
-        "Alt": 1.99,
-        "Üst": 1.41
+        "Alt": 2.02,
+        "Üst": 1.39
     },
     "Blau Weiss L. - ASK Voitsberg": {
-        "Alt": 1.99,
-        "Üst": 1.41
+        "Alt": 2.06,
+        "Üst": 1.38
     },
     "MSK Zilina B - OFK Malzenice": {
         "Alt": 1.87,
         "Üst": 1.48
     },
     "Hoffenheim U19 - Karlsruher SC U19": {
-        "Alt": 1.81,
-        "Üst": 3.65
+        "Alt": 1.69,
+        "Üst": 3.66
     },
     "Alemannia A. U19 - B.M'gladbach U19": {
         "Alt": 2.24,
@@ -48,12 +48,12 @@
         "Üst": 1.83
     },
     "Tokyo Verdy B. (K) - JEF Utd Ichihara (K)": {
-        "Alt": 1.74,
-        "Üst": 1.57
+        "Alt": 1.78,
+        "Üst": 1.55
     },
     "Penang FA - Brunei Dpmm": {
-        "Alt": 1.9,
-        "Üst": 1.46
+        "Alt": 1.86,
+        "Üst": 1.48
     },
     "Akron Tolyatti - Krylia Sovetov": {
         "Alt": 1.83,
@@ -64,15 +64,7 @@
         "Üst": 1.31
     },
     "Gangneung City - Chuncheon": {
-        "Alt": 1.6,
-        "Üst": 1.71
-    },
-    "Kochi Utd SC - Kamatamare S.": {
-        "Alt": 1.4,
-        "Üst": 2.01
-    },
-    "Saldus SS/Leevon - FK Smiltene Bjss": {
-        "Alt": 2.3,
-        "Üst": 3.82
+        "Alt": 1.54,
+        "Üst": 1.78
     }
 }
