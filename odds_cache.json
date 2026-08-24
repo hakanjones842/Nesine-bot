@@ -1,15 +1,7 @@
 {
-    "Malaga - Dep. La Coruna": {
-        "Alt": 1.49,
-        "Üst": 1.99
-    },
-    "Granada - Mallorca": {
-        "Alt": 1.4,
-        "Üst": 2.16
-    },
     "CA Tigre - C. Cordoba": {
-        "Alt": 1.33,
-        "Üst": 2.35
+        "Alt": 1.32,
+        "Üst": 2.36
     },
     "Recife - America MG": {
         "Alt": 1.56,
@@ -24,16 +16,16 @@
         "Üst": 1.72
     },
     "Ferro Carril Oeste - All Boys": {
-        "Alt": 2.8,
-        "Üst": 2.65
+        "Alt": 2.9,
+        "Üst": 2.64
     },
     "Everton DV - U. Concepcion": {
         "Alt": 1.72,
         "Üst": 1.58
     },
     "Libertad Loja - CSD Macara": {
-        "Alt": 1.44,
-        "Üst": 1.93
+        "Alt": 1.42,
+        "Üst": 1.97
     },
     "Talleres - Rosario C.": {
         "Alt": 1.4,
@@ -82,5 +74,13 @@
     "Bolton Wanderers U21 - Colchester Utd U21": {
         "Alt": 3.05,
         "Üst": 3.81
+    },
+    "QPR U21 - Hull City U21": {
+        "Alt": 2.73,
+        "Üst": 3.89
+    },
+    "CS Maritimo U23 - Estrela A. U23": {
+        "Alt": 1.73,
+        "Üst": 1.58
     }
 }
