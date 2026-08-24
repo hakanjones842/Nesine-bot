@@ -1,11 +1,11 @@
 {
     "Sabah - Imigresen": {
-        "Alt": 1.95,
-        "Üst": 1.44
+        "Alt": 1.92,
+        "Üst": 1.45
     },
     "Isloch - D. Minsk": {
-        "Alt": 1.39,
-        "Üst": 2.03
+        "Alt": 1.37,
+        "Üst": 2.07
     },
     "Kamaz Chelny - Sochi": {
         "Alt": 1.51,
@@ -32,12 +32,12 @@
         "Üst": 1.55
     },
     "Rotor - Neftekhimik": {
-        "Alt": 1.48,
-        "Üst": 1.87
+        "Alt": 1.46,
+        "Üst": 1.91
     },
     "FK Transinvest - Siauliai": {
-        "Alt": 1.96,
-        "Üst": 1.43
+        "Alt": 2.0,
+        "Üst": 1.41
     },
     "Verl - Hamburg": {
         "Alt": 2.51,
@@ -49,15 +49,15 @@
     },
     "Altglienicke - Wolfsburg": {
         "Alt": 1.16,
-        "Üst": 2.22
+        "Üst": 2.19
     },
     "Mainz 05 (K) - Werder Bremen (K)": {
-        "Alt": 1.84,
-        "Üst": 1.5
+        "Alt": 1.81,
+        "Üst": 1.51
     },
     "Botev Vratsa - Botev Plovdiv": {
-        "Alt": 1.54,
-        "Üst": 1.78
+        "Alt": 1.5,
+        "Üst": 1.84
     },
     "Zob Ahan - Mes Shahr e B.": {
         "Alt": 1.16,
@@ -70,6 +70,10 @@
     "Malavan Bandar A. - Fajr Sepasi": {
         "Alt": 1.17,
         "Üst": 1.18
+    },
+    "Riga II - FK Beitar Riga Mariners": {
+        "Alt": 1.87,
+        "Üst": 3.53
     },
     "Bologna - Lazio": {
         "Alt": 1.48,
