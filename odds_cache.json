@@ -1,31 +1,7 @@
 {
-    "Racing Club - Boca Juniors": {
-        "Alt": 1.31,
-        "Üst": 2.42
-    },
-    "Pumas Unam - Necaxa": {
-        "Alt": 1.83,
-        "Üst": 1.51
-    },
-    "CD Tapatio - M.D. Zacatecas": {
-        "Alt": 1.97,
-        "Üst": 1.43
-    },
-    "Walter Ferretti - Unan Managua": {
-        "Alt": 1.68,
-        "Üst": 1.62
-    },
-    "Atl Junior - Once Caldas": {
-        "Alt": 1.64,
-        "Üst": 1.67
-    },
-    "Malacateco - Dep. San Pedro": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
     "Sabah - Imigresen": {
-        "Alt": 1.99,
-        "Üst": 1.41
+        "Alt": 1.95,
+        "Üst": 1.44
     },
     "Isloch - D. Minsk": {
         "Alt": 1.39,
@@ -70,5 +46,41 @@
     "Würzburg - Köln": {
         "Alt": 2.4,
         "Üst": 1.26
+    },
+    "Altglienicke - Wolfsburg": {
+        "Alt": 1.16,
+        "Üst": 2.22
+    },
+    "Mainz 05 (K) - Werder Bremen (K)": {
+        "Alt": 1.84,
+        "Üst": 1.5
+    },
+    "Botev Vratsa - Botev Plovdiv": {
+        "Alt": 1.54,
+        "Üst": 1.78
+    },
+    "Zob Ahan - Mes Shahr e B.": {
+        "Alt": 1.16,
+        "Üst": 1.19
+    },
+    "Kheybar K. - Paykan": {
+        "Alt": 1.1,
+        "Üst": 3.25
+    },
+    "Malavan Bandar A. - Fajr Sepasi": {
+        "Alt": 1.17,
+        "Üst": 1.18
+    },
+    "Bologna - Lazio": {
+        "Alt": 1.48,
+        "Üst": 2.0
+    },
+    "GOL Gohar - Chador Malu Y.": {
+        "Alt": 1.3,
+        "Üst": 2.26
+    },
+    "Veles Mos. - Arsenal Tula": {
+        "Alt": 1.4,
+        "Üst": 2.0
     }
 }
