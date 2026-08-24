@@ -1,74 +1,70 @@
 {
-    "Bologna - Lazio": {
-        "Alt": 1.43,
-        "Üst": 2.1
+    "Jong PSV - TOP Oss": {
+        "Alt": 2.54,
+        "Üst": 1.23
     },
-    "GOL Gohar - Chador Malu Y.": {
-        "Alt": 1.3,
-        "Üst": 2.26
+    "Jong Utrecht - Heracles": {
+        "Alt": 2.14,
+        "Üst": 1.35
     },
-    "Veles Mos. - Arsenal Tula": {
-        "Alt": 1.4,
+    "Man. Utd U21 - Ipswich Town U21": {
+        "Alt": 1.82,
+        "Üst": 3.66
+    },
+    "Sunderland U21 - Nottingham F. U21": {
+        "Alt": 1.34,
+        "Üst": 3.98
+    },
+    "Newcastle U21 - Tottenham U21": {
+        "Alt": 1.34,
+        "Üst": 4.01
+    },
+    "Reading U21 - Derby County U21": {
+        "Alt": 3.07,
+        "Üst": 3.83
+    },
+    "Man. City U21 - Wolverhampton U21": {
+        "Alt": 2.3,
+        "Üst": 3.92
+    },
+    "AL Ittihad - AL Hazem": {
+        "Alt": 2.06,
+        "Üst": 1.38
+    },
+    "Loko Plovdiv - Arda Kardzha": {
+        "Alt": 1.49,
+        "Üst": 3.15
+    },
+    "Kocaelispor - Amed Sportif": {
+        "Alt": 1.48,
         "Üst": 2.0
     },
-    "Neom SC - AL Qadisiyah": {
-        "Alt": 2.26,
-        "Üst": 1.3
-    },
-    "Brondby - Silkeborg": {
-        "Alt": 2.39,
-        "Üst": 1.32
-    },
-    "SN Abadan - F. Khuzestan": {
-        "Alt": 1.32,
-        "Üst": 2.2
-    },
-    "Celta Vigo B - Andorra": {
+    "Sivasspor - Manisa FK": {
         "Alt": 1.72,
-        "Üst": 1.69
-    },
-    "Malmö - Djurgarden": {
-        "Alt": 2.14,
-        "Üst": 1.41
-    },
-    "IFK Varnamo - Landskrona": {
-        "Alt": 1.9,
-        "Üst": 1.46
-    },
-    "Ostersunds FK - Ljungskile": {
-        "Alt": 1.86,
-        "Üst": 1.49
-    },
-    "Milan U20 - Torino U20": {
-        "Alt": 1.73,
         "Üst": 1.58
     },
-    "Stal Rzeszow - Ruch Chorzow": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "S. Farense - Felgueiras 1932": {
+    "Livorno - Torres S.": {
         "Alt": 1.4,
         "Üst": 2.01
     },
-    "Nizhny Nov. - SKA Khabarovsk": {
-        "Alt": 1.72,
-        "Üst": 1.59
-    },
-    "Norrköping - Falkenbergs FF": {
-        "Alt": 2.13,
-        "Üst": 1.35
-    },
-    "Osasuna - Levante": {
-        "Alt": 1.53,
-        "Üst": 1.91
-    },
-    "B. Kaliningrad - Rubin Kazan": {
+    "Otelul Galati - A. Pitesti": {
         "Alt": 1.32,
-        "Üst": 2.37
+        "Üst": 2.19
     },
-    "Torpedo Belaz Z. - Dnepr Mogilev": {
-        "Alt": 1.65,
-        "Üst": 1.65
+    "AS Roma - Fiorentina": {
+        "Alt": 1.71,
+        "Üst": 1.69
+    },
+    "Hallescher - Schalke 04": {
+        "Alt": 2.42,
+        "Üst": 1.25
+    },
+    "Reims - Annecy": {
+        "Alt": 1.63,
+        "Üst": 1.78
+    },
+    "Fulham - Chelsea": {
+        "Alt": 1.8,
+        "Üst": 1.61
     }
 }
