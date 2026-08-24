@@ -1,70 +1,86 @@
 {
-    "Jong PSV - TOP Oss": {
-        "Alt": 2.54,
-        "Üst": 1.23
-    },
-    "Jong Utrecht - Heracles": {
-        "Alt": 2.14,
-        "Üst": 1.35
-    },
-    "Man. Utd U21 - Ipswich Town U21": {
-        "Alt": 1.82,
-        "Üst": 3.66
-    },
-    "Sunderland U21 - Nottingham F. U21": {
-        "Alt": 1.34,
-        "Üst": 3.98
-    },
-    "Newcastle U21 - Tottenham U21": {
-        "Alt": 1.34,
-        "Üst": 4.01
-    },
-    "Reading U21 - Derby County U21": {
-        "Alt": 3.07,
-        "Üst": 3.83
-    },
-    "Man. City U21 - Wolverhampton U21": {
-        "Alt": 2.3,
-        "Üst": 3.92
-    },
-    "AL Ittihad - AL Hazem": {
-        "Alt": 2.06,
-        "Üst": 1.38
-    },
-    "Loko Plovdiv - Arda Kardzha": {
+    "Malaga - Dep. La Coruna": {
         "Alt": 1.49,
-        "Üst": 3.15
+        "Üst": 1.99
     },
-    "Kocaelispor - Amed Sportif": {
-        "Alt": 1.48,
-        "Üst": 2.0
+    "Granada - Mallorca": {
+        "Alt": 1.4,
+        "Üst": 2.16
     },
-    "Sivasspor - Manisa FK": {
+    "CA Tigre - C. Cordoba": {
+        "Alt": 1.33,
+        "Üst": 2.35
+    },
+    "Recife - America MG": {
+        "Alt": 1.56,
+        "Üst": 1.76
+    },
+    "Athletic Club MG - Gremio Novo": {
+        "Alt": 1.34,
+        "Üst": 2.14
+    },
+    "Botafogo RJ - Paranaense": {
+        "Alt": 1.67,
+        "Üst": 1.72
+    },
+    "Ferro Carril Oeste - All Boys": {
+        "Alt": 2.8,
+        "Üst": 2.65
+    },
+    "Everton DV - U. Concepcion": {
         "Alt": 1.72,
         "Üst": 1.58
     },
-    "Livorno - Torres S.": {
+    "Libertad Loja - CSD Macara": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "Talleres - Rosario C.": {
         "Alt": 1.4,
-        "Üst": 2.01
+        "Üst": 2.16
     },
-    "Otelul Galati - A. Pitesti": {
-        "Alt": 1.32,
-        "Üst": 2.19
+    "Lanus - Argentinos J.": {
+        "Alt": 1.3,
+        "Üst": 2.42
     },
-    "AS Roma - Fiorentina": {
-        "Alt": 1.71,
-        "Üst": 1.69
+    "Queensland L. - North Sunshine Eagles": {
+        "Alt": 2.16,
+        "Üst": 1.33
     },
-    "Hallescher - Schalke 04": {
-        "Alt": 2.42,
-        "Üst": 1.25
+    "Estoril Praia U23 - Moreirense U23": {
+        "Alt": 1.67,
+        "Üst": 1.64
     },
-    "Reims - Annecy": {
-        "Alt": 1.63,
-        "Üst": 1.78
+    "Seoul - Bucheon": {
+        "Alt": 1.73,
+        "Üst": 1.67
     },
-    "Fulham - Chelsea": {
-        "Alt": 1.8,
-        "Üst": 1.61
+    "Jeju Utd - Pohang S.": {
+        "Alt": 1.44,
+        "Üst": 2.09
+    },
+    "Gimcheon S. - Jeonbuk": {
+        "Alt": 1.67,
+        "Üst": 1.72
+    },
+    "Swansea U21 - Peterborough Utd U21": {
+        "Alt": 2.48,
+        "Üst": 3.72
+    },
+    "Wigan Ath U21 - Cardiff City U21": {
+        "Alt": 2.73,
+        "Üst": 3.73
+    },
+    "Coventry City U21 - Fleetwood T. U21": {
+        "Alt": 2.07,
+        "Üst": 3.76
+    },
+    "Millwall U21 - Huddersfield T. U21": {
+        "Alt": 3.07,
+        "Üst": 3.82
+    },
+    "Bolton Wanderers U21 - Colchester Utd U21": {
+        "Alt": 3.05,
+        "Üst": 3.81
     }
 }
