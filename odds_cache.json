@@ -1,15 +1,11 @@
 {
-    "Sabah - Imigresen": {
-        "Alt": 1.95,
-        "Üst": 1.44
-    },
     "Isloch - D. Minsk": {
-        "Alt": 1.46,
-        "Üst": 1.9
+        "Alt": 1.61,
+        "Üst": 1.7
     },
     "Kamaz Chelny - Sochi": {
-        "Alt": 1.51,
-        "Üst": 1.82
+        "Alt": 1.53,
+        "Üst": 1.79
     },
     "TS Tabriz - Persepolis": {
         "Alt": 1.37,
@@ -20,8 +16,8 @@
         "Üst": 1.43
     },
     "MFK Lokomotiva Zvolen - A. Petrzalka": {
-        "Alt": 1.79,
-        "Üst": 1.53
+        "Alt": 1.76,
+        "Üst": 1.56
     },
     "Botosani - Csikszereda M. C.": {
         "Alt": 1.79,
@@ -36,28 +32,28 @@
         "Üst": 1.37
     },
     "Verl - Hamburg": {
-        "Alt": 2.58,
-        "Üst": 1.22
+        "Alt": 2.69,
+        "Üst": 1.19
     },
     "Würzburg - Köln": {
-        "Alt": 2.45,
-        "Üst": 1.24
+        "Alt": 2.5,
+        "Üst": 1.23
     },
     "Altglienicke - Wolfsburg": {
-        "Alt": 1.11,
-        "Üst": 2.38
+        "Alt": 1.09,
+        "Üst": 1.65
     },
     "Mainz 05 (K) - Werder Bremen (K)": {
         "Alt": 1.93,
         "Üst": 1.44
     },
     "Botev Vratsa - Botev Plovdiv": {
-        "Alt": 1.5,
-        "Üst": 1.84
+        "Alt": 1.51,
+        "Üst": 1.82
     },
     "Zob Ahan - Mes Shahr e B.": {
-        "Alt": 1.29,
-        "Üst": 2.29
+        "Alt": 1.28,
+        "Üst": 2.34
     },
     "Kheybar K. - Paykan": {
         "Alt": 1.1,
@@ -72,8 +68,8 @@
         "Üst": 3.53
     },
     "Bologna - Lazio": {
-        "Alt": 1.48,
-        "Üst": 2.0
+        "Alt": 1.46,
+        "Üst": 2.03
     },
     "GOL Gohar - Chador Malu Y.": {
         "Alt": 1.3,
