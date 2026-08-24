@@ -1,7 +1,7 @@
 {
     "CA Tigre - C. Cordoba": {
-        "Alt": 1.32,
-        "Üst": 2.36
+        "Alt": 1.3,
+        "Üst": 2.46
     },
     "Recife - America MG": {
         "Alt": 1.56,
@@ -12,11 +12,11 @@
         "Üst": 2.14
     },
     "Botafogo RJ - Paranaense": {
-        "Alt": 1.67,
-        "Üst": 1.72
+        "Alt": 1.7,
+        "Üst": 1.71
     },
     "Ferro Carril Oeste - All Boys": {
-        "Alt": 2.9,
+        "Alt": 2.91,
         "Üst": 2.64
     },
     "Everton DV - U. Concepcion": {
@@ -33,7 +33,7 @@
     },
     "Lanus - Argentinos J.": {
         "Alt": 1.3,
-        "Üst": 2.42
+        "Üst": 2.48
     },
     "Queensland L. - North Sunshine Eagles": {
         "Alt": 2.16,
@@ -44,8 +44,8 @@
         "Üst": 1.64
     },
     "Seoul - Bucheon": {
-        "Alt": 1.73,
-        "Üst": 1.67
+        "Alt": 1.76,
+        "Üst": 1.65
     },
     "Jeju Utd - Pohang S.": {
         "Alt": 1.44,
@@ -78,9 +78,5 @@
     "QPR U21 - Hull City U21": {
         "Alt": 2.73,
         "Üst": 3.89
-    },
-    "CS Maritimo U23 - Estrela A. U23": {
-        "Alt": 1.73,
-        "Üst": 1.58
     }
 }
