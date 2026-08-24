@@ -4,8 +4,8 @@
         "Üst": 1.47
     },
     "Isloch - D. Minsk": {
-        "Alt": 1.43,
-        "Üst": 1.97
+        "Alt": 1.46,
+        "Üst": 1.9
     },
     "Kamaz Chelny - Sochi": {
         "Alt": 1.51,
@@ -23,10 +23,6 @@
         "Alt": 1.79,
         "Üst": 1.53
     },
-    "Young Africans SC - Jkt Tanzania": {
-        "Alt": 1.57,
-        "Üst": 2.13
-    },
     "Botosani - Csikszereda M. C.": {
         "Alt": 1.79,
         "Üst": 1.53
@@ -36,8 +32,8 @@
         "Üst": 1.91
     },
     "FK Transinvest - Siauliai": {
-        "Alt": 2.0,
-        "Üst": 1.41
+        "Alt": 2.04,
+        "Üst": 1.39
     },
     "Verl - Hamburg": {
         "Alt": 2.52,
@@ -48,8 +44,8 @@
         "Üst": 1.26
     },
     "Altglienicke - Wolfsburg": {
-        "Alt": 1.14,
-        "Üst": 2.23
+        "Alt": 1.12,
+        "Üst": 2.34
     },
     "Mainz 05 (K) - Werder Bremen (K)": {
         "Alt": 1.89,
@@ -60,8 +56,8 @@
         "Üst": 1.84
     },
     "Zob Ahan - Mes Shahr e B.": {
-        "Alt": 1.16,
-        "Üst": 1.19
+        "Alt": 1.15,
+        "Üst": 1.2
     },
     "Kheybar K. - Paykan": {
         "Alt": 1.1,
@@ -72,8 +68,8 @@
         "Üst": 1.21
     },
     "Riga II - FK Beitar Riga Mariners": {
-        "Alt": 1.87,
-        "Üst": 3.5
+        "Alt": 1.86,
+        "Üst": 3.53
     },
     "Bologna - Lazio": {
         "Alt": 1.48,
@@ -82,9 +78,5 @@
     "GOL Gohar - Chador Malu Y.": {
         "Alt": 1.3,
         "Üst": 2.26
-    },
-    "Veles Mos. - Arsenal Tula": {
-        "Alt": 1.4,
-        "Üst": 2.0
     }
 }
