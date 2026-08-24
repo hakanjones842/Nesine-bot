@@ -1,16 +1,4 @@
 {
-    "LDU Quito - CS Emelec": {
-        "Alt": 1.58,
-        "Üst": 1.72
-    },
-    "CD Marquense - CSD Imperial": {
-        "Alt": 1.49,
-        "Üst": 1.86
-    },
-    "Alajuelense - AD San Carlos": {
-        "Alt": 1.81,
-        "Üst": 1.51
-    },
     "Racing Club - Boca Juniors": {
         "Alt": 1.31,
         "Üst": 2.42
@@ -70,5 +58,17 @@
     "Rotor - Neftekhimik": {
         "Alt": 1.48,
         "Üst": 1.87
+    },
+    "FK Transinvest - Siauliai": {
+        "Alt": 1.96,
+        "Üst": 1.43
+    },
+    "Verl - Hamburg": {
+        "Alt": 2.51,
+        "Üst": 1.23
+    },
+    "Würzburg - Köln": {
+        "Alt": 2.4,
+        "Üst": 1.26
     }
 }
