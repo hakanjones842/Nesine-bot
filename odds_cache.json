@@ -1,31 +1,15 @@
 {
-    "Seoul - Bucheon": {
-        "Alt": 2.01,
-        "Üst": 1.47
-    },
-    "Jeju Utd - Pohang S.": {
-        "Alt": 1.44,
-        "Üst": 2.08
-    },
-    "Gimcheon S. - Jeonbuk": {
-        "Alt": 1.65,
-        "Üst": 1.76
-    },
-    "Swansea U21 - Peterborough Utd U21": {
-        "Alt": 1.86,
-        "Üst": 3.83
-    },
     "Wigan Ath U21 - Cardiff City U21": {
-        "Alt": 2.9,
-        "Üst": 3.93
+        "Alt": 3.33,
+        "Üst": 4.09
     },
     "Coventry City U21 - Fleetwood T. U21": {
         "Alt": 2.13,
         "Üst": 3.78
     },
     "Millwall U21 - Huddersfield T. U21": {
-        "Alt": 3.07,
-        "Üst": 3.82
+        "Alt": 3.4,
+        "Üst": 3.94
     },
     "Bolton Wanderers U21 - Colchester Utd U21": {
         "Alt": 3.14,
@@ -44,19 +28,35 @@
         "Üst": 1.58
     },
     "Namungo - Fountain Gate": {
-        "Alt": 1.36,
-        "Üst": 2.11
+        "Alt": 1.34,
+        "Üst": 2.14
     },
     "SK Unicov - Fastav Zlin": {
         "Alt": 1.95,
         "Üst": 1.44
     },
     "OKS - Middelfart": {
-        "Alt": 3.95,
-        "Üst": 2.55
+        "Alt": 3.69,
+        "Üst": 1.64
     },
     "Alleread FK - Vanlose": {
-        "Alt": 2.34,
-        "Üst": 3.43
+        "Alt": 2.49,
+        "Üst": 3.44
+    },
+    "AL Karkh - Erbil SC": {
+        "Alt": 1.45,
+        "Üst": 1.92
+    },
+    "Zakho - Diyala": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "AL Julan - AL Shorta": {
+        "Alt": 1.5,
+        "Üst": 1.84
+    },
+    "Al Kuveyt SC - AL Arabi": {
+        "Alt": 1.6,
+        "Üst": 1.7
     }
 }
