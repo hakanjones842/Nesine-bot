@@ -1,19 +1,7 @@
 {
-    "Libertad Loja - CSD Macara": {
-        "Alt": 1.4,
-        "Üst": 2.0
-    },
-    "Talleres - Rosario C.": {
-        "Alt": 1.38,
-        "Üst": 2.21
-    },
-    "Lanus - Argentinos J.": {
-        "Alt": 1.3,
-        "Üst": 2.48
-    },
     "Queensland L. - North Sunshine Eagles": {
-        "Alt": 2.16,
-        "Üst": 1.33
+        "Alt": 2.13,
+        "Üst": 1.35
     },
     "Estoril Praia U23 - Moreirense U23": {
         "Alt": 1.67,
@@ -36,8 +24,8 @@
         "Üst": 3.72
     },
     "Wigan Ath U21 - Cardiff City U21": {
-        "Alt": 2.73,
-        "Üst": 3.73
+        "Alt": 2.59,
+        "Üst": 3.7
     },
     "Coventry City U21 - Fleetwood T. U21": {
         "Alt": 2.07,
@@ -62,5 +50,21 @@
     "Namungo - Fountain Gate": {
         "Alt": 1.36,
         "Üst": 2.11
+    },
+    "SK Unicov - Fastav Zlin": {
+        "Alt": 1.98,
+        "Üst": 1.42
+    },
+    "OKS - Middelfart": {
+        "Alt": 3.93,
+        "Üst": 2.59
+    },
+    "Alleread FK - Vanlose": {
+        "Alt": 2.08,
+        "Üst": 3.47
+    },
+    "AL Karkh - Erbil SC": {
+        "Alt": 1.45,
+        "Üst": 1.92
     }
 }
