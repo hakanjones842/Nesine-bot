@@ -1,60 +1,4 @@
 {
-    "Bronshoj - AB Gladsaxe": {
-        "Alt": 1.86,
-        "Üst": 3.46
-    },
-    "Portimonense U23 - Farense U23": {
-        "Alt": 1.63,
-        "Üst": 1.68
-    },
-    "Sabah - HB Sheva": {
-        "Alt": 1.87,
-        "Üst": 1.56
-    },
-    "Magdeburg II - Chem Leipzig": {
-        "Alt": 2.71,
-        "Üst": 3.58
-    },
-    "Lok. Leipzig - Chemnitz": {
-        "Alt": 1.78,
-        "Üst": 1.54
-    },
-    "Skive IK - Esbjerg": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "Orebro SK - Varbergs": {
-        "Alt": 1.8,
-        "Üst": 1.52
-    },
-    "Osters - Sundsvall": {
-        "Alt": 2.05,
-        "Üst": 1.38
-    },
-    "Zalgiris B - FK Transinvest B": {
-        "Alt": 1.86,
-        "Üst": 3.43
-    },
-    "Kruger Utd - Durban City 2024": {
-        "Alt": 1.29,
-        "Üst": 2.32
-    },
-    "Orlando Pirates - Sekhukhune Utd": {
-        "Alt": 1.56,
-        "Üst": 1.76
-    },
-    "Siwelele - Chippa Utd": {
-        "Alt": 1.37,
-        "Üst": 2.07
-    },
-    "Marumo Gallants - TS Galaxy": {
-        "Alt": 1.27,
-        "Üst": 2.35
-    },
-    "Dodoma - Polisi Tanzania": {
-        "Alt": 1.34,
-        "Üst": 2.16
-    },
     "AL Zawraa - AL Nafit Maysan": {
         "Alt": 1.58,
         "Üst": 1.73
@@ -64,7 +8,71 @@
         "Üst": 1.38
     },
     "Bristol Rovers - Chelsea U21": {
-        "Alt": 2.17,
-        "Üst": 1.33
+        "Alt": 2.27,
+        "Üst": 1.3
+    },
+    "Sheffield Utd U21 - W. Ham U21": {
+        "Alt": 3.81,
+        "Üst": 3.96
+    },
+    "Al Fehaheel - Al Qadsia": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "AL Ettifaq - AL Nassr": {
+        "Alt": 3.07,
+        "Üst": 1.13
+    },
+    "AL Shabab (Sar) - AL Riyadh": {
+        "Alt": 2.0,
+        "Üst": 1.41
+    },
+    "Doncaster - Middlesbrough": {
+        "Alt": 2.0,
+        "Üst": 1.48
+    },
+    "AL Jawiya - Gas Alshimal": {
+        "Alt": 1.51,
+        "Üst": 1.83
+    },
+    "Barnsley - Crewe Alexandra": {
+        "Alt": 2.13,
+        "Üst": 1.42
+    },
+    "Watford - Peterborough": {
+        "Alt": 2.11,
+        "Üst": 1.43
+    },
+    "Stoke City - Hull City": {
+        "Alt": 1.51,
+        "Üst": 1.94
+    },
+    "Blackburn R. - Sheffield Utd": {
+        "Alt": 1.73,
+        "Üst": 1.67
+    },
+    "Fleetwood - Shrewsbury": {
+        "Alt": 1.56,
+        "Üst": 1.86
+    },
+    "Ipswich Town - Leicester City": {
+        "Alt": 2.1,
+        "Üst": 1.43
+    },
+    "S. Wednesday - Wolverhampton": {
+        "Alt": 1.98,
+        "Üst": 1.49
+    },
+    "Cambridge - Millwall": {
+        "Alt": 1.62,
+        "Üst": 1.79
+    },
+    "Walsall - Leyton Orient": {
+        "Alt": 1.71,
+        "Üst": 1.7
+    },
+    "Stevenage - Reading": {
+        "Alt": 1.47,
+        "Üst": 2.02
     }
 }
