@@ -1,19 +1,7 @@
 {
-    "Dep. Madryn - Godoy Cruz": {
-        "Alt": 3.37,
-        "Üst": 3.04
-    },
-    "Atl Goianiense - Botafogo": {
-        "Alt": 1.34,
-        "Üst": 2.16
-    },
-    "Juventude - Crb Al": {
-        "Alt": 1.45,
-        "Üst": 1.91
-    },
     "U. de Vinto - Nacional Potosi": {
-        "Alt": 1.98,
-        "Üst": 1.42
+        "Alt": 2.01,
+        "Üst": 1.4
     },
     "Cruzeiro MG - Atl Mineiro": {
         "Alt": 1.4,
@@ -28,8 +16,8 @@
         "Üst": 1.39
     },
     "Cucuta D. - Alianza Valledupar": {
-        "Alt": 1.36,
-        "Üst": 2.11
+        "Alt": 1.34,
+        "Üst": 2.16
     },
     "CS Cartagines - CD Fas": {
         "Alt": 1.46,
@@ -52,20 +40,20 @@
         "Üst": 1.44
     },
     "Cerezo Osaka - Gifu": {
-        "Alt": 2.09,
+        "Alt": 2.06,
         "Üst": 1.37
     },
     "Machida Zelvia - Grulla Morioka": {
-        "Alt": 3.65,
-        "Üst": 2.38
+        "Alt": 3.64,
+        "Üst": 2.34
     },
     "Tokyo Verdy - Thespakusatsu G.": {
         "Alt": 2.05,
         "Üst": 1.38
     },
     "Nagoya - Gainare Tottori": {
-        "Alt": 2.3,
-        "Üst": 3.5
+        "Alt": 2.34,
+        "Üst": 3.49
     },
     "T. Vortis - Tokushima": {
         "Alt": 3.6,
