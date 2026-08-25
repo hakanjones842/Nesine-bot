@@ -1,35 +1,31 @@
 {
-    "U. de Vinto - Nacional Potosi": {
-        "Alt": 2.01,
-        "Üst": 1.4
-    },
     "Cruzeiro MG - Atl Mineiro": {
-        "Alt": 1.4,
-        "Üst": 2.01
+        "Alt": 1.38,
+        "Üst": 2.06
     },
     "Independiente D. - CD Tolima": {
         "Alt": 1.58,
         "Üst": 1.84
     },
     "Monterrey - Chicago Fire": {
-        "Alt": 2.04,
-        "Üst": 1.39
+        "Alt": 2.07,
+        "Üst": 1.37
     },
     "Cucuta D. - Alianza Valledupar": {
         "Alt": 1.34,
         "Üst": 2.16
     },
     "CS Cartagines - CD Fas": {
-        "Alt": 1.46,
-        "Üst": 1.9
+        "Alt": 1.52,
+        "Üst": 1.8
     },
     "Municipal - Motagua": {
         "Alt": 1.44,
         "Üst": 1.95
     },
     "Club Leon - Real Salt Lake": {
-        "Alt": 1.89,
-        "Üst": 1.46
+        "Alt": 1.93,
+        "Üst": 1.44
     },
     "Ujpest II - Szeged II": {
         "Alt": 2.62,
@@ -44,8 +40,8 @@
         "Üst": 1.37
     },
     "Machida Zelvia - Grulla Morioka": {
-        "Alt": 3.64,
-        "Üst": 2.34
+        "Alt": 3.63,
+        "Üst": 2.31
     },
     "Tokyo Verdy - Thespakusatsu G.": {
         "Alt": 2.05,
@@ -70,5 +66,21 @@
     "Omiya Ardija - V. Hachinohe": {
         "Alt": 1.56,
         "Üst": 1.75
+    },
+    "Sendai - Tochigi City": {
+        "Alt": 1.44,
+        "Üst": 1.94
+    },
+    "Sapporo - Ventforet": {
+        "Alt": 1.43,
+        "Üst": 1.95
+    },
+    "M. Yamagata - Fujieda Myfc": {
+        "Alt": 1.48,
+        "Üst": 1.87
+    },
+    "Tokyo - AC N. Parceiro": {
+        "Alt": 3.9,
+        "Üst": 2.19
     }
 }
