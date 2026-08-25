@@ -1,31 +1,31 @@
 {
     "Queensland L. - North Sunshine Eagles": {
-        "Alt": 2.13,
-        "Üst": 1.35
+        "Alt": 2.22,
+        "Üst": 1.31
     },
     "Estoril Praia U23 - Moreirense U23": {
-        "Alt": 1.67,
-        "Üst": 1.64
+        "Alt": 1.7,
+        "Üst": 1.6
     },
     "Seoul - Bucheon": {
-        "Alt": 1.76,
-        "Üst": 1.65
+        "Alt": 1.85,
+        "Üst": 1.58
     },
     "Jeju Utd - Pohang S.": {
-        "Alt": 1.44,
-        "Üst": 2.09
+        "Alt": 1.45,
+        "Üst": 2.06
     },
     "Gimcheon S. - Jeonbuk": {
-        "Alt": 1.67,
-        "Üst": 1.72
+        "Alt": 1.62,
+        "Üst": 1.79
     },
     "Swansea U21 - Peterborough Utd U21": {
-        "Alt": 2.48,
+        "Alt": 2.35,
         "Üst": 3.72
     },
     "Wigan Ath U21 - Cardiff City U21": {
-        "Alt": 2.59,
-        "Üst": 3.7
+        "Alt": 2.7,
+        "Üst": 3.85
     },
     "Coventry City U21 - Fleetwood T. U21": {
         "Alt": 2.07,
@@ -44,8 +44,8 @@
         "Üst": 3.89
     },
     "CS Maritimo U23 - Estrela A. U23": {
-        "Alt": 1.73,
-        "Üst": 1.58
+        "Alt": 1.77,
+        "Üst": 1.55
     },
     "Namungo - Fountain Gate": {
         "Alt": 1.36,
@@ -57,14 +57,18 @@
     },
     "OKS - Middelfart": {
         "Alt": 3.93,
-        "Üst": 2.59
+        "Üst": 2.49
     },
     "Alleread FK - Vanlose": {
-        "Alt": 2.08,
-        "Üst": 3.47
+        "Alt": 2.05,
+        "Üst": 3.45
     },
     "AL Karkh - Erbil SC": {
         "Alt": 1.45,
         "Üst": 1.92
+    },
+    "Zakho - Diyala": {
+        "Alt": 1.51,
+        "Üst": 1.82
     }
 }
