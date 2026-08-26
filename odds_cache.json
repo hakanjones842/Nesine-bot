@@ -1,30 +1,58 @@
 {
-    "Orsha - D. Minsk (Rzv)": {
-        "Alt": 1.33,
-        "Üst": 3.89
+    "Acassuso - San Telmo": {
+        "Alt": 4.73,
+        "Üst": 3.38
     },
-    "Dila Gori - Samgurali Tskaltubo": {
-        "Alt": 1.5,
-        "Üst": 1.85
+    "Chaco For Ever - San Miguel": {
+        "Alt": 4.31,
+        "Üst": 3.08
     },
-    "Vitkovice - Polanka": {
-        "Alt": 2.05,
-        "Üst": 1.38
+    "Ahli Saudi - Auckland": {
+        "Alt": 2.23,
+        "Üst": 1.37
     },
-    "Kraluv Dvur - Loko Vltavin": {
-        "Alt": 2.05,
-        "Üst": 1.38
+    "AL Mosul SC - Karbalaa": {
+        "Alt": 1.46,
+        "Üst": 1.89
     },
-    "FK Banik Sous - Pribram": {
-        "Alt": 1.73,
-        "Üst": 1.58
-    },
-    "Marienlyst - VSK Aarhus": {
-        "Alt": 2.07,
-        "Üst": 3.4
-    },
-    "AL Naft - Duhok": {
+    "AL Minaa - Al Garaf": {
         "Alt": 1.35,
-        "Üst": 2.14
+        "Üst": 2.13
+    },
+    "Bromley U21 - W. Bromwich U21": {
+        "Alt": 1.73,
+        "Üst": 3.68
+    },
+    "IFK Umea - Umea Akademi": {
+        "Alt": 1.63,
+        "Üst": 3.86
+    },
+    "Oyonesa - CD San Ignacio": {
+        "Alt": 1.74,
+        "Üst": 1.57
+    },
+    "AL Salmiya SC - Al Nasr SC": {
+        "Alt": 1.51,
+        "Üst": 1.81
+    },
+    "AL Draih - AL Khlood": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "Patronato - CA Atlanta": {
+        "Alt": 4.41,
+        "Üst": 3.2
+    },
+    "AL Talaba - Newroz SC": {
+        "Alt": 1.51,
+        "Üst": 1.83
+    },
+    "Bradford - Burnley": {
+        "Alt": 1.66,
+        "Üst": 1.74
+    },
+    "Newcastle Utd - W. Bromwich": {
+        "Alt": 2.56,
+        "Üst": 1.28
     }
 }
