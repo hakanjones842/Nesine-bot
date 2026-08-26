@@ -1,114 +1,38 @@
 {
-    "Ujpest II - Szeged II": {
-        "Alt": 2.62,
-        "Üst": 3.56
-    },
-    "Preston Lions - South Melbourne": {
-        "Alt": 1.86,
-        "Üst": 1.48
-    },
-    "Cerezo Osaka - Gifu": {
-        "Alt": 2.06,
-        "Üst": 1.37
-    },
-    "Machida Zelvia - Grulla Morioka": {
-        "Alt": 3.61,
-        "Üst": 2.3
-    },
-    "Tokyo Verdy - Thespakusatsu G.": {
-        "Alt": 1.95,
-        "Üst": 1.43
-    },
-    "Nagoya - Gainare Tottori": {
-        "Alt": 2.39,
-        "Üst": 3.55
-    },
-    "T. Vortis - Tokushima": {
-        "Alt": 3.94,
-        "Üst": 1.61
-    },
-    "S. Hiroshima - Okinawa SV": {
-        "Alt": 3.66,
-        "Üst": 2.52
-    },
-    "Imabari - B. Akita": {
-        "Alt": 1.42,
-        "Üst": 1.98
-    },
-    "Sagan Tosu - Kat. Toyama": {
-        "Alt": 1.43,
-        "Üst": 1.96
-    },
-    "Omiya Ardija - V. Hachinohe": {
-        "Alt": 1.58,
-        "Üst": 1.72
-    },
-    "Sendai - Tochigi City": {
-        "Alt": 1.45,
-        "Üst": 1.91
-    },
-    "Sapporo - Ventforet": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
-    "Iwata Jubilo - Tegevajaro Mi.": {
-        "Alt": 1.43,
-        "Üst": 1.96
-    },
-    "M. Yamagata - Fujieda Myfc": {
-        "Alt": 1.48,
-        "Üst": 1.87
-    },
-    "Tokyo - AC N. Parceiro": {
-        "Alt": 3.86,
-        "Üst": 1.99
-    },
-    "V Varen - Ehime": {
-        "Alt": 2.47,
-        "Üst": 3.53
-    },
-    "Kashima - Suzuka Point G.": {
-        "Alt": 3.84,
-        "Üst": 2.05
-    },
-    "Kyoto Sanga - Maruyasu Okazaki": {
-        "Alt": 2.16,
-        "Üst": 3.71
-    },
-    "Kawasaki Frontale - Tochigi": {
-        "Alt": 2.3,
-        "Üst": 3.52
-    },
-    "Vissel Kobe - Veroskronos Tsuno": {
-        "Alt": 3.88,
-        "Üst": 1.96
-    },
-    "Fukuoka - Verspah Oita": {
-        "Alt": 4.0,
-        "Üst": 1.61
-    },
-    "Fagiano - Belugarosso Iwami": {
-        "Alt": 3.89,
-        "Üst": 2.0
-    },
-    "Niigata - Kagoshima Utd": {
-        "Alt": 1.59,
-        "Üst": 1.72
-    },
-    "Gamba Osaka - MIO Biwako Shiga": {
-        "Alt": 3.92,
-        "Üst": 1.99
-    },
     "Gangwon - Gwangju": {
         "Alt": 1.5,
         "Üst": 1.96
     },
     "Daejeon Citizen - Ulsan Hora": {
-        "Alt": 1.93,
-        "Üst": 1.51
+        "Alt": 2.0,
+        "Üst": 1.47
     },
     "Anyang - Incheon Utd": {
-        "Alt": 1.55,
-        "Üst": 1.88
+        "Alt": 1.53,
+        "Üst": 1.92
+    },
+    "Vietnam - Tayland": {
+        "Alt": 1.67,
+        "Üst": 1.63
+    },
+    "Kuala Lumpur - Kuching FA": {
+        "Alt": 1.73,
+        "Üst": 3.61
+    },
+    "Rana FK - Follo": {
+        "Alt": 2.6,
+        "Üst": 1.21
+    },
+    "Smouha SC - Asyut Petroleum": {
+        "Alt": 1.28,
+        "Üst": 2.33
+    },
+    "Orsha - D. Minsk (Rzv)": {
+        "Alt": 1.33,
+        "Üst": 3.94
+    },
+    "Dila Gori - Samgurali Tskaltubo": {
+        "Alt": 1.5,
+        "Üst": 1.85
     }
 }
