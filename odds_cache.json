@@ -1,31 +1,15 @@
 {
-    "Vietnam - Tayland": {
-        "Alt": 1.67,
-        "Üst": 1.63
-    },
-    "Kuala Lumpur - Kuching FA": {
-        "Alt": 2.71,
-        "Üst": 3.35
-    },
-    "Rana FK - Follo": {
-        "Alt": 2.6,
-        "Üst": 1.21
-    },
-    "Smouha SC - Asyut Petroleum": {
-        "Alt": 1.28,
-        "Üst": 2.33
-    },
     "Orsha - D. Minsk (Rzv)": {
         "Alt": 1.33,
-        "Üst": 3.94
+        "Üst": 3.89
     },
     "Dila Gori - Samgurali Tskaltubo": {
         "Alt": 1.5,
         "Üst": 1.85
     },
     "Vitkovice - Polanka": {
-        "Alt": 2.06,
-        "Üst": 1.37
+        "Alt": 2.05,
+        "Üst": 1.38
     },
     "Kraluv Dvur - Loko Vltavin": {
         "Alt": 2.05,
@@ -36,7 +20,11 @@
         "Üst": 1.58
     },
     "Marienlyst - VSK Aarhus": {
-        "Alt": 2.02,
-        "Üst": 3.42
+        "Alt": 2.07,
+        "Üst": 3.4
+    },
+    "AL Naft - Duhok": {
+        "Alt": 1.35,
+        "Üst": 2.14
     }
 }
