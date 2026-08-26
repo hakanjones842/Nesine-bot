@@ -1,23 +1,11 @@
 {
-    "Gangwon - Gwangju": {
-        "Alt": 1.5,
-        "Üst": 1.96
-    },
-    "Daejeon Citizen - Ulsan Hora": {
-        "Alt": 2.0,
-        "Üst": 1.47
-    },
-    "Anyang - Incheon Utd": {
-        "Alt": 1.53,
-        "Üst": 1.92
-    },
     "Vietnam - Tayland": {
         "Alt": 1.67,
         "Üst": 1.63
     },
     "Kuala Lumpur - Kuching FA": {
-        "Alt": 1.73,
-        "Üst": 3.61
+        "Alt": 2.71,
+        "Üst": 3.35
     },
     "Rana FK - Follo": {
         "Alt": 2.6,
@@ -34,5 +22,21 @@
     "Dila Gori - Samgurali Tskaltubo": {
         "Alt": 1.5,
         "Üst": 1.85
+    },
+    "Vitkovice - Polanka": {
+        "Alt": 2.06,
+        "Üst": 1.37
+    },
+    "Kraluv Dvur - Loko Vltavin": {
+        "Alt": 2.05,
+        "Üst": 1.38
+    },
+    "FK Banik Sous - Pribram": {
+        "Alt": 1.73,
+        "Üst": 1.58
+    },
+    "Marienlyst - VSK Aarhus": {
+        "Alt": 2.02,
+        "Üst": 3.42
     }
 }
