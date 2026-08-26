@@ -4,36 +4,40 @@
         "Üst": 3.56
     },
     "Preston Lions - South Melbourne": {
-        "Alt": 1.93,
-        "Üst": 1.44
+        "Alt": 1.89,
+        "Üst": 1.46
     },
     "Cerezo Osaka - Gifu": {
         "Alt": 2.06,
         "Üst": 1.37
     },
     "Machida Zelvia - Grulla Morioka": {
-        "Alt": 3.64,
-        "Üst": 2.35
+        "Alt": 3.62,
+        "Üst": 2.32
     },
     "Tokyo Verdy - Thespakusatsu G.": {
         "Alt": 2.05,
         "Üst": 1.38
     },
     "Nagoya - Gainare Tottori": {
-        "Alt": 2.27,
-        "Üst": 3.49
+        "Alt": 2.16,
+        "Üst": 3.48
     },
     "T. Vortis - Tokushima": {
-        "Alt": 3.63,
-        "Üst": 2.54
+        "Alt": 3.65,
+        "Üst": 2.62
     },
     "S. Hiroshima - Okinawa SV": {
-        "Alt": 3.52,
-        "Üst": 2.38
+        "Alt": 3.62,
+        "Üst": 2.47
     },
     "Imabari - B. Akita": {
         "Alt": 1.42,
         "Üst": 1.98
+    },
+    "Sagan Tosu - Kat. Toyama": {
+        "Alt": 1.41,
+        "Üst": 1.99
     },
     "Omiya Ardija - V. Hachinohe": {
         "Alt": 1.58,
@@ -47,25 +51,29 @@
         "Alt": 1.47,
         "Üst": 1.88
     },
+    "Iwata Jubilo - Tegevajaro Mi.": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
     "M. Yamagata - Fujieda Myfc": {
         "Alt": 1.48,
         "Üst": 1.87
     },
     "Tokyo - AC N. Parceiro": {
-        "Alt": 3.9,
-        "Üst": 2.19
+        "Alt": 3.89,
+        "Üst": 2.17
     },
     "V Varen - Ehime": {
-        "Alt": 2.39,
-        "Üst": 3.54
+        "Alt": 2.42,
+        "Üst": 3.52
     },
     "Kashima - Suzuka Point G.": {
         "Alt": 3.85,
         "Üst": 2.04
     },
     "Kyoto Sanga - Maruyasu Okazaki": {
-        "Alt": 3.79,
-        "Üst": 2.16
+        "Alt": 1.87,
+        "Üst": 3.79
     },
     "Kawasaki Frontale - Tochigi": {
         "Alt": 2.28,
@@ -73,11 +81,11 @@
     },
     "Vissel Kobe - Veroskronos Tsuno": {
         "Alt": 3.91,
-        "Üst": 2.03
+        "Üst": 2.0
     },
     "Fukuoka - Verspah Oita": {
-        "Alt": 3.96,
-        "Üst": 1.73
+        "Alt": 4.0,
+        "Üst": 1.65
     },
     "Fagiano - Belugarosso Iwami": {
         "Alt": 3.88,
@@ -87,12 +95,24 @@
         "Alt": 1.61,
         "Üst": 1.69
     },
+    "Gamba Osaka - MIO Biwako Shiga": {
+        "Alt": 3.93,
+        "Üst": 2.17
+    },
     "Gangwon - Gwangju": {
-        "Alt": 1.56,
-        "Üst": 1.86
+        "Alt": 1.54,
+        "Üst": 1.9
     },
     "Daejeon Citizen - Ulsan Hora": {
         "Alt": 1.93,
         "Üst": 1.51
+    },
+    "Anyang - Incheon Utd": {
+        "Alt": 1.51,
+        "Üst": 1.95
+    },
+    "Vietnam - Tayland": {
+        "Alt": 1.62,
+        "Üst": 1.68
     }
 }
