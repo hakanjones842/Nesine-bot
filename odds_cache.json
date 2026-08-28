@@ -1,90 +1,86 @@
 {
-    "Deportivo Mixco - Alianza": {
-        "Alt": 1.82,
-        "Üst": 1.51
-    },
-    "CD Olimpia - D. Saprissa": {
-        "Alt": 1.72,
-        "Üst": 1.58
-    },
-    "Jeonnam Dragons - Cheonan City": {
-        "Alt": 1.82,
-        "Üst": 1.51
-    },
-    "Ansan Greene - Daegu": {
-        "Alt": 2.17,
-        "Üst": 1.33
-    },
-    "Sabah - Penang FA": {
-        "Alt": 1.81,
-        "Üst": 1.51
-    },
-    "Dalian Yingbo - Beijing Guoan": {
-        "Alt": 2.39,
-        "Üst": 1.26
-    },
-    "Shanghai S. - Shandong Taishan": {
-        "Alt": 3.18,
-        "Üst": 1.12
-    },
-    "Sh. Peng City - Shanghai Port": {
-        "Alt": 2.24,
-        "Üst": 1.3
-    },
-    "Kolos Kovalivka - Obolon Kiev": {
-        "Alt": 2.7,
-        "Üst": 2.88
-    },
-    "Gomora Utd - Venda Football A.": {
-        "Alt": 5.28,
-        "Üst": 3.54
-    },
-    "FK Tauras Taurage - Baltijos FA": {
-        "Alt": 1.94,
-        "Üst": 1.44
-    },
-    "Terengganu - Selangor FA": {
-        "Alt": 1.88,
-        "Üst": 1.47
-    },
-    "Fountain Gate - Mbeya City": {
-        "Alt": 1.38,
-        "Üst": 2.06
-    },
     "Baladiyyat AL M. - El Daklyeh": {
-        "Alt": 4.3,
-        "Üst": 3.22
+        "Alt": 4.37,
+        "Üst": 3.19
     },
     "Telecom Egypt - Ismaily Sc": {
-        "Alt": 1.32,
-        "Üst": 2.2
+        "Alt": 3.9,
+        "Üst": 3.1
     },
     "AL Nasr Cairo - Haras Hodood": {
-        "Alt": 1.33,
-        "Üst": 2.18
+        "Alt": 1.39,
+        "Üst": 3.31
     },
     "Farco - El Mansurah": {
-        "Alt": 3.27,
-        "Üst": 3.0
+        "Alt": 3.73,
+        "Üst": 3.05
     },
     "Masar - Dayrout": {
-        "Alt": 1.33,
-        "Üst": 2.18
+        "Alt": 1.5,
+        "Üst": 1.84
     },
     "Dubai Utd - AL Ittihad K.": {
-        "Alt": 1.86,
-        "Üst": 1.48
+        "Alt": 1.93,
+        "Üst": 1.44
+    },
+    "Energetik Bgu Minsk - Minsk 2": {
+        "Alt": 2.74,
+        "Üst": 3.6
     },
     "Alqana - El Gouna": {
-        "Alt": 1.22,
-        "Üst": 2.56
+        "Alt": 1.1,
+        "Üst": 3.32
     },
     "Enppi Club - Wadi Degla": {
         "Alt": 1.27,
         "Üst": 2.35
     },
     "Al Ahli Doha - Lusail SC": {
-        "Alt": 2.38,
-        "Üst": 1.27
+        "Alt": 1.96,
+        "Üst": 1.43
+    },
+    "Akron Tolyatti - CSKA Moskova": {
+        "Alt": 2.02,
+        "Üst": 1.46
+    },
+    "Vitebsk - Naftan Novopolotsk": {
+        "Alt": 1.72,
+        "Üst": 1.59
+    },
+    "NK Sesvete - NK Dugopolje": {
+        "Alt": 1.38,
+        "Üst": 2.04
+    },
+    "Dfk Dainava - Zalgiris B": {
+        "Alt": 2.05,
+        "Üst": 3.43
+    },
+    "Shooting Stars - Inter Lagos": {
+        "Alt": 1.33,
+        "Üst": 2.18
+    },
+    "Voluntari - Otelul Galati": {
+        "Alt": 1.52,
+        "Üst": 1.8
+    },
+    "Nd Slovan - NK Ilirija": {
+        "Alt": 1.79,
+        "Üst": 1.54
+    },
+    "AL Dhaid - City Football Club": {
+        "Alt": 1.84,
+        "Üst": 3.37
+    },
+    "Dibba - Gulf Utd": {
+        "Alt": 2.01,
+        "Üst": 1.4
+    },
+    "AL Ittifaq - Al Urooba (Bae)": {
+        "Alt": 1.58,
+        "Üst": 1.74
+    },
+    "Japs - Kapa": {
+        "Alt": 1.86,
+        "Üst": 1.48
     }
 }
