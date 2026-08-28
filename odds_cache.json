@@ -1,86 +1,82 @@
 {
-    "Baladiyyat AL M. - El Daklyeh": {
-        "Alt": 4.37,
-        "Üst": 3.19
+    "Nautico PE - Athletic Club MG": {
+        "Alt": 1.49,
+        "Üst": 1.86
     },
-    "Telecom Egypt - Ismaily Sc": {
-        "Alt": 3.9,
-        "Üst": 3.1
+    "Gremio Novo - Recife": {
+        "Alt": 1.58,
+        "Üst": 1.72
     },
-    "AL Nasr Cairo - Haras Hodood": {
-        "Alt": 1.39,
-        "Üst": 3.31
-    },
-    "Farco - El Mansurah": {
-        "Alt": 3.73,
-        "Üst": 3.05
-    },
-    "Masar - Dayrout": {
-        "Alt": 1.5,
-        "Üst": 1.84
-    },
-    "Dubai Utd - AL Ittihad K.": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "Energetik Bgu Minsk - Minsk 2": {
-        "Alt": 2.74,
-        "Üst": 3.6
-    },
-    "Alqana - El Gouna": {
-        "Alt": 1.1,
-        "Üst": 3.32
-    },
-    "Enppi Club - Wadi Degla": {
-        "Alt": 1.27,
-        "Üst": 2.35
-    },
-    "Al Ahli Doha - Lusail SC": {
-        "Alt": 1.96,
-        "Üst": 1.43
-    },
-    "Akron Tolyatti - CSKA Moskova": {
-        "Alt": 2.02,
-        "Üst": 1.46
-    },
-    "Vitebsk - Naftan Novopolotsk": {
-        "Alt": 1.72,
-        "Üst": 1.59
-    },
-    "NK Sesvete - NK Dugopolje": {
-        "Alt": 1.38,
-        "Üst": 2.04
-    },
-    "Dfk Dainava - Zalgiris B": {
-        "Alt": 2.05,
-        "Üst": 3.43
-    },
-    "Shooting Stars - Inter Lagos": {
+    "CD Tecnico Uni. - CD Cuenca": {
         "Alt": 1.33,
+        "Üst": 2.17
+    },
+    "CD Inca - C.D. Cacahuatique": {
+        "Alt": 1.51,
+        "Üst": 1.82
+    },
+    "Boca Juniors - Lanus": {
+        "Alt": 1.39,
         "Üst": 2.18
     },
-    "Voluntari - Otelul Galati": {
-        "Alt": 1.52,
-        "Üst": 1.8
+    "Gimnasia Y. Tiro - Chac. Juniors": {
+        "Alt": 3.84,
+        "Üst": 3.13
     },
-    "Nd Slovan - NK Ilirija": {
-        "Alt": 1.79,
-        "Üst": 1.54
+    "Juticalpa - Lobos Upnfm": {
+        "Alt": 1.71,
+        "Üst": 1.6
     },
-    "AL Dhaid - City Football Club": {
-        "Alt": 1.84,
-        "Üst": 3.37
+    "Atlante - Club Leon": {
+        "Alt": 1.72,
+        "Üst": 1.58
     },
-    "Dibba - Gulf Utd": {
-        "Alt": 2.01,
-        "Üst": 1.4
-    },
-    "AL Ittifaq - Al Urooba (Bae)": {
-        "Alt": 1.58,
-        "Üst": 1.74
-    },
-    "Japs - Kapa": {
+    "Necaxa - Cruz Azul": {
         "Alt": 1.86,
-        "Üst": 1.48
+        "Üst": 1.49
+    },
+    "Correcaminos - Alac. de Durango": {
+        "Alt": 1.72,
+        "Üst": 1.58
+    },
+    "CSD D. Sinaloa - Atl Morelia": {
+        "Alt": 1.82,
+        "Üst": 1.51
+    },
+    "CD Suchitepequez - CSD Imperial": {
+        "Alt": 1.34,
+        "Üst": 2.14
+    },
+    "Sporting San Jose - Inter San Carlos": {
+        "Alt": 1.83,
+        "Üst": 1.51
+    },
+    "Club Tijuana - Pumas Unam": {
+        "Alt": 1.67,
+        "Üst": 1.64
+    },
+    "South Hobart - Kingborough": {
+        "Alt": 2.72,
+        "Üst": 3.76
+    },
+    "Kahibah - New Lambton": {
+        "Alt": 2.32,
+        "Üst": 3.76
+    },
+    "Heidelberg - Bentleigh G.": {
+        "Alt": 2.02,
+        "Üst": 1.39
+    },
+    "Caroline Springs G. C. - South Melbourne": {
+        "Alt": 1.87,
+        "Üst": 1.47
+    },
+    "Melbourne City 2 - G. Gully Cavs": {
+        "Alt": 1.42,
+        "Üst": 3.93
+    },
+    "Avondale - Hume City": {
+        "Alt": 2.78,
+        "Üst": 3.7
     }
 }
