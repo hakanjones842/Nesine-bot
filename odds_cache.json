@@ -1,90 +1,86 @@
 {
-    "Heidelberg - Bentleigh G.": {
-        "Alt": 2.02,
-        "Üst": 1.39
+    "Liverpool - Nottingham F.": {
+        "Alt": 2.29,
+        "Üst": 1.35
     },
-    "Caroline Springs G. C. - South Melbourne": {
-        "Alt": 1.87,
-        "Üst": 1.47
+    "Foshan Nanshi - Shenzhen Juniors": {
+        "Alt": 2.18,
+        "Üst": 1.33
     },
-    "Melbourne City 2 - G. Gully Cavs": {
-        "Alt": 1.42,
-        "Üst": 3.93
+    "SJZ Gongfu - Wuxi Wuguo": {
+        "Alt": 1.51,
+        "Üst": 1.81
     },
-    "Avondale - Hume City": {
-        "Alt": 2.9,
-        "Üst": 3.8
+    "Nanjing City - Guangxi Hengchen": {
+        "Alt": 1.59,
+        "Üst": 1.71
     },
-    "ST Albans S. - D. Thunder": {
-        "Alt": 2.09,
-        "Üst": 3.65
-    },
-    "Preston Lions - Altona Magic": {
-        "Alt": 1.85,
-        "Üst": 1.5
-    },
-    "Oakleigh C. - Dandenong City": {
-        "Alt": 2.07,
-        "Üst": 1.37
-    },
-    "Playford City - Adelaide City": {
-        "Alt": 1.8,
-        "Üst": 1.52
-    },
-    "Cooma Tigers - Canberra Juventus": {
-        "Alt": 2.28,
-        "Üst": 4.0
-    },
-    "Broad. Magic - Weston W.": {
-        "Alt": 2.56,
-        "Üst": 1.22
-    },
-    "Moreton City E. - G. Coast Knights": {
-        "Alt": 2.46,
-        "Üst": 1.24
-    },
-    "Southern District - Kowloon City": {
-        "Alt": 2.33,
-        "Üst": 3.56
-    },
-    "Golik North D. - Kitchee SC": {
-        "Alt": 1.52,
-        "Üst": 3.75
-    },
-    "Cadiz B - Club Atletico Central": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
-    "Barcelona B - UE Cornella": {
-        "Alt": 1.8,
-        "Üst": 1.52
-    },
-    "Tuggeranong Utd - Queanbeyan City": {
-        "Alt": 2.62,
-        "Üst": 1.21
-    },
-    "Qingdao Jonoon - Wuhan T. T.": {
-        "Alt": 1.91,
-        "Üst": 1.45
-    },
-    "Dangjin Citizen - Chuncheon": {
-        "Alt": 1.83,
+    "VSK Aarhus - FA 2000": {
+        "Alt": 1.82,
         "Üst": 1.51
     },
-    "Gamba Osaka - S. Hiroshima": {
-        "Alt": 2.09,
+    "Wolverhampton - Stoke City": {
+        "Alt": 1.85,
+        "Üst": 1.58
+    },
+    "Derby County - Swansea City": {
+        "Alt": 1.54,
+        "Üst": 1.9
+    },
+    "Middlesbrough - W. Bromwich": {
+        "Alt": 1.86,
+        "Üst": 1.56
+    },
+    "MK Dons - Leicester City": {
+        "Alt": 1.92,
+        "Üst": 1.45
+    },
+    "Blackpool - Peterborough": {
+        "Alt": 1.94,
         "Üst": 1.44
     },
-    "M. Hollyhock - Machida Zelvia": {
-        "Alt": 1.44,
-        "Üst": 2.07
+    "Port Vale - Crewe Alexandra": {
+        "Alt": 1.62,
+        "Üst": 1.68
     },
-    "Iwaki - Niigata": {
-        "Alt": 1.44,
-        "Üst": 1.94
+    "Barnet - Cheltenham": {
+        "Alt": 1.86,
+        "Üst": 1.49
     },
-    "Tochigi City - Iwata Jubilo": {
-        "Alt": 1.61,
-        "Üst": 1.69
+    "Chengdu Ron. - Liaoning S.": {
+        "Alt": 2.38,
+        "Üst": 1.26
+    },
+    "Fakel - Zenit": {
+        "Alt": 1.51,
+        "Üst": 1.95
+    },
+    "Verl - Fortuna Köln": {
+        "Alt": 2.17,
+        "Üst": 1.39
+    },
+    "A. Aachen - Meppen": {
+        "Alt": 2.36,
+        "Üst": 1.32
+    },
+    "Duisburg - Würzburg": {
+        "Alt": 1.98,
+        "Üst": 1.49
+    },
+    "W. Wiesbaden - Weiss Essen": {
+        "Alt": 2.18,
+        "Üst": 1.39
+    },
+    "Grossaspach - Ingolstadt": {
+        "Alt": 2.02,
+        "Üst": 1.46
+    },
+    "Köln II - Sportfreunde": {
+        "Alt": 2.0,
+        "Üst": 1.41
+    },
+    "SC Paderborn 07 II - Bocholt": {
+        "Alt": 2.03,
+        "Üst": 1.39
     }
 }
