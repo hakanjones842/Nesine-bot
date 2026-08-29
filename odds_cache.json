@@ -1,78 +1,90 @@
 {
-    "J. De Cordoba - America De Cali": {
-        "Alt": 1.44,
-        "Üst": 1.93
+    "Inter Miami - Montreal I.": {
+        "Alt": 3.78,
+        "Üst": 1.09
     },
-    "Atl Mineiro - Vitoria BA": {
-        "Alt": 1.49,
-        "Üst": 1.98
-    },
-    "Botafogo - Cuiaba": {
-        "Alt": 1.23,
-        "Üst": 2.51
-    },
-    "Platense M. - Fundacion F. Un Atleta": {
-        "Alt": 1.49,
-        "Üst": 1.86
-    },
-    "Deportes Limache - Everton DV": {
-        "Alt": 1.34,
-        "Üst": 3.91
-    },
-    "CA Huracan - Estudiantes Río C.": {
-        "Alt": 1.23,
-        "Üst": 2.76
-    },
-    "Tlaxcala - Venados": {
+    "Toronto - New York C.": {
         "Alt": 1.96,
-        "Üst": 1.43
-    },
-    "Sao Paulo SP - Bragantino": {
-        "Alt": 1.52,
-        "Üst": 1.93
-    },
-    "Hartford Ath - Birmingham Legion": {
-        "Alt": 1.96,
-        "Üst": 1.43
-    },
-    "Lexington SC - Colorado Spr.": {
-        "Alt": 1.73,
-        "Üst": 1.58
-    },
-    "Brooklyn - Sporting Jax": {
-        "Alt": 2.24,
-        "Üst": 1.3
-    },
-    "P. Hearts of Pine - Fort Wayne": {
-        "Alt": 1.98,
-        "Üst": 1.42
-    },
-    "Greenville T. - Naples": {
-        "Alt": 1.79,
-        "Üst": 1.54
-    },
-    "Westchester SC - Spokane Velocity": {
-        "Alt": 1.82,
         "Üst": 1.51
     },
-    "Richmond - Forward M.": {
-        "Alt": 1.95,
-        "Üst": 1.43
+    "DC Utd - Los Angeles": {
+        "Alt": 1.96,
+        "Üst": 1.5
     },
-    "C. Red Wolves SC - AC Boise": {
-        "Alt": 1.79,
-        "Üst": 1.53
+    "Atlanta Utd - Charlotte": {
+        "Alt": 2.21,
+        "Üst": 1.38
     },
-    "Pachuca - CD Guadalajara": {
-        "Alt": 1.84,
+    "NY Red Bulls - Phila. Union": {
+        "Alt": 2.58,
+        "Üst": 1.27
+    },
+    "Atl Junior - I. Santa Fe": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Oakland Roots SC - Orange Count": {
+        "Alt": 1.83,
         "Üst": 1.51
     },
-    "Atlas - Queretaro": {
-        "Alt": 1.66,
-        "Üst": 1.64
-    },
-    "Platense - CA Independiente S.": {
-        "Alt": 1.56,
+    "Louisville - Detroit City": {
+        "Alt": 1.57,
         "Üst": 1.75
+    },
+    "Union Omaha SC - New York Cosmos": {
+        "Alt": 2.56,
+        "Üst": 3.76
+    },
+    "Manta - Barcelona (Ekv)": {
+        "Alt": 1.46,
+        "Üst": 1.9
+    },
+    "Diriangen - ART Jalapa": {
+        "Alt": 2.0,
+        "Üst": 1.41
+    },
+    "Nublense - Dep. Concepcion": {
+        "Alt": 1.32,
+        "Üst": 2.2
+    },
+    "Vasco Da G. - Cruzeiro MG": {
+        "Alt": 1.58,
+        "Üst": 1.84
+    },
+    "Houston Dyn. - San Jose E.": {
+        "Alt": 2.33,
+        "Üst": 1.34
+    },
+    "Kansas City - V. Whitecaps": {
+        "Alt": 2.51,
+        "Üst": 1.29
+    },
+    "Minnesota Utd - Orlando City": {
+        "Alt": 2.35,
+        "Üst": 1.33
+    },
+    "Nashville SC - Cincinnati": {
+        "Alt": 2.39,
+        "Üst": 1.32
+    },
+    "Tulsa Roughnecks - Rhode Island": {
+        "Alt": 1.46,
+        "Üst": 1.9
+    },
+    "Atl Tucuman - Belgrano": {
+        "Alt": 1.26,
+        "Üst": 2.59
+    },
+    "Talleres - C. Cordoba": {
+        "Alt": 1.41,
+        "Üst": 2.14
+    },
+    "Alianza Lima - Deportivo Garcilaso": {
+        "Alt": 1.62,
+        "Üst": 1.68
+    },
+    "El Paso Loc. - Loudoun Utd": {
+        "Alt": 2.0,
+        "Üst": 1.4
     }
 }
