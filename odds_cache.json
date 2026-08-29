@@ -1,68 +1,4 @@
 {
-    "Nautico PE - Athletic Club MG": {
-        "Alt": 1.49,
-        "Üst": 1.86
-    },
-    "Gremio Novo - Recife": {
-        "Alt": 1.58,
-        "Üst": 1.72
-    },
-    "CD Tecnico Uni. - CD Cuenca": {
-        "Alt": 1.33,
-        "Üst": 2.17
-    },
-    "CD Inca - C.D. Cacahuatique": {
-        "Alt": 1.51,
-        "Üst": 1.82
-    },
-    "Boca Juniors - Lanus": {
-        "Alt": 1.39,
-        "Üst": 2.18
-    },
-    "Gimnasia Y. Tiro - Chac. Juniors": {
-        "Alt": 3.84,
-        "Üst": 3.13
-    },
-    "Juticalpa - Lobos Upnfm": {
-        "Alt": 1.71,
-        "Üst": 1.6
-    },
-    "Atlante - Club Leon": {
-        "Alt": 1.72,
-        "Üst": 1.58
-    },
-    "Necaxa - Cruz Azul": {
-        "Alt": 1.86,
-        "Üst": 1.49
-    },
-    "Correcaminos - Alac. de Durango": {
-        "Alt": 1.72,
-        "Üst": 1.58
-    },
-    "CSD D. Sinaloa - Atl Morelia": {
-        "Alt": 1.82,
-        "Üst": 1.51
-    },
-    "CD Suchitepequez - CSD Imperial": {
-        "Alt": 1.34,
-        "Üst": 2.14
-    },
-    "Sporting San Jose - Inter San Carlos": {
-        "Alt": 1.83,
-        "Üst": 1.51
-    },
-    "Club Tijuana - Pumas Unam": {
-        "Alt": 1.67,
-        "Üst": 1.64
-    },
-    "South Hobart - Kingborough": {
-        "Alt": 2.72,
-        "Üst": 3.76
-    },
-    "Kahibah - New Lambton": {
-        "Alt": 2.32,
-        "Üst": 3.76
-    },
     "Heidelberg - Bentleigh G.": {
         "Alt": 2.02,
         "Üst": 1.39
@@ -76,7 +12,79 @@
         "Üst": 3.93
     },
     "Avondale - Hume City": {
-        "Alt": 2.78,
-        "Üst": 3.7
+        "Alt": 2.9,
+        "Üst": 3.8
+    },
+    "ST Albans S. - D. Thunder": {
+        "Alt": 2.09,
+        "Üst": 3.65
+    },
+    "Preston Lions - Altona Magic": {
+        "Alt": 1.85,
+        "Üst": 1.5
+    },
+    "Oakleigh C. - Dandenong City": {
+        "Alt": 2.07,
+        "Üst": 1.37
+    },
+    "Playford City - Adelaide City": {
+        "Alt": 1.8,
+        "Üst": 1.52
+    },
+    "Cooma Tigers - Canberra Juventus": {
+        "Alt": 2.28,
+        "Üst": 4.0
+    },
+    "Broad. Magic - Weston W.": {
+        "Alt": 2.56,
+        "Üst": 1.22
+    },
+    "Moreton City E. - G. Coast Knights": {
+        "Alt": 2.46,
+        "Üst": 1.24
+    },
+    "Southern District - Kowloon City": {
+        "Alt": 2.33,
+        "Üst": 3.56
+    },
+    "Golik North D. - Kitchee SC": {
+        "Alt": 1.52,
+        "Üst": 3.75
+    },
+    "Cadiz B - Club Atletico Central": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "Barcelona B - UE Cornella": {
+        "Alt": 1.8,
+        "Üst": 1.52
+    },
+    "Tuggeranong Utd - Queanbeyan City": {
+        "Alt": 2.62,
+        "Üst": 1.21
+    },
+    "Qingdao Jonoon - Wuhan T. T.": {
+        "Alt": 1.91,
+        "Üst": 1.45
+    },
+    "Dangjin Citizen - Chuncheon": {
+        "Alt": 1.83,
+        "Üst": 1.51
+    },
+    "Gamba Osaka - S. Hiroshima": {
+        "Alt": 2.09,
+        "Üst": 1.44
+    },
+    "M. Hollyhock - Machida Zelvia": {
+        "Alt": 1.44,
+        "Üst": 2.07
+    },
+    "Iwaki - Niigata": {
+        "Alt": 1.44,
+        "Üst": 1.94
+    },
+    "Tochigi City - Iwata Jubilo": {
+        "Alt": 1.61,
+        "Üst": 1.69
     }
 }
