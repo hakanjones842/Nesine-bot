@@ -1,86 +1,86 @@
 {
-    "Liverpool - Nottingham F.": {
-        "Alt": 2.29,
-        "Üst": 1.35
+    "Diyala - AL Julan": {
+        "Alt": 3.92,
+        "Üst": 3.19
     },
-    "Foshan Nanshi - Shenzhen Juniors": {
-        "Alt": 2.18,
-        "Üst": 1.33
+    "Persepolis - Malavan Bandar A.": {
+        "Alt": 1.09,
+        "Üst": 2.27
     },
-    "SJZ Gongfu - Wuxi Wuguo": {
-        "Alt": 1.51,
-        "Üst": 1.81
+    "Konyaspor - Kocaelispor": {
+        "Alt": 1.38,
+        "Üst": 2.21
     },
-    "Nanjing City - Guangxi Hengchen": {
-        "Alt": 1.59,
-        "Üst": 1.71
+    "Kayserispor - Bursaspor": {
+        "Alt": 1.58,
+        "Üst": 1.73
     },
-    "VSK Aarhus - FA 2000": {
-        "Alt": 1.82,
-        "Üst": 1.51
+    "İstanbulspor - F. Karagümrük": {
+        "Alt": 1.67,
+        "Üst": 1.64
     },
-    "Wolverhampton - Stoke City": {
-        "Alt": 1.85,
-        "Üst": 1.58
-    },
-    "Derby County - Swansea City": {
-        "Alt": 1.54,
-        "Üst": 1.9
-    },
-    "Middlesbrough - W. Bromwich": {
-        "Alt": 1.86,
-        "Üst": 1.56
-    },
-    "MK Dons - Leicester City": {
-        "Alt": 1.92,
-        "Üst": 1.45
-    },
-    "Blackpool - Peterborough": {
-        "Alt": 1.94,
+    "AL Rifaa - AL Ittifaq": {
+        "Alt": 1.93,
         "Üst": 1.44
     },
-    "Port Vale - Crewe Alexandra": {
-        "Alt": 1.62,
-        "Üst": 1.68
+    "Aali - Manama Club": {
+        "Alt": 1.45,
+        "Üst": 1.91
     },
-    "Barnet - Cheltenham": {
+    "Zelezniçar - Siroki Brijeg": {
+        "Alt": 1.43,
+        "Üst": 1.97
+    },
+    "Taborsko - Usti Nad Labem": {
+        "Alt": 1.7,
+        "Üst": 1.61
+    },
+    "Trinec - Banik Ostrava B": {
         "Alt": 1.86,
         "Üst": 1.49
     },
-    "Chengdu Ron. - Liaoning S.": {
-        "Alt": 2.38,
-        "Üst": 1.26
-    },
-    "Fakel - Zenit": {
-        "Alt": 1.51,
-        "Üst": 1.95
-    },
-    "Verl - Fortuna Köln": {
-        "Alt": 2.17,
-        "Üst": 1.39
-    },
-    "A. Aachen - Meppen": {
-        "Alt": 2.36,
-        "Üst": 1.32
-    },
-    "Duisburg - Würzburg": {
-        "Alt": 1.98,
-        "Üst": 1.49
-    },
-    "W. Wiesbaden - Weiss Essen": {
-        "Alt": 2.18,
-        "Üst": 1.39
-    },
-    "Grossaspach - Ingolstadt": {
+    "De Treffers - Rijnsburgse Boys": {
         "Alt": 2.02,
-        "Üst": 1.46
+        "Üst": 3.66
     },
-    "Köln II - Sportfreunde": {
-        "Alt": 2.0,
-        "Üst": 1.41
+    "Lausanne - Zürih": {
+        "Alt": 2.06,
+        "Üst": 1.45
     },
-    "SC Paderborn 07 II - Bocholt": {
-        "Alt": 2.03,
-        "Üst": 1.39
+    "Servette - Luzern": {
+        "Alt": 2.2,
+        "Üst": 1.38
+    },
+    "Juventus (K) - Como (K)": {
+        "Alt": 1.88,
+        "Üst": 1.47
+    },
+    "Torres S. - Sambenedettese": {
+        "Alt": 1.32,
+        "Üst": 2.2
+    },
+    "Ravenna 1913 - Latina C.": {
+        "Alt": 1.42,
+        "Üst": 1.99
+    },
+    "AC Savoia 1908 - Casertana": {
+        "Alt": 1.54,
+        "Üst": 1.78
+    },
+    "Foggia - Salernitana": {
+        "Alt": 1.41,
+        "Üst": 1.99
+    },
+    "Ostia Mare - US Grosseto": {
+        "Alt": 1.46,
+        "Üst": 1.89
+    },
+    "Sorrento - Crotone": {
+        "Alt": 1.44,
+        "Üst": 1.94
+    },
+    "Völsungur - Ir Reykjavik": {
+        "Alt": 1.41,
+        "Üst": 3.84
     }
 }
