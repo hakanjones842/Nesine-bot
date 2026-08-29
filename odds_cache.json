@@ -1,82 +1,78 @@
 {
-    "Zwolle - NEC Nijmegen": {
-        "Alt": 2.67,
-        "Üst": 1.24
+    "J. De Cordoba - America De Cali": {
+        "Alt": 1.44,
+        "Üst": 1.93
     },
-    "Atletico De Rafaela - T. Suarez": {
-        "Alt": 6.5,
-        "Üst": 3.48
+    "Atl Mineiro - Vitoria BA": {
+        "Alt": 1.49,
+        "Üst": 1.98
     },
-    "Ciudad de Bolivar - Defensores B.": {
-        "Alt": 5.69,
-        "Üst": 3.47
+    "Botafogo - Cuiaba": {
+        "Alt": 1.23,
+        "Üst": 2.51
     },
-    "VSN Varazdin - NK Rudes": {
-        "Alt": 2.04,
-        "Üst": 1.39
-    },
-    "Madrid Ccf (K) - Granada (K)": {
-        "Alt": 1.64,
-        "Üst": 1.66
-    },
-    "Ascoli - Carrarese C.": {
-        "Alt": 1.67,
-        "Üst": 1.72
-    },
-    "AS Avellino 1912 - LR Vicenza V.": {
-        "Alt": 1.47,
-        "Üst": 2.0
-    },
-    "Padova - Hellas Verona": {
-        "Alt": 1.56,
+    "Platense M. - Fundacion F. Un Atleta": {
+        "Alt": 1.49,
         "Üst": 1.86
     },
-    "Forli - Pescara": {
-        "Alt": 1.58,
-        "Üst": 1.73
+    "Deportes Limache - Everton DV": {
+        "Alt": 1.34,
+        "Üst": 3.91
     },
-    "Inter Milano U23 - Altamura": {
-        "Alt": 1.45,
-        "Üst": 1.91
+    "CA Huracan - Estudiantes Río C.": {
+        "Alt": 1.23,
+        "Üst": 2.76
     },
-    "SS Monopoli - Calcio Catania": {
-        "Alt": 1.33,
-        "Üst": 2.18
+    "Tlaxcala - Venados": {
+        "Alt": 1.96,
+        "Üst": 1.43
     },
-    "ASD Pineto Calcio - Livorno": {
-        "Alt": 1.4,
-        "Üst": 2.0
+    "Sao Paulo SP - Bragantino": {
+        "Alt": 1.52,
+        "Üst": 1.93
     },
-    "Cosenza - Potenza C.": {
-        "Alt": 1.75,
-        "Üst": 1.56
+    "Hartford Ath - Birmingham Legion": {
+        "Alt": 1.96,
+        "Üst": 1.43
     },
-    "Spezia - Citta Di C.": {
-        "Alt": 1.54,
-        "Üst": 1.79
+    "Lexington SC - Colorado Spr.": {
+        "Alt": 1.73,
+        "Üst": 1.58
     },
-    "Balzan - Gzira Utd": {
-        "Alt": 1.55,
-        "Üst": 1.77
+    "Brooklyn - Sporting Jax": {
+        "Alt": 2.24,
+        "Üst": 1.3
     },
-    "P. Ferreira - AD Fafe": {
-        "Alt": 1.72,
-        "Üst": 1.59
+    "P. Hearts of Pine - Fort Wayne": {
+        "Alt": 1.98,
+        "Üst": 1.42
     },
-    "Novi Pazar - FK M. Sabac": {
-        "Alt": 1.58,
-        "Üst": 1.73
+    "Greenville T. - Naples": {
+        "Alt": 1.79,
+        "Üst": 1.54
     },
-    "FK Cukaricki - FK Vojvodina": {
-        "Alt": 1.81,
+    "Westchester SC - Spokane Velocity": {
+        "Alt": 1.82,
         "Üst": 1.51
     },
-    "Radnicki Nis - Radnicki": {
-        "Alt": 1.57,
-        "Üst": 1.74
+    "Richmond - Forward M.": {
+        "Alt": 1.95,
+        "Üst": 1.43
     },
-    "Sevilla - Atl Madrid": {
-        "Alt": 1.58,
-        "Üst": 1.85
+    "C. Red Wolves SC - AC Boise": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "Pachuca - CD Guadalajara": {
+        "Alt": 1.84,
+        "Üst": 1.51
+    },
+    "Atlas - Queretaro": {
+        "Alt": 1.66,
+        "Üst": 1.64
+    },
+    "Platense - CA Independiente S.": {
+        "Alt": 1.56,
+        "Üst": 1.75
     }
 }
