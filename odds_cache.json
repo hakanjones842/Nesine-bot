@@ -1,74 +1,82 @@
 {
-    "Feyenoord - ADO Den Haag": {
-        "Alt": 3.47,
-        "Üst": 1.13
+    "Casa Pia - Moreirense": {
+        "Alt": 1.37,
+        "Üst": 2.24
     },
-    "Willem II - Heerenveen": {
-        "Alt": 2.46,
-        "Üst": 1.3
+    "Rubin Kazan - Dyn. Makhachkala": {
+        "Alt": 1.31,
+        "Üst": 2.4
     },
-    "Bodo Glimt - Rosenborg": {
-        "Alt": 3.36,
-        "Üst": 1.14
+    "Salzburg - Austria Wien": {
+        "Alt": 2.42,
+        "Üst": 1.31
     },
-    "Brattvag - Sandviken": {
-        "Alt": 2.49,
-        "Üst": 1.23
+    "Bate Borisov - Minsk": {
+        "Alt": 1.5,
+        "Üst": 1.85
     },
-    "Arka Gdynia - Polonia Bytom": {
-        "Alt": 1.85,
-        "Üst": 1.5
+    "Dinamo B. - Spaeri": {
+        "Alt": 2.04,
+        "Üst": 1.38
     },
-    "Swit Skolwin - GKS Tychy": {
-        "Alt": 1.83,
-        "Üst": 1.51
+    "Mallorca - AD Ceuta": {
+        "Alt": 1.98,
+        "Üst": 1.49
     },
-    "LNZ Cherkasy - Veres Rivne": {
-        "Alt": 1.55,
-        "Üst": 1.77
+    "Cadiz - Real Valladolid": {
+        "Alt": 1.45,
+        "Üst": 2.05
     },
-    "Rakow C. - J. Bialystok": {
-        "Alt": 1.86,
-        "Üst": 1.48
+    "Barcelona (K) - Granadilla (K)": {
+        "Alt": 3.78,
+        "Üst": 2.1
     },
-    "Chelsea - Brighton": {
-        "Alt": 2.07,
-        "Üst": 1.44
+    "SS Arezzo - US Palermo": {
+        "Alt": 1.51,
+        "Üst": 1.93
     },
-    "Leeds Utd - Brentford": {
-        "Alt": 1.79,
-        "Üst": 1.61
+    "Mantova 1911 - Empoli": {
+        "Alt": 1.7,
+        "Üst": 1.71
     },
-    "Sunderland - Fulham": {
-        "Alt": 1.61,
-        "Üst": 1.8
+    "Hafnarfjordur - Keflavik": {
+        "Alt": 1.32,
+        "Üst": 4.13
     },
-    "Paris - Nice": {
-        "Alt": 1.61,
-        "Üst": 1.8
+    "Fram Rey - KA Akureyri": {
+        "Alt": 1.64,
+        "Üst": 3.82
     },
-    "Slonim - Orsha": {
-        "Alt": 2.88,
-        "Üst": 3.68
+    "CS Cartagines - CS Herediano": {
+        "Alt": 1.58,
+        "Üst": 1.72
     },
-    "Dnepr Mogilev - Isloch": {
+    "Puskas A. - Ferencvaros": {
+        "Alt": 2.0,
+        "Üst": 1.41
+    },
+    "Dacia Buiucani - Milsami": {
         "Alt": 1.64,
         "Üst": 1.66
     },
-    "Slovan Liberec - H. Kralove": {
-        "Alt": 1.63,
-        "Üst": 1.67
+    "Jerv - P. Grenland": {
+        "Alt": 2.47,
+        "Üst": 1.24
     },
-    "Esbjerg - Vendsyssel": {
-        "Alt": 1.99,
-        "Üst": 1.41
+    "Hinna - Vaag IK": {
+        "Alt": 3.6,
+        "Üst": 4.18
     },
-    "Gold. Arrow - Mamel Sundow": {
+    "Skedsmo - Tromsö (A)": {
+        "Alt": 4.06,
+        "Üst": 2.33
+    },
+    "Sporting Lisbon B - S. Farense": {
         "Alt": 1.44,
         "Üst": 1.93
     },
-    "Wimbledon - Wigan Ath": {
-        "Alt": 1.55,
-        "Üst": 1.76
+    "Felgueiras 1932 - Chaves": {
+        "Alt": 1.46,
+        "Üst": 1.91
     }
 }
