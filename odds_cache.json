@@ -1,90 +1,78 @@
 {
-    "Colorado R. - Real Salt Lake": {
-        "Alt": 1.92,
-        "Üst": 1.52
+    "Queensland L. - Peninsula Power": {
+        "Alt": 2.21,
+        "Üst": 1.31
     },
-    "New Mexico - San Antonio": {
-        "Alt": 1.79,
-        "Üst": 1.53
+    "Siheung Citi. - Pocheon Citi.": {
+        "Alt": 1.47,
+        "Üst": 1.88
     },
-    "Motagua - Olancho": {
-        "Alt": 2.0,
-        "Üst": 1.41
+    "Wofoo Tai PO - Eastern Sports": {
+        "Alt": 3.12,
+        "Üst": 3.75
     },
-    "Alianza Valledupar - Atl. Nacional Medellin": {
-        "Alt": 1.51,
-        "Üst": 1.82
-    },
-    "Monterey Bay - Sacramento R.": {
-        "Alt": 1.57,
-        "Üst": 1.75
-    },
-    "M. Per. Zeledon - Alajuelense": {
-        "Alt": 1.68,
-        "Üst": 1.63
-    },
-    "Portland Tim. - Austin": {
-        "Alt": 2.34,
-        "Üst": 1.33
-    },
-    "San Diego - LA Galaxy": {
-        "Alt": 2.54,
-        "Üst": 1.28
-    },
-    "Las Vegas L. - Charleston": {
-        "Alt": 1.73,
-        "Üst": 1.58
-    },
-    "Phoenix Rising - Indy Eleven": {
-        "Alt": 1.8,
-        "Üst": 1.52
-    },
-    "Santos Laguna - Tigres": {
-        "Alt": 1.88,
-        "Üst": 1.47
-    },
-    "Wallsend - Newcastle Croatia": {
-        "Alt": 3.16,
-        "Üst": 3.82
-    },
-    "Sydney Oly. - Sydney NPL Gençler": {
-        "Alt": 2.05,
-        "Üst": 1.38
-    },
-    "Sydney Utd 58 - ST George Saints": {
-        "Alt": 1.94,
-        "Üst": 1.44
-    },
-    "Marconi Stal - NWS Spirit U23": {
-        "Alt": 1.75,
-        "Üst": 1.56
-    },
-    "Blacktown Gençler - WS Wanderers U23": {
-        "Alt": 2.41,
-        "Üst": 3.71
-    },
-    "Sutherland S. - SD Raiders": {
+    "Slavia Praha B - Opava": {
         "Alt": 2.03,
         "Üst": 1.39
     },
-    "Woll. Wolves - Manly Utd": {
+    "Sturm Graz (Amt.) - R. Wien (Amt)": {
+        "Alt": 2.21,
+        "Üst": 1.31
+    },
+    "S. Bratislava B - FK R. Povazska Bystrica": {
+        "Alt": 2.0,
+        "Üst": 1.41
+    },
+    "A. Petrzalka - Liptovsky Mikulas": {
+        "Alt": 1.93,
+        "Üst": 1.44
+    },
+    "AC N. Parceiro - Thespakusatsu G.": {
+        "Alt": 1.6,
+        "Üst": 1.71
+    },
+    "G. Kitakyushu - Matsumoto Y.": {
+        "Alt": 1.54,
+        "Üst": 1.78
+    },
+    "Albirex Niigata (K) - Mynavi S. (K)": {
+        "Alt": 1.35,
+        "Üst": 2.14
+    },
+    "Urawa Red (K) - Kanagawa (K)": {
         "Alt": 1.72,
         "Üst": 1.58
     },
-    "Apia Leic. - St George City": {
-        "Alt": 1.9,
-        "Üst": 3.48
+    "JEF Utd Ichihara (K) - Cerezo Osaka S. (K)": {
+        "Alt": 1.34,
+        "Üst": 2.15
     },
-    "Rockdale City - University of Nsw": {
-        "Alt": 2.28,
-        "Üst": 3.44
+    "Saitama (K) - INAC Kobe L. (K)": {
+        "Alt": 2.56,
+        "Üst": 3.4
     },
-    "Bulleen Lions - Northcote City": {
+    "Diosgyori Vtk II - Hajdunanas FK": {
         "Alt": 2.0,
         "Üst": 1.4
     },
-    "Brunswick City SC - Melbourne Srbija": {
-        "Alt": 1.31,
-        "Üst": 3.94
+    "Vasas SC II - III Keruleti Tve": {
+        "Alt": 1.56,
+        "Üst": 3.62
+    },
+    "Budapest Honved MFA - Bss Monor": {
+        "Alt": 2.03,
+        "Üst": 1.39
+    },
+    "Y. Krasnoyarsk - Shinnik Yar.": {
+        "Alt": 1.34,
+        "Üst": 2.15
+    },
+    "MIO Biwako Shiga - Gainare Tottori": {
+        "Alt": 1.56,
+        "Üst": 1.75
+    },
+    "Mokpo City - Yeoju Citizen": {
+        "Alt": 1.49,
+        "Üst": 1.86
     }
 }
