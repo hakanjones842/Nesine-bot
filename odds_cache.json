@@ -1,82 +1,74 @@
 {
-    "Casa Pia - Moreirense": {
-        "Alt": 1.37,
-        "Üst": 2.24
-    },
-    "Rubin Kazan - Dyn. Makhachkala": {
-        "Alt": 1.31,
-        "Üst": 2.4
-    },
-    "Salzburg - Austria Wien": {
-        "Alt": 2.42,
-        "Üst": 1.31
-    },
-    "Bate Borisov - Minsk": {
-        "Alt": 1.5,
-        "Üst": 1.85
-    },
-    "Dinamo B. - Spaeri": {
-        "Alt": 2.04,
-        "Üst": 1.38
-    },
-    "Mallorca - AD Ceuta": {
-        "Alt": 1.98,
-        "Üst": 1.49
-    },
-    "Cadiz - Real Valladolid": {
-        "Alt": 1.45,
-        "Üst": 2.05
-    },
-    "Barcelona (K) - Granadilla (K)": {
-        "Alt": 3.78,
-        "Üst": 2.1
-    },
-    "SS Arezzo - US Palermo": {
-        "Alt": 1.51,
+    "Argentinos J. - Aldosivi": {
+        "Alt": 1.52,
         "Üst": 1.93
     },
-    "Mantova 1911 - Empoli": {
-        "Alt": 1.7,
-        "Üst": 1.71
+    "Racing de Cordoba - Colon": {
+        "Alt": 1.28,
+        "Üst": 3.4
     },
-    "Hafnarfjordur - Keflavik": {
-        "Alt": 1.32,
-        "Üst": 4.13
+    "Columbus Cr. - N. E. Revolution": {
+        "Alt": 2.0,
+        "Üst": 1.48
     },
-    "Fram Rey - KA Akureyri": {
-        "Alt": 1.64,
-        "Üst": 3.82
+    "Orense SC - CSD Macara": {
+        "Alt": 1.38,
+        "Üst": 2.05
     },
-    "CS Cartagines - CS Herediano": {
+    "Sport Boys - S. Cristal": {
         "Alt": 1.58,
         "Üst": 1.72
     },
-    "Puskas A. - Ferencvaros": {
-        "Alt": 2.0,
-        "Üst": 1.41
+    "Trujillanos - Monagas SC": {
+        "Alt": 1.5,
+        "Üst": 1.84
     },
-    "Dacia Buiucani - Milsami": {
+    "Godoy Cruz - San Telmo": {
+        "Alt": 1.37,
+        "Üst": 2.07
+    },
+    "Crb Al - Criciuma": {
+        "Alt": 1.45,
+        "Üst": 1.91
+    },
+    "CD Aguila - Fuerte San Francisco": {
+        "Alt": 1.52,
+        "Üst": 1.79
+    },
+    "Dep. San Pedro - Antigua": {
+        "Alt": 1.42,
+        "Üst": 1.99
+    },
+    "CD Estrella Roja - CD Olimpia": {
+        "Alt": 1.66,
+        "Üst": 1.64
+    },
+    "Sebaco - Real Esteli": {
         "Alt": 1.64,
+        "Üst": 1.67
+    },
+    "Dep. Tachira - Caracas": {
+        "Alt": 1.76,
+        "Üst": 1.56
+    },
+    "I. Medellin - Llaneros": {
+        "Alt": 1.61,
+        "Üst": 1.69
+    },
+    "Mirassol SP - Palmeiras SP": {
+        "Alt": 1.59,
+        "Üst": 1.82
+    },
+    "Gremio P. - Chapecoense": {
+        "Alt": 1.74,
         "Üst": 1.66
     },
-    "Jerv - P. Grenland": {
-        "Alt": 2.47,
-        "Üst": 1.24
+    "Tucuman - CA Guemes": {
+        "Alt": 2.39,
+        "Üst": 2.81
     },
-    "Hinna - Vaag IK": {
-        "Alt": 3.6,
-        "Üst": 4.18
-    },
-    "Skedsmo - Tromsö (A)": {
-        "Alt": 4.06,
-        "Üst": 2.33
-    },
-    "Sporting Lisbon B - S. Farense": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
-    "Felgueiras 1932 - Chaves": {
-        "Alt": 1.46,
-        "Üst": 1.91
+    "Vila Nova - Ceara CE": {
+        "Alt": 1.37,
+        "Üst": 2.08
     }
 }
