@@ -1,74 +1,74 @@
 {
-    "Argentinos J. - Aldosivi": {
-        "Alt": 1.52,
-        "Üst": 1.93
-    },
-    "Racing de Cordoba - Colon": {
-        "Alt": 1.28,
-        "Üst": 3.4
-    },
-    "Columbus Cr. - N. E. Revolution": {
-        "Alt": 2.0,
-        "Üst": 1.48
-    },
-    "Orense SC - CSD Macara": {
+    "Independiente - Gimnasia Y.": {
         "Alt": 1.38,
-        "Üst": 2.05
+        "Üst": 2.2
     },
-    "Sport Boys - S. Cristal": {
-        "Alt": 1.58,
-        "Üst": 1.72
-    },
-    "Trujillanos - Monagas SC": {
-        "Alt": 1.5,
-        "Üst": 1.84
-    },
-    "Godoy Cruz - San Telmo": {
-        "Alt": 1.37,
-        "Üst": 2.07
-    },
-    "Crb Al - Criciuma": {
-        "Alt": 1.45,
-        "Üst": 1.91
-    },
-    "CD Aguila - Fuerte San Francisco": {
-        "Alt": 1.52,
-        "Üst": 1.79
-    },
-    "Dep. San Pedro - Antigua": {
-        "Alt": 1.42,
-        "Üst": 1.99
-    },
-    "CD Estrella Roja - CD Olimpia": {
-        "Alt": 1.66,
-        "Üst": 1.64
-    },
-    "Sebaco - Real Esteli": {
-        "Alt": 1.64,
+    "Bahia BA - Internacional": {
+        "Alt": 1.73,
         "Üst": 1.67
     },
-    "Dep. Tachira - Caracas": {
-        "Alt": 1.76,
+    "Portuguesa - Metropolitan": {
+        "Alt": 1.53,
+        "Üst": 1.79
+    },
+    "S. Louis City SC - Dallas": {
+        "Alt": 2.07,
+        "Üst": 1.44
+    },
+    "CS Emelec - Club Leones D. N.": {
+        "Alt": 1.4,
+        "Üst": 2.01
+    },
+    "Aurora - Malacateco": {
+        "Alt": 1.51,
+        "Üst": 1.84
+    },
+    "San Marcos - Walter Ferretti": {
+        "Alt": 1.75,
         "Üst": 1.56
     },
-    "I. Medellin - Llaneros": {
-        "Alt": 1.61,
-        "Üst": 1.69
+    "Carabobo - Zamora": {
+        "Alt": 1.69,
+        "Üst": 1.62
     },
-    "Mirassol SP - Palmeiras SP": {
-        "Alt": 1.59,
-        "Üst": 1.82
+    "Real CD Espana - CD Choloma": {
+        "Alt": 2.0,
+        "Üst": 1.41
     },
-    "Gremio P. - Chapecoense": {
-        "Alt": 1.74,
-        "Üst": 1.66
+    "Millonarios - Inter Bogota": {
+        "Alt": 1.65,
+        "Üst": 1.65
     },
-    "Tucuman - CA Guemes": {
-        "Alt": 2.39,
-        "Üst": 2.81
+    "CD Fas - Angel Firpo": {
+        "Alt": 1.49,
+        "Üst": 1.86
     },
-    "Vila Nova - Ceara CE": {
-        "Alt": 1.37,
-        "Üst": 2.08
+    "Dep. La Gua. - Estudiante Merida": {
+        "Alt": 1.55,
+        "Üst": 1.77
+    },
+    "D. Saprissa - CD Esc. Belen": {
+        "Alt": 2.07,
+        "Üst": 1.37
+    },
+    "D. Toluca - Juarez": {
+        "Alt": 2.54,
+        "Üst": 1.23
+    },
+    "CS Cienciano - Cusco": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "Coquimbo U. - Huachipato": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "Ind. Mendoza - Racing Club": {
+        "Alt": 1.39,
+        "Üst": 2.17
+    },
+    "Xelaju - Deportivo Mixco": {
+        "Alt": 1.7,
+        "Üst": 1.6
     }
 }
