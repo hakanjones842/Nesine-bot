@@ -1,107 +1,11 @@
 {
-    "Persib Bandung - Manila Digger": {
-        "Alt": 2.24,
-        "Üst": 3.65
-    },
-    "Bournemouth U21 - Middlesbrough U21": {
-        "Alt": 3.5,
-        "Üst": 3.99
-    },
-    "Brentford U21 - Sunderland U21": {
-        "Alt": 3.54,
-        "Üst": 4.14
-    },
-    "Chelsea U21 - W. Ham U21": {
-        "Alt": 2.66,
-        "Üst": 3.66
-    },
-    "Derby County U21 - W. Bromwich U21": {
-        "Alt": 3.66,
-        "Üst": 3.97
-    },
-    "Bolton Wanderers U21 - Coventry City U21": {
-        "Alt": 3.06,
-        "Üst": 3.84
-    },
-    "Mathare Utd - Aps Bomet": {
-        "Alt": 5.5,
-        "Üst": 3.63
-    },
-    "Tottenham U21 - Birmingham City U21": {
-        "Alt": 2.0,
-        "Üst": 3.75
-    },
-    "Man. Utd U21 - Leicester City U21": {
-        "Alt": 2.23,
-        "Üst": 3.66
-    },
-    "Afan Lido - Ynyshir Albions": {
-        "Alt": 1.94,
-        "Üst": 1.44
-    },
-    "Cardiff Draconians - Pontardawe T.": {
-        "Alt": 2.77,
-        "Üst": 3.68
-    },
-    "Carmarthen - Trethomas Bluebirds": {
-        "Alt": 3.1,
-        "Üst": 3.73
-    },
-    "Pontypridd Town - Llantwit Major": {
-        "Alt": 2.35,
-        "Üst": 3.65
-    },
-    "Newport City - Swansea U.": {
-        "Alt": 1.38,
-        "Üst": 3.85
-    },
-    "Aberystwyth - Llanelli": {
-        "Alt": 1.64,
-        "Üst": 3.53
-    },
-    "Baglan Dragons - Caerphilly Ath": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
-    "Caerau Ely - Treowen Stars": {
-        "Alt": 2.63,
-        "Üst": 3.6
-    },
-    "Flint Town Utd - Connah's": {
-        "Alt": 1.89,
-        "Üst": 1.47
-    },
-    "Cambrian Clydach - Penybont": {
-        "Alt": 1.71,
-        "Üst": 1.6
-    },
-    "Briton Ferry - Barry Town": {
-        "Alt": 1.89,
-        "Üst": 1.47
-    },
-    "Broughton - Holywell Town": {
-        "Alt": 2.29,
-        "Üst": 1.3
-    },
-    "Haverfordwest C. - Trefelin": {
-        "Alt": 1.86,
-        "Üst": 1.49
-    },
-    "Ammanford - Cardiff Metro.": {
-        "Alt": 1.74,
-        "Üst": 1.57
-    },
-    "Oman - Dhofar Scsc": {
-        "Alt": 1.32,
-        "Üst": 2.21
-    },
     "Samail SC - Saham": {
-        "Alt": 1.37,
-        "Üst": 2.08
+        "Alt": 1.39,
+        "Üst": 2.03
     },
     "Araz Nakhchivan PFK - Sabah": {
-        "Alt": 1.92,
-        "Üst": 1.45
+        "Alt": 1.98,
+        "Üst": 1.42
     },
     "Caernarfon - TNS": {
         "Alt": 1.98,
@@ -110,5 +14,93 @@
     "Frome - Bath City": {
         "Alt": 1.82,
         "Üst": 1.51
+    },
+    "Sholing - Gosport": {
+        "Alt": 1.95,
+        "Üst": 1.43
+    },
+    "Hanworth Villa - Chertsey Town": {
+        "Alt": 1.81,
+        "Üst": 1.51
+    },
+    "Plymouth Parkway - Poole Town": {
+        "Alt": 1.94,
+        "Üst": 1.44
+    },
+    "Yate Town - Taunton Town": {
+        "Alt": 2.02,
+        "Üst": 1.39
+    },
+    "Chichester City - Hav. Waterloo": {
+        "Alt": 1.89,
+        "Üst": 1.46
+    },
+    "Uxbridge - Wimborne": {
+        "Alt": 2.94,
+        "Üst": 3.64
+    },
+    "Basingstoke - Bracknell Town": {
+        "Alt": 3.68,
+        "Üst": 3.88
+    },
+    "Berkhamsted - Hanwell Town": {
+        "Alt": 1.71,
+        "Üst": 1.6
+    },
+    "Malvern Town - Chippenham": {
+        "Alt": 1.88,
+        "Üst": 1.47
+    },
+    "Gloucester - Evesham Utd": {
+        "Alt": 2.05,
+        "Üst": 1.38
+    },
+    "Kettering - Stamford": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "Anstey Nomads - Banbury Utd": {
+        "Alt": 1.6,
+        "Üst": 1.7
+    },
+    "Worcester City - Bromsgrove Sp.": {
+        "Alt": 1.62,
+        "Üst": 1.69
+    },
+    "Rushall Olym. - Alvechurch": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "Bishop´s Stortford - Hitchin Town": {
+        "Alt": 1.81,
+        "Üst": 1.52
+    },
+    "Needham - Peterborough S.": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "Redditch Utd - Halesowen": {
+        "Alt": 1.71,
+        "Üst": 1.6
+    },
+    "Real Bedford - Leighton Town": {
+        "Alt": 1.68,
+        "Üst": 3.47
+    },
+    "RC Warwick - Stratford": {
+        "Alt": 1.91,
+        "Üst": 1.46
+    },
+    "Bury Town - Leiston": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "Lancaster - Workington": {
+        "Alt": 1.72,
+        "Üst": 1.58
+    },
+    "G'borough Tr. - Cleethorpes": {
+        "Alt": 1.51,
+        "Üst": 1.81
     }
 }
