@@ -1,55 +1,23 @@
 {
-    "Estudiantes - New Old Boys": {
-        "Alt": 1.4,
-        "Üst": 2.16
-    },
-    "Def. Justicia - CA Platense": {
-        "Alt": 1.33,
-        "Üst": 2.36
-    },
-    "CA Los Andes - Acassuso": {
-        "Alt": 3.8,
-        "Üst": 3.11
-    },
-    "D. Union La Calera - D. La Serena": {
-        "Alt": 1.66,
-        "Üst": 1.64
-    },
-    "Fortaleza CE - Operario": {
-        "Alt": 1.45,
-        "Üst": 1.92
-    },
-    "Ucv - Rayo Zuliano": {
-        "Alt": 1.96,
-        "Üst": 1.43
-    },
-    "Clube do Remo - Coritiba": {
-        "Alt": 1.48,
-        "Üst": 2.0
-    },
-    "Deportivo Pasto - Dep. Pereira": {
-        "Alt": 1.51,
-        "Üst": 1.83
-    },
     "A. Puerto C. - Academia Anzoategui": {
-        "Alt": 1.68,
-        "Üst": 1.62
+        "Alt": 1.69,
+        "Üst": 1.61
     },
     "Gimnasia Jujuy - Agropecuario A.": {
-        "Alt": 1.38,
-        "Üst": 2.05
+        "Alt": 1.42,
+        "Üst": 1.98
     },
     "Instituto - San Lorenzo": {
-        "Alt": 1.27,
-        "Üst": 2.56
+        "Alt": 1.26,
+        "Üst": 2.62
     },
     "CA Tigre - Barracas": {
         "Alt": 1.23,
-        "Üst": 2.73
+        "Üst": 2.78
     },
     "Uni. Catolica - O'Higgins": {
-        "Alt": 1.85,
-        "Üst": 1.5
+        "Alt": 1.88,
+        "Üst": 1.47
     },
     "CD Tolima - Cucuta D.": {
         "Alt": 1.75,
@@ -65,18 +33,50 @@
     },
     "Longyuan Athletic - Beijing Guoan": {
         "Alt": 1.3,
-        "Üst": 1.99
+        "Üst": 2.0
     },
     "Dalian Yingbo - Shanghai S.": {
         "Alt": 2.14,
         "Üst": 1.35
     },
     "Shandong Taishan - Shanghai Port": {
-        "Alt": 2.33,
-        "Üst": 1.28
+        "Alt": 2.37,
+        "Üst": 1.27
     },
     "Charlton Ath U21 - Wigan Ath U21": {
         "Alt": 2.08,
         "Üst": 3.87
+    },
+    "Hull City U21 - Swansea U21": {
+        "Alt": 1.37,
+        "Üst": 4.11
+    },
+    "Fleetwood T. U21 - Millwall U21": {
+        "Alt": 3.22,
+        "Üst": 3.93
+    },
+    "Huddersfield T. U21 - QPR U21": {
+        "Alt": 2.29,
+        "Üst": 3.77
+    },
+    "Bristol City U21 - Sheffield Utd U21": {
+        "Alt": 1.49,
+        "Üst": 3.82
+    },
+    "Korona II Kielce SA - Radomiak Radom": {
+        "Alt": 1.98,
+        "Üst": 3.67
+    },
+    "Bandırmaspor - Antalyaspor": {
+        "Alt": 1.56,
+        "Üst": 1.75
+    },
+    "Gor Mahia - Muranga Seal": {
+        "Alt": 1.5,
+        "Üst": 1.85
+    },
+    "AFC Progresul 1944 Spartac - Concordia": {
+        "Alt": 1.86,
+        "Üst": 3.56
     }
 }
