@@ -1,74 +1,90 @@
 {
-    "Independiente - Gimnasia Y.": {
-        "Alt": 1.38,
-        "Üst": 2.2
+    "Xelaju - Deportivo Mixco": {
+        "Alt": 1.7,
+        "Üst": 1.6
     },
-    "Bahia BA - Internacional": {
-        "Alt": 1.73,
-        "Üst": 1.67
+    "Unan Managua - Managua": {
+        "Alt": 1.88,
+        "Üst": 1.47
     },
-    "Portuguesa - Metropolitan": {
-        "Alt": 1.53,
-        "Üst": 1.79
+    "Deport Cali - CA Bucaramanga": {
+        "Alt": 1.37,
+        "Üst": 2.09
     },
-    "S. Louis City SC - Dallas": {
-        "Alt": 2.07,
+    "Monterrey - Atl San Luis": {
+        "Alt": 2.13,
+        "Üst": 1.35
+    },
+    "Bournemouth U21 - Middlesbrough U21": {
+        "Alt": 3.5,
+        "Üst": 3.99
+    },
+    "Brentford U21 - Sunderland U21": {
+        "Alt": 1.34,
+        "Üst": 4.15
+    },
+    "Chelsea U21 - W. Ham U21": {
+        "Alt": 2.66,
+        "Üst": 3.66
+    },
+    "Derby County U21 - W. Bromwich U21": {
+        "Alt": 3.66,
+        "Üst": 3.97
+    },
+    "Bolton Wanderers U21 - Coventry City U21": {
+        "Alt": 3.06,
+        "Üst": 3.84
+    },
+    "Mathare Utd - Aps Bomet": {
+        "Alt": 5.5,
+        "Üst": 3.63
+    },
+    "Tottenham U21 - Birmingham City U21": {
+        "Alt": 2.0,
+        "Üst": 3.75
+    },
+    "Man. Utd U21 - Leicester City U21": {
+        "Alt": 2.23,
+        "Üst": 3.66
+    },
+    "Afan Lido - Ynyshir Albions": {
+        "Alt": 1.94,
         "Üst": 1.44
     },
-    "CS Emelec - Club Leones D. N.": {
-        "Alt": 1.4,
-        "Üst": 2.01
+    "Cardiff Draconians - Pontardawe T.": {
+        "Alt": 2.77,
+        "Üst": 3.68
     },
-    "Aurora - Malacateco": {
-        "Alt": 1.51,
-        "Üst": 1.84
+    "Carmarthen - Trethomas Bluebirds": {
+        "Alt": 3.1,
+        "Üst": 3.73
     },
-    "San Marcos - Walter Ferretti": {
-        "Alt": 1.75,
-        "Üst": 1.56
+    "Pontypridd Town - Llantwit Major": {
+        "Alt": 2.42,
+        "Üst": 3.68
     },
-    "Carabobo - Zamora": {
-        "Alt": 1.69,
-        "Üst": 1.62
+    "Newport City - Swansea U.": {
+        "Alt": 1.38,
+        "Üst": 3.85
     },
-    "Real CD Espana - CD Choloma": {
-        "Alt": 2.0,
-        "Üst": 1.41
+    "Aberystwyth - Llanelli": {
+        "Alt": 1.64,
+        "Üst": 3.53
     },
-    "Millonarios - Inter Bogota": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "CD Fas - Angel Firpo": {
-        "Alt": 1.49,
-        "Üst": 1.86
-    },
-    "Dep. La Gua. - Estudiante Merida": {
-        "Alt": 1.55,
-        "Üst": 1.77
-    },
-    "D. Saprissa - CD Esc. Belen": {
-        "Alt": 2.07,
-        "Üst": 1.37
-    },
-    "D. Toluca - Juarez": {
-        "Alt": 2.54,
-        "Üst": 1.23
-    },
-    "CS Cienciano - Cusco": {
+    "Baglan Dragons - Caerphilly Ath": {
         "Alt": 1.79,
         "Üst": 1.53
     },
-    "Coquimbo U. - Huachipato": {
-        "Alt": 1.86,
-        "Üst": 1.49
+    "Caerau Ely - Treowen Stars": {
+        "Alt": 2.56,
+        "Üst": 3.58
     },
-    "Ind. Mendoza - Racing Club": {
-        "Alt": 1.39,
-        "Üst": 2.17
+    "Flint Town Utd - Connah's": {
+        "Alt": 1.89,
+        "Üst": 1.47
     },
-    "Xelaju - Deportivo Mixco": {
-        "Alt": 1.7,
+    "Cambrian Clydach - Penybont": {
+        "Alt": 1.71,
         "Üst": 1.6
     }
 }
