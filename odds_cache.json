@@ -1,23 +1,15 @@
 {
-    "Atl Grau - Melgar": {
-        "Alt": 1.45,
-        "Üst": 1.92
-    },
-    "Delfin - CD Tecnico Uni.": {
-        "Alt": 1.36,
-        "Üst": 2.12
-    },
     "Londrina PR - Juventude": {
-        "Alt": 1.37,
-        "Üst": 2.08
+        "Alt": 1.32,
+        "Üst": 2.2
     },
     "Torque - Danubio": {
         "Alt": 1.5,
         "Üst": 1.85
     },
     "Atl Mineiro - Cruzeiro MG": {
-        "Alt": 1.43,
-        "Üst": 2.1
+        "Alt": 1.37,
+        "Üst": 2.22
     },
     "LDU Quito - Mushuc Runa": {
         "Alt": 1.61,
@@ -76,11 +68,23 @@
         "Üst": 1.8
     },
     "Ehime - B. Akita": {
-        "Alt": 1.46,
-        "Üst": 1.91
+        "Alt": 1.44,
+        "Üst": 1.95
     },
     "Gifu - T. Vortis": {
         "Alt": 1.52,
         "Üst": 1.8
+    },
+    "Osaka - Ventforet": {
+        "Alt": 1.5,
+        "Üst": 1.85
+    },
+    "Kagoshima Utd - Sapporo": {
+        "Alt": 1.53,
+        "Üst": 1.79
+    },
+    "Renofa Y. - Fujieda Myfc": {
+        "Alt": 1.75,
+        "Üst": 1.57
     }
 }
