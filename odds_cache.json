@@ -1,51 +1,15 @@
 {
-    "Farense U23 - Famalicao U23": {
-        "Alt": 1.69,
-        "Üst": 1.61
-    },
-    "Longyuan Athletic - Beijing Guoan": {
-        "Alt": 1.2,
-        "Üst": 2.15
-    },
-    "Dalian Yingbo - Shanghai S.": {
-        "Alt": 2.33,
-        "Üst": 1.28
-    },
-    "Shandong Taishan - Shanghai Port": {
-        "Alt": 2.53,
-        "Üst": 1.23
-    },
-    "Charlton Ath U21 - Wigan Ath U21": {
-        "Alt": 2.08,
-        "Üst": 3.87
-    },
-    "Hull City U21 - Swansea U21": {
-        "Alt": 1.37,
-        "Üst": 4.11
-    },
-    "Fleetwood T. U21 - Millwall U21": {
-        "Alt": 3.22,
-        "Üst": 3.93
-    },
-    "Huddersfield T. U21 - QPR U21": {
-        "Alt": 2.28,
-        "Üst": 3.82
-    },
-    "Bristol City U21 - Sheffield Utd U21": {
-        "Alt": 1.49,
-        "Üst": 3.85
-    },
     "Korona II Kielce SA - Radomiak Radom": {
-        "Alt": 1.97,
-        "Üst": 3.65
+        "Alt": 3.96,
+        "Üst": 2.37
     },
     "Bandırmaspor - Antalyaspor": {
         "Alt": 1.53,
         "Üst": 1.79
     },
     "AFC Progresul 1944 Spartac - Concordia": {
-        "Alt": 1.93,
-        "Üst": 3.7
+        "Alt": 3.6,
+        "Üst": 1.91
     },
     "Gaddafi - Updf": {
         "Alt": 1.39,
@@ -56,43 +20,63 @@
         "Üst": 2.94
     },
     "Akron Tolyatti - L. Moskova": {
-        "Alt": 1.95,
+        "Alt": 1.96,
         "Üst": 1.43
     },
     "Podhale Nowy Targ - Pogon Grodzisk M.": {
-        "Alt": 1.84,
-        "Üst": 1.5
+        "Alt": 1.81,
+        "Üst": 1.51
     },
     "Ümraniyespor - Muğlaspor": {
-        "Alt": 1.37,
-        "Üst": 2.07
+        "Alt": 1.36,
+        "Üst": 2.12
     },
-    "AL Sadd - AL Gharraf SC": {
+    "AL Sadd - AL Gharrafa": {
         "Alt": 2.33,
         "Üst": 1.28
     },
     "Talaea Gaish - ZED": {
-        "Alt": 1.17,
-        "Üst": 2.82
+        "Alt": 1.16,
+        "Üst": 2.84
     },
     "Ghazl El Mahallah - Enppi Club": {
-        "Alt": 1.1,
-        "Üst": 3.31
+        "Alt": 1.09,
+        "Üst": 3.4
     },
     "Siarka Tarnobrzeg - Zaglebie Lubin": {
-        "Alt": 2.04,
-        "Üst": 1.39
+        "Alt": 1.97,
+        "Üst": 1.43
     },
     "Zks Kluczevia Stargard - Pogon Siedl.": {
-        "Alt": 1.72,
-        "Üst": 1.59
+        "Alt": 1.65,
+        "Üst": 1.65
     },
     "Chemik Bydgoszcz - Piast Gliwice": {
-        "Alt": 3.47,
-        "Üst": 1.94
+        "Alt": 3.56,
+        "Üst": 1.77
     },
     "Wisla Plock II - Puszcza": {
         "Alt": 1.99,
         "Üst": 1.42
+    },
+    "Minija 2017 - Dfk Dainava": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "Sepsi Os Sf - Cluj": {
+        "Alt": 1.51,
+        "Üst": 1.81
+    },
+    "CSM Corona Brasov - Bihor Oradea": {
+        "Alt": 1.64,
+        "Üst": 1.67
+    },
+    "Fakel - Krasnodar": {
+        "Alt": 1.67,
+        "Üst": 1.63
+    },
+    "Volos - PAE PS Kalamata": {
+        "Alt": 1.56,
+        "Üst": 1.75
     }
 }
