@@ -1,23 +1,7 @@
 {
-    "Londrina PR - Juventude": {
-        "Alt": 1.32,
-        "Üst": 2.2
-    },
-    "Torque - Danubio": {
-        "Alt": 1.5,
-        "Üst": 1.85
-    },
-    "Atl Mineiro - Cruzeiro MG": {
-        "Alt": 1.37,
-        "Üst": 2.22
-    },
     "LDU Quito - Mushuc Runa": {
         "Alt": 1.61,
         "Üst": 1.7
-    },
-    "Fortaleza - Once Caldas": {
-        "Alt": 1.5,
-        "Üst": 1.85
     },
     "V. Hachinohe - Tochigi City": {
         "Alt": 1.61,
@@ -44,8 +28,8 @@
         "Üst": 1.84
     },
     "Fukuoka - Urawa Red": {
-        "Alt": 1.43,
-        "Üst": 2.1
+        "Alt": 1.44,
+        "Üst": 2.07
     },
     "Machida Zelvia - Kawasaki Frontale": {
         "Alt": 1.77,
@@ -86,5 +70,33 @@
     "Renofa Y. - Fujieda Myfc": {
         "Alt": 1.75,
         "Üst": 1.57
+    },
+    "G. Kitakyushu - Iwaki": {
+        "Alt": 1.51,
+        "Üst": 1.81
+    },
+    "Z. Kanazawa - Imabari": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Ryukyu - Yokohama": {
+        "Alt": 1.7,
+        "Üst": 1.6
+    },
+    "Tegevajaro Mi. - Kat. Toyama": {
+        "Alt": 1.58,
+        "Üst": 1.73
+    },
+    "Thespakusatsu G. - Niigata": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "Nara Club - Sagan Tosu": {
+        "Alt": 1.69,
+        "Üst": 1.61
+    },
+    "R. Kumamoto - Oita Trinata": {
+        "Alt": 1.41,
+        "Üst": 2.0
     }
 }
