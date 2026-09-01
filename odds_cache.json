@@ -1,28 +1,4 @@
 {
-    "A. Puerto C. - Academia Anzoategui": {
-        "Alt": 1.69,
-        "Üst": 1.61
-    },
-    "Gimnasia Jujuy - Agropecuario A.": {
-        "Alt": 1.42,
-        "Üst": 1.98
-    },
-    "Instituto - San Lorenzo": {
-        "Alt": 1.26,
-        "Üst": 2.62
-    },
-    "CA Tigre - Barracas": {
-        "Alt": 1.23,
-        "Üst": 2.78
-    },
-    "Uni. Catolica - O'Higgins": {
-        "Alt": 1.88,
-        "Üst": 1.47
-    },
-    "CD Tolima - Cucuta D.": {
-        "Alt": 1.75,
-        "Üst": 1.57
-    },
     "Vizela U23 - Santa Clara U23": {
         "Alt": 1.75,
         "Üst": 1.56
@@ -76,7 +52,31 @@
         "Üst": 1.85
     },
     "AFC Progresul 1944 Spartac - Concordia": {
-        "Alt": 1.86,
+        "Alt": 1.9,
         "Üst": 3.56
+    },
+    "NEC - Lugazi Municipal": {
+        "Alt": 2.42,
+        "Üst": 2.89
+    },
+    "Akron Tolyatti - L. Moskova": {
+        "Alt": 1.92,
+        "Üst": 1.45
+    },
+    "Podhale Nowy Targ - Pogon Grodzisk M.": {
+        "Alt": 1.84,
+        "Üst": 1.5
+    },
+    "Ümraniyespor - Muğlaspor": {
+        "Alt": 4.83,
+        "Üst": 3.45
+    },
+    "AL Sadd - AL Gharraf SC": {
+        "Alt": 2.39,
+        "Üst": 1.26
+    },
+    "Talaea Gaish - ZED": {
+        "Alt": 1.25,
+        "Üst": 2.44
     }
 }
