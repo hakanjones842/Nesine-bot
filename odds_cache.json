@@ -1,7 +1,11 @@
 {
-    "LDU Quito - Mushuc Runa": {
-        "Alt": 1.61,
-        "Üst": 1.7
+    "Sutherland S. - Manly Utd": {
+        "Alt": 1.73,
+        "Üst": 1.58
+    },
+    "Marconi Stal - NWS Spirit U23": {
+        "Alt": 1.73,
+        "Üst": 1.58
     },
     "V. Hachinohe - Tochigi City": {
         "Alt": 1.61,
@@ -98,5 +102,13 @@
     "R. Kumamoto - Oita Trinata": {
         "Alt": 1.41,
         "Üst": 2.0
+    },
+    "Gainare Tottori - Omiya Ardija": {
+        "Alt": 1.75,
+        "Üst": 1.57
+    },
+    "INAC Kobe L. (K) - Nagano P. (K)": {
+        "Alt": 3.37,
+        "Üst": 2.07
     }
 }
