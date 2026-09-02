@@ -1,118 +1,70 @@
 {
-    "Sutherland S. - Manly Utd": {
-        "Alt": 1.73,
-        "Üst": 1.58
+    "Yunnan Yukun - Chongqing T.": {
+        "Alt": 2.15,
+        "Üst": 1.34
     },
-    "Marconi Stal - NWS Spirit U23": {
-        "Alt": 1.66,
-        "Üst": 1.65
+    "Nairobi Utd - KCB Nairobi": {
+        "Alt": 3.67,
+        "Üst": 3.08
     },
-    "V. Hachinohe - Tochigi City": {
-        "Alt": 1.59,
-        "Üst": 1.72
+    "KTS K. Luzino - Wisla Plock": {
+        "Alt": 2.07,
+        "Üst": 3.38
     },
-    "SC Sagamihara - Iwata Jubilo": {
+    "Sassuolo - Frosinone": {
+        "Alt": 1.97,
+        "Üst": 1.5
+    },
+    "Cape Town City - Leicesterford City": {
+        "Alt": 1.38,
+        "Üst": 2.04
+    },
+    "CS Minerul Lupeni - UTA Arad": {
+        "Alt": 1.86,
+        "Üst": 1.48
+    },
+    "Blacks Power - Uganda Police": {
+        "Alt": 1.33,
+        "Üst": 2.18
+    },
+    "Ntungasaze - Maroons": {
+        "Alt": 1.35,
+        "Üst": 2.14
+    },
+    "Orenburg - Rubin Kazan": {
         "Alt": 1.51,
         "Üst": 1.81
     },
-    "S. Hiroshima - Nagoya": {
-        "Alt": 2.4,
-        "Üst": 1.31
+    "HNK Vukovar 1991 - Dinamo Zagreb II": {
+        "Alt": 1.58,
+        "Üst": 1.73
     },
-    "Tokyo Verdy - Vissel Kobe": {
-        "Alt": 1.31,
-        "Üst": 2.41
+    "Botosani - CS Corvinul 1921 H.": {
+        "Alt": 1.58,
+        "Üst": 1.73
     },
-    "V Varen - Gamba Osaka": {
-        "Alt": 1.78,
-        "Üst": 1.63
-    },
-    "Shimizu - Tokyo": {
-        "Alt": 1.63,
-        "Üst": 1.78
-    },
-    "Fukuoka - Urawa Red": {
-        "Alt": 1.53,
-        "Üst": 1.91
-    },
-    "Machida Zelvia - Kawasaki Frontale": {
-        "Alt": 1.86,
-        "Üst": 1.57
-    },
-    "Cerezo Osaka - Kashiwa": {
-        "Alt": 1.86,
-        "Üst": 1.57
-    },
-    "JEF Utd - Fagiano": {
-        "Alt": 1.65,
-        "Üst": 1.75
-    },
-    "Yokohama M. - Kyoto Sanga": {
-        "Alt": 1.78,
-        "Üst": 1.63
-    },
-    "M. Hollyhock - Kashima": {
-        "Alt": 1.72,
-        "Üst": 1.67
-    },
-    "Ehime - B. Akita": {
-        "Alt": 1.44,
-        "Üst": 1.95
-    },
-    "Gifu - T. Vortis": {
-        "Alt": 1.52,
-        "Üst": 1.8
-    },
-    "Osaka - Ventforet": {
-        "Alt": 1.47,
-        "Üst": 1.87
-    },
-    "Kagoshima Utd - Sapporo": {
-        "Alt": 1.52,
-        "Üst": 1.8
-    },
-    "Renofa Y. - Fujieda Myfc": {
-        "Alt": 1.72,
-        "Üst": 1.59
-    },
-    "G. Kitakyushu - Iwaki": {
-        "Alt": 1.5,
-        "Üst": 1.85
-    },
-    "Z. Kanazawa - Imabari": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "Ryukyu - Yokohama": {
-        "Alt": 1.68,
-        "Üst": 1.63
-    },
-    "Tegevajaro Mi. - Kat. Toyama": {
-        "Alt": 1.54,
-        "Üst": 1.78
-    },
-    "Thespakusatsu G. - Niigata": {
-        "Alt": 1.86,
-        "Üst": 1.49
-    },
-    "Nara Club - Sagan Tosu": {
+    "Vanspor FK - Batman Petrol": {
         "Alt": 1.72,
         "Üst": 1.58
     },
-    "R. Kumamoto - Oita Trinata": {
+    "El Gouna - Al Mokawloon": {
+        "Alt": 1.14,
+        "Üst": 2.98
+    },
+    "Polkowice - Polonia Warszawa": {
+        "Alt": 1.98,
+        "Üst": 3.52
+    },
+    "AKS Beskid Andrychow - Slask W. II": {
+        "Alt": 1.82,
+        "Üst": 3.58
+    },
+    "Gornik Zabrze II - Olimpia": {
+        "Alt": 1.79,
+        "Üst": 3.47
+    },
+    "Nestos Chrysoupoli - Aek": {
         "Alt": 1.41,
-        "Üst": 2.0
-    },
-    "Gainare Tottori - Omiya Ardija": {
-        "Alt": 1.72,
-        "Üst": 1.58
-    },
-    "INAC Kobe L. (K) - Nagano P. (K)": {
-        "Alt": 3.38,
-        "Üst": 2.03
-    },
-    "Yunnan Yukun - Chongqing T.": {
-        "Alt": 2.08,
-        "Üst": 1.37
+        "Üst": 3.13
     }
 }
