@@ -1,50 +1,10 @@
 {
-    "CD Cuenca - Guayaquil": {
-        "Alt": 1.4,
-        "Üst": 2.0
-    },
-    "ART Jalapa - Rancho Santana": {
-        "Alt": 1.82,
-        "Üst": 1.51
-    },
-    "Coquimbo U. - U. Concepcion": {
-        "Alt": 1.58,
-        "Üst": 1.73
-    },
-    "Flamengo - Mirassol SP": {
-        "Alt": 1.34,
-        "Üst": 2.03
-    },
-    "Deportes Quindio - Llaneros": {
-        "Alt": 1.32,
-        "Üst": 3.37
-    },
-    "Charleston - Hartford Ath": {
-        "Alt": 2.09,
-        "Üst": 3.26
-    },
-    "Westchester SC - C. Red Wolves SC": {
-        "Alt": 1.92,
-        "Üst": 1.45
-    },
-    "Colegiales - F. Midland": {
-        "Alt": 5.98,
-        "Üst": 3.54
-    },
-    "CA Atenas de S. C. - Penarol": {
-        "Alt": 1.47,
-        "Üst": 1.89
-    },
-    "Caracas - Portuguesa": {
-        "Alt": 1.41,
-        "Üst": 2.0
-    },
     "Charlotte Ind. - P. Hearts of Pine": {
-        "Alt": 1.76,
-        "Üst": 3.73
+        "Alt": 1.68,
+        "Üst": 3.75
     },
     "Fort Wayne - Richmond": {
-        "Alt": 1.83,
+        "Alt": 1.79,
         "Üst": 3.48
     },
     "New York Cosmos - Sarasota Paradise": {
@@ -60,8 +20,8 @@
         "Üst": 1.74
     },
     "V. Sarsfield - Boca Juniors": {
-        "Alt": 1.39,
-        "Üst": 2.02
+        "Alt": 1.42,
+        "Üst": 1.98
     },
     "Vitoria BA - Vasco Da G.": {
         "Alt": 1.43,
@@ -72,7 +32,55 @@
         "Üst": 1.81
     },
     "Deportes Limache - Nublense": {
-        "Alt": 1.77,
-        "Üst": 1.55
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "Real Esteli - San Marcos": {
+        "Alt": 3.47,
+        "Üst": 2.35
+    },
+    "D. Toluca - Club Leon": {
+        "Alt": 1.96,
+        "Üst": 1.43
+    },
+    "I. Santa Fe - Millonarios": {
+        "Alt": 1.4,
+        "Üst": 3.25
+    },
+    "America - Monterrey": {
+        "Alt": 1.85,
+        "Üst": 1.5
+    },
+    "Avia Swidnik - Wieczysta Krakow": {
+        "Alt": 1.96,
+        "Üst": 1.43
+    },
+    "Kataka - Bul": {
+        "Alt": 1.32,
+        "Üst": 2.21
+    },
+    "La Viena - Team Cairo": {
+        "Alt": 1.33,
+        "Üst": 2.18
+    },
+    "El Sekka El Hadid - Maleyat Kafr El Z.": {
+        "Alt": 1.23,
+        "Üst": 3.5
+    },
+    "Dayrout - Telecom Egypt": {
+        "Alt": 1.36,
+        "Üst": 3.25
+    },
+    "El Mansurah - Kahrabaa Ismailia": {
+        "Alt": 1.44,
+        "Üst": 3.16
+    },
+    "Haras Hodood - Entag Harby": {
+        "Alt": 1.31,
+        "Üst": 2.21
+    },
+    "Iğdır FK - Manisa FK": {
+        "Alt": 1.7,
+        "Üst": 1.61
     }
 }
