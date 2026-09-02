@@ -1,70 +1,74 @@
 {
-    "M. Rogachev - Belshina": {
-        "Alt": 1.2,
-        "Üst": 2.56
-    },
-    "NK Opatija - Hrvace": {
-        "Alt": 1.66,
-        "Üst": 1.64
-    },
-    "Z. Pruszkow - Cracovia": {
-        "Alt": 1.8,
-        "Üst": 1.52
-    },
-    "Zenit - Dyn. Makhachkala": {
-        "Alt": 1.85,
-        "Üst": 1.5
-    },
-    "Hajer Al Hasa - AL Anwar": {
+    "CSD Macara - Manta": {
         "Alt": 1.51,
         "Üst": 1.81
     },
-    "Udinese - Venezia": {
-        "Alt": 1.7,
-        "Üst": 1.7
+    "Burnley - Middlesbrough": {
+        "Alt": 2.11,
+        "Üst": 1.43
     },
-    "Hannoverscher - Phonix Lubeck": {
-        "Alt": 1.59,
-        "Üst": 3.68
+    "Reading - Mansfield": {
+        "Alt": 1.81,
+        "Üst": 1.52
     },
-    "Malkiya Club - Al Najma": {
-        "Alt": 1.47,
-        "Üst": 1.89
+    "Falkirk - Rangers": {
+        "Alt": 2.04,
+        "Üst": 1.45
     },
-    "East Riffa - Sitra Club": {
-        "Alt": 1.55,
-        "Üst": 1.77
+    "Calcio Catania - AC Savoia 1908": {
+        "Alt": 1.68,
+        "Üst": 1.63
     },
-    "Velez Mostar - Rad. Bijelji": {
-        "Alt": 1.37,
-        "Üst": 2.09
-    },
-    "Brno - H. Kralove": {
-        "Alt": 1.6,
-        "Üst": 1.71
-    },
-    "Esteghlal - Persepolis": {
-        "Alt": 1.3,
-        "Üst": 2.26
-    },
-    "AS Gubbio 1910 - Vis Pesaro": {
-        "Alt": 1.54,
-        "Üst": 1.79
-    },
-    "Union Brescia - AS Giana E.": {
-        "Alt": 1.6,
-        "Üst": 1.7
-    },
-    "Lechia Zielona G. - Ruch Chorzow": {
-        "Alt": 1.77,
-        "Üst": 1.55
-    },
-    "Benfica U23 - Academico V. U23": {
-        "Alt": 1.88,
-        "Üst": 1.47
-    },
-    "CS Sporting Liesti - D. Bükreş": {
-        "Alt": 3.91,
+    "Altamura - Sambenedettese": {
+        "Alt": 1.35,
         "Üst": 2.14
+    },
+    "Spezia - Vado": {
+        "Alt": 1.66,
+        "Üst": 1.65
+    },
+    "Floriana - Gzira Utd": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "PAOK - Ofi Crete": {
+        "Alt": 2.0,
+        "Üst": 1.4
+    },
+    "Liverpool M. - Boston River": {
+        "Alt": 1.52,
+        "Üst": 1.81
+    },
+    "Zamora - Dep. Tachira": {
+        "Alt": 1.46,
+        "Üst": 1.91
+    },
+    "Sebaco - Walter Ferretti": {
+        "Alt": 1.66,
+        "Üst": 1.64
+    },
+    "CD Cuenca - Guayaquil": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "ART Jalapa - Rancho Santana": {
+        "Alt": 1.82,
+        "Üst": 1.51
+    },
+    "Coquimbo U. - U. Concepcion": {
+        "Alt": 1.43,
+        "Üst": 1.96
+    },
+    "Flamengo - Mirassol SP": {
+        "Alt": 1.35,
+        "Üst": 2.07
+    },
+    "Deportes Quindio - Llaneros": {
+        "Alt": 1.34,
+        "Üst": 3.33
+    },
+    "Charleston - Hartford Ath": {
+        "Alt": 1.93,
+        "Üst": 1.44
     }
 }
