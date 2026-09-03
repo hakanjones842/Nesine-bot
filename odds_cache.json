@@ -1,51 +1,7 @@
 {
-    "Charlotte Ind. - P. Hearts of Pine": {
-        "Alt": 1.68,
-        "Üst": 3.75
-    },
-    "Fort Wayne - Richmond": {
-        "Alt": 1.79,
-        "Üst": 3.48
-    },
-    "New York Cosmos - Sarasota Paradise": {
-        "Alt": 1.86,
-        "Üst": 1.49
-    },
-    "Forward M. - One Knoxville SC": {
-        "Alt": 1.73,
-        "Üst": 1.58
-    },
-    "Barcelona (Ekv) - Independiente D.": {
-        "Alt": 1.57,
-        "Üst": 1.74
-    },
-    "V. Sarsfield - Boca Juniors": {
-        "Alt": 1.42,
-        "Üst": 1.98
-    },
-    "Vitoria BA - Vasco Da G.": {
-        "Alt": 1.43,
-        "Üst": 2.09
-    },
-    "Santos SP - Palmeiras SP": {
-        "Alt": 1.59,
-        "Üst": 1.81
-    },
-    "Deportes Limache - Nublense": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
-    "Real Esteli - San Marcos": {
-        "Alt": 3.47,
-        "Üst": 2.35
-    },
-    "D. Toluca - Club Leon": {
-        "Alt": 1.96,
-        "Üst": 1.43
-    },
     "I. Santa Fe - Millonarios": {
-        "Alt": 1.4,
-        "Üst": 3.25
+        "Alt": 1.38,
+        "Üst": 3.26
     },
     "America - Monterrey": {
         "Alt": 1.85,
@@ -82,5 +38,37 @@
     "Iğdır FK - Manisa FK": {
         "Alt": 1.7,
         "Üst": 1.61
+    },
+    "Isloch - Bate Borisov": {
+        "Alt": 1.58,
+        "Üst": 1.72
+    },
+    "Al Ahli Doha - Katar SC": {
+        "Alt": 2.14,
+        "Üst": 1.35
+    },
+    "ACS Fotbal Club Bacau 2023 - Un. Craiova": {
+        "Alt": 2.06,
+        "Üst": 1.37
+    },
+    "Fajr Sepasi - Mes Shahr e B.": {
+        "Alt": 1.25,
+        "Üst": 1.51
+    },
+    "GKS Tychy - LKS Lodz": {
+        "Alt": 1.89,
+        "Üst": 1.46
+    },
+    "Diyala - AL Karma": {
+        "Alt": 1.4,
+        "Üst": 2.01
+    },
+    "AL Mosul SC - AL Zawraa": {
+        "Alt": 1.39,
+        "Üst": 2.03
+    },
+    "AL Fayha - AL Khlood": {
+        "Alt": 1.47,
+        "Üst": 1.89
     }
 }
