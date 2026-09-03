@@ -1,43 +1,35 @@
 {
-    "America De Cali - Alianza Valledupar": {
-        "Alt": 1.61,
-        "Üst": 1.7
-    },
-    "Club Leones D. N. - Orense SC": {
-        "Alt": 1.37,
-        "Üst": 2.09
-    },
-    "Estudiante Merida - Ucv": {
-        "Alt": 1.51,
-        "Üst": 1.81
-    },
     "Gremio P. - Internacional": {
-        "Alt": 1.43,
-        "Üst": 2.09
+        "Alt": 1.36,
+        "Üst": 2.27
     },
     "Nautico PE - Botafogo": {
-        "Alt": 1.45,
-        "Üst": 1.91
+        "Alt": 1.43,
+        "Üst": 1.95
     },
     "Managua - Diriangen": {
         "Alt": 1.72,
         "Üst": 1.59
     },
     "Metropolitan - Trujillanos": {
-        "Alt": 1.6,
-        "Üst": 1.71
+        "Alt": 1.63,
+        "Üst": 1.68
     },
     "A. Puerto C. - Dep. La Gua.": {
-        "Alt": 1.32,
-        "Üst": 2.21
+        "Alt": 4.11,
+        "Üst": 3.3
     },
     "Libertad Loja - CS Emelec": {
-        "Alt": 1.36,
-        "Üst": 2.12
+        "Alt": 1.34,
+        "Üst": 2.15
+    },
+    "CD Olimpia - Platense": {
+        "Alt": 1.99,
+        "Üst": 1.41
     },
     "Dep. Pereira - I. Medellin": {
-        "Alt": 1.65,
-        "Üst": 1.65
+        "Alt": 1.73,
+        "Üst": 1.58
     },
     "Tepatitlan - CSD D. Sinaloa": {
         "Alt": 1.73,
@@ -52,8 +44,8 @@
         "Üst": 1.65
     },
     "Lecce U20 - Roma U20": {
-        "Alt": 1.79,
-        "Üst": 1.53
+        "Alt": 1.82,
+        "Üst": 1.51
     },
     "Ch. Odessa - Levy Bereg Kiev": {
         "Alt": 1.31,
@@ -64,11 +56,15 @@
         "Üst": 1.4
     },
     "Chungbuk Cheongju - Seoul E Land": {
-        "Alt": 1.84,
-        "Üst": 1.5
+        "Alt": 1.86,
+        "Üst": 1.48
     },
     "Perth Redstar - Perth SC": {
         "Alt": 2.39,
         "Üst": 1.26
+    },
+    "Bayswater - Oly. Kingsway": {
+        "Alt": 2.32,
+        "Üst": 1.29
     }
 }
