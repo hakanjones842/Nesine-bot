@@ -1,12 +1,4 @@
 {
-    "I. Santa Fe - Millonarios": {
-        "Alt": 1.38,
-        "Üst": 3.26
-    },
-    "America - Monterrey": {
-        "Alt": 1.85,
-        "Üst": 1.5
-    },
     "Avia Swidnik - Wieczysta Krakow": {
         "Alt": 1.96,
         "Üst": 1.43
@@ -16,16 +8,16 @@
         "Üst": 2.21
     },
     "La Viena - Team Cairo": {
-        "Alt": 1.33,
-        "Üst": 2.18
+        "Alt": 2.91,
+        "Üst": 2.92
     },
     "El Sekka El Hadid - Maleyat Kafr El Z.": {
-        "Alt": 1.23,
-        "Üst": 3.5
+        "Alt": 1.2,
+        "Üst": 3.61
     },
     "Dayrout - Telecom Egypt": {
-        "Alt": 1.36,
-        "Üst": 3.25
+        "Alt": 1.42,
+        "Üst": 3.13
     },
     "El Mansurah - Kahrabaa Ismailia": {
         "Alt": 1.44,
@@ -40,35 +32,63 @@
         "Üst": 1.61
     },
     "Isloch - Bate Borisov": {
-        "Alt": 1.58,
-        "Üst": 1.72
+        "Alt": 1.61,
+        "Üst": 1.7
     },
     "Al Ahli Doha - Katar SC": {
         "Alt": 2.14,
         "Üst": 1.35
     },
+    "Siauliai - Zalgiris Kaunas": {
+        "Alt": 2.3,
+        "Üst": 3.38
+    },
     "ACS Fotbal Club Bacau 2023 - Un. Craiova": {
         "Alt": 2.06,
-        "Üst": 1.37
+        "Üst": 1.38
+    },
+    "Cittadella - AC Renate": {
+        "Alt": 1.5,
+        "Üst": 1.84
     },
     "Fajr Sepasi - Mes Shahr e B.": {
-        "Alt": 1.25,
-        "Üst": 1.51
+        "Alt": 1.09,
+        "Üst": 3.41
     },
     "GKS Tychy - LKS Lodz": {
-        "Alt": 1.89,
-        "Üst": 1.46
+        "Alt": 1.97,
+        "Üst": 1.42
     },
     "Diyala - AL Karma": {
-        "Alt": 1.4,
-        "Üst": 2.01
+        "Alt": 1.46,
+        "Üst": 1.9
     },
     "AL Mosul SC - AL Zawraa": {
-        "Alt": 1.39,
-        "Üst": 2.03
+        "Alt": 1.35,
+        "Üst": 2.13
     },
     "AL Fayha - AL Khlood": {
-        "Alt": 1.47,
-        "Üst": 1.89
+        "Alt": 1.49,
+        "Üst": 1.86
+    },
+    "US Palermo - Mantova 1911": {
+        "Alt": 1.85,
+        "Üst": 1.58
+    },
+    "Thisted - Sonderjyske": {
+        "Alt": 1.75,
+        "Üst": 3.54
+    },
+    "Rigas Skola - Riga": {
+        "Alt": 1.92,
+        "Üst": 1.45
+    },
+    "Banga Gargzdai - FK Panevezys": {
+        "Alt": 1.74,
+        "Üst": 1.58
+    },
+    "Rakow C. - Gornik Zabrze": {
+        "Alt": 1.79,
+        "Üst": 1.53
     }
 }
