@@ -1,82 +1,78 @@
 {
-    "Avia Swidnik - Wieczysta Krakow": {
-        "Alt": 2.0,
-        "Üst": 1.41
-    },
-    "Kataka - Bul": {
-        "Alt": 1.32,
-        "Üst": 2.21
-    },
-    "La Viena - Team Cairo": {
-        "Alt": 3.33,
-        "Üst": 3.02
-    },
-    "El Sekka El Hadid - Maleyat Kafr El Z.": {
-        "Alt": 1.19,
-        "Üst": 3.65
-    },
-    "Dayrout - Telecom Egypt": {
-        "Alt": 1.44,
-        "Üst": 3.12
-    },
-    "El Mansurah - Kahrabaa Ismailia": {
-        "Alt": 1.44,
-        "Üst": 3.16
-    },
-    "Haras Hodood - Entag Harby": {
-        "Alt": 1.31,
-        "Üst": 2.21
-    },
-    "Iğdır FK - Manisa FK": {
-        "Alt": 1.7,
-        "Üst": 1.61
-    },
-    "Isloch - Bate Borisov": {
-        "Alt": 1.51,
-        "Üst": 1.82
-    },
-    "Al Ahli Doha - Katar SC": {
-        "Alt": 2.15,
-        "Üst": 1.34
-    },
-    "Siauliai - Zalgiris Kaunas": {
-        "Alt": 1.99,
-        "Üst": 1.42
-    },
-    "ACS Fotbal Club Bacau 2023 - Un. Craiova": {
-        "Alt": 2.02,
-        "Üst": 1.39
-    },
     "Cittadella - AC Renate": {
-        "Alt": 1.5,
-        "Üst": 1.84
+        "Alt": 1.57,
+        "Üst": 1.75
     },
     "Fajr Sepasi - Mes Shahr e B.": {
         "Alt": 1.09,
-        "Üst": 3.41
+        "Üst": 3.46
     },
     "GKS Tychy - LKS Lodz": {
-        "Alt": 1.95,
-        "Üst": 1.43
-    },
-    "Diyala - AL Karma": {
-        "Alt": 1.53,
-        "Üst": 1.79
+        "Alt": 1.78,
+        "Üst": 1.54
     },
     "AL Mosul SC - AL Zawraa": {
         "Alt": 1.33,
         "Üst": 2.17
     },
+    "AL Karma - Diyala": {
+        "Alt": 1.55,
+        "Üst": 1.77
+    },
     "AL Fayha - AL Khlood": {
-        "Alt": 1.49,
-        "Üst": 1.86
+        "Alt": 1.56,
+        "Üst": 1.76
     },
     "US Palermo - Mantova 1911": {
-        "Alt": 1.85,
-        "Üst": 1.58
+        "Alt": 1.92,
+        "Üst": 1.53
     },
     "Thisted - Sonderjyske": {
-        "Alt": 1.63,
-        "Üst": 3.6
+        "Alt": 2.35,
+        "Üst": 3.44
+    },
+    "Rigas Skola - Riga": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "Banga Gargzdai - FK Panevezys": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "Rakow C. - Gornik Zabrze": {
+        "Alt": 1.9,
+        "Üst": 1.46
+    },
+    "Al Baqaa - Doqarah": {
+        "Alt": 1.9,
+        "Üst": 1.46
+    },
+    "Al Sailiya - Arabi Doha": {
+        "Alt": 2.38,
+        "Üst": 1.26
+    },
+    "D. Moskova - Akhmat Grozny": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "Neom SC - AL Khaleej Saihat": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "Bodrum FK - Esenler Erokspor": {
+        "Alt": 1.56,
+        "Üst": 1.76
+    },
+    "Bursaspor - İstanbulspor": {
+        "Alt": 2.0,
+        "Üst": 1.4
+    },
+    "Mjallby - Djurgarden": {
+        "Alt": 2.0,
+        "Üst": 1.48
+    },
+    "El Ahly (Mıs) - Smouha SC": {
+        "Alt": 1.46,
+        "Üst": 1.9
     }
 }
