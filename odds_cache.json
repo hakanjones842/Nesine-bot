@@ -1,90 +1,78 @@
 {
-    "Orbit College - Lerumo Lions": {
-        "Alt": 1.34,
-        "Üst": 2.15
+    "Estudiantes Río C. - CA Sarmiento": {
+        "Alt": 1.21,
+        "Üst": 2.86
     },
-    "Marumo Gallants - Polokwane": {
+    "JS Kabylie - MB Rouisset": {
+        "Alt": 1.37,
+        "Üst": 2.09
+    },
+    "Alianza Atl - Cajamarca": {
+        "Alt": 1.64,
+        "Üst": 1.66
+    },
+    "Academia del Balompie - U. de Vinto": {
+        "Alt": 2.01,
+        "Üst": 1.4
+    },
+    "CA Platense - Dep. Riestra": {
         "Alt": 1.18,
-        "Üst": 2.75
+        "Üst": 3.05
     },
-    "Richards Bay - AmaZulu": {
-        "Alt": 1.41,
-        "Üst": 1.99
+    "Belgrano - CA Huracan": {
+        "Alt": 1.23,
+        "Üst": 2.77
     },
-    "Kriens - Stade Ouchy": {
-        "Alt": 2.47,
-        "Üst": 1.24
-    },
-    "Aarau - Rapperswil": {
-        "Alt": 2.51,
-        "Üst": 1.23
-    },
-    "Cluj - Farul Cons.": {
-        "Alt": 1.55,
-        "Üst": 1.77
-    },
-    "Al Wehdat - AL Faisaly (Ürd)": {
+    "Torque - Cerro Largo": {
         "Alt": 1.5,
         "Üst": 1.85
     },
-    "AL Arabi - Al Salibikhaet": {
-        "Alt": 1.49,
-        "Üst": 2.25
+    "Criciuma - Cuiaba": {
+        "Alt": 1.25,
+        "Üst": 2.42
     },
-    "S. Rotterdam - Zwolle": {
-        "Alt": 2.17,
-        "Üst": 1.4
-    },
-    "JS Saoura - Horoya AC": {
-        "Alt": 1.76,
-        "Üst": 1.56
-    },
-    "FCV Dender EH - RFC Seraing": {
+    "Loudoun Utd - Colorado Spr.": {
         "Alt": 1.87,
-        "Üst": 1.47
+        "Üst": 1.48
     },
-    "Beerschot - Patro M.": {
-        "Alt": 1.65,
-        "Üst": 1.65
+    "Ferro Carril Oeste - Mitre Santia": {
+        "Alt": 2.49,
+        "Üst": 2.8
     },
-    "Dunkerque - Clermont": {
-        "Alt": 1.67,
-        "Üst": 1.73
+    "New York C. - Nashville SC": {
+        "Alt": 1.8,
+        "Üst": 1.6
     },
-    "Pau - Sochaux": {
-        "Alt": 1.51,
-        "Üst": 1.93
+    "Athletic Club MG - Vila Nova": {
+        "Alt": 1.3,
+        "Üst": 2.26
     },
-    "Stade Laval. - Red Star": {
-        "Alt": 1.55,
-        "Üst": 1.88
+    "Crb Al - America MG": {
+        "Alt": 1.91,
+        "Üst": 1.45
     },
-    "Grenoble - Annecy": {
-        "Alt": 1.37,
-        "Üst": 2.23
+    "CD Tecnico Uni. - LDU Quito": {
+        "Alt": 1.46,
+        "Üst": 1.9
     },
-    "US Boulogne - Dijon": {
-        "Alt": 1.45,
-        "Üst": 2.05
+    "Dep. Concepcion - Audax Ital.": {
+        "Alt": 1.53,
+        "Üst": 1.79
     },
-    "VSN Varazdin - NK Istra 61": {
-        "Alt": 1.83,
-        "Üst": 1.51
+    "Antigua - Aurora": {
+        "Alt": 1.63,
+        "Üst": 1.68
     },
-    "Heracles - Graafschap": {
-        "Alt": 2.88,
-        "Üst": 1.16
+    "CD Choloma - Olancho": {
+        "Alt": 2.0,
+        "Üst": 1.41
     },
-    "Helmond - VVV Venlo": {
-        "Alt": 2.05,
-        "Üst": 1.38
+    "Alac. de Durango - Tlaxcala": {
+        "Alt": 1.71,
+        "Üst": 1.6
     },
-    "Waalwijk - NAC Breda": {
-        "Alt": 2.23,
-        "Üst": 1.31
-    },
-    "Vitesse - TOP Oss": {
-        "Alt": 2.04,
-        "Üst": 1.39
+    "CD Esc. Belen - Inter San Carlos": {
+        "Alt": 1.73,
+        "Üst": 1.58
     }
 }
