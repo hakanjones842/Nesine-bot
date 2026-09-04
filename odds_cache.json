@@ -1,47 +1,19 @@
 {
-    "CA Platense - Dep. Riestra": {
-        "Alt": 1.18,
-        "Üst": 3.05
-    },
-    "Belgrano - CA Huracan": {
-        "Alt": 1.23,
-        "Üst": 2.77
-    },
-    "Criciuma - Cuiaba": {
-        "Alt": 1.25,
-        "Üst": 2.42
-    },
-    "Loudoun Utd - Colorado Spr.": {
-        "Alt": 1.91,
-        "Üst": 1.45
-    },
-    "Ferro Carril Oeste - Mitre Santia": {
-        "Alt": 2.49,
-        "Üst": 2.8
-    },
-    "New York C. - Nashville SC": {
-        "Alt": 1.83,
-        "Üst": 1.58
-    },
-    "Athletic Club MG - Vila Nova": {
-        "Alt": 1.29,
-        "Üst": 2.3
-    },
     "Crb Al - America MG": {
         "Alt": 1.91,
         "Üst": 1.45
     },
     "CD Tecnico Uni. - LDU Quito": {
-        "Alt": 1.46,
-        "Üst": 1.9
+        "Alt": 1.44,
+        "Üst": 1.93
     },
     "Dep. Concepcion - Audax Ital.": {
-        "Alt": 1.53,
-        "Üst": 1.79
+        "Alt": 1.49,
+        "Üst": 1.86
     },
     "Antigua - Aurora": {
-        "Alt": 1.65,
-        "Üst": 1.65
+        "Alt": 1.73,
+        "Üst": 1.58
     },
     "CD Choloma - Olancho": {
         "Alt": 2.0,
@@ -52,8 +24,8 @@
         "Üst": 1.56
     },
     "CD Esc. Belen - Inter San Carlos": {
-        "Alt": 1.77,
-        "Üst": 1.55
+        "Alt": 1.74,
+        "Üst": 1.57
     },
     "South Hobart - Devonport C.": {
         "Alt": 2.78,
@@ -62,5 +34,41 @@
     "Juarez - Pachuca": {
         "Alt": 1.64,
         "Üst": 1.67
+    },
+    "Avondale - Preston Lions": {
+        "Alt": 1.94,
+        "Üst": 1.44
+    },
+    "Canberra - Queanbeyan City": {
+        "Alt": 2.88,
+        "Üst": 1.16
+    },
+    "Joondalup City - Armadale SC": {
+        "Alt": 1.93,
+        "Üst": 3.49
+    },
+    "Peninsula Power - Moreton City E.": {
+        "Alt": 2.22,
+        "Üst": 1.31
+    },
+    "Shaanxi Union - Jiangxi Dingnan Utd.": {
+        "Alt": 2.11,
+        "Üst": 1.36
+    },
+    "Changwon City - Daejeon Korail": {
+        "Alt": 1.46,
+        "Üst": 1.9
+    },
+    "Wofoo Tai PO - H. Kong Rangers": {
+        "Alt": 1.63,
+        "Üst": 3.67
+    },
+    "Northern Tigers - ST George Saints": {
+        "Alt": 1.88,
+        "Üst": 1.47
+    },
+    "Psim Yogyakarta - Persita Tangerang": {
+        "Alt": 1.46,
+        "Üst": 1.89
     }
 }
