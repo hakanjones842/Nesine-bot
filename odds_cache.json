@@ -1,20 +1,4 @@
 {
-    "Estudiantes Río C. - CA Sarmiento": {
-        "Alt": 1.21,
-        "Üst": 2.86
-    },
-    "JS Kabylie - MB Rouisset": {
-        "Alt": 1.37,
-        "Üst": 2.09
-    },
-    "Alianza Atl - Cajamarca": {
-        "Alt": 1.64,
-        "Üst": 1.66
-    },
-    "Academia del Balompie - U. de Vinto": {
-        "Alt": 2.01,
-        "Üst": 1.4
-    },
     "CA Platense - Dep. Riestra": {
         "Alt": 1.18,
         "Üst": 3.05
@@ -23,29 +7,25 @@
         "Alt": 1.23,
         "Üst": 2.77
     },
-    "Torque - Cerro Largo": {
-        "Alt": 1.5,
-        "Üst": 1.85
-    },
     "Criciuma - Cuiaba": {
         "Alt": 1.25,
         "Üst": 2.42
     },
     "Loudoun Utd - Colorado Spr.": {
-        "Alt": 1.87,
-        "Üst": 1.48
+        "Alt": 1.91,
+        "Üst": 1.45
     },
     "Ferro Carril Oeste - Mitre Santia": {
         "Alt": 2.49,
         "Üst": 2.8
     },
     "New York C. - Nashville SC": {
-        "Alt": 1.8,
-        "Üst": 1.6
+        "Alt": 1.83,
+        "Üst": 1.58
     },
     "Athletic Club MG - Vila Nova": {
-        "Alt": 1.3,
-        "Üst": 2.26
+        "Alt": 1.29,
+        "Üst": 2.3
     },
     "Crb Al - America MG": {
         "Alt": 1.91,
@@ -60,19 +40,27 @@
         "Üst": 1.79
     },
     "Antigua - Aurora": {
-        "Alt": 1.63,
-        "Üst": 1.68
+        "Alt": 1.65,
+        "Üst": 1.65
     },
     "CD Choloma - Olancho": {
         "Alt": 2.0,
         "Üst": 1.41
     },
     "Alac. de Durango - Tlaxcala": {
-        "Alt": 1.71,
-        "Üst": 1.6
+        "Alt": 1.76,
+        "Üst": 1.56
     },
     "CD Esc. Belen - Inter San Carlos": {
-        "Alt": 1.73,
-        "Üst": 1.58
+        "Alt": 1.77,
+        "Üst": 1.55
+    },
+    "South Hobart - Devonport C.": {
+        "Alt": 2.78,
+        "Üst": 3.83
+    },
+    "Juarez - Pachuca": {
+        "Alt": 1.64,
+        "Üst": 1.67
     }
 }
