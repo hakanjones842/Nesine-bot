@@ -1,90 +1,78 @@
 {
-    "Arema - Farmel": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "Lecce U20 - Roma U20": {
-        "Alt": 1.91,
-        "Üst": 1.45
-    },
     "Ch. Odessa - Levy Bereg Kiev": {
-        "Alt": 1.31,
-        "Üst": 2.22
+        "Alt": 1.39,
+        "Üst": 2.03
     },
     "Paju Citizen - Daegu": {
-        "Alt": 2.02,
-        "Üst": 1.4
+        "Alt": 1.99,
+        "Üst": 1.41
     },
     "Chungbuk Cheongju - Seoul E Land": {
-        "Alt": 1.91,
-        "Üst": 1.45
+        "Alt": 1.99,
+        "Üst": 1.42
     },
     "Perth Redstar - Perth SC": {
         "Alt": 2.39,
         "Üst": 1.26
     },
     "Bayswater - Oly. Kingsway": {
-        "Alt": 2.31,
-        "Üst": 1.29
+        "Alt": 2.33,
+        "Üst": 1.28
     },
     "S. Wednesday U21 - Wigan Ath U21": {
-        "Alt": 2.7,
-        "Üst": 3.86
+        "Alt": 2.67,
+        "Üst": 3.94
     },
     "Binh Phuoc - CLB Viettel": {
         "Alt": 1.55,
         "Üst": 1.76
     },
     "Bali Utd - PSS Sleman": {
-        "Alt": 1.41,
-        "Üst": 1.99
+        "Alt": 1.51,
+        "Üst": 1.81
     },
     "Pattani - BG Pathum Utd": {
-        "Alt": 1.77,
-        "Üst": 1.55
+        "Alt": 1.73,
+        "Üst": 1.58
     },
     "Casric Stars - Midlands Wanderers": {
-        "Alt": 4.03,
-        "Üst": 3.26
+        "Alt": 3.53,
+        "Üst": 3.12
     },
     "Tabora Utd - Mbeya City": {
-        "Alt": 4.21,
-        "Üst": 3.3
+        "Alt": 3.84,
+        "Üst": 3.21
+    },
+    "Minsk 2 - Niva Dolbizno": {
+        "Alt": 2.42,
+        "Üst": 3.66
     },
     "Tanta - Masar": {
-        "Alt": 1.3,
-        "Üst": 3.5
+        "Alt": 1.31,
+        "Üst": 3.47
     },
     "Baladiyyat AL M. - Mega Sport Belqas": {
-        "Alt": 4.41,
-        "Üst": 3.26
+        "Alt": 4.01,
+        "Üst": 3.2
     },
     "El Daklyeh - Farco": {
-        "Alt": 1.42,
-        "Üst": 3.22
+        "Alt": 1.38,
+        "Üst": 3.21
     },
     "Ismaily Sc - AL Nasr Cairo": {
-        "Alt": 1.3,
-        "Üst": 3.39
+        "Alt": 1.29,
+        "Üst": 3.4
     },
     "Proxy SC - EL Terasanah": {
         "Alt": 1.24,
         "Üst": 3.55
     },
     "AL Ittihad K. - AL Ain": {
-        "Alt": 2.35,
-        "Üst": 1.28
+        "Alt": 2.28,
+        "Üst": 1.3
     },
     "Kabala - Imisli FK": {
-        "Alt": 4.18,
-        "Üst": 3.29
-    },
-    "AL Shamal - Al Shahaniya": {
-        "Alt": 1.97,
-        "Üst": 1.43
-    },
-    "ES Zarzis - ASC Diambars": {
-        "Alt": 1.33,
-        "Üst": 2.18
+        "Alt": 3.84,
+        "Üst": 3.2
     }
 }
