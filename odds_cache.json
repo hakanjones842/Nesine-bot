@@ -1,30 +1,14 @@
 {
-    "CD Esc. Belen - Inter San Carlos": {
-        "Alt": 1.74,
-        "Üst": 1.57
-    },
-    "South Hobart - Devonport C.": {
-        "Alt": 2.78,
-        "Üst": 3.83
-    },
-    "Juarez - Pachuca": {
-        "Alt": 1.66,
-        "Üst": 1.65
-    },
-    "Avondale - Preston Lions": {
-        "Alt": 1.94,
-        "Üst": 1.44
-    },
     "Canberra - Queanbeyan City": {
-        "Alt": 3.07,
-        "Üst": 1.13
+        "Alt": 3.26,
+        "Üst": 1.1
     },
     "Joondalup City - Armadale SC": {
         "Alt": 1.93,
         "Üst": 3.49
     },
     "Peninsula Power - Moreton City E.": {
-        "Alt": 2.22,
+        "Alt": 2.21,
         "Üst": 1.31
     },
     "Shaanxi Union - Jiangxi Dingnan Utd.": {
@@ -36,7 +20,7 @@
         "Üst": 1.9
     },
     "Wofoo Tai PO - H. Kong Rangers": {
-        "Alt": 1.65,
+        "Alt": 1.7,
         "Üst": 3.62
     },
     "Northern Tigers - ST George Saints": {
@@ -52,23 +36,27 @@
         "Üst": 1.46
     },
     "Bhayangkara - Persebaya": {
-        "Alt": 1.69,
-        "Üst": 1.62
+        "Alt": 1.72,
+        "Üst": 1.58
     },
     "N. Sembilan - Imigresen": {
-        "Alt": 2.06,
-        "Üst": 1.38
+        "Alt": 2.02,
+        "Üst": 1.39
     },
     "Monaro P. - Cooma Tigers": {
-        "Alt": 2.74,
+        "Alt": 2.76,
         "Üst": 1.18
     },
     "Cagliari U20 - Sassuolo U20": {
-        "Alt": 1.61,
-        "Üst": 1.7
+        "Alt": 1.59,
+        "Üst": 1.72
     },
     "Matsumoto Y. - Osaka": {
         "Alt": 1.56,
         "Üst": 1.76
+    },
+    "Kamatamare S. - MIO Biwako Shiga": {
+        "Alt": 1.52,
+        "Üst": 1.8
     }
 }
