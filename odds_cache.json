@@ -1,70 +1,82 @@
 {
-    "Levski Sofya - CSKA 1948 Sofia": {
-        "Alt": 1.58,
-        "Üst": 1.74
+    "Juventude - Atl Goianiense": {
+        "Alt": 1.23,
+        "Üst": 2.49
     },
-    "Motor Lublin - L. Varşova": {
-        "Alt": 1.8,
-        "Üst": 1.52
+    "C.D. Cacahuatique - Platense M.": {
+        "Alt": 1.53,
+        "Üst": 1.79
     },
-    "O. Ljubljana - NK Brinje Grosuplje": {
-        "Alt": 1.7,
-        "Üst": 1.6
-    },
-    "D. Dresden - Bochum": {
-        "Alt": 1.84,
-        "Üst": 1.58
-    },
-    "CE Carroi - Santa Coloma": {
-        "Alt": 3.43,
+    "Fuerte San Francisco - CD Fas": {
+        "Alt": 1.57,
         "Üst": 1.75
     },
-    "Acassuso - All Boys": {
-        "Alt": 1.29,
-        "Üst": 3.32
+    "Deportivo Mixco - Comunicacion": {
+        "Alt": 1.51,
+        "Üst": 1.84
     },
-    "Chac. Juniors - CA Atlanta": {
-        "Alt": 4.28,
-        "Üst": 3.16
+    "Boyaca Chico - Once Caldas": {
+        "Alt": 1.51,
+        "Üst": 1.82
     },
-    "Longford - Kerry": {
+    "D. Maldonado - Montevideo": {
+        "Alt": 1.5,
+        "Üst": 1.85
+    },
+    "Club Aurora - GV San Jose": {
+        "Alt": 1.95,
+        "Üst": 3.36
+    },
+    "Sao Paulo SP - Atl Mineiro": {
+        "Alt": 1.48,
+        "Üst": 2.0
+    },
+    "Ceara CE - Recife": {
+        "Alt": 1.38,
+        "Üst": 2.05
+    },
+    "Everton DV - Uni. Catolica": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "San Lorenzo - Talleres": {
+        "Alt": 1.35,
+        "Üst": 2.31
+    },
+    "Portuguesa - Zamora": {
+        "Alt": 1.45,
+        "Üst": 1.92
+    },
+    "Detroit City - Hartford Ath": {
+        "Alt": 1.49,
+        "Üst": 1.86
+    },
+    "Miami - Pittsburgh R.": {
+        "Alt": 1.48,
+        "Üst": 1.87
+    },
+    "Sporting Jax - Lexington SC": {
+        "Alt": 2.06,
+        "Üst": 1.38
+    },
+    "Indy Eleven - Birmingham Legion": {
+        "Alt": 2.45,
+        "Üst": 1.24
+    },
+    "C. Red Wolves SC - Greenville T.": {
+        "Alt": 1.79,
+        "Üst": 1.54
+    },
+    "Independiente D. - CSD Macara": {
+        "Alt": 1.85,
+        "Üst": 1.5
+    },
+    "Forge - York Utd": {
+        "Alt": 2.15,
+        "Üst": 1.34
+    },
+    "CS Herediano - M. Per. Zeledon": {
         "Alt": 1.73,
         "Üst": 1.58
-    },
-    "Atl Madrid C - Real Avila": {
-        "Alt": 1.82,
-        "Üst": 1.51
-    },
-    "Grasshoppers - Zürih": {
-        "Alt": 2.06,
-        "Üst": 1.44
-    },
-    "Marsaxlokk - Mosta": {
-        "Alt": 1.63,
-        "Üst": 1.68
-    },
-    "Dunajska S. - S. Bratislava": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "AS Roma - Atalanta": {
-        "Alt": 1.92,
-        "Üst": 1.53
-    },
-    "Nice - Le Mans": {
-        "Alt": 1.93,
-        "Üst": 1.51
-    },
-    "Le Havre - Brest": {
-        "Alt": 1.63,
-        "Üst": 1.78
-    },
-    "St. Truidense - RAAL La Louviere": {
-        "Alt": 1.92,
-        "Üst": 1.52
-    },
-    "Standard Liege - Antwerp": {
-        "Alt": 1.82,
-        "Üst": 1.59
     }
 }
