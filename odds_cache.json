@@ -1,62 +1,94 @@
 {
-    "Canberra - Queanbeyan City": {
-        "Alt": 3.26,
-        "Üst": 1.1
-    },
-    "Joondalup City - Armadale SC": {
-        "Alt": 1.93,
-        "Üst": 3.49
-    },
-    "Peninsula Power - Moreton City E.": {
-        "Alt": 2.21,
-        "Üst": 1.31
-    },
-    "Shaanxi Union - Jiangxi Dingnan Utd.": {
-        "Alt": 2.11,
-        "Üst": 1.36
-    },
-    "Changwon City - Daejeon Korail": {
-        "Alt": 1.46,
-        "Üst": 1.9
-    },
-    "Wofoo Tai PO - H. Kong Rangers": {
-        "Alt": 1.7,
-        "Üst": 3.62
-    },
-    "Northern Tigers - ST George Saints": {
-        "Alt": 1.88,
-        "Üst": 1.47
-    },
-    "Psim Yogyakarta - Persita Tangerang": {
-        "Alt": 1.46,
-        "Üst": 1.89
-    },
-    "Persik Kediri - Dewa Utd": {
-        "Alt": 1.9,
+    "Hamburger SV (K) - RB Leipzig (K)": {
+        "Alt": 1.89,
         "Üst": 1.46
     },
-    "Bhayangkara - Persebaya": {
-        "Alt": 1.72,
-        "Üst": 1.58
+    "Jeonbuk - Pohang S.": {
+        "Alt": 1.58,
+        "Üst": 1.84
     },
-    "N. Sembilan - Imigresen": {
-        "Alt": 2.02,
-        "Üst": 1.39
+    "Bucheon - Daejeon Citizen": {
+        "Alt": 1.8,
+        "Üst": 1.61
     },
-    "Monaro P. - Cooma Tigers": {
-        "Alt": 2.76,
-        "Üst": 1.18
+    "Seoul - Incheon Utd": {
+        "Alt": 1.73,
+        "Üst": 1.67
     },
-    "Cagliari U20 - Sassuolo U20": {
-        "Alt": 1.59,
-        "Üst": 1.72
+    "Jeju Utd - Ulsan Hora": {
+        "Alt": 1.96,
+        "Üst": 1.5
     },
-    "Matsumoto Y. - Osaka": {
+    "Yongin - Suwon City": {
+        "Alt": 1.95,
+        "Üst": 1.44
+    },
+    "Cheonan City - Hwaseong": {
+        "Alt": 1.64,
+        "Üst": 1.66
+    },
+    "Busan I Park - Ansan Greene": {
+        "Alt": 1.99,
+        "Üst": 1.41
+    },
+    "Gimhae - Jeonnam Dragons": {
+        "Alt": 1.66,
+        "Üst": 1.64
+    },
+    "Ulsan Citizen - Gyeongju": {
         "Alt": 1.56,
-        "Üst": 1.76
+        "Üst": 1.75
     },
-    "Kamatamare S. - MIO Biwako Shiga": {
-        "Alt": 1.52,
-        "Üst": 1.8
+    "Real Madrid B - Juventud Torremolinos": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "Valencia (K) - Madrid Ccf (K)": {
+        "Alt": 1.54,
+        "Üst": 1.78
+    },
+    "RCD Espanyol (K) - L. Las Planas (K)": {
+        "Alt": 1.43,
+        "Üst": 1.95
+    },
+    "Nacka Iliria - Smedby AIS": {
+        "Alt": 2.07,
+        "Üst": 1.37
+    },
+    "Fukuoka - M. Hollyhock": {
+        "Alt": 1.51,
+        "Üst": 1.93
+    },
+    "M. Yamagata - Ventforet": {
+        "Alt": 1.53,
+        "Üst": 1.79
+    },
+    "S. Bellmare - Sendai": {
+        "Alt": 1.54,
+        "Üst": 1.79
+    },
+    "Sagan Tosu - Tegevajaro Mi.": {
+        "Alt": 1.43,
+        "Üst": 1.95
+    },
+    "T. Vortis - Iwaki": {
+        "Alt": 1.58,
+        "Üst": 1.73
+    },
+    "Gainare Tottori - Renofa Y.": {
+        "Alt": 1.63,
+        "Üst": 1.68
+    },
+    "Thespakusatsu G. - Fukushima Utd": {
+        "Alt": 2.06,
+        "Üst": 1.38
+    },
+    "Tochigi - Kochi Utd SC": {
+        "Alt": 1.43,
+        "Üst": 1.97
+    },
+    "Ehime - G. Kitakyushu": {
+        "Alt": 1.67,
+        "Üst": 1.63
     }
 }
