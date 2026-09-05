@@ -1,52 +1,4 @@
 {
-    "Juventude - Atl Goianiense": {
-        "Alt": 1.23,
-        "Üst": 2.49
-    },
-    "C.D. Cacahuatique - Platense M.": {
-        "Alt": 1.53,
-        "Üst": 1.79
-    },
-    "Fuerte San Francisco - CD Fas": {
-        "Alt": 1.57,
-        "Üst": 1.75
-    },
-    "Deportivo Mixco - Comunicacion": {
-        "Alt": 1.51,
-        "Üst": 1.84
-    },
-    "Boyaca Chico - Once Caldas": {
-        "Alt": 1.51,
-        "Üst": 1.82
-    },
-    "D. Maldonado - Montevideo": {
-        "Alt": 1.5,
-        "Üst": 1.85
-    },
-    "Club Aurora - GV San Jose": {
-        "Alt": 1.95,
-        "Üst": 3.36
-    },
-    "Sao Paulo SP - Atl Mineiro": {
-        "Alt": 1.48,
-        "Üst": 2.0
-    },
-    "Ceara CE - Recife": {
-        "Alt": 1.38,
-        "Üst": 2.05
-    },
-    "Everton DV - Uni. Catolica": {
-        "Alt": 1.86,
-        "Üst": 1.49
-    },
-    "San Lorenzo - Talleres": {
-        "Alt": 1.35,
-        "Üst": 2.31
-    },
-    "Portuguesa - Zamora": {
-        "Alt": 1.45,
-        "Üst": 1.92
-    },
     "Detroit City - Hartford Ath": {
         "Alt": 1.49,
         "Üst": 1.86
@@ -60,8 +12,8 @@
         "Üst": 1.38
     },
     "Indy Eleven - Birmingham Legion": {
-        "Alt": 2.45,
-        "Üst": 1.24
+        "Alt": 2.32,
+        "Üst": 1.29
     },
     "C. Red Wolves SC - Greenville T.": {
         "Alt": 1.79,
@@ -78,5 +30,61 @@
     "CS Herediano - M. Per. Zeledon": {
         "Alt": 1.73,
         "Üst": 1.58
+    },
+    "Atl San Luis - CD Guadalajara": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "San Marcos - ART Jalapa": {
+        "Alt": 1.66,
+        "Üst": 1.64
+    },
+    "Cusco - CD Moquegua": {
+        "Alt": 1.94,
+        "Üst": 1.44
+    },
+    "Cucuta D. - Deportivo Pasto": {
+        "Alt": 1.49,
+        "Üst": 1.85
+    },
+    "CA Independiente S. - Motagua": {
+        "Alt": 1.73,
+        "Üst": 1.58
+    },
+    "I. Santa Fe - Fortaleza": {
+        "Alt": 1.51,
+        "Üst": 1.82
+    },
+    "Phila. Union - Montreal I.": {
+        "Alt": 2.52,
+        "Üst": 1.29
+    },
+    "Orlando City - San Diego": {
+        "Alt": 2.72,
+        "Üst": 1.23
+    },
+    "Toronto - Chicago Fire": {
+        "Alt": 2.21,
+        "Üst": 1.38
+    },
+    "Cincinnati - DC Utd": {
+        "Alt": 2.67,
+        "Üst": 1.24
+    },
+    "Charlotte - Houston Dyn.": {
+        "Alt": 2.0,
+        "Üst": 1.48
+    },
+    "Inter Miami - Atlanta Utd": {
+        "Alt": 3.91,
+        "Üst": 1.09
+    },
+    "Columbus Cr. - Colorado R.": {
+        "Alt": 1.81,
+        "Üst": 1.6
+    },
+    "Rhode Island - Louisville": {
+        "Alt": 1.76,
+        "Üst": 1.56
     }
 }
