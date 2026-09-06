@@ -1,63 +1,19 @@
 {
-    "Botafogo RJ - Palmeiras SP": {
-        "Alt": 1.89,
-        "Üst": 1.54
-    },
-    "Ponte Preta - Sao Bernardo FC": {
-        "Alt": 1.84,
-        "Üst": 1.5
-    },
-    "Dep. Tachira - Rayo Zuliano": {
-        "Alt": 2.23,
-        "Üst": 3.49
-    },
-    "P. Hearts of Pine - Westchester SC": {
-        "Alt": 3.09,
-        "Üst": 3.72
-    },
-    "Vancouver Langley - Supra Du Quebec": {
-        "Alt": 2.07,
-        "Üst": 1.37
-    },
-    "Puntarenas - CS Cartagines": {
-        "Alt": 1.7,
-        "Üst": 1.61
-    },
-    "Club Leon - America": {
-        "Alt": 2.05,
-        "Üst": 1.38
-    },
-    "River Plate - Ind. Mendoza": {
-        "Alt": 1.43,
-        "Üst": 2.11
-    },
-    "Corinthians - Chapecoense": {
-        "Alt": 1.75,
-        "Üst": 1.65
-    },
-    "Palestino - U. Concepcion": {
-        "Alt": 1.85,
-        "Üst": 1.49
-    },
-    "Liverpool M. - Boston River": {
-        "Alt": 1.54,
-        "Üst": 1.79
-    },
     "Municipal - Dep. San Pedro": {
-        "Alt": 1.91,
-        "Üst": 1.45
+        "Alt": 1.85,
+        "Üst": 1.5
     },
     "Cruz Azul - Santos Laguna": {
         "Alt": 2.41,
         "Üst": 1.26
     },
     "CD Tapatio - Leones Negros": {
-        "Alt": 1.72,
-        "Üst": 1.58
+        "Alt": 1.76,
+        "Üst": 1.56
     },
     "Walter Ferretti - Managua": {
-        "Alt": 1.84,
-        "Üst": 1.5
+        "Alt": 1.87,
+        "Üst": 1.47
     },
     "Dep. La Gua. - Academia Anzoategui": {
         "Alt": 1.89,
@@ -66,5 +22,49 @@
     "Dep. Pereira - Millonarios": {
         "Alt": 1.8,
         "Üst": 1.52
+    },
+    "Angel Firpo - Fundacion F. Un Atleta": {
+        "Alt": 1.6,
+        "Üst": 1.71
+    },
+    "Melgar - A. Deportiva Tarma": {
+        "Alt": 1.98,
+        "Üst": 1.42
+    },
+    "Nacional Potosi - Blooming": {
+        "Alt": 2.0,
+        "Üst": 1.41
+    },
+    "SD Aucas - Barcelona (Ekv)": {
+        "Alt": 1.46,
+        "Üst": 1.9
+    },
+    "CD Cuenca - Libertad Loja": {
+        "Alt": 1.49,
+        "Üst": 1.86
+    },
+    "Racing Club - Atl Tucuman": {
+        "Alt": 1.37,
+        "Üst": 2.21
+    },
+    "AD San Carlos - Sporting San Jose": {
+        "Alt": 1.43,
+        "Üst": 1.95
+    },
+    "Indigenas de Matagalpa - Diriangen": {
+        "Alt": 1.73,
+        "Üst": 1.58
+    },
+    "D. Toluca - Monterrey": {
+        "Alt": 1.91,
+        "Üst": 1.46
+    },
+    "Juticalpa - Genesis PN": {
+        "Alt": 1.54,
+        "Üst": 1.78
+    },
+    "Kuzey Kore U20 (K) - Portekiz U20 (K)": {
+        "Alt": 3.41,
+        "Üst": 2.07
     }
 }
