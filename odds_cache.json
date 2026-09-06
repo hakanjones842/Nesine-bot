@@ -1,78 +1,70 @@
 {
-    "Cercle Brugge - KAA Gent": {
-        "Alt": 1.73,
-        "Üst": 1.66
+    "Santa Clara - Rio Ave": {
+        "Alt": 1.42,
+        "Üst": 2.13
     },
-    "G. Furth - Heidenheim": {
-        "Alt": 2.47,
-        "Üst": 1.3
+    "Grossaspach - Hoffenheim II": {
+        "Alt": 2.27,
+        "Üst": 1.36
     },
-    "Hertha Berlin - Magdeburg": {
-        "Alt": 2.96,
-        "Üst": 1.19
+    "Brommapojkarna - IF Elfsborg": {
+        "Alt": 1.93,
+        "Üst": 1.52
     },
-    "Osnabrück - Braunschweig": {
-        "Alt": 2.01,
-        "Üst": 1.47
+    "Sion - Thun": {
+        "Alt": 2.81,
+        "Üst": 1.22
     },
-    "Würzburg - Stuttgart II": {
-        "Alt": 2.16,
+    "Basel - Lugano": {
+        "Alt": 2.17,
         "Üst": 1.4
     },
-    "Guangxi Hengchen - SJZ Gongfu": {
-        "Alt": 1.67,
-        "Üst": 1.63
+    "Leixoes - Amarante": {
+        "Alt": 1.45,
+        "Üst": 1.91
     },
-    "Viking (A) - Stabaek II": {
-        "Alt": 1.69,
-        "Üst": 4.28
+    "ADO Den Haag - F. Sittard": {
+        "Alt": 2.3,
+        "Üst": 1.35
     },
-    "Lion C. Sailors - Tampines Rov.": {
-        "Alt": 1.83,
-        "Üst": 3.38
+    "AZ Alkmaar (K) - Utrecht (K)": {
+        "Alt": 2.07,
+        "Üst": 1.37
     },
-    "Lamphun Warrior - Uthai Thani": {
-        "Alt": 1.43,
-        "Üst": 1.96
+    "PEC Zwolle (K) - ADO Den Haag (K)": {
+        "Alt": 1.98,
+        "Üst": 1.42
     },
-    "Henan Songs. - Chengdu Ron.": {
-        "Alt": 2.0,
-        "Üst": 1.4
+    "Ajax (K) - de Graafschap (K)": {
+        "Alt": 3.55,
+        "Üst": 2.51
     },
-    "Yunnan Yukun - Liaoning S.": {
-        "Alt": 3.02,
-        "Üst": 1.14
+    "Twente (K) - SC Heerenveen (K)": {
+        "Alt": 3.99,
+        "Üst": 1.65
     },
-    "AFC Emley - Bishop Auckland": {
-        "Alt": 1.87,
-        "Üst": 3.43
+    "Maastricht - Roda": {
+        "Alt": 1.84,
+        "Üst": 1.5
     },
-    "Gor Mahia - Pyramids": {
-        "Alt": 1.76,
-        "Üst": 2.9
+    "Miami - Pittsburgh R.": {
+        "Alt": 1.5,
+        "Üst": 1.84
     },
-    "FSV Schoningen 2011 - VfB Oldenburg": {
-        "Alt": 2.19,
-        "Üst": 3.66
+    "Eng. Rangers - AS Sobemap": {
+        "Alt": 2.02,
+        "Üst": 2.69
     },
-    "Eintracht Norder. - Lubeck": {
-        "Alt": 3.24,
-        "Üst": 3.91
+    "Colombe - Stade Malien De B.": {
+        "Alt": 1.57,
+        "Üst": 3.03
     },
-    "W. Bremen II - Phonix Lubeck": {
-        "Alt": 1.67,
-        "Üst": 1.1
+    "Medeama SC - TP Mazembe": {
+        "Alt": 1.32,
+        "Üst": 2.21
     },
-    "Wolfsburg (K) - Werder Bremen (K)": {
-        "Alt": 1.72,
-        "Üst": 3.5
-    },
-    "CE Casa de Portugal - Rangers": {
-        "Alt": 1.88,
-        "Üst": 3.41
-    },
-    "Orsha - Ostrovets": {
-        "Alt": 1.44,
-        "Üst": 3.64
+    "SC Escaldes - Ordino": {
+        "Alt": 1.96,
+        "Üst": 1.43
     }
 }
