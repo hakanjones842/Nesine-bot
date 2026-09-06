@@ -1,78 +1,86 @@
 {
-    "Monterey Bay - Phoenix Rising": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "Alajuelense - D. Saprissa": {
-        "Alt": 1.63,
-        "Üst": 1.67
-    },
-    "Portland Tim. - Minnesota Utd": {
-        "Alt": 2.33,
-        "Üst": 1.34
-    },
-    "V. Whitecaps - S. Louis City SC": {
-        "Alt": 2.49,
-        "Üst": 1.29
-    },
-    "Las Vegas L. - New Mexico": {
-        "Alt": 2.09,
-        "Üst": 1.37
-    },
-    "Av Alta - One Knoxville SC": {
-        "Alt": 1.88,
-        "Üst": 1.47
-    },
-    "CD Marquense - Xelaju": {
-        "Alt": 1.45,
-        "Üst": 1.91
-    },
-    "Atlas - Atlante": {
-        "Alt": 1.6,
-        "Üst": 1.71
-    },
-    "Sydney Utd 58 - Manly Utd": {
-        "Alt": 1.68,
-        "Üst": 1.62
-    },
-    "Sapporo - Tochigi City": {
-        "Alt": 1.96,
-        "Üst": 1.43
-    },
-    "Broad. Magic - Maitland": {
-        "Alt": 2.36,
-        "Üst": 1.27
-    },
-    "Apia Leic. - NWS Spirit U23": {
-        "Alt": 1.96,
-        "Üst": 1.43
-    },
     "South Melbourne - Heidelberg": {
         "Alt": 1.86,
         "Üst": 1.49
     },
     "Citizen AA - South China": {
-        "Alt": 2.77,
-        "Üst": 1.33
+        "Alt": 2.37,
+        "Üst": 3.62
     },
     "Central Western - Lucky Mile": {
-        "Alt": 4.16,
-        "Üst": 1.83
+        "Alt": 4.11,
+        "Üst": 2.04
     },
     "Hoi King - Sham Shui Po SA": {
-        "Alt": 2.1,
-        "Üst": 3.32
+        "Alt": 3.03,
+        "Üst": 3.59
     },
     "Yangpyeong - Siheung Citi.": {
-        "Alt": 1.51,
-        "Üst": 1.83
+        "Alt": 1.53,
+        "Üst": 1.79
     },
     "Sha Tin - Golik North D.": {
-        "Alt": 2.35,
-        "Üst": 3.4
+        "Alt": 2.47,
+        "Üst": 3.54
     },
     "Kanagawa (K) - INAC Kobe L. (K)": {
         "Alt": 1.59,
         "Üst": 1.72
+    },
+    "Vik. Zizkov - Pribram": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "Malut Utd - Garuda Yaksa": {
+        "Alt": 1.84,
+        "Üst": 1.5
+    },
+    "Hong Kong - Lee Man Warriors": {
+        "Alt": 3.78,
+        "Üst": 1.65
+    },
+    "Esperanca D. Andorra - Inter Escaldes": {
+        "Alt": 3.47,
+        "Üst": 1.76
+    },
+    "Pocheon Citi. - Yeoju Citizen": {
+        "Alt": 1.79,
+        "Üst": 1.54
+    },
+    "C. Dep. Minera - Pena Deportiva": {
+        "Alt": 1.67,
+        "Üst": 1.63
+    },
+    "Valencia M. - RCD Mallorca B": {
+        "Alt": 1.85,
+        "Üst": 1.5
+    },
+    "Real Madrid C - Albacete Balompie B": {
+        "Alt": 1.51,
+        "Üst": 1.82
+    },
+    "Kashima - Urawa Red": {
+        "Alt": 1.87,
+        "Üst": 1.55
+    },
+    "Nagoya - Machida Zelvia": {
+        "Alt": 1.78,
+        "Üst": 1.63
+    },
+    "Fagiano - S. Hiroshima": {
+        "Alt": 1.8,
+        "Üst": 1.6
+    },
+    "JEF Utd - Gamba Osaka": {
+        "Alt": 1.85,
+        "Üst": 1.58
+    },
+    "Yokohama - Niigata": {
+        "Alt": 1.58,
+        "Üst": 1.72
+    },
+    "B. Akita - Omiya Ardija": {
+        "Alt": 1.69,
+        "Üst": 1.62
     }
 }
