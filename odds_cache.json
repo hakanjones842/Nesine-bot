@@ -1,74 +1,78 @@
 {
-    "Fluminense - Vasco Da G.": {
-        "Alt": 1.47,
-        "Üst": 2.02
+    "Monterey Bay - Phoenix Rising": {
+        "Alt": 1.93,
+        "Üst": 1.44
     },
-    "Union Omaha SC - Charlotte Ind.": {
-        "Alt": 2.57,
-        "Üst": 3.69
+    "Alajuelense - D. Saprissa": {
+        "Alt": 1.63,
+        "Üst": 1.67
     },
-    "U. Chile - Coquimbo U.": {
-        "Alt": 1.53,
-        "Üst": 1.79
+    "Portland Tim. - Minnesota Utd": {
+        "Alt": 2.33,
+        "Üst": 1.34
     },
-    "Naples - AC Boise": {
-        "Alt": 1.86,
-        "Üst": 1.49
+    "V. Whitecaps - S. Louis City SC": {
+        "Alt": 2.49,
+        "Üst": 1.29
     },
-    "V. Sarsfield - Estudiantes": {
-        "Alt": 1.23,
-        "Üst": 2.78
+    "Las Vegas L. - New Mexico": {
+        "Alt": 2.09,
+        "Üst": 1.37
     },
-    "Dallas - Kansas City": {
-        "Alt": 2.52,
-        "Üst": 1.28
+    "Av Alta - One Knoxville SC": {
+        "Alt": 1.88,
+        "Üst": 1.47
     },
-    "S. Sounders - NY Red Bulls": {
-        "Alt": 2.94,
-        "Üst": 1.2
-    },
-    "Austin - San Jose E.": {
-        "Alt": 2.11,
-        "Üst": 1.43
-    },
-    "San Antonio - Tulsa Roughnecks": {
+    "CD Marquense - Xelaju": {
         "Alt": 1.45,
         "Üst": 1.91
     },
-    "Corpus Chri - Forward M.": {
-        "Alt": 1.77,
-        "Üst": 1.55
+    "Atlas - Atlante": {
+        "Alt": 1.6,
+        "Üst": 1.71
     },
-    "Orange Count - Sacramento R.": {
-        "Alt": 1.58,
-        "Üst": 1.73
+    "Sydney Utd 58 - Manly Utd": {
+        "Alt": 1.68,
+        "Üst": 1.62
     },
-    "Metapan - CD Inca": {
-        "Alt": 1.7,
-        "Üst": 1.61
+    "Sapporo - Tochigi City": {
+        "Alt": 1.96,
+        "Üst": 1.43
     },
-    "Malacateco - CD Suchitepequez": {
-        "Alt": 1.48,
-        "Üst": 1.87
+    "Broad. Magic - Maitland": {
+        "Alt": 2.36,
+        "Üst": 1.27
     },
-    "Tigres - Necaxa": {
-        "Alt": 1.81,
-        "Üst": 1.51
+    "Apia Leic. - NWS Spirit U23": {
+        "Alt": 1.96,
+        "Üst": 1.43
     },
-    "Atl Morelia - A. Oaxaca": {
-        "Alt": 1.95,
-        "Üst": 1.44
+    "South Melbourne - Heidelberg": {
+        "Alt": 1.86,
+        "Üst": 1.49
     },
-    "Piratas Veracruz - Correcaminos": {
-        "Alt": 1.77,
-        "Üst": 1.55
+    "Citizen AA - South China": {
+        "Alt": 2.77,
+        "Üst": 1.33
     },
-    "Jaiba Brava - Venados": {
-        "Alt": 1.74,
-        "Üst": 1.57
+    "Central Western - Lucky Mile": {
+        "Alt": 4.16,
+        "Üst": 1.83
     },
-    "Cancun - Cruz Azul Hidalgo": {
-        "Alt": 1.82,
-        "Üst": 1.51
+    "Hoi King - Sham Shui Po SA": {
+        "Alt": 2.1,
+        "Üst": 3.32
+    },
+    "Yangpyeong - Siheung Citi.": {
+        "Alt": 1.51,
+        "Üst": 1.83
+    },
+    "Sha Tin - Golik North D.": {
+        "Alt": 2.35,
+        "Üst": 3.4
+    },
+    "Kanagawa (K) - INAC Kobe L. (K)": {
+        "Alt": 1.59,
+        "Üst": 1.72
     }
 }
