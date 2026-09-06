@@ -1,70 +1,74 @@
 {
-    "Santa Clara - Rio Ave": {
-        "Alt": 1.42,
-        "Üst": 2.13
+    "SK Beveren - O. H. Leuven": {
+        "Alt": 1.85,
+        "Üst": 1.58
     },
-    "Grossaspach - Hoffenheim II": {
-        "Alt": 2.27,
-        "Üst": 1.36
-    },
-    "Brommapojkarna - IF Elfsborg": {
-        "Alt": 1.93,
-        "Üst": 1.52
-    },
-    "Sion - Thun": {
-        "Alt": 2.81,
-        "Üst": 1.22
-    },
-    "Basel - Lugano": {
-        "Alt": 2.17,
-        "Üst": 1.4
-    },
-    "Leixoes - Amarante": {
-        "Alt": 1.45,
-        "Üst": 1.91
-    },
-    "ADO Den Haag - F. Sittard": {
-        "Alt": 2.3,
-        "Üst": 1.35
-    },
-    "AZ Alkmaar (K) - Utrecht (K)": {
-        "Alt": 2.07,
-        "Üst": 1.37
-    },
-    "PEC Zwolle (K) - ADO Den Haag (K)": {
-        "Alt": 1.98,
-        "Üst": 1.42
-    },
-    "Ajax (K) - de Graafschap (K)": {
-        "Alt": 3.55,
-        "Üst": 2.51
-    },
-    "Twente (K) - SC Heerenveen (K)": {
-        "Alt": 3.99,
-        "Üst": 1.65
-    },
-    "Maastricht - Roda": {
+    "Francs Borains - KSC Lokeren Temse": {
         "Alt": 1.84,
         "Üst": 1.5
     },
-    "Miami - Pittsburgh R.": {
-        "Alt": 1.5,
-        "Üst": 1.84
+    "Kristiansund - Tromso": {
+        "Alt": 1.82,
+        "Üst": 1.59
     },
-    "Eng. Rangers - AS Sobemap": {
-        "Alt": 2.02,
-        "Üst": 2.69
+    "Fortuna Köln - F. Düsseldorf": {
+        "Alt": 1.7,
+        "Üst": 1.71
     },
-    "Colombe - Stade Malien De B.": {
-        "Alt": 1.57,
-        "Üst": 3.03
+    "Cremonese - Padova": {
+        "Alt": 1.54,
+        "Üst": 1.9
     },
-    "Medeama SC - TP Mazembe": {
-        "Alt": 1.32,
-        "Üst": 2.21
+    "GKS Tychy - Avia Swidnik": {
+        "Alt": 1.78,
+        "Üst": 1.54
     },
-    "SC Escaldes - Ordino": {
-        "Alt": 1.96,
-        "Üst": 1.43
+    "Otelul Galati - Rapid 1923": {
+        "Alt": 1.51,
+        "Üst": 1.82
+    },
+    "B. Kaliningrad - L. Moskova": {
+        "Alt": 1.49,
+        "Üst": 1.98
+    },
+    "Rosario C. - New Old Boys": {
+        "Alt": 1.43,
+        "Üst": 2.11
+    },
+    "O'Higgins - D. Union La Calera": {
+        "Alt": 1.62,
+        "Üst": 1.68
+    },
+    "Al Shabab Kuwait - Kazma SC": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Penya d`Andorra - Atl. Club d'Escaldes": {
+        "Alt": 1.71,
+        "Üst": 1.6
+    },
+    "Agropecuario A. - Atletico De Rafaela": {
+        "Alt": 3.13,
+        "Üst": 2.99
+    },
+    "San Miguel - Godoy Cruz": {
+        "Alt": 5.47,
+        "Üst": 3.47
+    },
+    "Club Atletico Central - Recreativo": {
+        "Alt": 1.42,
+        "Üst": 1.98
+    },
+    "ETO Gyor - B. Honved": {
+        "Alt": 2.05,
+        "Üst": 1.38
+    },
+    "Zrinjski Mostar - Siroki Brijeg": {
+        "Alt": 1.72,
+        "Üst": 1.59
+    },
+    "Loko Sofya - Ludogorets": {
+        "Alt": 1.73,
+        "Üst": 1.58
     }
 }
