@@ -1,67 +1,47 @@
 {
-    "AD San Carlos - Sporting San Jose": {
-        "Alt": 1.45,
-        "Üst": 1.92
-    },
-    "Indigenas de Matagalpa - Diriangen": {
-        "Alt": 1.73,
-        "Üst": 1.58
-    },
-    "D. Toluca - Monterrey": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "Juticalpa - Genesis PN": {
-        "Alt": 1.6,
-        "Üst": 1.71
-    },
     "Kuzey Kore U20 (K) - Portekiz U20 (K)": {
-        "Alt": 3.41,
-        "Üst": 2.07
+        "Alt": 3.47,
+        "Üst": 2.03
     },
     "İstanbulspor - Iğdır FK": {
-        "Alt": 3.54,
-        "Üst": 3.44
+        "Alt": 1.73,
+        "Üst": 1.58
     },
     "Esenler Erokspor - Kayserispor": {
         "Alt": 1.77,
         "Üst": 1.55
     },
     "Isloch - A. Dzerzhinsk": {
-        "Alt": 1.79,
-        "Üst": 1.53
+        "Alt": 1.77,
+        "Üst": 1.55
     },
     "Alqana - Talaea Gaish": {
-        "Alt": 1.21,
-        "Üst": 2.63
+        "Alt": 1.22,
+        "Üst": 2.57
     },
     "AL Ittihad - Asyut Petroleum": {
         "Alt": 1.27,
         "Üst": 2.35
     },
     "Voluntari - A. Pitesti": {
-        "Alt": 1.34,
-        "Üst": 2.14
+        "Alt": 1.33,
+        "Üst": 2.19
     },
     "Riga II - Skanstes SK": {
-        "Alt": 1.22,
-        "Üst": 1.09
+        "Alt": 3.11,
+        "Üst": 3.8
     },
     "MSK Zilina B - S. Bratislava B": {
         "Alt": 1.99,
         "Üst": 1.42
     },
     "Asteras T. - POT Iraklis": {
-        "Alt": 1.45,
-        "Üst": 1.92
+        "Alt": 1.44,
+        "Üst": 1.93
     },
     "Nassaji Maz. - Kheybar K.": {
-        "Alt": 1.32,
-        "Üst": 1.2
-    },
-    "Persepolis - Zob Ahan": {
-        "Alt": 1.06,
-        "Üst": 2.33
+        "Alt": 1.22,
+        "Üst": 1.21
     },
     "AL Khaleej Saihat - AL Riyadh": {
         "Alt": 1.77,
@@ -72,7 +52,39 @@
         "Üst": 1.69
     },
     "Hegelmann - FK Panevezys": {
-        "Alt": 1.63,
-        "Üst": 1.67
+        "Alt": 1.61,
+        "Üst": 1.7
+    },
+    "Union Berlin (K) - E. Frankfurt (K)": {
+        "Alt": 1.79,
+        "Üst": 3.47
+    },
+    "Klubi 04 - Kapa": {
+        "Alt": 2.06,
+        "Üst": 1.38
+    },
+    "Riga - Daugavpils": {
+        "Alt": 2.41,
+        "Üst": 3.67
+    },
+    "Rigas Skola - FK Liepaja": {
+        "Alt": 1.64,
+        "Üst": 3.43
+    },
+    "Molde II - Aalesun FK 2": {
+        "Alt": 1.91,
+        "Üst": 3.97
+    },
+    "Drobak Frogn - Lyn 1896 FK II": {
+        "Alt": 2.97,
+        "Üst": 4.29
+    },
+    "Wieczysta Krakow - Zaglebie Lubin": {
+        "Alt": 1.89,
+        "Üst": 1.47
+    },
+    "İspanya U20 (K) - Nijerya U20 (K)": {
+        "Alt": 2.23,
+        "Üst": 3.49
     }
 }
