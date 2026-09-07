@@ -1,90 +1,62 @@
 {
-    "Kuzey Kore U20 (K) - Portekiz U20 (K)": {
-        "Alt": 3.5,
-        "Üst": 2.0
+    "Union Berlin (K) - E. Frankfurt (K)": {
+        "Alt": 1.65,
+        "Üst": 3.58
     },
-    "İstanbulspor - Iğdır FK": {
+    "Klubi 04 - Kapa": {
+        "Alt": 2.23,
+        "Üst": 1.31
+    },
+    "Riga - Daugavpils": {
+        "Alt": 3.61,
+        "Üst": 2.34
+    },
+    "Rigas Skola - FK Liepaja": {
+        "Alt": 2.43,
+        "Üst": 3.6
+    },
+    "Molde II - Aalesun FK 2": {
+        "Alt": 3.08,
+        "Üst": 4.7
+    },
+    "Drobak Frogn - Lyn 1896 FK II": {
+        "Alt": 2.77,
+        "Üst": 4.17
+    },
+    "Wieczysta Krakow - Zaglebie Lubin": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "Azam - Namungo": {
+        "Alt": 1.54,
+        "Üst": 2.23
+    },
+    "İspanya U20 (K) - Nijerya U20 (K)": {
+        "Alt": 3.41,
+        "Üst": 2.19
+    },
+    "Kosta Rika U20 (K) - Kolombiya U20 (K)": {
+        "Alt": 2.03,
+        "Üst": 1.39
+    },
+    "AL Jabalain - AL Wehda": {
+        "Alt": 1.86,
+        "Üst": 1.48
+    },
+    "Cagliari - Lecce": {
+        "Alt": 1.45,
+        "Üst": 2.06
+    },
+    "Rubin Kazan - Akhmat Grozny": {
+        "Alt": 1.41,
+        "Üst": 2.14
+    },
+    "Dinamo Brest - Bate Borisov": {
         "Alt": 1.73,
         "Üst": 1.58
     },
-    "Esenler Erokspor - Kayserispor": {
-        "Alt": 1.74,
-        "Üst": 1.58
-    },
-    "Isloch - A. Dzerzhinsk": {
-        "Alt": 1.79,
-        "Üst": 1.52
-    },
-    "Alqana - Talaea Gaish": {
-        "Alt": 1.21,
-        "Üst": 2.62
-    },
-    "AL Ittihad - Asyut Petroleum": {
+    "F. Khuzestan - Fajr Sepasi": {
         "Alt": 1.24,
-        "Üst": 2.45
-    },
-    "Voluntari - A. Pitesti": {
-        "Alt": 1.33,
-        "Üst": 2.19
-    },
-    "Riga II - Skanstes SK": {
-        "Alt": 3.11,
-        "Üst": 3.8
-    },
-    "MSK Zilina B - S. Bratislava B": {
-        "Alt": 1.99,
-        "Üst": 1.42
-    },
-    "Asteras T. - POT Iraklis": {
-        "Alt": 1.42,
-        "Üst": 1.98
-    },
-    "Mes Shahr e B. - Malavan Bandar A.": {
-        "Alt": 1.23,
-        "Üst": 2.48
-    },
-    "Nassaji Maz. - Kheybar K.": {
-        "Alt": 1.29,
-        "Üst": 2.3
-    },
-    "Persepolis - Zob Ahan": {
-        "Alt": 1.5,
-        "Üst": 1.84
-    },
-    "AL Khaleej Saihat - AL Riyadh": {
-        "Alt": 1.77,
-        "Üst": 1.55
-    },
-    "AL Adalh - AL Saqer": {
-        "Alt": 1.61,
-        "Üst": 1.69
-    },
-    "Hegelmann - FK Panevezys": {
-        "Alt": 1.61,
-        "Üst": 1.7
-    },
-    "Union Berlin (K) - E. Frankfurt (K)": {
-        "Alt": 1.69,
-        "Üst": 3.5
-    },
-    "Klubi 04 - Kapa": {
-        "Alt": 2.17,
-        "Üst": 1.33
-    },
-    "Riga - Daugavpils": {
-        "Alt": 2.27,
-        "Üst": 3.62
-    },
-    "Rigas Skola - FK Liepaja": {
-        "Alt": 1.64,
-        "Üst": 3.43
-    },
-    "Molde II - Aalesun FK 2": {
-        "Alt": 3.1,
-        "Üst": 4.38
-    },
-    "Drobak Frogn - Lyn 1896 FK II": {
-        "Alt": 2.56,
-        "Üst": 4.19
+        "Üst": 2.46
     }
 }
