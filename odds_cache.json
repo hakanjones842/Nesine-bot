@@ -1,27 +1,27 @@
 {
     "Kuzey Kore U20 (K) - Portekiz U20 (K)": {
-        "Alt": 3.47,
-        "Üst": 2.03
+        "Alt": 3.5,
+        "Üst": 2.0
     },
     "İstanbulspor - Iğdır FK": {
         "Alt": 1.73,
         "Üst": 1.58
     },
     "Esenler Erokspor - Kayserispor": {
-        "Alt": 1.77,
-        "Üst": 1.55
+        "Alt": 1.74,
+        "Üst": 1.58
     },
     "Isloch - A. Dzerzhinsk": {
-        "Alt": 1.77,
-        "Üst": 1.55
+        "Alt": 1.79,
+        "Üst": 1.52
     },
     "Alqana - Talaea Gaish": {
-        "Alt": 1.22,
-        "Üst": 2.57
+        "Alt": 1.21,
+        "Üst": 2.62
     },
     "AL Ittihad - Asyut Petroleum": {
-        "Alt": 1.27,
-        "Üst": 2.35
+        "Alt": 1.24,
+        "Üst": 2.45
     },
     "Voluntari - A. Pitesti": {
         "Alt": 1.33,
@@ -36,12 +36,20 @@
         "Üst": 1.42
     },
     "Asteras T. - POT Iraklis": {
-        "Alt": 1.44,
-        "Üst": 1.93
+        "Alt": 1.42,
+        "Üst": 1.98
+    },
+    "Mes Shahr e B. - Malavan Bandar A.": {
+        "Alt": 1.23,
+        "Üst": 2.48
     },
     "Nassaji Maz. - Kheybar K.": {
-        "Alt": 1.22,
-        "Üst": 1.21
+        "Alt": 1.29,
+        "Üst": 2.3
+    },
+    "Persepolis - Zob Ahan": {
+        "Alt": 1.5,
+        "Üst": 1.84
     },
     "AL Khaleej Saihat - AL Riyadh": {
         "Alt": 1.77,
@@ -56,35 +64,27 @@
         "Üst": 1.7
     },
     "Union Berlin (K) - E. Frankfurt (K)": {
-        "Alt": 1.79,
-        "Üst": 3.47
+        "Alt": 1.69,
+        "Üst": 3.5
     },
     "Klubi 04 - Kapa": {
-        "Alt": 2.06,
-        "Üst": 1.38
+        "Alt": 2.17,
+        "Üst": 1.33
     },
     "Riga - Daugavpils": {
-        "Alt": 2.41,
-        "Üst": 3.67
+        "Alt": 2.27,
+        "Üst": 3.62
     },
     "Rigas Skola - FK Liepaja": {
         "Alt": 1.64,
         "Üst": 3.43
     },
     "Molde II - Aalesun FK 2": {
-        "Alt": 1.91,
-        "Üst": 3.97
+        "Alt": 3.1,
+        "Üst": 4.38
     },
     "Drobak Frogn - Lyn 1896 FK II": {
-        "Alt": 2.97,
-        "Üst": 4.29
-    },
-    "Wieczysta Krakow - Zaglebie Lubin": {
-        "Alt": 1.89,
-        "Üst": 1.47
-    },
-    "İspanya U20 (K) - Nijerya U20 (K)": {
-        "Alt": 2.23,
-        "Üst": 3.49
+        "Alt": 2.56,
+        "Üst": 4.19
     }
 }
