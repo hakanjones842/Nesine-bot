@@ -1,62 +1,74 @@
 {
-    "Union Berlin (K) - E. Frankfurt (K)": {
-        "Alt": 1.65,
-        "Üst": 3.58
+    "Elche - R. Sociedad": {
+        "Alt": 1.81,
+        "Üst": 1.6
     },
-    "Klubi 04 - Kapa": {
-        "Alt": 2.23,
-        "Üst": 1.31
+    "Portland Timbers II - Vancouver Whitecaps II": {
+        "Alt": 2.05,
+        "Üst": 3.64
     },
-    "Riga - Daugavpils": {
-        "Alt": 3.61,
-        "Üst": 2.34
+    "Nueva Chicago - Quilmes": {
+        "Alt": 1.34,
+        "Üst": 3.32
     },
-    "Rigas Skola - FK Liepaja": {
-        "Alt": 2.43,
-        "Üst": 3.6
+    "Paysandu SC PA - Brusque Sc": {
+        "Alt": 1.62,
+        "Üst": 1.68
     },
-    "Molde II - Aalesun FK 2": {
-        "Alt": 3.08,
-        "Üst": 4.7
+    "Atlante (K) - Juarez (K)": {
+        "Alt": 1.66,
+        "Üst": 3.54
     },
-    "Drobak Frogn - Lyn 1896 FK II": {
-        "Alt": 2.77,
-        "Üst": 4.17
+    "Barracas - Argentinos J.": {
+        "Alt": 1.24,
+        "Üst": 2.7
     },
-    "Wieczysta Krakow - Zaglebie Lubin": {
-        "Alt": 1.86,
-        "Üst": 1.49
-    },
-    "Azam - Namungo": {
-        "Alt": 1.54,
-        "Üst": 2.23
-    },
-    "İspanya U20 (K) - Nijerya U20 (K)": {
-        "Alt": 3.41,
-        "Üst": 2.19
-    },
-    "Kosta Rika U20 (K) - Kolombiya U20 (K)": {
-        "Alt": 2.03,
-        "Üst": 1.39
-    },
-    "AL Jabalain - AL Wehda": {
-        "Alt": 1.86,
-        "Üst": 1.48
-    },
-    "Cagliari - Lecce": {
-        "Alt": 1.45,
-        "Üst": 2.06
-    },
-    "Rubin Kazan - Akhmat Grozny": {
-        "Alt": 1.41,
-        "Üst": 2.14
-    },
-    "Dinamo Brest - Bate Borisov": {
-        "Alt": 1.73,
+    "Carabobo - Estudiante Merida": {
+        "Alt": 1.72,
         "Üst": 1.58
     },
-    "F. Khuzestan - Fajr Sepasi": {
-        "Alt": 1.24,
-        "Üst": 2.46
+    "Vitoria BA - Gremio P.": {
+        "Alt": 1.52,
+        "Üst": 1.93
+    },
+    "Excursionist - Ituzaingo": {
+        "Alt": 1.49,
+        "Üst": 1.86
+    },
+    "Llaneros - CD Tolima": {
+        "Alt": 1.39,
+        "Üst": 2.04
+    },
+    "Deportes Limache - Cobresal": {
+        "Alt": 2.09,
+        "Üst": 3.45
+    },
+    "Ucv - A. Puerto C.": {
+        "Alt": 1.46,
+        "Üst": 1.9
+    },
+    "Mushuc Runa - Club Leones D. N.": {
+        "Alt": 1.42,
+        "Üst": 1.99
+    },
+    "Orense SC - Guayaquil": {
+        "Alt": 1.48,
+        "Üst": 1.87
+    },
+    "CS Emelec - Manta": {
+        "Alt": 1.52,
+        "Üst": 1.79
+    },
+    "Union Santa Fe - Instituto": {
+        "Alt": 1.33,
+        "Üst": 2.34
+    },
+    "Club Leon (K) - Puebla (K)": {
+        "Alt": 3.78,
+        "Üst": 2.15
+    },
+    "Atl. Nacional Medellin - Deport Cali": {
+        "Alt": 1.65,
+        "Üst": 1.65
     }
 }
