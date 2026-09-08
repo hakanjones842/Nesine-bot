@@ -1,78 +1,90 @@
 {
-    "Al Mesaimeer - Kharitiyat": {
-        "Alt": 1.74,
-        "Üst": 1.57
-    },
-    "KF Vushtrria - KF Llapi": {
-        "Alt": 1.57,
-        "Üst": 1.75
-    },
-    "KF Drenica Skenderaj - Prishtina": {
-        "Alt": 1.55,
-        "Üst": 1.77
-    },
-    "CS Maritimo U23 - Gil Vicente U23": {
-        "Alt": 1.95,
-        "Üst": 1.43
-    },
-    "B. Dortmund U19 - Villarreal U19": {
-        "Alt": 2.49,
-        "Üst": 1.23
-    },
-    "Real Madrid U19 - Inter U19": {
-        "Alt": 2.65,
-        "Üst": 1.2
-    },
-    "Trans Narva - Flora T.": {
-        "Alt": 2.02,
-        "Üst": 1.4
-    },
-    "Vaasan Ps - Oulu": {
-        "Alt": 1.59,
-        "Üst": 1.81
-    },
-    "Tampereen I. - FF Jaro": {
-        "Alt": 2.06,
+    "Alh. Femenino (K) - Albacete (K)": {
+        "Alt": 1.92,
         "Üst": 1.45
     },
-    "TPS Turku - SJK Seinöjoen": {
-        "Alt": 1.89,
-        "Üst": 1.54
-    },
-    "Lahti - Mariehamn": {
-        "Alt": 1.96,
+    "AL Anwar - AL Tai": {
+        "Alt": 1.84,
         "Üst": 1.5
     },
-    "AL Ettifaq - AL Faisaly (Sar)": {
-        "Alt": 1.95,
+    "Atlanta Utd 2 - Connecticut Utd": {
+        "Alt": 3.19,
+        "Üst": 3.91
+    },
+    "Claypole - Central Ballester": {
+        "Alt": 3.42,
+        "Üst": 3.02
+    },
+    "Al Garaf - AL Shorta": {
+        "Alt": 1.46,
+        "Üst": 1.9
+    },
+    "Exeter City - Tottenham U21": {
+        "Alt": 2.43,
+        "Üst": 1.25
+    },
+    "Doncaster - Huddersfield": {
+        "Alt": 1.51,
+        "Üst": 1.82
+    },
+    "Fleetwood T. U21 - Burnley U21": {
+        "Alt": 3.47,
+        "Üst": 3.89
+    },
+    "Hull City U21 - Brentford U21": {
+        "Alt": 1.8,
+        "Üst": 3.62
+    },
+    "Gateshead - Derby County U21": {
+        "Alt": 2.99,
+        "Üst": 3.96
+    },
+    "Wealdstone - Stoke City U21": {
+        "Alt": 1.96,
+        "Üst": 3.54
+    },
+    "Solihull Moors - Leeds Utd U21": {
+        "Alt": 2.7,
+        "Üst": 3.8
+    },
+    "Halifax Town - Wolverhampton U21": {
+        "Alt": 2.65,
+        "Üst": 3.85
+    },
+    "Boston Utd - W. Bromwich U21": {
+        "Alt": 2.4,
+        "Üst": 3.61
+    },
+    "Hornchurch - Ipswich Town U21": {
+        "Alt": 2.97,
+        "Üst": 3.8
+    },
+    "Boreham Wood - Newcastle U21": {
+        "Alt": 2.07,
+        "Üst": 3.75
+    },
+    "Sutton Utd - Birmingham City U21": {
+        "Alt": 2.17,
+        "Üst": 3.58
+    },
+    "Scunthorpe - Nottingham F. U21": {
+        "Alt": 2.79,
+        "Üst": 3.62
+    },
+    "FK Sutjeska - FK Mornar Bar": {
+        "Alt": 1.46,
+        "Üst": 1.9
+    },
+    "Atlante (K) - Juarez (K)": {
+        "Alt": 1.94,
         "Üst": 1.44
     },
-    "Duhok - Gas Alshimal": {
-        "Alt": 1.42,
-        "Üst": 1.99
+    "AL Qadisiyah - Ahli Saudi": {
+        "Alt": 1.97,
+        "Üst": 1.43
     },
-    "Erbil SC - Diyala": {
-        "Alt": 1.57,
-        "Üst": 1.75
-    },
-    "Al Zlfe - Hajer Al Hasa": {
-        "Alt": 1.53,
-        "Üst": 1.79
-    },
-    "Damac - AL Ula": {
-        "Alt": 1.48,
-        "Üst": 1.86
-    },
-    "AL Hazem - AL Taawoun": {
-        "Alt": 1.57,
-        "Üst": 1.74
-    },
-    "Montana 1921 - PFC Vihren Sandanski": {
-        "Alt": 1.58,
-        "Üst": 1.73
-    },
-    "Gnistan - Kuopion": {
-        "Alt": 1.95,
-        "Üst": 1.51
+    "AL Ittihad - AL Fayha": {
+        "Alt": 2.26,
+        "Üst": 1.3
     }
 }
