@@ -1,47 +1,11 @@
 {
-    "Vitoria BA - Gremio P.": {
-        "Alt": 1.52,
-        "Üst": 1.93
-    },
-    "Excursionist - Ituzaingo": {
-        "Alt": 1.49,
-        "Üst": 1.85
-    },
-    "Llaneros - CD Tolima": {
-        "Alt": 1.41,
-        "Üst": 2.0
-    },
-    "Deportes Limache - Cobresal": {
-        "Alt": 1.98,
-        "Üst": 3.5
-    },
-    "Ucv - A. Puerto C.": {
-        "Alt": 1.46,
-        "Üst": 1.9
-    },
-    "Mushuc Runa - Club Leones D. N.": {
-        "Alt": 1.42,
-        "Üst": 1.99
-    },
-    "Orense SC - Guayaquil": {
-        "Alt": 1.48,
-        "Üst": 1.87
-    },
-    "CS Emelec - Manta": {
-        "Alt": 1.51,
-        "Üst": 1.84
-    },
-    "Union Santa Fe - Instituto": {
-        "Alt": 1.33,
-        "Üst": 2.34
-    },
     "Club Leon (K) - Puebla (K)": {
-        "Alt": 3.75,
-        "Üst": 2.19
+        "Alt": 3.78,
+        "Üst": 2.43
     },
     "Atl. Nacional Medellin - Deport Cali": {
-        "Alt": 1.65,
-        "Üst": 1.65
+        "Alt": 1.68,
+        "Üst": 1.62
     },
     "AEK U19 - LASK Linz U19": {
         "Alt": 1.09,
@@ -70,5 +34,33 @@
     "Porto U19 - Man. City U19": {
         "Alt": 2.5,
         "Üst": 1.23
+    },
+    "Club Brugge U19 - Aston Villa U19": {
+        "Alt": 2.18,
+        "Üst": 1.33
+    },
+    "Paraguari AC - Guairena": {
+        "Alt": 1.4,
+        "Üst": 2.01
+    },
+    "3 de Noviembre de B San Pablo - Sol de A.": {
+        "Alt": 1.51,
+        "Üst": 1.82
+    },
+    "Mashujaa - Black Star": {
+        "Alt": 1.32,
+        "Üst": 2.21
+    },
+    "Lille U19 - Real Betis U19": {
+        "Alt": 2.21,
+        "Üst": 1.31
+    },
+    "Bul - Ntungasaze": {
+        "Alt": 1.08,
+        "Üst": 2.18
+    },
+    "Kigezi Homeoyz - Kampala C.": {
+        "Alt": 1.58,
+        "Üst": 1.17
     }
 }
