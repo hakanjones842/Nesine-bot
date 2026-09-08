@@ -1,27 +1,11 @@
 {
-    "New York City II - New York Red B. II": {
-        "Alt": 1.54,
-        "Üst": 3.97
-    },
-    "Fluminense - CA Platense": {
-        "Alt": 1.3,
-        "Üst": 2.45
-    },
-    "Club General C. - Resistencia": {
-        "Alt": 1.72,
-        "Üst": 1.58
-    },
-    "I. Santa Fe - Vasco Da G.": {
-        "Alt": 1.19,
-        "Üst": 2.98
-    },
     "Hartford Ath - Colorado Spr.": {
-        "Alt": 1.75,
-        "Üst": 1.56
+        "Alt": 1.86,
+        "Üst": 1.49
     },
     "Cuiaba - Athletic Club MG": {
-        "Alt": 1.27,
-        "Üst": 2.35
+        "Alt": 1.25,
+        "Üst": 2.42
     },
     "Criciuma - Juventude": {
         "Alt": 1.23,
@@ -36,12 +20,12 @@
         "Üst": 1.76
     },
     "Internacional Palmira - Atletico": {
-        "Alt": 1.93,
-        "Üst": 1.44
+        "Alt": 1.8,
+        "Üst": 1.52
     },
     "Boca Juniors - Sao Paulo SP": {
-        "Alt": 1.31,
-        "Üst": 2.41
+        "Alt": 1.29,
+        "Üst": 2.5
     },
     "Sydney - Melbourne V.": {
         "Alt": 1.79,
@@ -68,11 +52,31 @@
         "Üst": 1.88
     },
     "Kamatamare S. - JEF Utd": {
-        "Alt": 1.85,
-        "Üst": 1.5
+        "Alt": 1.79,
+        "Üst": 1.53
     },
     "AC N. Parceiro - M. Hollyhock": {
-        "Alt": 1.95,
-        "Üst": 1.43
+        "Alt": 1.92,
+        "Üst": 1.44
+    },
+    "Kochi Utd SC - V Varen": {
+        "Alt": 1.81,
+        "Üst": 1.51
+    },
+    "Gangwon - Jeonbuk": {
+        "Alt": 1.51,
+        "Üst": 1.95
+    },
+    "Gwangju - Jeju Utd": {
+        "Alt": 1.58,
+        "Üst": 1.85
+    },
+    "Pohang S. - Gimcheon S.": {
+        "Alt": 1.5,
+        "Üst": 1.97
+    },
+    "Daejeon Citizen - Anyang": {
+        "Alt": 1.83,
+        "Üst": 1.59
     }
 }
