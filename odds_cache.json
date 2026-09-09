@@ -8,12 +8,12 @@
         "Üst": 1.53
     },
     "Ryukyu - G. Kitakyushu": {
-        "Alt": 1.72,
-        "Üst": 1.58
+        "Alt": 1.78,
+        "Üst": 1.54
     },
     "Fukushima Utd - Sendai": {
-        "Alt": 1.92,
-        "Üst": 1.45
+        "Alt": 1.88,
+        "Üst": 1.47
     },
     "Tochigi - M. Yamagata": {
         "Alt": 1.62,
@@ -36,31 +36,55 @@
         "Üst": 1.51
     },
     "Gangwon - Jeonbuk": {
-        "Alt": 1.51,
-        "Üst": 1.95
+        "Alt": 1.48,
+        "Üst": 2.0
     },
     "Gwangju - Jeju Utd": {
-        "Alt": 1.63,
-        "Üst": 1.79
+        "Alt": 1.65,
+        "Üst": 1.75
     },
     "Pohang S. - Gimcheon S.": {
-        "Alt": 1.5,
-        "Üst": 1.97
+        "Alt": 1.43,
+        "Üst": 2.1
     },
     "Daejeon Citizen - Anyang": {
-        "Alt": 1.83,
-        "Üst": 1.59
+        "Alt": 1.93,
+        "Üst": 1.51
+    },
+    "Stuttgart U19 - Viking FK U19": {
+        "Alt": 1.85,
+        "Üst": 3.96
     },
     "Santa Clara U23 - Farense U23": {
         "Alt": 1.69,
         "Üst": 1.62
     },
+    "SSC Napoli U20 - Arsenal U19": {
+        "Alt": 2.39,
+        "Üst": 1.26
+    },
+    "Sahdag Qusar - FK Karvan Yevlakh": {
+        "Alt": 1.38,
+        "Üst": 2.06
+    },
     "PSG U19 - Slovan Bratislava U19": {
-        "Alt": 3.84,
-        "Üst": 2.45
+        "Alt": 1.08,
+        "Üst": 2.52
     },
     "Encarnacion - T. Asuncion": {
-        "Alt": 1.41,
-        "Üst": 2.0
+        "Alt": 1.45,
+        "Üst": 1.92
+    },
+    "Fernando Mora - Deportivo Capiata": {
+        "Alt": 1.46,
+        "Üst": 1.9
+    },
+    "Mashujaa - Black Star": {
+        "Alt": 1.36,
+        "Üst": 2.11
+    },
+    "SC Villa - Express": {
+        "Alt": 1.38,
+        "Üst": 2.05
     }
 }
