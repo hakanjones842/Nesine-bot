@@ -1,59 +1,23 @@
 {
-    "Independiente Yumbo - Deportes Quindio": {
-        "Alt": 1.51,
-        "Üst": 1.83
-    },
-    "Platense M. - Metapan": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
-    "Dep. San Pedro - Deportivo Mixco": {
-        "Alt": 1.64,
-        "Üst": 1.66
-    },
-    "Barquisimeto SC - Caracas": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "Dep. Riestra - Banfield": {
-        "Alt": 1.21,
-        "Üst": 2.63
-    },
-    "Palmeiras SP - LDU Quito": {
-        "Alt": 1.48,
-        "Üst": 2.0
-    },
-    "Santos SP - Atl Mineiro": {
-        "Alt": 1.37,
-        "Üst": 2.24
-    },
-    "Fortaleza CE - Avai SC": {
-        "Alt": 1.38,
-        "Üst": 2.05
-    },
-    "Botafogo - Gremio Novo": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
     "America De Cali - Dep. Pereira": {
         "Alt": 1.84,
         "Üst": 1.5
     },
     "R. S. Cundinamarca - Inter Bogota": {
-        "Alt": 1.44,
-        "Üst": 1.93
+        "Alt": 1.51,
+        "Üst": 1.83
     },
     "D. Maldonado - Montevideo": {
         "Alt": 1.66,
         "Üst": 1.64
     },
     "DC Utd - Columbus Cr.": {
-        "Alt": 1.95,
-        "Üst": 1.51
+        "Alt": 2.0,
+        "Üst": 1.48
     },
     "Atlanta Utd - Orlando City": {
-        "Alt": 2.41,
-        "Üst": 1.31
+        "Alt": 2.45,
+        "Üst": 1.3
     },
     "Montreal I. - Charlotte": {
         "Alt": 2.26,
@@ -72,11 +36,55 @@
         "Üst": 1.62
     },
     "York Utd - Pacific": {
-        "Alt": 2.23,
-        "Üst": 1.31
+        "Alt": 2.24,
+        "Üst": 1.3
     },
     "Phila. Union - Cincinnati": {
-        "Alt": 2.95,
-        "Üst": 1.19
+        "Alt": 3.03,
+        "Üst": 1.18
+    },
+    "New York C. - N. E. Revolution": {
+        "Alt": 1.95,
+        "Üst": 1.51
+    },
+    "Huntsville City - Chattanooga": {
+        "Alt": 1.44,
+        "Üst": 3.73
+    },
+    "Comunicacion - CD Marquense": {
+        "Alt": 1.58,
+        "Üst": 1.74
+    },
+    "Once Caldas - Alianza Valledupar": {
+        "Alt": 1.53,
+        "Üst": 1.79
+    },
+    "Chicago Fire - Inter Miami": {
+        "Alt": 3.58,
+        "Üst": 1.11
+    },
+    "Austin - Colorado R.": {
+        "Alt": 1.78,
+        "Üst": 1.63
+    },
+    "Minnesota Utd - Dallas": {
+        "Alt": 2.22,
+        "Üst": 1.37
+    },
+    "Houston Dyn. - Real Salt Lake": {
+        "Alt": 1.9,
+        "Üst": 1.54
+    },
+    "Atl Goianiense - Ceara CE": {
+        "Alt": 1.49,
+        "Üst": 1.86
+    },
+    "Estudiantes - Corinthians": {
+        "Alt": 1.1,
+        "Üst": 3.72
+    },
+    "North Texas SC - Houston Dynamo 2": {
+        "Alt": 1.3,
+        "Üst": 3.98
     }
 }
