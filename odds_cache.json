@@ -1,70 +1,78 @@
 {
-    "Jablonec - Banik Ostrava": {
-        "Alt": 1.71,
-        "Üst": 1.6
+    "AL Minaa - AL Nafit Maysan": {
+        "Alt": 1.52,
+        "Üst": 1.8
     },
-    "HJK Helsinki - Inter Turku": {
-        "Alt": 1.76,
+    "Newroz SC - AL Mosul SC": {
+        "Alt": 1.58,
+        "Üst": 1.72
+    },
+    "Blackburn R. U21 - QPR U21": {
+        "Alt": 2.99,
+        "Üst": 3.83
+    },
+    "Badalona - Sestao River Club": {
+        "Alt": 1.51,
+        "Üst": 1.83
+    },
+    "Torrent - Atl Saguntino": {
+        "Alt": 1.65,
         "Üst": 1.65
     },
-    "Spaeri - Rustvai": {
-        "Alt": 1.62,
-        "Üst": 1.68
-    },
-    "Samgurali Tskaltubo - Dila Gori": {
-        "Alt": 1.48,
-        "Üst": 1.86
-    },
-    "AL Julan - Zakho": {
-        "Alt": 1.37,
-        "Üst": 2.07
-    },
-    "CD Getafe (K) - Pozuelo de Alarcon (K)": {
-        "Alt": 2.0,
-        "Üst": 1.41
-    },
-    "Nasaf - Bunyodkor": {
-        "Alt": 2.09,
-        "Üst": 1.37
-    },
-    "Levski Sofya - CSKA Sofya": {
-        "Alt": 1.46,
-        "Üst": 1.9
-    },
-    "VSK Aarhus - Lyngby BK": {
-        "Alt": 2.06,
-        "Üst": 1.38
-    },
-    "Oviedo Moderno (K) - Real Sp. de Gijon (K)": {
-        "Alt": 2.05,
-        "Üst": 1.38
-    },
-    "AL Talaba - AL Karkh": {
-        "Alt": 1.46,
-        "Üst": 1.89
-    },
-    "Zalgiris Kaunas - Suduva": {
-        "Alt": 1.51,
+    "Comillas - L. Hospitalet": {
+        "Alt": 1.5,
         "Üst": 1.84
     },
-    "AL Raed - AL Jeel": {
-        "Alt": 1.64,
-        "Üst": 1.66
-    },
-    "AL Khlood - AL Shabab (Sar)": {
-        "Alt": 1.81,
-        "Üst": 1.52
-    },
-    "Zelezniçar - Sarajevo": {
+    "FK Decic Tuzi - OFK Petrovac": {
         "Alt": 1.33,
         "Üst": 2.18
     },
-    "SK Prostej - Sigma Olomouc": {
-        "Alt": 1.93,
-        "Üst": 1.44
+    "AL Nassr - Abha Club": {
+        "Alt": 1.17,
+        "Üst": 1.75
     },
-    "Tartu JK Tam. - Paide Flora": {
-        "Alt": 2.07,
-        "Üst": 1.37
+    "AL Fateh SC - AL Draih": {
+        "Alt": 2.06,
+        "Üst": 1.38
+    },
+    "R. Montevideo - Central Espanol": {
+        "Alt": 1.37,
+        "Üst": 2.07
+    },
+    "AD San Juan - Terrassa": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "Defensores B. - CA Los Andes": {
+        "Alt": 4.44,
+        "Üst": 3.16
+    },
+    "Motril - Recreativo": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Sport Extremadura CD (K) - Cff Caceres (K)": {
+        "Alt": 1.74,
+        "Üst": 1.57
+    },
+    "Exmouth Town - Banbury Utd": {
+        "Alt": 1.7,
+        "Üst": 1.6
+    },
+    "Norwich City - Birmingham": {
+        "Alt": 1.9,
+        "Üst": 1.54
+    },
+    "Derby County - W. Bromwich": {
+        "Alt": 1.58,
+        "Üst": 1.85
+    },
+    "Tamworth - Middlesbrough U21": {
+        "Alt": 3.27,
+        "Üst": 4.01
+    },
+    "Rangers - St. Mirren": {
+        "Alt": 2.45,
+        "Üst": 1.3
     }
 }
