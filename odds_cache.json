@@ -1,82 +1,70 @@
 {
-    "Ryukyu - G. Kitakyushu": {
-        "Alt": 1.91,
-        "Üst": 1.45
+    "Jablonec - Banik Ostrava": {
+        "Alt": 1.71,
+        "Üst": 1.6
     },
-    "Fukushima Utd - Sendai": {
-        "Alt": 2.15,
-        "Üst": 3.47
-    },
-    "Tochigi - M. Yamagata": {
-        "Alt": 1.7,
-        "Üst": 1.61
-    },
-    "Matsumoto Y. - S. Bellmare": {
-        "Alt": 1.47,
-        "Üst": 1.88
-    },
-    "Kamatamare S. - JEF Utd": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
-    "AC N. Parceiro - M. Hollyhock": {
-        "Alt": 1.65,
+    "HJK Helsinki - Inter Turku": {
+        "Alt": 1.76,
         "Üst": 1.65
     },
-    "Kochi Utd SC - V Varen": {
-        "Alt": 1.79,
-        "Üst": 1.53
+    "Spaeri - Rustvai": {
+        "Alt": 1.62,
+        "Üst": 1.68
     },
-    "Gangwon - Jeonbuk": {
+    "Samgurali Tskaltubo - Dila Gori": {
         "Alt": 1.48,
-        "Üst": 2.0
+        "Üst": 1.86
     },
-    "Gwangju - Jeju Utd": {
-        "Alt": 1.73,
-        "Üst": 1.67
+    "AL Julan - Zakho": {
+        "Alt": 1.37,
+        "Üst": 2.07
     },
-    "Pohang S. - Gimcheon S.": {
-        "Alt": 1.48,
-        "Üst": 2.0
-    },
-    "Daejeon Citizen - Anyang": {
+    "CD Getafe (K) - Pozuelo de Alarcon (K)": {
         "Alt": 2.0,
-        "Üst": 1.48
+        "Üst": 1.41
     },
-    "Stuttgart U19 - Viking FK U19": {
-        "Alt": 1.9,
-        "Üst": 4.1
+    "Nasaf - Bunyodkor": {
+        "Alt": 2.09,
+        "Üst": 1.37
     },
-    "Santa Clara U23 - Farense U23": {
-        "Alt": 1.69,
-        "Üst": 1.62
-    },
-    "SSC Napoli U20 - Arsenal U19": {
-        "Alt": 2.39,
-        "Üst": 1.26
-    },
-    "Sahdag Qusar - FK Karvan Yevlakh": {
-        "Alt": 1.45,
-        "Üst": 1.91
-    },
-    "PSG U19 - Slovan Bratislava U19": {
-        "Alt": 4.05,
-        "Üst": 1.76
-    },
-    "Encarnacion - T. Asuncion": {
-        "Alt": 1.45,
-        "Üst": 1.92
-    },
-    "Fernando Mora - Deportivo Capiata": {
+    "Levski Sofya - CSKA Sofya": {
         "Alt": 1.46,
         "Üst": 1.9
     },
-    "Mashujaa - Black Star": {
-        "Alt": 1.36,
-        "Üst": 2.11
+    "VSK Aarhus - Lyngby BK": {
+        "Alt": 2.06,
+        "Üst": 1.38
     },
-    "SC Villa - Express": {
-        "Alt": 1.34,
-        "Üst": 2.15
+    "Oviedo Moderno (K) - Real Sp. de Gijon (K)": {
+        "Alt": 2.05,
+        "Üst": 1.38
+    },
+    "AL Talaba - AL Karkh": {
+        "Alt": 1.46,
+        "Üst": 1.89
+    },
+    "Zalgiris Kaunas - Suduva": {
+        "Alt": 1.51,
+        "Üst": 1.84
+    },
+    "AL Raed - AL Jeel": {
+        "Alt": 1.64,
+        "Üst": 1.66
+    },
+    "AL Khlood - AL Shabab (Sar)": {
+        "Alt": 1.81,
+        "Üst": 1.52
+    },
+    "Zelezniçar - Sarajevo": {
+        "Alt": 1.33,
+        "Üst": 2.18
+    },
+    "SK Prostej - Sigma Olomouc": {
+        "Alt": 1.93,
+        "Üst": 1.44
+    },
+    "Tartu JK Tam. - Paide Flora": {
+        "Alt": 2.07,
+        "Üst": 1.37
     }
 }
