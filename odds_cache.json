@@ -1,23 +1,15 @@
 {
-    "Sydney - Melbourne V.": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
-    "MIO Biwako Shiga - Tokyo Verdy": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
     "Ryukyu - G. Kitakyushu": {
-        "Alt": 1.78,
-        "Üst": 1.54
+        "Alt": 1.91,
+        "Üst": 1.45
     },
     "Fukushima Utd - Sendai": {
-        "Alt": 1.88,
-        "Üst": 1.47
+        "Alt": 2.15,
+        "Üst": 3.47
     },
     "Tochigi - M. Yamagata": {
-        "Alt": 1.62,
-        "Üst": 1.68
+        "Alt": 1.7,
+        "Üst": 1.61
     },
     "Matsumoto Y. - S. Bellmare": {
         "Alt": 1.47,
@@ -28,32 +20,32 @@
         "Üst": 1.53
     },
     "AC N. Parceiro - M. Hollyhock": {
-        "Alt": 1.92,
-        "Üst": 1.44
+        "Alt": 1.65,
+        "Üst": 1.65
     },
     "Kochi Utd SC - V Varen": {
-        "Alt": 1.81,
-        "Üst": 1.51
+        "Alt": 1.79,
+        "Üst": 1.53
     },
     "Gangwon - Jeonbuk": {
         "Alt": 1.48,
         "Üst": 2.0
     },
     "Gwangju - Jeju Utd": {
-        "Alt": 1.65,
-        "Üst": 1.75
+        "Alt": 1.73,
+        "Üst": 1.67
     },
     "Pohang S. - Gimcheon S.": {
-        "Alt": 1.43,
-        "Üst": 2.1
+        "Alt": 1.48,
+        "Üst": 2.0
     },
     "Daejeon Citizen - Anyang": {
-        "Alt": 1.93,
-        "Üst": 1.51
+        "Alt": 2.0,
+        "Üst": 1.48
     },
     "Stuttgart U19 - Viking FK U19": {
-        "Alt": 1.85,
-        "Üst": 3.96
+        "Alt": 1.9,
+        "Üst": 4.1
     },
     "Santa Clara U23 - Farense U23": {
         "Alt": 1.69,
@@ -64,12 +56,12 @@
         "Üst": 1.26
     },
     "Sahdag Qusar - FK Karvan Yevlakh": {
-        "Alt": 1.38,
-        "Üst": 2.06
+        "Alt": 1.45,
+        "Üst": 1.91
     },
     "PSG U19 - Slovan Bratislava U19": {
-        "Alt": 1.08,
-        "Üst": 2.52
+        "Alt": 4.05,
+        "Üst": 1.76
     },
     "Encarnacion - T. Asuncion": {
         "Alt": 1.45,
@@ -84,7 +76,7 @@
         "Üst": 2.11
     },
     "SC Villa - Express": {
-        "Alt": 1.38,
-        "Üst": 2.05
+        "Alt": 1.34,
+        "Üst": 2.15
     }
 }
