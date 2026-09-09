@@ -1,78 +1,82 @@
 {
-    "AL Minaa - AL Nafit Maysan": {
-        "Alt": 1.52,
-        "Üst": 1.8
-    },
-    "Newroz SC - AL Mosul SC": {
-        "Alt": 1.58,
-        "Üst": 1.72
-    },
-    "Blackburn R. U21 - QPR U21": {
-        "Alt": 2.99,
-        "Üst": 3.83
-    },
-    "Badalona - Sestao River Club": {
+    "Independiente Yumbo - Deportes Quindio": {
         "Alt": 1.51,
         "Üst": 1.83
     },
-    "Torrent - Atl Saguntino": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "Comillas - L. Hospitalet": {
-        "Alt": 1.5,
-        "Üst": 1.84
-    },
-    "FK Decic Tuzi - OFK Petrovac": {
-        "Alt": 1.33,
-        "Üst": 2.18
-    },
-    "AL Nassr - Abha Club": {
-        "Alt": 1.17,
-        "Üst": 1.75
-    },
-    "AL Fateh SC - AL Draih": {
-        "Alt": 2.06,
-        "Üst": 1.38
-    },
-    "R. Montevideo - Central Espanol": {
-        "Alt": 1.37,
-        "Üst": 2.07
-    },
-    "AD San Juan - Terrassa": {
+    "Platense M. - Metapan": {
         "Alt": 1.44,
         "Üst": 1.93
     },
-    "Defensores B. - CA Los Andes": {
-        "Alt": 4.44,
-        "Üst": 3.16
+    "Dep. San Pedro - Deportivo Mixco": {
+        "Alt": 1.64,
+        "Üst": 1.66
     },
-    "Motril - Recreativo": {
+    "Barquisimeto SC - Caracas": {
         "Alt": 1.65,
         "Üst": 1.65
     },
-    "Sport Extremadura CD (K) - Cff Caceres (K)": {
-        "Alt": 1.74,
-        "Üst": 1.57
+    "Dep. Riestra - Banfield": {
+        "Alt": 1.21,
+        "Üst": 2.63
     },
-    "Exmouth Town - Banbury Utd": {
-        "Alt": 1.7,
-        "Üst": 1.6
+    "Palmeiras SP - LDU Quito": {
+        "Alt": 1.48,
+        "Üst": 2.0
     },
-    "Norwich City - Birmingham": {
-        "Alt": 1.9,
-        "Üst": 1.54
+    "Santos SP - Atl Mineiro": {
+        "Alt": 1.37,
+        "Üst": 2.24
     },
-    "Derby County - W. Bromwich": {
-        "Alt": 1.58,
-        "Üst": 1.85
+    "Fortaleza CE - Avai SC": {
+        "Alt": 1.38,
+        "Üst": 2.05
     },
-    "Tamworth - Middlesbrough U21": {
-        "Alt": 3.27,
-        "Üst": 4.01
+    "Botafogo - Gremio Novo": {
+        "Alt": 1.44,
+        "Üst": 1.93
     },
-    "Rangers - St. Mirren": {
-        "Alt": 2.45,
-        "Üst": 1.3
+    "America De Cali - Dep. Pereira": {
+        "Alt": 1.84,
+        "Üst": 1.5
+    },
+    "R. S. Cundinamarca - Inter Bogota": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "D. Maldonado - Montevideo": {
+        "Alt": 1.66,
+        "Üst": 1.64
+    },
+    "DC Utd - Columbus Cr.": {
+        "Alt": 1.95,
+        "Üst": 1.51
+    },
+    "Atlanta Utd - Orlando City": {
+        "Alt": 2.41,
+        "Üst": 1.31
+    },
+    "Montreal I. - Charlotte": {
+        "Alt": 2.26,
+        "Üst": 1.37
+    },
+    "Toronto - Nashville SC": {
+        "Alt": 1.88,
+        "Üst": 1.55
+    },
+    "Operario - Crb Al": {
+        "Alt": 1.6,
+        "Üst": 1.7
+    },
+    "America MG - Nautico PE": {
+        "Alt": 1.68,
+        "Üst": 1.62
+    },
+    "York Utd - Pacific": {
+        "Alt": 2.23,
+        "Üst": 1.31
+    },
+    "Phila. Union - Cincinnati": {
+        "Alt": 2.95,
+        "Üst": 1.19
     }
 }
