@@ -1,32 +1,4 @@
 {
-    "Hartford Ath - Colorado Spr.": {
-        "Alt": 1.86,
-        "Üst": 1.49
-    },
-    "Cuiaba - Athletic Club MG": {
-        "Alt": 1.25,
-        "Üst": 2.42
-    },
-    "Criciuma - Juventude": {
-        "Alt": 1.23,
-        "Üst": 2.5
-    },
-    "CD Inca - Atletico Balboa": {
-        "Alt": 1.56,
-        "Üst": 1.76
-    },
-    "San Antonio - Louisville": {
-        "Alt": 1.56,
-        "Üst": 1.76
-    },
-    "Internacional Palmira - Atletico": {
-        "Alt": 1.8,
-        "Üst": 1.52
-    },
-    "Boca Juniors - Sao Paulo SP": {
-        "Alt": 1.29,
-        "Üst": 2.5
-    },
     "Sydney - Melbourne V.": {
         "Alt": 1.79,
         "Üst": 1.53
@@ -36,8 +8,8 @@
         "Üst": 1.53
     },
     "Ryukyu - G. Kitakyushu": {
-        "Alt": 1.7,
-        "Üst": 1.61
+        "Alt": 1.72,
+        "Üst": 1.58
     },
     "Fukushima Utd - Sendai": {
         "Alt": 1.92,
@@ -68,8 +40,8 @@
         "Üst": 1.95
     },
     "Gwangju - Jeju Utd": {
-        "Alt": 1.58,
-        "Üst": 1.85
+        "Alt": 1.63,
+        "Üst": 1.79
     },
     "Pohang S. - Gimcheon S.": {
         "Alt": 1.5,
@@ -78,5 +50,17 @@
     "Daejeon Citizen - Anyang": {
         "Alt": 1.83,
         "Üst": 1.59
+    },
+    "Santa Clara U23 - Farense U23": {
+        "Alt": 1.69,
+        "Üst": 1.62
+    },
+    "PSG U19 - Slovan Bratislava U19": {
+        "Alt": 3.84,
+        "Üst": 2.45
+    },
+    "Encarnacion - T. Asuncion": {
+        "Alt": 1.41,
+        "Üst": 2.0
     }
 }
