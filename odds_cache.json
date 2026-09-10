@@ -1,90 +1,86 @@
 {
-    "America De Cali - Dep. Pereira": {
-        "Alt": 1.84,
-        "Üst": 1.5
+    "North Texas SC - Houston Dynamo 2": {
+        "Alt": 1.32,
+        "Üst": 3.94
     },
-    "R. S. Cundinamarca - Inter Bogota": {
-        "Alt": 1.51,
-        "Üst": 1.83
-    },
-    "D. Maldonado - Montevideo": {
-        "Alt": 1.66,
-        "Üst": 1.64
-    },
-    "DC Utd - Columbus Cr.": {
-        "Alt": 2.0,
-        "Üst": 1.48
-    },
-    "Atlanta Utd - Orlando City": {
-        "Alt": 2.45,
-        "Üst": 1.3
-    },
-    "Montreal I. - Charlotte": {
-        "Alt": 2.26,
-        "Üst": 1.37
-    },
-    "Toronto - Nashville SC": {
-        "Alt": 1.88,
-        "Üst": 1.55
-    },
-    "Operario - Crb Al": {
-        "Alt": 1.6,
+    "Municipal L. - CD Aguila": {
+        "Alt": 1.61,
         "Üst": 1.7
     },
-    "America MG - Nautico PE": {
-        "Alt": 1.68,
-        "Üst": 1.62
+    "D. Saprissa - CS Cartagines": {
+        "Alt": 1.42,
+        "Üst": 1.98
     },
-    "York Utd - Pacific": {
-        "Alt": 2.24,
-        "Üst": 1.3
+    "Deportivo Pasto - I. Medellin": {
+        "Alt": 1.47,
+        "Üst": 1.88
     },
-    "Phila. Union - Cincinnati": {
-        "Alt": 3.03,
-        "Üst": 1.18
+    "CD Suchitepequez - Dep. Guastatoya": {
+        "Alt": 4.22,
+        "Üst": 3.12
     },
-    "New York C. - N. E. Revolution": {
-        "Alt": 1.95,
-        "Üst": 1.51
+    "V. Whitecaps - LA Galaxy": {
+        "Alt": 3.08,
+        "Üst": 1.17
     },
-    "Huntsville City - Chattanooga": {
-        "Alt": 1.44,
-        "Üst": 3.73
+    "Los Angeles - NY Red Bulls": {
+        "Alt": 2.91,
+        "Üst": 1.2
     },
-    "Comunicacion - CD Marquense": {
+    "Portland Tim. - S. Louis City SC": {
+        "Alt": 2.5,
+        "Üst": 1.29
+    },
+    "San Diego - San Jose E.": {
+        "Alt": 2.68,
+        "Üst": 1.24
+    },
+    "San Jose Earthquakes II - Ventura County": {
+        "Alt": 3.04,
+        "Üst": 3.78
+    },
+    "Motagua - Alianza": {
         "Alt": 1.58,
         "Üst": 1.74
     },
-    "Once Caldas - Alianza Valledupar": {
-        "Alt": 1.53,
-        "Üst": 1.79
+    "Barcelona U19 - Feyenoord U19": {
+        "Alt": 2.48,
+        "Üst": 4.05
     },
-    "Chicago Fire - Inter Miami": {
-        "Alt": 3.58,
-        "Üst": 1.11
+    "Slavia Prag U19 - RC Lens U19": {
+        "Alt": 2.81,
+        "Üst": 1.17
     },
-    "Austin - Colorado R.": {
-        "Alt": 1.78,
-        "Üst": 1.63
+    "PSV U19 - S. Donetsk U19": {
+        "Alt": 2.72,
+        "Üst": 1.18
     },
-    "Minnesota Utd - Dallas": {
-        "Alt": 2.22,
-        "Üst": 1.37
+    "CLB Viettel - Cong An Nhan Dan": {
+        "Alt": 1.65,
+        "Üst": 1.65
     },
-    "Houston Dyn. - Real Salt Lake": {
-        "Alt": 1.9,
-        "Üst": 1.54
+    "Zaqatala FK - Baku SC": {
+        "Alt": 1.52,
+        "Üst": 1.8
     },
-    "Atl Goianiense - Ceara CE": {
-        "Alt": 1.49,
+    "Sabayil - Mingechevir": {
+        "Alt": 1.88,
+        "Üst": 1.47
+    },
+    "Cabrayil - Khankendi FK": {
+        "Alt": 1.72,
+        "Üst": 1.59
+    },
+    "Man. Utd U19 - Sabah Masazir U19": {
+        "Alt": 4.03,
         "Üst": 1.86
     },
-    "Estudiantes - Corinthians": {
-        "Alt": 1.1,
-        "Üst": 3.72
+    "Como 1907 U20 - RB Leipzig U19": {
+        "Alt": 1.34,
+        "Üst": 1.09
     },
-    "North Texas SC - Houston Dynamo 2": {
-        "Alt": 1.3,
-        "Üst": 3.98
+    "Uganda Police - Updf": {
+        "Alt": 1.12,
+        "Üst": 1.82
     }
 }
