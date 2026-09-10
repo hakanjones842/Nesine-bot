@@ -1,82 +1,78 @@
 {
-    "AL Wakrah - AL Shamal": {
-        "Alt": 2.04,
-        "Üst": 1.39
+    "AL Jawiya - AL Zawraa": {
+        "Alt": 1.45,
+        "Üst": 1.91
     },
-    "Andijon - Kokand 1912": {
-        "Alt": 1.43,
-        "Üst": 1.95
+    "Ben Aknoun - US Biskra": {
+        "Alt": 1.39,
+        "Üst": 2.03
     },
-    "PFK Dinamo Samarqand - Qizilqum Zarafshon": {
-        "Alt": 1.64,
-        "Üst": 1.66
+    "Bulle - Amical Saint Prex": {
+        "Alt": 2.12,
+        "Üst": 3.55
     },
-    "Tallinn - Maardu": {
-        "Alt": 1.52,
-        "Üst": 3.92
+    "FK Arsenal Tivat - Mladost DG": {
+        "Alt": 1.71,
+        "Üst": 1.59
     },
-    "Nomme Kalju U21 - T. Flora U21": {
-        "Alt": 2.14,
-        "Üst": 3.83
+    "FK Bokelj Kotor - FK Otrant Olympic U.": {
+        "Alt": 1.34,
+        "Üst": 2.16
     },
-    "Tallinna JK Legion U21 - FA Tartu Kalev": {
-        "Alt": 2.44,
-        "Üst": 3.98
-    },
-    "Asteras T. - Aris": {
-        "Alt": 1.6,
-        "Üst": 1.71
-    },
-    "AL Nahda - Al Seeb": {
-        "Alt": 1.49,
-        "Üst": 1.86
-    },
-    "Parnu JK Vaprus II - Phoenix Johvi": {
-        "Alt": 2.93,
-        "Üst": 4.31
-    },
-    "Dinamo Tiflis - Meshakhte Tkibuli": {
-        "Alt": 2.05,
-        "Üst": 1.38
-    },
-    "Xorazm Fk Urganch - Sogdiana": {
+    "Buducnost - FK Jezero Plav": {
         "Alt": 1.7,
         "Üst": 1.61
     },
-    "Esteghlal - Paykan": {
-        "Alt": 1.3,
-        "Üst": 2.26
+    "Panathinaikos - AE Kifisia": {
+        "Alt": 1.98,
+        "Üst": 1.42
     },
-    "Esteghlal K. - TS Tabriz": {
-        "Alt": 1.24,
-        "Üst": 2.44
+    "Cannes - Amiens": {
+        "Alt": 1.59,
+        "Üst": 1.72
     },
-    "Shams Azar Qazvin - GOL Gohar": {
-        "Alt": 1.13,
-        "Üst": 3.1
+    "Slavia Prag - RC Lens": {
+        "Alt": 2.14,
+        "Üst": 1.41
     },
-    "Al Muharraq - Manama Club": {
-        "Alt": 2.22,
-        "Üst": 1.31
-    },
-    "AL Rifaa - AL Khalidiyah": {
-        "Alt": 1.9,
-        "Üst": 1.46
-    },
-    "Sundby BK - Midtjylland": {
-        "Alt": 3.77,
+    "Man. Utd - Sabah": {
+        "Alt": 1.06,
         "Üst": 1.96
     },
-    "Viimsi JK - Elva": {
-        "Alt": 2.07,
-        "Üst": 1.37
+    "Bayern Münih - Bodo Glimt": {
+        "Alt": 1.82,
+        "Üst": 4.36
     },
-    "Tallinna Levadia U21 - Tartu": {
-        "Alt": 1.51,
-        "Üst": 4.0
+    "Como 1907 - Leipzig": {
+        "Alt": 2.62,
+        "Üst": 1.26
     },
-    "Tammeka U21 - V. Tulevik": {
-        "Alt": 2.91,
-        "Üst": 4.2
+    "Stevenage - Luton Town": {
+        "Alt": 1.62,
+        "Üst": 1.69
+    },
+    "Ca Cerro - CS Cerrito": {
+        "Alt": 1.32,
+        "Üst": 2.2
+    },
+    "Estrela - Braga": {
+        "Alt": 1.59,
+        "Üst": 1.82
+    },
+    "Carapegua - Benjamin Aceval": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "USM Alger - Js El Biar": {
+        "Alt": 1.32,
+        "Üst": 2.2
+    },
+    "San Antonio - Atletico Rojiblanco": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "Cumbaya - Gualaceo SC": {
+        "Alt": 5.11,
+        "Üst": 3.34
     }
 }
