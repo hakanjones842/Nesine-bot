@@ -1,78 +1,74 @@
 {
-    "USM Alger - Js El Biar": {
-        "Alt": 1.35,
-        "Üst": 2.14
-    },
-    "San Antonio - Atletico Rojiblanco": {
-        "Alt": 1.4,
-        "Üst": 2.0
-    },
-    "Cumbaya - Gualaceo SC": {
-        "Alt": 5.11,
-        "Üst": 3.34
-    },
-    "Aurora - Municipal": {
-        "Alt": 1.74,
-        "Üst": 1.57
-    },
-    "Sebaco - Diriangen": {
-        "Alt": 1.83,
-        "Üst": 1.51
-    },
-    "Club Mercedes - Depo Espanol": {
-        "Alt": 1.42,
-        "Üst": 3.18
-    },
-    "Boyaca Patr. - Barranquilla": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "Orsomarso SC - Tigres (Kol)": {
-        "Alt": 1.34,
-        "Üst": 2.14
-    },
-    "12 de Junio de Villa Hayes - CA Tembetary": {
-        "Alt": 1.58,
-        "Üst": 1.72
-    },
     "Vila Nova - Goias GO": {
-        "Alt": 1.28,
-        "Üst": 2.34
+        "Alt": 1.25,
+        "Üst": 2.42
     },
     "Sao Bernardo FC - Londrina PR": {
-        "Alt": 1.5,
-        "Üst": 1.84
+        "Alt": 1.52,
+        "Üst": 1.81
     },
     "Guaros Lara - Trujillanos": {
         "Alt": 1.38,
         "Üst": 2.04
     },
     "Malacateco - Antigua": {
-        "Alt": 1.44,
-        "Üst": 1.94
+        "Alt": 1.46,
+        "Üst": 1.9
     },
     "Managua - Real Esteli": {
         "Alt": 1.58,
         "Üst": 1.74
     },
     "Recife - Ponte Preta": {
-        "Alt": 1.24,
-        "Üst": 1.86
-    },
-    "Independiente D. - Flamengo": {
-        "Alt": 1.36,
-        "Üst": 2.27
-    },
-    "CS Cienciano - Torque": {
-        "Alt": 1.65,
+        "Alt": 1.2,
         "Üst": 1.75
     },
+    "Independiente D. - Flamengo": {
+        "Alt": 1.4,
+        "Üst": 2.17
+    },
+    "CS Cienciano - Torque": {
+        "Alt": 1.63,
+        "Üst": 1.78
+    },
     "Millonarios - Deport Cali": {
-        "Alt": 1.52,
-        "Üst": 1.8
+        "Alt": 1.54,
+        "Üst": 1.78
     },
     "A. Oaxaca - Alac. de Durango": {
         "Alt": 1.51,
         "Üst": 1.81
+    },
+    "Marathon - Alajuelense": {
+        "Alt": 1.37,
+        "Üst": 2.09
+    },
+    "Xelaju - CSD Imperial": {
+        "Alt": 1.7,
+        "Üst": 1.6
+    },
+    "Pumas Unam - Club Leon": {
+        "Alt": 1.82,
+        "Üst": 1.51
+    },
+    "Angel Firpo - CD Olimpia": {
+        "Alt": 1.58,
+        "Üst": 1.73
+    },
+    "Garuda Yaksa - Persik Kediri": {
+        "Alt": 1.86,
+        "Üst": 1.48
+    },
+    "Palmerston Rovers - Hellenic Ath": {
+        "Alt": 1.72,
+        "Üst": 4.06
+    },
+    "Prospect Utd - Parramatta Eagles": {
+        "Alt": 3.16,
+        "Üst": 3.64
+    },
+    "Box Hill Utd (K) - Bulleen Lions (K)": {
+        "Alt": 1.98,
+        "Üst": 1.42
     }
 }
