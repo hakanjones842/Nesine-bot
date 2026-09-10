@@ -1,78 +1,78 @@
 {
-    "AL Jawiya - AL Zawraa": {
-        "Alt": 1.45,
-        "Üst": 1.91
-    },
-    "Ben Aknoun - US Biskra": {
-        "Alt": 1.39,
-        "Üst": 2.03
-    },
-    "Bulle - Amical Saint Prex": {
-        "Alt": 2.12,
-        "Üst": 3.55
-    },
-    "FK Arsenal Tivat - Mladost DG": {
-        "Alt": 1.71,
-        "Üst": 1.59
-    },
-    "FK Bokelj Kotor - FK Otrant Olympic U.": {
-        "Alt": 1.34,
-        "Üst": 2.16
-    },
-    "Buducnost - FK Jezero Plav": {
-        "Alt": 1.7,
-        "Üst": 1.61
-    },
-    "Panathinaikos - AE Kifisia": {
-        "Alt": 1.98,
-        "Üst": 1.42
-    },
-    "Cannes - Amiens": {
-        "Alt": 1.59,
-        "Üst": 1.72
-    },
-    "Slavia Prag - RC Lens": {
-        "Alt": 2.14,
-        "Üst": 1.41
-    },
-    "Man. Utd - Sabah": {
-        "Alt": 1.06,
-        "Üst": 1.96
-    },
-    "Bayern Münih - Bodo Glimt": {
-        "Alt": 1.82,
-        "Üst": 4.36
-    },
-    "Como 1907 - Leipzig": {
-        "Alt": 2.62,
-        "Üst": 1.26
-    },
-    "Stevenage - Luton Town": {
-        "Alt": 1.62,
-        "Üst": 1.69
-    },
-    "Ca Cerro - CS Cerrito": {
-        "Alt": 1.32,
-        "Üst": 2.2
-    },
-    "Estrela - Braga": {
-        "Alt": 1.59,
-        "Üst": 1.82
-    },
-    "Carapegua - Benjamin Aceval": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
     "USM Alger - Js El Biar": {
-        "Alt": 1.32,
-        "Üst": 2.2
+        "Alt": 1.35,
+        "Üst": 2.14
     },
     "San Antonio - Atletico Rojiblanco": {
-        "Alt": 1.44,
-        "Üst": 1.93
+        "Alt": 1.4,
+        "Üst": 2.0
     },
     "Cumbaya - Gualaceo SC": {
         "Alt": 5.11,
         "Üst": 3.34
+    },
+    "Aurora - Municipal": {
+        "Alt": 1.74,
+        "Üst": 1.57
+    },
+    "Sebaco - Diriangen": {
+        "Alt": 1.83,
+        "Üst": 1.51
+    },
+    "Club Mercedes - Depo Espanol": {
+        "Alt": 1.42,
+        "Üst": 3.18
+    },
+    "Boyaca Patr. - Barranquilla": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Orsomarso SC - Tigres (Kol)": {
+        "Alt": 1.34,
+        "Üst": 2.14
+    },
+    "12 de Junio de Villa Hayes - CA Tembetary": {
+        "Alt": 1.58,
+        "Üst": 1.72
+    },
+    "Vila Nova - Goias GO": {
+        "Alt": 1.28,
+        "Üst": 2.34
+    },
+    "Sao Bernardo FC - Londrina PR": {
+        "Alt": 1.5,
+        "Üst": 1.84
+    },
+    "Guaros Lara - Trujillanos": {
+        "Alt": 1.38,
+        "Üst": 2.04
+    },
+    "Malacateco - Antigua": {
+        "Alt": 1.44,
+        "Üst": 1.94
+    },
+    "Managua - Real Esteli": {
+        "Alt": 1.58,
+        "Üst": 1.74
+    },
+    "Recife - Ponte Preta": {
+        "Alt": 1.24,
+        "Üst": 1.86
+    },
+    "Independiente D. - Flamengo": {
+        "Alt": 1.36,
+        "Üst": 2.27
+    },
+    "CS Cienciano - Torque": {
+        "Alt": 1.65,
+        "Üst": 1.75
+    },
+    "Millonarios - Deport Cali": {
+        "Alt": 1.52,
+        "Üst": 1.8
+    },
+    "A. Oaxaca - Alac. de Durango": {
+        "Alt": 1.51,
+        "Üst": 1.81
     }
 }
