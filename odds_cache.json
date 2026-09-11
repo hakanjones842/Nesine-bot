@@ -1,43 +1,15 @@
 {
-    "Ituzaingo - Comunicacion": {
-        "Alt": 1.33,
-        "Üst": 2.16
-    },
-    "S. A. Bulo Bulo - Club Aurora": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "Def. Justicia - Gimnasia Y.": {
-        "Alt": 1.52,
-        "Üst": 1.93
-    },
-    "One Knoxville SC - Naples": {
-        "Alt": 1.79,
-        "Üst": 1.54
-    },
-    "Argentino De Merlo - Real Pilar": {
-        "Alt": 1.39,
-        "Üst": 3.24
-    },
-    "J. De Cordoba - Fortaleza": {
-        "Alt": 1.39,
-        "Üst": 2.03
-    },
     "Coritiba - Paranaense": {
         "Alt": 1.51,
         "Üst": 1.93
     },
     "Real Potosi - O. Petrolero": {
-        "Alt": 2.2,
-        "Üst": 3.41
+        "Alt": 2.06,
+        "Üst": 1.38
     },
     "El Nacional - 22 de Julio": {
         "Alt": 1.89,
         "Üst": 1.47
-    },
-    "Cusco - Melgar": {
-        "Alt": 1.72,
-        "Üst": 1.58
     },
     "Boca Juniors - C. Cordoba": {
         "Alt": 1.51,
@@ -48,27 +20,55 @@
         "Üst": 3.41
     },
     "Gimnasia Y. Tiro - T. Suarez": {
-        "Alt": 5.13,
-        "Üst": 3.3
+        "Alt": 5.32,
+        "Üst": 3.38
     },
     "Necaxa - Puebla": {
-        "Alt": 1.86,
-        "Üst": 1.49
+        "Alt": 1.89,
+        "Üst": 1.46
     },
     "Correcaminos - Cancun": {
-        "Alt": 1.76,
-        "Üst": 1.56
+        "Alt": 1.79,
+        "Üst": 1.53
     },
     "Cruz Azul (K) - Pumas Unam (K)": {
-        "Alt": 1.35,
-        "Üst": 3.88
+        "Alt": 1.41,
+        "Üst": 3.78
     },
     "New Mexico - Indy Eleven": {
-        "Alt": 2.15,
-        "Üst": 1.34
+        "Alt": 2.2,
+        "Üst": 1.32
     },
     "CD Estrella Roja - Platense": {
         "Alt": 1.7,
         "Üst": 1.61
+    },
+    "I. Santa Fe - CD Tolima": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "Colorado Spr. - San Antonio": {
+        "Alt": 1.6,
+        "Üst": 1.7
+    },
+    "M. Per. Zeledon - AD San Carlos": {
+        "Alt": 1.51,
+        "Üst": 1.82
+    },
+    "Atlante - Pachuca": {
+        "Alt": 1.62,
+        "Üst": 1.69
+    },
+    "Atlas (K) - Atlante (K)": {
+        "Alt": 3.03,
+        "Üst": 3.67
+    },
+    "Club Tijuana - Queretaro": {
+        "Alt": 1.7,
+        "Üst": 1.61
+    },
+    "Essendon Royals (K) - Avondale (K)": {
+        "Alt": 1.48,
+        "Üst": 3.78
     }
 }
