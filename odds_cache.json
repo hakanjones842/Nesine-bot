@@ -1,51 +1,31 @@
 {
-    "Vila Nova - Goias GO": {
-        "Alt": 1.25,
-        "Üst": 2.42
-    },
-    "Sao Bernardo FC - Londrina PR": {
-        "Alt": 1.52,
-        "Üst": 1.81
-    },
-    "Guaros Lara - Trujillanos": {
-        "Alt": 1.38,
-        "Üst": 2.04
-    },
-    "Malacateco - Antigua": {
-        "Alt": 1.46,
-        "Üst": 1.9
-    },
-    "Managua - Real Esteli": {
-        "Alt": 1.58,
-        "Üst": 1.74
-    },
     "Recife - Ponte Preta": {
-        "Alt": 1.2,
-        "Üst": 1.75
+        "Alt": 1.16,
+        "Üst": 1.66
     },
     "Independiente D. - Flamengo": {
         "Alt": 1.4,
         "Üst": 2.17
     },
     "CS Cienciano - Torque": {
-        "Alt": 1.63,
-        "Üst": 1.78
+        "Alt": 1.69,
+        "Üst": 1.72
     },
     "Millonarios - Deport Cali": {
-        "Alt": 1.54,
-        "Üst": 1.78
+        "Alt": 1.5,
+        "Üst": 1.84
     },
     "A. Oaxaca - Alac. de Durango": {
-        "Alt": 1.51,
-        "Üst": 1.81
+        "Alt": 1.5,
+        "Üst": 1.84
     },
     "Marathon - Alajuelense": {
         "Alt": 1.37,
-        "Üst": 2.09
+        "Üst": 2.08
     },
     "Xelaju - CSD Imperial": {
-        "Alt": 1.7,
-        "Üst": 1.6
+        "Alt": 1.73,
+        "Üst": 1.58
     },
     "Pumas Unam - Club Leon": {
         "Alt": 1.82,
@@ -64,11 +44,31 @@
         "Üst": 4.06
     },
     "Prospect Utd - Parramatta Eagles": {
-        "Alt": 3.16,
-        "Üst": 3.64
+        "Alt": 3.32,
+        "Üst": 3.71
     },
     "Box Hill Utd (K) - Bulleen Lions (K)": {
         "Alt": 1.98,
         "Üst": 1.42
+    },
+    "Oakleigh C. - South Melbourne": {
+        "Alt": 1.9,
+        "Üst": 1.46
+    },
+    "Adelaide City - W. Torrens B.": {
+        "Alt": 1.85,
+        "Üst": 1.5
+    },
+    "Daejeon Korail - Ulsan Citizen": {
+        "Alt": 1.61,
+        "Üst": 1.7
+    },
+    "Vissel Kobe - Kashima": {
+        "Alt": 1.53,
+        "Üst": 1.91
+    },
+    "Kyoto Sanga - Kashiwa": {
+        "Alt": 1.85,
+        "Üst": 1.58
     }
 }
