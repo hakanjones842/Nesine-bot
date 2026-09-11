@@ -1,82 +1,74 @@
 {
-    "Vanersborgs IF - Grebbestads": {
-        "Alt": 1.93,
-        "Üst": 3.61
+    "Academica - Benfica B": {
+        "Alt": 1.8,
+        "Üst": 1.52
     },
-    "SV Ried - Salzburg": {
-        "Alt": 2.35,
-        "Üst": 1.33
+    "New Old Boys - V. Sarsfield": {
+        "Alt": 1.3,
+        "Üst": 2.43
     },
-    "AB Argir - Tofta Itrottarfelag B68": {
-        "Alt": 1.88,
-        "Üst": 1.47
+    "CR Belouizdad - ES Setif": {
+        "Alt": 1.38,
+        "Üst": 2.05
     },
-    "Stellenbosch - Sekhukhune Utd": {
-        "Alt": 1.26,
-        "Üst": 2.39
+    "Cajamarca - Juan Pablo II": {
+        "Alt": 1.62,
+        "Üst": 1.68
     },
-    "IF Boljan Falkenberg - Hestrafors IF": {
-        "Alt": 3.23,
-        "Üst": 3.98
+    "Portoviejo - Vargas Torres": {
+        "Alt": 5.23,
+        "Üst": 3.36
     },
-    "Dalstorps IF - Vastra Frolunda IF": {
-        "Alt": 3.1,
-        "Üst": 3.74
-    },
-    "Rapperswil - Yverdon": {
-        "Alt": 2.66,
-        "Üst": 1.2
-    },
-    "Stade Ouchy - Wil 1900": {
-        "Alt": 2.34,
-        "Üst": 1.28
-    },
-    "Std. Nyonnis - N. Xamax": {
-        "Alt": 2.17,
-        "Üst": 1.33
-    },
-    "AL Faisaly (Ürd) - Doqarah": {
-        "Alt": 1.9,
-        "Üst": 1.46
-    },
-    "Al Hashemehya - Al Ahli (Ürd)": {
-        "Alt": 1.46,
-        "Üst": 1.89
-    },
-    "Torreense - Leixoes": {
-        "Alt": 1.42,
-        "Üst": 1.98
-    },
-    "AZ Alkmaar - Willem II": {
-        "Alt": 1.13,
-        "Üst": 1.78
-    },
-    "CA Independiente (K) - Atl Lanus (K)": {
-        "Alt": 1.41,
-        "Üst": 2.0
-    },
-    "Belgrano de C. (K) - Ferro Carril (K)": {
+    "Ituzaingo - Comunicacion": {
         "Alt": 1.33,
-        "Üst": 2.18
+        "Üst": 2.16
     },
-    "Beerschot - Lierse K.": {
-        "Alt": 1.95,
-        "Üst": 1.43
+    "S. A. Bulo Bulo - Club Aurora": {
+        "Alt": 1.93,
+        "Üst": 1.44
     },
-    "KAA Gent II - FCV Dender EH": {
-        "Alt": 1.83,
-        "Üst": 1.51
-    },
-    "NK Celik Zenica - Rad. Bijelji": {
-        "Alt": 1.44,
+    "Def. Justicia - Gimnasia Y.": {
+        "Alt": 1.52,
         "Üst": 1.93
     },
-    "Cherno More - Loko Sofya": {
-        "Alt": 1.67,
-        "Üst": 1.64
+    "One Knoxville SC - Naples": {
+        "Alt": 1.79,
+        "Üst": 1.54
     },
-    "MC Oran - Temouchent": {
-        "Alt": 1.29,
-        "Üst": 2.29
+    "Argentino De Merlo - Real Pilar": {
+        "Alt": 1.37,
+        "Üst": 3.28
+    },
+    "J. De Cordoba - Fortaleza": {
+        "Alt": 1.39,
+        "Üst": 2.03
+    },
+    "Coritiba - Paranaense": {
+        "Alt": 1.51,
+        "Üst": 1.93
+    },
+    "Real Potosi - O. Petrolero": {
+        "Alt": 2.25,
+        "Üst": 3.43
+    },
+    "El Nacional - 22 de Julio": {
+        "Alt": 1.87,
+        "Üst": 1.48
+    },
+    "Cusco - Melgar": {
+        "Alt": 1.72,
+        "Üst": 1.58
+    },
+    "Boca Juniors - C. Cordoba": {
+        "Alt": 1.53,
+        "Üst": 1.91
+    },
+    "AC Boise - New York Cosmos": {
+        "Alt": 2.06,
+        "Üst": 3.41
+    },
+    "Gimnasia Y. Tiro - T. Suarez": {
+        "Alt": 4.95,
+        "Üst": 3.26
     }
 }
