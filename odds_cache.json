@@ -1,50 +1,14 @@
 {
-    "Recife - Ponte Preta": {
-        "Alt": 1.16,
-        "Üst": 1.66
-    },
-    "Independiente D. - Flamengo": {
-        "Alt": 1.4,
-        "Üst": 2.17
-    },
-    "CS Cienciano - Torque": {
-        "Alt": 1.69,
-        "Üst": 1.72
-    },
-    "Millonarios - Deport Cali": {
-        "Alt": 1.5,
-        "Üst": 1.84
-    },
-    "A. Oaxaca - Alac. de Durango": {
-        "Alt": 1.5,
-        "Üst": 1.84
-    },
-    "Marathon - Alajuelense": {
-        "Alt": 1.37,
-        "Üst": 2.08
-    },
-    "Xelaju - CSD Imperial": {
-        "Alt": 1.73,
-        "Üst": 1.58
-    },
-    "Pumas Unam - Club Leon": {
-        "Alt": 1.82,
-        "Üst": 1.51
-    },
-    "Angel Firpo - CD Olimpia": {
-        "Alt": 1.58,
-        "Üst": 1.73
-    },
     "Garuda Yaksa - Persik Kediri": {
-        "Alt": 1.86,
-        "Üst": 1.48
+        "Alt": 1.9,
+        "Üst": 1.46
     },
     "Palmerston Rovers - Hellenic Ath": {
-        "Alt": 1.72,
-        "Üst": 4.06
+        "Alt": 1.74,
+        "Üst": 3.9
     },
     "Prospect Utd - Parramatta Eagles": {
-        "Alt": 3.32,
+        "Alt": 3.33,
         "Üst": 3.71
     },
     "Box Hill Utd (K) - Bulleen Lions (K)": {
@@ -60,15 +24,59 @@
         "Üst": 1.5
     },
     "Daejeon Korail - Ulsan Citizen": {
-        "Alt": 1.61,
-        "Üst": 1.7
+        "Alt": 1.57,
+        "Üst": 1.74
     },
     "Vissel Kobe - Kashima": {
-        "Alt": 1.53,
-        "Üst": 1.91
+        "Alt": 1.6,
+        "Üst": 1.81
     },
     "Kyoto Sanga - Kashiwa": {
         "Alt": 1.85,
         "Üst": 1.58
+    },
+    "Sokol Kleczew - Olimpia": {
+        "Alt": 2.2,
+        "Üst": 1.32
+    },
+    "Kolos Kovalivka - Karpaty Lviv": {
+        "Alt": 1.57,
+        "Üst": 1.74
+    },
+    "Casuarina - Port Darwin": {
+        "Alt": 2.14,
+        "Üst": 3.89
+    },
+    "Buriram Utd - Chiangrai Utd": {
+        "Alt": 3.47,
+        "Üst": 2.17
+    },
+    "Bac Ninh - TP HO Chi Minh": {
+        "Alt": 1.36,
+        "Üst": 2.11
+    },
+    "SHB Da Nang - Nam Dinh": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "Phu Dong - Thanh Hoa": {
+        "Alt": 2.06,
+        "Üst": 1.38
+    },
+    "Tampines Rov. - Balestier": {
+        "Alt": 2.33,
+        "Üst": 3.84
+    },
+    "Port - Lamphun Warrior": {
+        "Alt": 2.03,
+        "Üst": 1.39
+    },
+    "Dewa Utd - Bhayangkara": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Lee Man Warriors - Eastern District": {
+        "Alt": 2.37,
+        "Üst": 3.67
     }
 }
