@@ -1,24 +1,4 @@
 {
-    "Academica - Benfica B": {
-        "Alt": 1.8,
-        "Üst": 1.52
-    },
-    "New Old Boys - V. Sarsfield": {
-        "Alt": 1.3,
-        "Üst": 2.43
-    },
-    "CR Belouizdad - ES Setif": {
-        "Alt": 1.38,
-        "Üst": 2.05
-    },
-    "Cajamarca - Juan Pablo II": {
-        "Alt": 1.62,
-        "Üst": 1.68
-    },
-    "Portoviejo - Vargas Torres": {
-        "Alt": 5.23,
-        "Üst": 3.36
-    },
     "Ituzaingo - Comunicacion": {
         "Alt": 1.33,
         "Üst": 2.16
@@ -36,8 +16,8 @@
         "Üst": 1.54
     },
     "Argentino De Merlo - Real Pilar": {
-        "Alt": 1.37,
-        "Üst": 3.28
+        "Alt": 1.39,
+        "Üst": 3.24
     },
     "J. De Cordoba - Fortaleza": {
         "Alt": 1.39,
@@ -48,27 +28,47 @@
         "Üst": 1.93
     },
     "Real Potosi - O. Petrolero": {
-        "Alt": 2.25,
-        "Üst": 3.43
+        "Alt": 2.2,
+        "Üst": 3.41
     },
     "El Nacional - 22 de Julio": {
-        "Alt": 1.87,
-        "Üst": 1.48
+        "Alt": 1.89,
+        "Üst": 1.47
     },
     "Cusco - Melgar": {
         "Alt": 1.72,
         "Üst": 1.58
     },
     "Boca Juniors - C. Cordoba": {
-        "Alt": 1.53,
-        "Üst": 1.91
+        "Alt": 1.51,
+        "Üst": 1.95
     },
     "AC Boise - New York Cosmos": {
         "Alt": 2.06,
         "Üst": 3.41
     },
     "Gimnasia Y. Tiro - T. Suarez": {
-        "Alt": 4.95,
-        "Üst": 3.26
+        "Alt": 5.13,
+        "Üst": 3.3
+    },
+    "Necaxa - Puebla": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "Correcaminos - Cancun": {
+        "Alt": 1.76,
+        "Üst": 1.56
+    },
+    "Cruz Azul (K) - Pumas Unam (K)": {
+        "Alt": 1.35,
+        "Üst": 3.88
+    },
+    "New Mexico - Indy Eleven": {
+        "Alt": 2.15,
+        "Üst": 1.34
+    },
+    "CD Estrella Roja - Platense": {
+        "Alt": 1.7,
+        "Üst": 1.61
     }
 }
