@@ -1,86 +1,94 @@
 {
-    "Osasuna - Espanyol": {
-        "Alt": 1.54,
-        "Üst": 1.9
+    "Wolfsberger - Rapid Wien": {
+        "Alt": 2.42,
+        "Üst": 1.31
     },
-    "Cadiz - Las Palmas": {
-        "Alt": 1.58,
+    "KAA Gent (K) - RSC Anderlecht (K)": {
+        "Alt": 3.52,
         "Üst": 1.83
     },
-    "N. Madeira - Alverca": {
-        "Alt": 1.6,
-        "Üst": 1.81
+    "Standard Liege (K) - Raal La Louviere (K)": {
+        "Alt": 1.92,
+        "Üst": 1.45
     },
-    "Twente - ADO Den Haag": {
-        "Alt": 3.04,
-        "Üst": 1.18
+    "CD Barco - Silva SD": {
+        "Alt": 1.41,
+        "Üst": 1.99
     },
-    "A. Aachen - Regensburg": {
-        "Alt": 2.34,
-        "Üst": 1.33
+    "Binissalem - CD Cardassar": {
+        "Alt": 4.43,
+        "Üst": 3.37
     },
-    "Mladost Zdralovi - NK Karlovac 1919": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "Hrvace - NK Dubrava": {
-        "Alt": 1.72,
-        "Üst": 1.59
-    },
-    "NK Segesta - NK Dugopolje": {
-        "Alt": 1.58,
-        "Üst": 1.72
-    },
-    "Roda - Vitesse": {
-        "Alt": 2.03,
-        "Üst": 1.39
-    },
-    "Pontevedra - Ath Bilbao B": {
-        "Alt": 1.37,
-        "Üst": 2.07
-    },
-    "Antequera - Alcorcon": {
-        "Alt": 1.43,
-        "Üst": 1.97
-    },
-    "I. Eivissa - UE Sant Andreu": {
-        "Alt": 1.43,
-        "Üst": 1.96
-    },
-    "Europa - Hercules": {
-        "Alt": 1.4,
-        "Üst": 2.01
-    },
-    "Madrid Ccf (K) - Sevilla (K)": {
-        "Alt": 1.75,
-        "Üst": 1.57
-    },
-    "Emirates Club - AL Bataeh": {
-        "Alt": 1.81,
-        "Üst": 1.51
-    },
-    "AL Ittifaq - Gulf Utd": {
-        "Alt": 2.05,
-        "Üst": 1.38
-    },
-    "Rahimo - Mas Maghrib A Fes": {
+    "AC Cesena - Cremonese": {
         "Alt": 1.7,
-        "Üst": 1.6
+        "Üst": 1.7
     },
-    "Petro Atl - UD DO Songo": {
-        "Alt": 1.69,
-        "Üst": 1.61
-    },
-    "Altach - Grazer AK": {
-        "Alt": 1.68,
-        "Üst": 1.72
-    },
-    "Vitebsk - Belshina": {
+    "AL Salt - Al Wehdat": {
         "Alt": 1.52,
         "Üst": 1.8
     },
-    "VJS - Inter 2": {
-        "Alt": 3.22,
-        "Üst": 1.11
+    "CSKA Moskova - Rubin Kazan": {
+        "Alt": 1.76,
+        "Üst": 1.64
+    },
+    "Estudiantes - CA Platense": {
+        "Alt": 1.27,
+        "Üst": 2.56
+    },
+    "Ind. Mendoza - Aldosivi": {
+        "Alt": 1.63,
+        "Üst": 1.78
+    },
+    "F. Sittard - Ajax": {
+        "Alt": 2.73,
+        "Üst": 1.23
+    },
+    "Union de Santa Fe (K) - San Luis (K)": {
+        "Alt": 1.51,
+        "Üst": 1.83
+    },
+    "Talleres de - CSD Liniers": {
+        "Alt": 1.33,
+        "Üst": 2.19
+    },
+    "Deportivo Laferrere - Villa San Ca": {
+        "Alt": 1.36,
+        "Üst": 2.11
+    },
+    "Arsenal Sarandi - Urquiza": {
+        "Alt": 1.55,
+        "Üst": 1.77
+    },
+    "Dep. Armenio - CS Italiano": {
+        "Alt": 5.58,
+        "Üst": 3.57
+    },
+    "Unidos - Sportivo Dock Sud": {
+        "Alt": 1.43,
+        "Üst": 1.96
+    },
+    "Canuelas - Victoriano A": {
+        "Alt": 3.91,
+        "Üst": 3.12
+    },
+    "Berazategui - CA Atlas": {
+        "Alt": 3.47,
+        "Üst": 3.1
+    },
+    "Juventud U. S. M. - El Porvenir": {
+        "Alt": 4.93,
+        "Üst": 3.34
+    },
+    "CA Lugano - Leones de Rosario": {
+        "Alt": 1.27,
+        "Üst": 3.46
+    },
+    "Cl. Estrella Del Sur - Yupanqui": {
+        "Alt": 1.35,
+        "Üst": 2.14
+    },
+    "Central Ballester - Puerto Nuevo": {
+        "Alt": 5.42,
+        "Üst": 3.52
     }
 }
