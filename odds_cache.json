@@ -1,78 +1,86 @@
 {
-    "Guangxi Hengchen - Yanbian L.": {
-        "Alt": 1.73,
-        "Üst": 1.58
+    "Osasuna - Espanyol": {
+        "Alt": 1.54,
+        "Üst": 1.9
     },
-    "Guangzhou E Power - Dalian Kuncheng C.": {
-        "Alt": 2.05,
-        "Üst": 1.38
+    "Cadiz - Las Palmas": {
+        "Alt": 1.58,
+        "Üst": 1.83
     },
-    "Guizhou Zhucheng Ath - Dalian Kewei": {
-        "Alt": 3.68,
-        "Üst": 3.2
+    "N. Madeira - Alverca": {
+        "Alt": 1.6,
+        "Üst": 1.81
     },
-    "Guangdong Mingtu - Shanghai Segenda": {
-        "Alt": 1.39,
-        "Üst": 2.03
+    "Twente - ADO Den Haag": {
+        "Alt": 3.04,
+        "Üst": 1.18
     },
-    "Nantong Haimen C. - Chengdu Rongcheng B": {
-        "Alt": 1.42,
-        "Üst": 1.97
+    "A. Aachen - Regensburg": {
+        "Alt": 2.34,
+        "Üst": 1.33
     },
-    "Nomme Kalju - Trans Narva": {
-        "Alt": 2.06,
-        "Üst": 1.38
-    },
-    "O. Lyon (K) - Paris (K)": {
-        "Alt": 3.63,
-        "Üst": 2.55
-    },
-    "W. Bromwich - QPR": {
-        "Alt": 1.69,
-        "Üst": 1.71
-    },
-    "Derby County - Birmingham": {
-        "Alt": 1.63,
-        "Üst": 1.79
-    },
-    "Bolton - Cardiff City": {
-        "Alt": 2.21,
-        "Üst": 1.38
-    },
-    "Notts County - Bradford": {
-        "Alt": 1.52,
-        "Üst": 1.8
-    },
-    "Leyton Orient - Wycombe": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
-    "Grimsby Town - Bristol Rovers": {
-        "Alt": 1.78,
-        "Üst": 1.54
-    },
-    "Crawley Town - Cheltenham": {
-        "Alt": 2.0,
-        "Üst": 1.41
-    },
-    "Harrogate - Tamworth": {
-        "Alt": 2.2,
-        "Üst": 1.32
-    },
-    "Worthing - Barrow": {
-        "Alt": 2.22,
-        "Üst": 1.31
-    },
-    "Hougang Utd - Lion C. Sailors": {
-        "Alt": 3.88,
-        "Üst": 2.54
-    },
-    "Uthai Thani - Pattani": {
+    "Mladost Zdralovi - NK Karlovac 1919": {
         "Alt": 1.65,
         "Üst": 1.65
     },
-    "Khon Kaen Utd - Mahasarakham Utd": {
-        "Alt": 1.79,
-        "Üst": 1.53
+    "Hrvace - NK Dubrava": {
+        "Alt": 1.72,
+        "Üst": 1.59
+    },
+    "NK Segesta - NK Dugopolje": {
+        "Alt": 1.58,
+        "Üst": 1.72
+    },
+    "Roda - Vitesse": {
+        "Alt": 2.03,
+        "Üst": 1.39
+    },
+    "Pontevedra - Ath Bilbao B": {
+        "Alt": 1.37,
+        "Üst": 2.07
+    },
+    "Antequera - Alcorcon": {
+        "Alt": 1.43,
+        "Üst": 1.97
+    },
+    "I. Eivissa - UE Sant Andreu": {
+        "Alt": 1.43,
+        "Üst": 1.96
+    },
+    "Europa - Hercules": {
+        "Alt": 1.4,
+        "Üst": 2.01
+    },
+    "Madrid Ccf (K) - Sevilla (K)": {
+        "Alt": 1.75,
+        "Üst": 1.57
+    },
+    "Emirates Club - AL Bataeh": {
+        "Alt": 1.81,
+        "Üst": 1.51
+    },
+    "AL Ittifaq - Gulf Utd": {
+        "Alt": 2.05,
+        "Üst": 1.38
+    },
+    "Rahimo - Mas Maghrib A Fes": {
+        "Alt": 1.7,
+        "Üst": 1.6
+    },
+    "Petro Atl - UD DO Songo": {
+        "Alt": 1.69,
+        "Üst": 1.61
+    },
+    "Altach - Grazer AK": {
+        "Alt": 1.68,
+        "Üst": 1.72
+    },
+    "Vitebsk - Belshina": {
+        "Alt": 1.52,
+        "Üst": 1.8
+    },
+    "VJS - Inter 2": {
+        "Alt": 3.22,
+        "Üst": 1.11
     }
 }
