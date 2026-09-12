@@ -1,86 +1,86 @@
 {
-    "Richmond - C. Red Wolves SC": {
-        "Alt": 1.86,
-        "Üst": 1.48
-    },
-    "Forward M. - Sarasota Paradise": {
-        "Alt": 1.84,
-        "Üst": 1.5
-    },
-    "Tlaxcala - Jaiba Brava": {
-        "Alt": 1.58,
-        "Üst": 1.73
-    },
-    "Maringa - Santa Cruz": {
-        "Alt": 1.43,
-        "Üst": 1.96
-    },
-    "Crown Legacy - Carolina Core": {
-        "Alt": 2.0,
-        "Üst": 3.57
-    },
-    "Sporting Jax - Rhode Island": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "Hartford Ath - Tampa Bay": {
-        "Alt": 1.73,
+    "Botafogo RJ - Bragantino": {
+        "Alt": 1.83,
         "Üst": 1.58
     },
-    "Louisville - El Paso Loc.": {
-        "Alt": 1.97,
-        "Üst": 1.42
+    "Cincinnati - Charlotte": {
+        "Alt": 2.78,
+        "Üst": 1.23
     },
-    "Pittsburgh R. - Loudoun Utd": {
-        "Alt": 1.65,
+    "Columbus Cr. - NY Red Bulls": {
+        "Alt": 2.82,
+        "Üst": 1.22
+    },
+    "DC Utd - Atlanta Utd": {
+        "Alt": 2.14,
+        "Üst": 1.41
+    },
+    "Orlando City - Toronto": {
+        "Alt": 2.65,
+        "Üst": 1.25
+    },
+    "Inter Miami - Nashville SC": {
+        "Alt": 2.81,
+        "Üst": 1.22
+    },
+    "Blooming - Academia del Balompie": {
+        "Alt": 2.05,
+        "Üst": 1.38
+    },
+    "Santos SP - Cruzeiro MG": {
+        "Alt": 1.74,
         "Üst": 1.65
     },
-    "Brooklyn - Miami": {
-        "Alt": 2.01,
-        "Üst": 1.4
+    "Minnesota Utd 2 - Vancouver Whitecaps II": {
+        "Alt": 1.93,
+        "Üst": 3.57
     },
-    "Birmingham Legion - Charleston": {
+    "LDU Quito - CD Cuenca": {
+        "Alt": 1.68,
+        "Üst": 1.63
+    },
+    "Kansas City - Los Angeles": {
+        "Alt": 2.2,
+        "Üst": 1.38
+    },
+    "S. Louis City SC - Minnesota Utd": {
+        "Alt": 2.21,
+        "Üst": 1.38
+    },
+    "Dallas - Portland Tim.": {
+        "Alt": 2.72,
+        "Üst": 1.23
+    },
+    "Corpus Chri - Union Omaha SC": {
+        "Alt": 1.81,
+        "Üst": 1.52
+    },
+    "CD Fas - Alianza": {
+        "Alt": 1.51,
+        "Üst": 1.82
+    },
+    "CSD D. Sinaloa - CD Tapatio": {
+        "Alt": 1.94,
+        "Üst": 1.44
+    },
+    "M.D. Zacatecas - Atl Morelia": {
         "Alt": 2.0,
         "Üst": 1.41
     },
-    "Greenville T. - Fort Wayne": {
-        "Alt": 1.86,
-        "Üst": 1.49
+    "Alianza Lima - U. Deportes": {
+        "Alt": 4.35,
+        "Üst": 3.31
     },
-    "Charlotte Ind. - Westchester SC": {
-        "Alt": 1.86,
-        "Üst": 3.61
+    "Monterrey - Tigres": {
+        "Alt": 1.81,
+        "Üst": 1.52
     },
-    "Talleres - Union Santa Fe": {
-        "Alt": 1.44,
-        "Üst": 2.09
+    "Juarez (K) - Club Necaxa (K)": {
+        "Alt": 3.92,
+        "Üst": 2.19
     },
-    "Excursionist - Villa Dalmine": {
-        "Alt": 3.68,
-        "Üst": 3.08
-    },
-    "Forge - Atl Ottawa": {
-        "Alt": 1.91,
-        "Üst": 1.45
-    },
-    "R. S. Cundinamarca - U. Magdalena": {
-        "Alt": 1.37,
-        "Üst": 2.07
-    },
-    "Internacional Palmira - R. Cartagena": {
-        "Alt": 1.54,
-        "Üst": 1.79
-    },
-    "Inter San Carlos - Puntarenas": {
-        "Alt": 1.66,
-        "Üst": 1.65
-    },
-    "Venados - Tepatitlan": {
-        "Alt": 1.9,
-        "Üst": 3.41
-    },
-    "Palestino - Uni. Catolica": {
-        "Alt": 1.82,
-        "Üst": 1.51
+    "Alianza Valledupar - Atl Junior": {
+        "Alt": 1.52,
+        "Üst": 1.8
     }
 }
