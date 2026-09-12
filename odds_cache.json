@@ -1,74 +1,86 @@
 {
-    "A. de Viseu - V. Guimaraes": {
-        "Alt": 1.53,
-        "Üst": 1.92
+    "Richmond - C. Red Wolves SC": {
+        "Alt": 1.86,
+        "Üst": 1.48
     },
-    "Montevideo - Nacional": {
-        "Alt": 1.55,
-        "Üst": 1.77
+    "Forward M. - Sarasota Paradise": {
+        "Alt": 1.84,
+        "Üst": 1.5
     },
-    "Chapecoense - Internacional": {
-        "Alt": 1.72,
-        "Üst": 1.68
+    "Tlaxcala - Jaiba Brava": {
+        "Alt": 1.58,
+        "Üst": 1.73
     },
-    "Quilmes - S. Martin SJ": {
-        "Alt": 3.2,
-        "Üst": 2.98
+    "Maringa - Santa Cruz": {
+        "Alt": 1.43,
+        "Üst": 1.96
     },
-    "Botafogo PB - Floresta EC": {
-        "Alt": 2.66,
-        "Üst": 2.9
+    "Crown Legacy - Carolina Core": {
+        "Alt": 2.0,
+        "Üst": 3.57
     },
-    "CS Constantine - ASO Chlef": {
-        "Alt": 1.34,
-        "Üst": 2.14
+    "Sporting Jax - Rhode Island": {
+        "Alt": 1.93,
+        "Üst": 1.44
     },
-    "Supra Du Quebec - Hfx Wan.": {
-        "Alt": 2.02,
-        "Üst": 1.39
+    "Hartford Ath - Tampa Bay": {
+        "Alt": 1.73,
+        "Üst": 1.58
     },
-    "Academia Anzoategui - Metropolitan": {
-        "Alt": 1.79,
-        "Üst": 1.54
+    "Louisville - El Paso Loc.": {
+        "Alt": 1.97,
+        "Üst": 1.42
     },
-    "Atl Tucuman - River Plate": {
-        "Alt": 1.33,
-        "Üst": 2.34
+    "Pittsburgh R. - Loudoun Utd": {
+        "Alt": 1.65,
+        "Üst": 1.65
     },
-    "Envigado - Itagui Leones": {
-        "Alt": 1.38,
-        "Üst": 2.06
-    },
-    "Atletico Balboa - Platense M.": {
-        "Alt": 1.49,
-        "Üst": 1.86
-    },
-    "Estudiante Merida - Dep. Tachira": {
-        "Alt": 1.51,
-        "Üst": 1.82
-    },
-    "Inter Bogota - Llaneros": {
-        "Alt": 1.38,
-        "Üst": 2.04
-    },
-    "Strongest - Cdt Real Oruro": {
-        "Alt": 2.12,
-        "Üst": 3.82
-    },
-    "Palmeiras SP - Sao Paulo SP": {
-        "Alt": 1.51,
-        "Üst": 1.94
-    },
-    "Guayaquil - Mushuc Runa": {
-        "Alt": 1.4,
-        "Üst": 2.02
-    },
-    "CD Aguila - CD Inca": {
+    "Brooklyn - Miami": {
         "Alt": 2.01,
         "Üst": 1.4
     },
-    "Dep. La Gua. - Ucv": {
-        "Alt": 1.65,
+    "Birmingham Legion - Charleston": {
+        "Alt": 2.0,
+        "Üst": 1.41
+    },
+    "Greenville T. - Fort Wayne": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "Charlotte Ind. - Westchester SC": {
+        "Alt": 1.86,
+        "Üst": 3.61
+    },
+    "Talleres - Union Santa Fe": {
+        "Alt": 1.44,
+        "Üst": 2.09
+    },
+    "Excursionist - Villa Dalmine": {
+        "Alt": 3.68,
+        "Üst": 3.08
+    },
+    "Forge - Atl Ottawa": {
+        "Alt": 1.91,
+        "Üst": 1.45
+    },
+    "R. S. Cundinamarca - U. Magdalena": {
+        "Alt": 1.37,
+        "Üst": 2.07
+    },
+    "Internacional Palmira - R. Cartagena": {
+        "Alt": 1.54,
+        "Üst": 1.79
+    },
+    "Inter San Carlos - Puntarenas": {
+        "Alt": 1.66,
         "Üst": 1.65
+    },
+    "Venados - Tepatitlan": {
+        "Alt": 1.9,
+        "Üst": 3.41
+    },
+    "Palestino - Uni. Catolica": {
+        "Alt": 1.82,
+        "Üst": 1.51
     }
 }
