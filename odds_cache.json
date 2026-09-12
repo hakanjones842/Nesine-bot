@@ -1,94 +1,78 @@
 {
-    "G. Coast Knights (K) - Eastern Suburbs (K)": {
+    "Guangxi Hengchen - Yanbian L.": {
         "Alt": 1.73,
         "Üst": 1.58
     },
-    "Armadale SC - Joondalup City": {
-        "Alt": 2.31,
-        "Üst": 3.63
-    },
-    "Uwa Nedlands - Mandurah City": {
-        "Alt": 2.06,
-        "Üst": 1.38
-    },
-    "A. Croatia R. - Modbury Jets SC": {
-        "Alt": 1.37,
-        "Üst": 3.86
-    },
-    "Ulsan Hora - Incheon Utd": {
-        "Alt": 1.75,
-        "Üst": 1.65
-    },
-    "Jeonbuk - Seoul": {
-        "Alt": 1.73,
-        "Üst": 1.67
-    },
-    "Bucheon - Jeju Utd": {
-        "Alt": 1.57,
-        "Üst": 1.86
-    },
-    "Seoul E Land - S. S. Bluewings": {
-        "Alt": 1.83,
-        "Üst": 1.51
-    },
-    "Daegu - Yongin": {
+    "Guangzhou E Power - Dalian Kuncheng C.": {
         "Alt": 2.05,
         "Üst": 1.38
     },
-    "Shanghai Port B - Jiangxi Beidamen": {
-        "Alt": 1.43,
-        "Üst": 1.96
+    "Guizhou Zhucheng Ath - Dalian Kewei": {
+        "Alt": 3.68,
+        "Üst": 3.2
     },
-    "Chuncheon - Yeoju Citizen": {
-        "Alt": 1.57,
-        "Üst": 1.75
+    "Guangdong Mingtu - Shanghai Segenda": {
+        "Alt": 1.39,
+        "Üst": 2.03
     },
-    "Wofoo Tai PO - Hong Kong": {
-        "Alt": 2.15,
-        "Üst": 3.68
+    "Nantong Haimen C. - Chengdu Rongcheng B": {
+        "Alt": 1.42,
+        "Üst": 1.97
     },
-    "Southern District - Kitchee SC": {
-        "Alt": 2.57,
-        "Üst": 3.57
+    "Nomme Kalju - Trans Narva": {
+        "Alt": 2.06,
+        "Üst": 1.38
     },
-    "ACS Gloria - SC Popesti Leordeni": {
-        "Alt": 1.6,
+    "O. Lyon (K) - Paris (K)": {
+        "Alt": 3.63,
+        "Üst": 2.55
+    },
+    "W. Bromwich - QPR": {
+        "Alt": 1.69,
         "Üst": 1.71
     },
-    "Politehn Tim - Csl Stefanestii de Jos": {
-        "Alt": 3.41,
-        "Üst": 2.12
+    "Derby County - Birmingham": {
+        "Alt": 1.63,
+        "Üst": 1.79
     },
-    "Metaloglobus - Csm Satu Mare": {
-        "Alt": 1.67,
-        "Üst": 1.63
+    "Bolton - Cardiff City": {
+        "Alt": 2.21,
+        "Üst": 1.38
     },
-    "Cetate Suceava - Scm Ramnicu V.": {
-        "Alt": 1.72,
-        "Üst": 1.58
+    "Notts County - Bradford": {
+        "Alt": 1.52,
+        "Üst": 1.8
     },
-    "Dumbravita - CSM Slatina": {
-        "Alt": 1.65,
-        "Üst": 1.65
+    "Leyton Orient - Wycombe": {
+        "Alt": 1.79,
+        "Üst": 1.53
     },
-    "CS Afumati - Asa Targu Mures": {
+    "Grimsby Town - Bristol Rovers": {
         "Alt": 1.78,
         "Üst": 1.54
     },
-    "CS D. Bucuresti - Concordia": {
-        "Alt": 3.55,
-        "Üst": 1.93
+    "Crawley Town - Cheltenham": {
+        "Alt": 2.0,
+        "Üst": 1.41
     },
-    "Hume City - Avondale": {
-        "Alt": 2.1,
-        "Üst": 1.36
+    "Harrogate - Tamworth": {
+        "Alt": 2.2,
+        "Üst": 1.32
     },
-    "ST George Saints - Northern Tigers": {
-        "Alt": 1.69,
-        "Üst": 1.62
+    "Worthing - Barrow": {
+        "Alt": 2.22,
+        "Üst": 1.31
     },
-    "Darwin Hearts - Garuda": {
+    "Hougang Utd - Lion C. Sailors": {
+        "Alt": 3.88,
+        "Üst": 2.54
+    },
+    "Uthai Thani - Pattani": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Khon Kaen Utd - Mahasarakham Utd": {
         "Alt": 1.79,
-        "Üst": 4.3
+        "Üst": 1.53
     }
 }
