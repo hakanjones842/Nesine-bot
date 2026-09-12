@@ -1,74 +1,82 @@
 {
-    "Coritiba - Paranaense": {
-        "Alt": 1.51,
-        "Üst": 1.93
-    },
-    "Real Potosi - O. Petrolero": {
-        "Alt": 2.06,
-        "Üst": 1.38
-    },
-    "El Nacional - 22 de Julio": {
-        "Alt": 1.89,
-        "Üst": 1.47
-    },
-    "Boca Juniors - C. Cordoba": {
-        "Alt": 1.51,
-        "Üst": 1.95
-    },
-    "AC Boise - New York Cosmos": {
-        "Alt": 2.06,
-        "Üst": 3.41
-    },
-    "Gimnasia Y. Tiro - T. Suarez": {
-        "Alt": 5.32,
-        "Üst": 3.38
-    },
-    "Necaxa - Puebla": {
-        "Alt": 1.89,
-        "Üst": 1.46
-    },
-    "Correcaminos - Cancun": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
-    "Cruz Azul (K) - Pumas Unam (K)": {
-        "Alt": 1.41,
-        "Üst": 3.78
-    },
-    "New Mexico - Indy Eleven": {
-        "Alt": 2.2,
-        "Üst": 1.32
-    },
-    "CD Estrella Roja - Platense": {
-        "Alt": 1.7,
-        "Üst": 1.61
-    },
-    "I. Santa Fe - CD Tolima": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
     "Colorado Spr. - San Antonio": {
-        "Alt": 1.6,
-        "Üst": 1.7
+        "Alt": 1.62,
+        "Üst": 1.69
     },
     "M. Per. Zeledon - AD San Carlos": {
         "Alt": 1.51,
         "Üst": 1.82
     },
     "Atlante - Pachuca": {
-        "Alt": 1.62,
-        "Üst": 1.69
+        "Alt": 1.59,
+        "Üst": 1.72
     },
     "Atlas (K) - Atlante (K)": {
         "Alt": 3.03,
         "Üst": 3.67
     },
     "Club Tijuana - Queretaro": {
-        "Alt": 1.7,
-        "Üst": 1.61
+        "Alt": 1.67,
+        "Üst": 1.64
     },
     "Essendon Royals (K) - Avondale (K)": {
         "Alt": 1.48,
         "Üst": 3.78
+    },
+    "G. Coast Knights (K) - Eastern Suburbs (K)": {
+        "Alt": 1.66,
+        "Üst": 1.64
+    },
+    "Armadale SC - Joondalup City": {
+        "Alt": 2.12,
+        "Üst": 3.62
+    },
+    "Uwa Nedlands - Mandurah City": {
+        "Alt": 2.06,
+        "Üst": 1.38
+    },
+    "A. Croatia R. - Modbury Jets SC": {
+        "Alt": 1.38,
+        "Üst": 3.82
+    },
+    "Ulsan Hora - Incheon Utd": {
+        "Alt": 1.72,
+        "Üst": 1.68
+    },
+    "Jeonbuk - Seoul": {
+        "Alt": 1.73,
+        "Üst": 1.67
+    },
+    "Bucheon - Jeju Utd": {
+        "Alt": 1.59,
+        "Üst": 1.82
+    },
+    "Seoul E Land - S. S. Bluewings": {
+        "Alt": 1.74,
+        "Üst": 1.57
+    },
+    "Daegu - Yongin": {
+        "Alt": 2.04,
+        "Üst": 1.38
+    },
+    "Shanghai Port B - Jiangxi Beidamen": {
+        "Alt": 1.43,
+        "Üst": 1.96
+    },
+    "Chuncheon - Yeoju Citizen": {
+        "Alt": 1.57,
+        "Üst": 1.75
+    },
+    "Wofoo Tai PO - Hong Kong": {
+        "Alt": 2.05,
+        "Üst": 3.66
+    },
+    "Southern District - Kitchee SC": {
+        "Alt": 2.57,
+        "Üst": 3.57
+    },
+    "ACS Gloria - SC Popesti Leordeni": {
+        "Alt": 1.6,
+        "Üst": 1.71
     }
 }
