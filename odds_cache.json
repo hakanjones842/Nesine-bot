@@ -1,78 +1,82 @@
 {
-    "New York City II - Connecticut Utd": {
-        "Alt": 1.37,
-        "Üst": 4.17
+    "New York Red B. II - Cincinnati 2": {
+        "Alt": 1.87,
+        "Üst": 3.89
     },
-    "Godoy Cruz - Colon": {
-        "Alt": 4.27,
-        "Üst": 3.12
+    "Inter Miami II - Huntsville City": {
+        "Alt": 1.8,
+        "Üst": 3.57
     },
-    "Juventude - Athletic Club MG": {
-        "Alt": 1.35,
-        "Üst": 2.14
+    "Orlando City B - Toronto II": {
+        "Alt": 3.48,
+        "Üst": 3.95
     },
-    "C.D. Cacahuatique - Fundacion F. Un Atleta": {
+    "Libertad Loja - Independiente D.": {
+        "Alt": 1.66,
+        "Üst": 1.65
+    },
+    "Barcelona (Ekv) - Delfin": {
+        "Alt": 1.52,
+        "Üst": 1.81
+    },
+    "Dep. Guastatoya - Xelaju": {
+        "Alt": 1.39,
+        "Üst": 2.03
+    },
+    "Deportes Quindio - Boyaca Patr.": {
+        "Alt": 1.32,
+        "Üst": 2.21
+    },
+    "America (K) - Tigres UANL (K)": {
+        "Alt": 2.18,
+        "Üst": 3.57
+    },
+    "Atl San Luis (K) - C. Santos Laguna (K)": {
+        "Alt": 2.31,
+        "Üst": 3.63
+    },
+    "Audax Ital. - O'Higgins": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Once Caldas - Deport Cali": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "Marathon - CD Olimpia": {
         "Alt": 1.54,
-        "Üst": 1.79
+        "Üst": 1.78
     },
-    "Fuerte San Francisco - Municipal L.": {
-        "Alt": 1.48,
-        "Üst": 1.86
+    "Angel Firpo - Metapan": {
+        "Alt": 1.58,
+        "Üst": 1.73
     },
-    "Lobos Upnfm - CD Choloma": {
+    "S. Kansas City II - Los Angeles 2": {
+        "Alt": 1.72,
+        "Üst": 3.69
+    },
+    "CS Cartagines - Alajuelense": {
+        "Alt": 1.55,
+        "Üst": 1.77
+    },
+    "Austin II - Colorado Rapids 2": {
         "Alt": 1.93,
         "Üst": 1.44
     },
-    "Atl. Nacional Medellin - R. Aguilas": {
-        "Alt": 1.82,
-        "Üst": 1.51
-    },
-    "U. de Vinto - Independiente P.": {
-        "Alt": 2.01,
-        "Üst": 1.4
-    },
-    "Chicago Fire - N. E. Revolution": {
-        "Alt": 2.37,
-        "Üst": 1.32
-    },
-    "Tucuman - Agropecuario A.": {
-        "Alt": 3.18,
-        "Üst": 3.0
-    },
-    "Fortaleza CE - Ceara CE": {
-        "Alt": 1.35,
-        "Üst": 2.13
-    },
-    "Gremio Novo - Cuiaba": {
-        "Alt": 1.42,
-        "Üst": 1.99
-    },
-    "Brusque Sc - Internacional SP": {
-        "Alt": 1.36,
-        "Üst": 2.11
-    },
-    "Caracas - Monagas SC": {
-        "Alt": 1.66,
-        "Üst": 1.64
-    },
-    "Columbus Crew 2 - New England R. II": {
+    "North Texas SC - Houston Dynamo 2": {
         "Alt": 1.34,
-        "Üst": 3.96
+        "Üst": 3.95
     },
-    "P. Hearts of Pine - Av Alta": {
-        "Alt": 2.91,
-        "Üst": 3.65
+    "CA Huracan - Racing Club": {
+        "Alt": 1.24,
+        "Üst": 2.69
     },
-    "Pacific - Cavalry": {
-        "Alt": 2.04,
-        "Üst": 1.38
+    "San Diego - Phila. Union": {
+        "Alt": 2.35,
+        "Üst": 1.33
     },
-    "Sporting San Jose - D. Saprissa": {
-        "Alt": 1.48,
-        "Üst": 1.87
-    },
-    "Independiente - San Lorenzo": {
-        "Alt": 1.27,
-        "Üst": 2.56
+    "Municipal - Malacateco": {
+        "Alt": 1.62,
+        "Üst": 1.68
     }
 }
