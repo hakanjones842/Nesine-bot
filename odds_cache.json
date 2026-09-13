@@ -1,78 +1,74 @@
 {
-    "Celta Vigo - Malaga": {
-        "Alt": 1.57,
+    "Le Mans - RC Lens": {
+        "Alt": 2.37,
+        "Üst": 1.32
+    },
+    "AS Avellino 1912 - US Palermo": {
+        "Alt": 1.7,
+        "Üst": 1.7
+    },
+    "Mantova 1911 - Sampdoria": {
+        "Alt": 1.58,
+        "Üst": 1.85
+    },
+    "Elversberg - Bayern Münih": {
+        "Alt": 2.38,
+        "Üst": 4.1
+    },
+    "Man. Utd - Man. City": {
+        "Alt": 2.32,
+        "Üst": 1.34
+    },
+    "TS Galaxy - Kruger Utd": {
+        "Alt": 1.34,
+        "Üst": 2.15
+    },
+    "Mes Shahr e B. - Nassaji Maz.": {
+        "Alt": 1.48,
+        "Üst": 1.22
+    },
+    "Penya Arrabal - Patacona U19": {
+        "Alt": 1.5,
+        "Üst": 1.85
+    },
+    "Cd Torrijos - CD Tarancon": {
+        "Alt": 1.4,
+        "Üst": 3.25
+    },
+    "CD Cieza - Elche B": {
+        "Alt": 1.51,
+        "Üst": 1.83
+    },
+    "L. Varşova - Widzew Lodz": {
+        "Alt": 1.51,
+        "Üst": 1.82
+    },
+    "Hajer Al Hasa - AL Jabalain": {
+        "Alt": 1.47,
+        "Üst": 1.88
+    },
+    "AL Kahraba - AL Minaa": {
+        "Alt": 1.47,
+        "Üst": 1.89
+    },
+    "Suduva - Zalgiris Vilnius": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Junkeren - Skeid": {
+        "Alt": 2.52,
+        "Üst": 1.23
+    },
+    "AL Saqer - AL Anwar": {
+        "Alt": 1.49,
         "Üst": 1.86
     },
-    "St. Pauli II - Eintracht Norder.": {
-        "Alt": 1.43,
-        "Üst": 3.97
+    "Napoli - Bologna": {
+        "Alt": 1.7,
+        "Üst": 1.7
     },
-    "Greifswalder - Lok. Leipzig": {
-        "Alt": 1.87,
-        "Üst": 1.47
-    },
-    "VfB Stuttgart (K) - Wolfsburg (K)": {
-        "Alt": 1.62,
-        "Üst": 3.76
-    },
-    "Inter Escaldes - CE Carroi": {
-        "Alt": 3.88,
-        "Üst": 1.64
-    },
-    "Lida - Minsk 2": {
-        "Alt": 2.43,
-        "Üst": 3.49
-    },
-    "Dnepr Mogilev - M. Rogachev": {
-        "Alt": 1.77,
-        "Üst": 1.55
-    },
-    "Silkeborg - Viborg": {
-        "Alt": 2.17,
-        "Üst": 1.39
-    },
-    "Lyngby BK - Sonderjyske": {
-        "Alt": 2.2,
-        "Üst": 1.38
-    },
-    "Brabrand - Roskilde": {
-        "Alt": 1.83,
-        "Üst": 1.51
-    },
-    "Skive IK - Middelfart": {
-        "Alt": 1.83,
-        "Üst": 1.51
-    },
-    "Nykoebing - FA 2000": {
-        "Alt": 2.27,
-        "Üst": 1.3
-    },
-    "Horsholm Usserod IK - Holbaek": {
-        "Alt": 2.21,
-        "Üst": 3.67
-    },
-    "Vanlose - Ishoej IF": {
-        "Alt": 1.96,
-        "Üst": 1.43
-    },
-    "Persebaya - Psim Yogyakarta": {
-        "Alt": 1.71,
-        "Üst": 1.6
-    },
-    "Kuopion - HJK Helsinki": {
-        "Alt": 1.84,
-        "Üst": 1.58
-    },
-    "TPV - KuPS Akatemia": {
-        "Alt": 2.8,
-        "Üst": 1.17
-    },
-    "Brentford U21 - Everton U21": {
-        "Alt": 3.13,
-        "Üst": 3.89
-    },
-    "QPR U21 - Fleetwood T. U21": {
-        "Alt": 2.21,
-        "Üst": 3.74
+    "Stade Malien De B. - Colombe": {
+        "Alt": 1.32,
+        "Üst": 2.21
     }
 }
