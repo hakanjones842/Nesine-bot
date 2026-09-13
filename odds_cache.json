@@ -1,74 +1,82 @@
 {
-    "Le Mans - RC Lens": {
-        "Alt": 2.37,
+    "NK Radomlje - NK Maribor": {
+        "Alt": 2.21,
         "Üst": 1.32
     },
-    "AS Avellino 1912 - US Palermo": {
-        "Alt": 1.7,
-        "Üst": 1.7
+    "Estudiantes - Acassuso": {
+        "Alt": 2.54,
+        "Üst": 2.84
     },
-    "Mantova 1911 - Sampdoria": {
-        "Alt": 1.58,
-        "Üst": 1.85
+    "Almir. Brown - Ferro Carril Oeste": {
+        "Alt": 1.28,
+        "Üst": 3.33
     },
-    "Elversberg - Bayern Münih": {
-        "Alt": 2.38,
-        "Üst": 4.1
+    "Patronato - CA Temperley": {
+        "Alt": 4.37,
+        "Üst": 3.19
     },
-    "Man. Utd - Man. City": {
-        "Alt": 2.32,
-        "Üst": 1.34
+    "Atl Madrid B - Murcia": {
+        "Alt": 1.6,
+        "Üst": 1.71
     },
-    "TS Galaxy - Kruger Utd": {
-        "Alt": 1.34,
-        "Üst": 2.15
+    "Sliema Wanderers - Mosta": {
+        "Alt": 1.46,
+        "Üst": 1.9
     },
-    "Mes Shahr e B. - Nassaji Maz.": {
-        "Alt": 1.48,
-        "Üst": 1.22
+    "Panathinaikos - Paneitolikos": {
+        "Alt": 2.06,
+        "Üst": 1.38
     },
-    "Penya Arrabal - Patacona U19": {
-        "Alt": 1.5,
-        "Üst": 1.85
-    },
-    "Cd Torrijos - CD Tarancon": {
-        "Alt": 1.4,
-        "Üst": 3.25
-    },
-    "CD Cieza - Elche B": {
-        "Alt": 1.51,
-        "Üst": 1.83
-    },
-    "L. Varşova - Widzew Lodz": {
-        "Alt": 1.51,
-        "Üst": 1.82
-    },
-    "Hajer Al Hasa - AL Jabalain": {
-        "Alt": 1.47,
-        "Üst": 1.88
-    },
-    "AL Kahraba - AL Minaa": {
-        "Alt": 1.47,
-        "Üst": 1.89
-    },
-    "Suduva - Zalgiris Vilnius": {
-        "Alt": 1.65,
+    "Sassuolo - Juventus": {
+        "Alt": 1.76,
         "Üst": 1.65
     },
-    "Junkeren - Skeid": {
-        "Alt": 2.52,
-        "Üst": 1.23
+    "Brest - PSG": {
+        "Alt": 3.34,
+        "Üst": 1.14
     },
-    "AL Saqer - AL Anwar": {
-        "Alt": 1.49,
-        "Üst": 1.86
+    "Velez Mostar - Sarajevo": {
+        "Alt": 1.37,
+        "Üst": 2.09
     },
-    "Napoli - Bologna": {
-        "Alt": 1.7,
-        "Üst": 1.7
+    "R. Sociedad - Atl Madrid": {
+        "Alt": 2.02,
+        "Üst": 1.46
     },
-    "Stade Malien De B. - Colombe": {
-        "Alt": 1.32,
-        "Üst": 2.21
+    "Mirassol SP - Vitoria BA": {
+        "Alt": 1.74,
+        "Üst": 1.65
+    },
+    "Chattanooga - Atlanta Utd 2": {
+        "Alt": 2.99,
+        "Üst": 3.98
+    },
+    "Chicago Fire II - Philadelphia Union II": {
+        "Alt": 2.28,
+        "Üst": 3.88
+    },
+    "Racing de Cordoba - Dep. Moron": {
+        "Alt": 4.96,
+        "Üst": 3.34
+    },
+    "Mitre Santia - Chaco For Ever": {
+        "Alt": 4.02,
+        "Üst": 3.19
+    },
+    "Gimnasia Jujuy - Atletico De Rafaela": {
+        "Alt": 1.45,
+        "Üst": 1.92
+    },
+    "Always Ready - Guabira M.": {
+        "Alt": 3.82,
+        "Üst": 2.35
+    },
+    "Atl Goianiense - Criciuma": {
+        "Alt": 1.38,
+        "Üst": 2.06
+    },
+    "Ferroviaria - Paysandu SC PA": {
+        "Alt": 1.58,
+        "Üst": 1.72
     }
 }
