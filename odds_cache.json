@@ -1,74 +1,78 @@
 {
-    "Geylang - Tanjong Pagar": {
-        "Alt": 1.93,
-        "Üst": 3.59
+    "Gaziantep FK - Fenerbahçe": {
+        "Alt": 2.21,
+        "Üst": 1.48
     },
-    "Meshakhte Tkibuli - Rustvai": {
-        "Alt": 1.52,
-        "Üst": 1.8
+    "Kayserispor - İstanbulspor": {
+        "Alt": 1.86,
+        "Üst": 1.48
     },
-    "Swansea U21 - Huddersfield T. U21": {
-        "Alt": 2.55,
-        "Üst": 3.99
+    "Midtjylland - Brondby": {
+        "Alt": 2.17,
+        "Üst": 1.39
     },
-    "Moreirense U23 - Braga U23": {
-        "Alt": 1.91,
-        "Üst": 1.45
+    "Dinamo Tiflis - Gagra": {
+        "Alt": 1.75,
+        "Üst": 1.57
     },
-    "Dinamo Kiev - Epicentr Dunaivtsi": {
-        "Alt": 1.94,
-        "Üst": 1.44
+    "IK Sirius - Degerfors IF": {
+        "Alt": 2.1,
+        "Üst": 1.43
     },
-    "Sheffield Utd U21 - Cardiff City U21": {
-        "Alt": 2.82,
-        "Üst": 3.81
+    "Djurgarden - Gais": {
+        "Alt": 2.17,
+        "Üst": 1.4
     },
-    "Roma U20 - Como 1907 U20": {
-        "Alt": 1.93,
-        "Üst": 1.44
+    "Orebro SK - Utd IK Nordic": {
+        "Alt": 1.82,
+        "Üst": 1.51
     },
-    "FK Neftchi Fargona - AL Jawiya": {
-        "Alt": 1.6,
-        "Üst": 1.71
-    },
-    "Ballkani - KF Dukagjini": {
-        "Alt": 1.52,
-        "Üst": 1.81
-    },
-    "KF Llapi - KF Malisheva": {
-        "Alt": 1.66,
-        "Üst": 1.64
-    },
-    "KF Shkendija Haracine - FK Skopje": {
-        "Alt": 1.54,
-        "Üst": 1.78
-    },
-    "FK Rfs 2 - Skanstes SK": {
-        "Alt": 3.12,
-        "Üst": 4.08
-    },
-    "Talaea Gaish - Smouha SC": {
-        "Alt": 1.17,
-        "Üst": 2.78
-    },
-    "UD Leiria U23 - Benfica U23": {
+    "Norrby - Varbergs": {
         "Alt": 1.79,
         "Üst": 1.53
     },
-    "Hebar Pazardzhik - EV Tarnova": {
-        "Alt": 3.23,
-        "Üst": 3.73
+    "OFK Petrovac - FK Arsenal Tivat": {
+        "Alt": 1.39,
+        "Üst": 2.02
     },
-    "Safa - Sabah": {
-        "Alt": 2.44,
-        "Üst": 3.35
+    "FK Mornar Bar - FK Otrant Olympic U.": {
+        "Alt": 1.41,
+        "Üst": 1.99
     },
-    "Phoenix Johvi - T. Kalev U21": {
-        "Alt": 1.79,
-        "Üst": 4.12
+    "Cer. Cleopatra - N. Bank Egypt": {
+        "Alt": 1.58,
+        "Üst": 1.72
     },
-    "Inter Turku - Vaasan Ps": {
-        "Alt": 1.64,
-        "Üst": 1.77
+    "Bodo Glimt - Sandefjord": {
+        "Alt": 1.51,
+        "Üst": 4.23
+    },
+    "Viking (A) - Varhaug": {
+        "Alt": 4.41,
+        "Üst": 1.66
+    },
+    "Skedsmo - Lillestrom II": {
+        "Alt": 1.96,
+        "Üst": 3.87
+    },
+    "Radomiak Radom - Piast Gliwice": {
+        "Alt": 1.93,
+        "Üst": 1.44
+    },
+    "Stal Mielec - Nieciecza": {
+        "Alt": 1.73,
+        "Üst": 1.58
+    },
+    "Sporting Lisbon B - Lusitania": {
+        "Alt": 1.49,
+        "Üst": 1.86
+    },
+    "Porto B - Vizela": {
+        "Alt": 1.51,
+        "Üst": 1.81
+    },
+    "Z Belgrade - Radnik Surdu.": {
+        "Alt": 1.45,
+        "Üst": 1.91
     }
 }
