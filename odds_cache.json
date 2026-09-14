@@ -1,67 +1,7 @@
 {
-    "New York Red B. II - Cincinnati 2": {
-        "Alt": 1.87,
-        "Üst": 3.89
-    },
-    "Inter Miami II - Huntsville City": {
-        "Alt": 1.8,
-        "Üst": 3.57
-    },
-    "Orlando City B - Toronto II": {
-        "Alt": 3.48,
-        "Üst": 3.95
-    },
-    "Libertad Loja - Independiente D.": {
-        "Alt": 1.66,
-        "Üst": 1.65
-    },
-    "Barcelona (Ekv) - Delfin": {
-        "Alt": 1.52,
-        "Üst": 1.81
-    },
-    "Dep. Guastatoya - Xelaju": {
-        "Alt": 1.39,
-        "Üst": 2.03
-    },
-    "Deportes Quindio - Boyaca Patr.": {
-        "Alt": 1.32,
-        "Üst": 2.21
-    },
-    "America (K) - Tigres UANL (K)": {
-        "Alt": 2.18,
-        "Üst": 3.57
-    },
-    "Atl San Luis (K) - C. Santos Laguna (K)": {
-        "Alt": 2.31,
-        "Üst": 3.63
-    },
-    "Audax Ital. - O'Higgins": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "Once Caldas - Deport Cali": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
-    "Marathon - CD Olimpia": {
-        "Alt": 1.54,
-        "Üst": 1.78
-    },
-    "Angel Firpo - Metapan": {
-        "Alt": 1.58,
-        "Üst": 1.73
-    },
-    "S. Kansas City II - Los Angeles 2": {
-        "Alt": 1.72,
-        "Üst": 3.69
-    },
-    "CS Cartagines - Alajuelense": {
-        "Alt": 1.55,
-        "Üst": 1.77
-    },
     "Austin II - Colorado Rapids 2": {
-        "Alt": 1.93,
-        "Üst": 1.44
+        "Alt": 2.01,
+        "Üst": 1.4
     },
     "North Texas SC - Houston Dynamo 2": {
         "Alt": 1.34,
@@ -69,14 +9,70 @@
     },
     "CA Huracan - Racing Club": {
         "Alt": 1.24,
-        "Üst": 2.69
+        "Üst": 2.68
     },
     "San Diego - Phila. Union": {
-        "Alt": 2.35,
-        "Üst": 1.33
+        "Alt": 2.45,
+        "Üst": 1.3
     },
     "Municipal - Malacateco": {
-        "Alt": 1.62,
-        "Üst": 1.68
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Santos Laguna - Juarez": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "CD Guadalajara - Pumas Unam": {
+        "Alt": 1.93,
+        "Üst": 1.44
+    },
+    "Cucuta D. - Millonarios": {
+        "Alt": 1.57,
+        "Üst": 1.75
+    },
+    "CA Independiente S. - Juticalpa": {
+        "Alt": 1.73,
+        "Üst": 1.58
+    },
+    "Ventura County - Tacoma Defiance": {
+        "Alt": 2.9,
+        "Üst": 3.84
+    },
+    "San Jose Earthquakes II - R. Monarchs": {
+        "Alt": 2.24,
+        "Üst": 3.54
+    },
+    "Osaka - Ehime": {
+        "Alt": 1.61,
+        "Üst": 1.7
+    },
+    "Geylang - Tanjong Pagar": {
+        "Alt": 1.84,
+        "Üst": 3.56
+    },
+    "Meshakhte Tkibuli - Rustvai": {
+        "Alt": 1.52,
+        "Üst": 1.8
+    },
+    "Swansea U21 - Huddersfield T. U21": {
+        "Alt": 2.72,
+        "Üst": 3.8
+    },
+    "Moreirense U23 - Braga U23": {
+        "Alt": 1.91,
+        "Üst": 1.45
+    },
+    "Dinamo Kiev - Epicentr Dunaivtsi": {
+        "Alt": 1.94,
+        "Üst": 1.44
+    },
+    "Sheffield Utd U21 - Cardiff City U21": {
+        "Alt": 2.49,
+        "Üst": 3.68
+    },
+    "Roma U20 - Como 1907 U20": {
+        "Alt": 2.0,
+        "Üst": 1.41
     }
 }
