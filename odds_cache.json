@@ -1,19 +1,15 @@
 {
-    "Osaka - Ehime": {
-        "Alt": 1.58,
-        "Üst": 1.72
-    },
     "Geylang - Tanjong Pagar": {
-        "Alt": 1.8,
-        "Üst": 3.56
+        "Alt": 1.93,
+        "Üst": 3.59
     },
     "Meshakhte Tkibuli - Rustvai": {
         "Alt": 1.52,
         "Üst": 1.8
     },
     "Swansea U21 - Huddersfield T. U21": {
-        "Alt": 2.72,
-        "Üst": 3.8
+        "Alt": 2.55,
+        "Üst": 3.99
     },
     "Moreirense U23 - Braga U23": {
         "Alt": 1.91,
@@ -24,11 +20,11 @@
         "Üst": 1.44
     },
     "Sheffield Utd U21 - Cardiff City U21": {
-        "Alt": 2.49,
-        "Üst": 3.68
+        "Alt": 2.82,
+        "Üst": 3.81
     },
     "Roma U20 - Como 1907 U20": {
-        "Alt": 1.95,
+        "Alt": 1.93,
         "Üst": 1.44
     },
     "FK Neftchi Fargona - AL Jawiya": {
@@ -36,7 +32,7 @@
         "Üst": 1.71
     },
     "Ballkani - KF Dukagjini": {
-        "Alt": 1.51,
+        "Alt": 1.52,
         "Üst": 1.81
     },
     "KF Llapi - KF Malisheva": {
@@ -48,8 +44,8 @@
         "Üst": 1.78
     },
     "FK Rfs 2 - Skanstes SK": {
-        "Alt": 1.33,
-        "Üst": 4.22
+        "Alt": 3.12,
+        "Üst": 4.08
     },
     "Talaea Gaish - Smouha SC": {
         "Alt": 1.17,
@@ -60,23 +56,19 @@
         "Üst": 1.53
     },
     "Hebar Pazardzhik - EV Tarnova": {
-        "Alt": 3.0,
-        "Üst": 3.65
+        "Alt": 3.23,
+        "Üst": 3.73
     },
     "Safa - Sabah": {
-        "Alt": 1.68,
-        "Üst": 3.56
+        "Alt": 2.44,
+        "Üst": 3.35
     },
     "Phoenix Johvi - T. Kalev U21": {
-        "Alt": 1.72,
-        "Üst": 4.01
+        "Alt": 1.79,
+        "Üst": 4.12
     },
     "Inter Turku - Vaasan Ps": {
-        "Alt": 1.56,
-        "Üst": 1.86
-    },
-    "Torpedo - Samgurali Tskaltubo": {
-        "Alt": 1.79,
-        "Üst": 1.54
+        "Alt": 1.64,
+        "Üst": 1.77
     }
 }
