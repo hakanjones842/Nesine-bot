@@ -1,54 +1,10 @@
 {
-    "Austin II - Colorado Rapids 2": {
-        "Alt": 2.01,
-        "Üst": 1.4
-    },
-    "North Texas SC - Houston Dynamo 2": {
-        "Alt": 1.34,
-        "Üst": 3.95
-    },
-    "CA Huracan - Racing Club": {
-        "Alt": 1.24,
-        "Üst": 2.68
-    },
-    "San Diego - Phila. Union": {
-        "Alt": 2.45,
-        "Üst": 1.3
-    },
-    "Municipal - Malacateco": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "Santos Laguna - Juarez": {
-        "Alt": 1.78,
-        "Üst": 1.54
-    },
-    "CD Guadalajara - Pumas Unam": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "Cucuta D. - Millonarios": {
-        "Alt": 1.57,
-        "Üst": 1.75
-    },
-    "CA Independiente S. - Juticalpa": {
-        "Alt": 1.73,
-        "Üst": 1.58
-    },
-    "Ventura County - Tacoma Defiance": {
-        "Alt": 2.9,
-        "Üst": 3.84
-    },
-    "San Jose Earthquakes II - R. Monarchs": {
-        "Alt": 2.24,
-        "Üst": 3.54
-    },
     "Osaka - Ehime": {
-        "Alt": 1.61,
-        "Üst": 1.7
+        "Alt": 1.58,
+        "Üst": 1.72
     },
     "Geylang - Tanjong Pagar": {
-        "Alt": 1.84,
+        "Alt": 1.8,
         "Üst": 3.56
     },
     "Meshakhte Tkibuli - Rustvai": {
@@ -72,7 +28,55 @@
         "Üst": 3.68
     },
     "Roma U20 - Como 1907 U20": {
-        "Alt": 2.0,
-        "Üst": 1.41
+        "Alt": 1.95,
+        "Üst": 1.44
+    },
+    "FK Neftchi Fargona - AL Jawiya": {
+        "Alt": 1.6,
+        "Üst": 1.71
+    },
+    "Ballkani - KF Dukagjini": {
+        "Alt": 1.51,
+        "Üst": 1.81
+    },
+    "KF Llapi - KF Malisheva": {
+        "Alt": 1.66,
+        "Üst": 1.64
+    },
+    "KF Shkendija Haracine - FK Skopje": {
+        "Alt": 1.54,
+        "Üst": 1.78
+    },
+    "FK Rfs 2 - Skanstes SK": {
+        "Alt": 1.33,
+        "Üst": 4.22
+    },
+    "Talaea Gaish - Smouha SC": {
+        "Alt": 1.17,
+        "Üst": 2.78
+    },
+    "UD Leiria U23 - Benfica U23": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "Hebar Pazardzhik - EV Tarnova": {
+        "Alt": 3.0,
+        "Üst": 3.65
+    },
+    "Safa - Sabah": {
+        "Alt": 1.68,
+        "Üst": 3.56
+    },
+    "Phoenix Johvi - T. Kalev U21": {
+        "Alt": 1.72,
+        "Üst": 4.01
+    },
+    "Inter Turku - Vaasan Ps": {
+        "Alt": 1.56,
+        "Üst": 1.86
+    },
+    "Torpedo - Samgurali Tskaltubo": {
+        "Alt": 1.79,
+        "Üst": 1.54
     }
 }
