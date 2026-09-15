@@ -1,43 +1,7 @@
 {
-    "D. Union La Calera - Deportes Limache": {
-        "Alt": 1.89,
-        "Üst": 1.47
-    },
-    "Uni. Catolica - Orense SC": {
-        "Alt": 2.02,
-        "Üst": 1.39
-    },
-    "Dep. Toluca (K) - Club Tijuana (K)": {
-        "Alt": 1.86,
-        "Üst": 3.62
-    },
-    "Instituto - Estudiantes Río C.": {
-        "Alt": 1.29,
-        "Üst": 2.51
-    },
-    "Avai SC - Vila Nova": {
-        "Alt": 1.32,
-        "Üst": 2.19
-    },
-    "Antigua - CD Suchitepequez": {
-        "Alt": 1.91,
-        "Üst": 1.45
-    },
-    "Racing Utd - Arnett Gardens": {
-        "Alt": 1.51,
-        "Üst": 1.84
-    },
-    "America De Cali - Deportivo Pasto": {
-        "Alt": 1.84,
-        "Üst": 1.5
-    },
-    "Club Leon - Atl San Luis": {
-        "Alt": 1.88,
-        "Üst": 1.47
-    },
-    "Pachuca (K) - Club Leon (K)": {
-        "Alt": 1.9,
-        "Üst": 3.61
+    "Özbekistan U23 - Filipinler U23": {
+        "Alt": 3.88,
+        "Üst": 1.59
     },
     "South Melbourne - Queensland L.": {
         "Alt": 2.14,
@@ -57,7 +21,7 @@
     },
     "Kashima - Newcastle Utd Jets": {
         "Alt": 2.41,
-        "Üst": 1.26
+        "Üst": 1.25
     },
     "Vietnam U23 - Kuveyt U23": {
         "Alt": 1.49,
@@ -74,5 +38,49 @@
     "Katar U23 - Güney Kore U23": {
         "Alt": 1.49,
         "Üst": 2.07
+    },
+    "Chiangma Utd - Khon Kaen Utd": {
+        "Alt": 1.8,
+        "Üst": 1.52
+    },
+    "Police Tero - Songkhla": {
+        "Alt": 1.7,
+        "Üst": 1.61
+    },
+    "Coventry City U21 - Barnsley U21": {
+        "Alt": 3.14,
+        "Üst": 3.95
+    },
+    "Peterborough Utd U21 - Bristol City U21": {
+        "Alt": 2.91,
+        "Üst": 3.96
+    },
+    "Satun Utd - Muang Thong Utd": {
+        "Alt": 1.75,
+        "Üst": 1.56
+    },
+    "Johor Darul - Buriram Utd": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "Beijing Guoan - Pohang S.": {
+        "Alt": 1.7,
+        "Üst": 1.61
+    },
+    "Millwall U21 - Bolton Wanderers U21": {
+        "Alt": 2.62,
+        "Üst": 3.59
+    },
+    "Wigan Ath U21 - Colchester Utd U21": {
+        "Alt": 1.93,
+        "Üst": 3.96
+    },
+    "Widzew Lodz II - Polonia Bytom": {
+        "Alt": 1.93,
+        "Üst": 1.44
+    },
+    "Kiyovu Sport - Bugesera": {
+        "Alt": 1.32,
+        "Üst": 2.19
     }
 }
