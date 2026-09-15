@@ -1,83 +1,23 @@
 {
-    "South Melbourne - Queensland L.": {
-        "Alt": 2.14,
-        "Üst": 1.41
-    },
-    "Ratchaburi - Shanghai Port": {
-        "Alt": 1.82,
-        "Üst": 1.51
-    },
-    "Daejeon Citizen - Kyoto Sanga": {
-        "Alt": 1.7,
-        "Üst": 1.61
-    },
-    "Gamba Osaka - Cong An Nhan Dan": {
-        "Alt": 2.08,
-        "Üst": 1.37
-    },
-    "Kashima - Newcastle Utd Jets": {
-        "Alt": 2.66,
-        "Üst": 1.2
-    },
-    "Vietnam U23 - Kuveyt U23": {
-        "Alt": 1.49,
-        "Üst": 1.85
-    },
-    "Farense U23 - Leixoes U23": {
-        "Alt": 1.72,
-        "Üst": 1.58
-    },
-    "Gil Vicente U23 - Portimonense U23": {
-        "Alt": 1.8,
-        "Üst": 1.52
-    },
-    "Katar U23 - Güney Kore U23": {
-        "Alt": 1.43,
-        "Üst": 2.12
-    },
-    "Chiangma Utd - Khon Kaen Utd": {
-        "Alt": 1.83,
-        "Üst": 1.51
-    },
-    "Police Tero - Songkhla": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "Coventry City U21 - Barnsley U21": {
-        "Alt": 3.14,
-        "Üst": 3.95
-    },
-    "Peterborough Utd U21 - Bristol City U21": {
-        "Alt": 2.93,
-        "Üst": 4.01
-    },
-    "Satun Utd - Muang Thong Utd": {
-        "Alt": 1.75,
-        "Üst": 1.56
-    },
     "Johor Darul - Buriram Utd": {
-        "Alt": 1.86,
-        "Üst": 1.49
+        "Alt": 1.96,
+        "Üst": 1.43
     },
     "Beijing Guoan - Pohang S.": {
-        "Alt": 1.7,
-        "Üst": 1.61
+        "Alt": 1.93,
+        "Üst": 1.44
     },
     "Millwall U21 - Bolton Wanderers U21": {
-        "Alt": 2.62,
-        "Üst": 3.59
+        "Alt": 2.68,
+        "Üst": 3.61
     },
     "Wigan Ath U21 - Colchester Utd U21": {
-        "Alt": 1.93,
+        "Alt": 1.89,
         "Üst": 3.96
     },
     "Widzew Lodz II - Polonia Bytom": {
-        "Alt": 1.91,
-        "Üst": 1.45
-    },
-    "Kiyovu Sport - Bugesera": {
-        "Alt": 1.32,
-        "Üst": 2.19
+        "Alt": 2.05,
+        "Üst": 1.38
     },
     "Etoile de Lest - Gicumbi": {
         "Alt": 1.34,
@@ -88,11 +28,55 @@
         "Üst": 2.1
     },
     "NEC - URA": {
-        "Alt": 3.61,
-        "Üst": 3.15
+        "Alt": 3.54,
+        "Üst": 3.14
     },
     "Bul - Blacks Power": {
         "Alt": 1.34,
         "Üst": 2.16
+    },
+    "SC Villa - Kigezi Homeoyz": {
+        "Alt": 1.44,
+        "Üst": 1.95
+    },
+    "GOL Gohar - AL Jazira (Bae)": {
+        "Alt": 1.6,
+        "Üst": 1.71
+    },
+    "Arkadag FK - Al Muharraq": {
+        "Alt": 1.41,
+        "Üst": 2.0
+    },
+    "Asyut Petroleum - Modern Sport Club": {
+        "Alt": 1.22,
+        "Üst": 2.55
+    },
+    "Wadi Degla - Al Mokawloon": {
+        "Alt": 1.31,
+        "Üst": 2.22
+    },
+    "Famalicao U23 - Rio Ave U23": {
+        "Alt": 2.02,
+        "Üst": 1.39
+    },
+    "Vizela U23 - CS Maritimo U23": {
+        "Alt": 1.74,
+        "Üst": 1.57
+    },
+    "Sporting U23 - Academico V. U23": {
+        "Alt": 1.7,
+        "Üst": 1.6
+    },
+    "CSM Resita - ACS Fotbal Club Bacau 2023": {
+        "Alt": 1.67,
+        "Üst": 1.64
+    },
+    "OFK Mladost U19 - K. Almaty U19": {
+        "Alt": 2.17,
+        "Üst": 3.45
+    },
+    "NK Bjelovar - NK Karlovac 1919": {
+        "Alt": 1.87,
+        "Üst": 1.48
     }
 }
