@@ -1,82 +1,86 @@
 {
-    "Johor Darul - Buriram Utd": {
-        "Alt": 1.96,
-        "Üst": 1.43
+    "Vallecano - Espanyol": {
+        "Alt": 1.58,
+        "Üst": 1.83
     },
-    "Beijing Guoan - Pohang S.": {
-        "Alt": 1.93,
+    "Würzburg - A. Aachen": {
+        "Alt": 2.13,
+        "Üst": 1.42
+    },
+    "Regensburg - F. Düsseldorf": {
+        "Alt": 2.12,
+        "Üst": 1.42
+    },
+    "Duisburg - TSV Havelse": {
+        "Alt": 2.58,
+        "Üst": 1.27
+    },
+    "Grossaspach - Verl": {
+        "Alt": 3.02,
+        "Üst": 1.18
+    },
+    "Meppen - Viktoria Köln": {
+        "Alt": 2.35,
+        "Üst": 1.33
+    },
+    "Memmingen - Wacker Burg.": {
+        "Alt": 2.17,
+        "Üst": 1.33
+    },
+    "Greuther Furth II - 1860 Münih": {
+        "Alt": 2.14,
+        "Üst": 1.35
+    },
+    "Schweinfurt - Illertissen": {
+        "Alt": 1.95,
         "Üst": 1.44
     },
-    "Millwall U21 - Bolton Wanderers U21": {
-        "Alt": 2.68,
-        "Üst": 3.61
+    "Zwickau - Altglienicke": {
+        "Alt": 1.95,
+        "Üst": 1.44
     },
-    "Wigan Ath U21 - Colchester Utd U21": {
+    "Hallescher - Carl Zeiss Jena": {
+        "Alt": 1.64,
+        "Üst": 1.67
+    },
+    "Hellerup - Esbjerg": {
+        "Alt": 2.27,
+        "Üst": 3.4
+    },
+    "Landskrona - Sundsvall": {
+        "Alt": 1.91,
+        "Üst": 1.46
+    },
+    "IK Brage - Sandvikens": {
+        "Alt": 1.94,
+        "Üst": 1.44
+    },
+    "IFK Varnamo - Osters": {
+        "Alt": 2.18,
+        "Üst": 1.33
+    },
+    "Grasshoppers - Sion": {
+        "Alt": 2.75,
+        "Üst": 1.23
+    },
+    "FK Jezero Plav - FK Bokelj Kotor": {
+        "Alt": 5.4,
+        "Üst": 3.59
+    },
+    "Al Masry - AL Ittihad": {
+        "Alt": 1.23,
+        "Üst": 2.54
+    },
+    "El Ahly (Mıs) - ABO Qair Semads": {
         "Alt": 1.89,
-        "Üst": 3.96
+        "Üst": 1.47
     },
-    "Widzew Lodz II - Polonia Bytom": {
-        "Alt": 2.05,
-        "Üst": 1.38
+    "Drochtersen - Kickers Emden": {
+        "Alt": 2.81,
+        "Üst": 3.78
     },
-    "Etoile de Lest - Gicumbi": {
-        "Alt": 1.34,
-        "Üst": 2.16
-    },
-    "Etincelles - Musanze": {
-        "Alt": 1.36,
-        "Üst": 2.1
-    },
-    "NEC - URA": {
-        "Alt": 3.54,
-        "Üst": 3.14
-    },
-    "Bul - Blacks Power": {
-        "Alt": 1.34,
-        "Üst": 2.16
-    },
-    "SC Villa - Kigezi Homeoyz": {
-        "Alt": 1.44,
-        "Üst": 1.95
-    },
-    "GOL Gohar - AL Jazira (Bae)": {
+    "Alaves - Valencia": {
         "Alt": 1.6,
-        "Üst": 1.71
-    },
-    "Arkadag FK - Al Muharraq": {
-        "Alt": 1.41,
-        "Üst": 2.0
-    },
-    "Asyut Petroleum - Modern Sport Club": {
-        "Alt": 1.22,
-        "Üst": 2.55
-    },
-    "Wadi Degla - Al Mokawloon": {
-        "Alt": 1.31,
-        "Üst": 2.22
-    },
-    "Famalicao U23 - Rio Ave U23": {
-        "Alt": 2.02,
-        "Üst": 1.39
-    },
-    "Vizela U23 - CS Maritimo U23": {
-        "Alt": 1.74,
-        "Üst": 1.57
-    },
-    "Sporting U23 - Academico V. U23": {
-        "Alt": 1.7,
-        "Üst": 1.6
-    },
-    "CSM Resita - ACS Fotbal Club Bacau 2023": {
-        "Alt": 1.67,
-        "Üst": 1.64
-    },
-    "OFK Mladost U19 - K. Almaty U19": {
-        "Alt": 2.17,
-        "Üst": 3.45
-    },
-    "NK Bjelovar - NK Karlovac 1919": {
-        "Alt": 1.87,
-        "Üst": 1.48
+        "Üst": 1.81
     }
 }
