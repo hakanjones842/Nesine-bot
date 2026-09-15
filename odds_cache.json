@@ -1,47 +1,11 @@
 {
-    "Academia del Balompie - Strongest": {
-        "Alt": 1.93,
-        "Üst": 3.54
-    },
-    "Barranquilla - Independiente Yumbo": {
-        "Alt": 1.6,
-        "Üst": 1.7
-    },
-    "CA Platense - Fluminense": {
-        "Alt": 1.27,
-        "Üst": 2.59
-    },
-    "T. Asuncion - 12 de Junio de Villa Hayes": {
-        "Alt": 1.35,
-        "Üst": 2.13
-    },
-    "Vasco Da G. - I. Santa Fe": {
-        "Alt": 1.67,
-        "Üst": 1.72
-    },
-    "Carabobo - Dep. La Gua.": {
-        "Alt": 1.51,
-        "Üst": 1.81
-    },
-    "Nautico PE - Operario": {
-        "Alt": 1.56,
-        "Üst": 1.76
-    },
-    "Londrina PR - Ponte Preta": {
-        "Alt": 1.83,
-        "Üst": 1.51
-    },
-    "Dep. Tachira - A. Puerto C.": {
-        "Alt": 1.41,
-        "Üst": 2.0
-    },
     "Indy Eleven - Brooklyn": {
-        "Alt": 2.34,
+        "Alt": 2.35,
         "Üst": 1.28
     },
     "Ucv - Academia Anzoategui": {
-        "Alt": 1.82,
-        "Üst": 1.51
+        "Alt": 1.86,
+        "Üst": 1.49
     },
     "Crb Al - Recife": {
         "Alt": 1.94,
@@ -52,16 +16,16 @@
         "Üst": 1.48
     },
     "Boyaca Chico - Alianza Valledupar": {
-        "Alt": 1.37,
-        "Üst": 2.06
+        "Alt": 3.11,
+        "Üst": 2.98
     },
     "Sao Paulo SP - Boca Juniors": {
-        "Alt": 1.31,
-        "Üst": 2.41
+        "Alt": 1.29,
+        "Üst": 2.5
     },
     "Puebla - D. Toluca": {
-        "Alt": 2.0,
-        "Üst": 1.41
+        "Alt": 2.11,
+        "Üst": 1.36
     },
     "CSD D. Sinaloa - Cancun": {
         "Alt": 1.81,
@@ -70,5 +34,41 @@
     "B.A.E. U23 - İran U23": {
         "Alt": 1.4,
         "Üst": 2.0
+    },
+    "Tayland U23 - Kırgızistan U23": {
+        "Alt": 1.53,
+        "Üst": 1.79
+    },
+    "Pusamania Borneo - Dewa Utd": {
+        "Alt": 1.88,
+        "Üst": 1.47
+    },
+    "Jeonbuk - Kashiwa": {
+        "Alt": 1.6,
+        "Üst": 1.71
+    },
+    "Seoul - Persib Bandung": {
+        "Alt": 1.62,
+        "Üst": 1.69
+    },
+    "Hamburg II - St. Pauli II": {
+        "Alt": 3.35,
+        "Üst": 3.98
+    },
+    "Çin U23 - Kuzey Kore U23": {
+        "Alt": 1.33,
+        "Üst": 2.17
+    },
+    "Cordoba U19 - Sevilla U19": {
+        "Alt": 1.94,
+        "Üst": 1.44
+    },
+    "Cadiz U19 - Atletico Melilla U19": {
+        "Alt": 1.92,
+        "Üst": 1.45
+    },
+    "Uttaradit - Nongbua Pitc.": {
+        "Alt": 1.67,
+        "Üst": 1.63
     }
 }
