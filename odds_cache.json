@@ -1,16 +1,4 @@
 {
-    "Puebla - D. Toluca": {
-        "Alt": 2.11,
-        "Üst": 1.36
-    },
-    "CSD D. Sinaloa - Cancun": {
-        "Alt": 1.88,
-        "Üst": 1.47
-    },
-    "B.A.E. U23 - İran U23": {
-        "Alt": 1.42,
-        "Üst": 1.97
-    },
     "Tayland U23 - Kırgızistan U23": {
         "Alt": 1.53,
         "Üst": 1.79
@@ -20,16 +8,16 @@
         "Üst": 1.47
     },
     "Jeonbuk - Kashiwa": {
-        "Alt": 1.6,
-        "Üst": 1.71
+        "Alt": 1.57,
+        "Üst": 1.74
     },
     "Seoul - Persib Bandung": {
-        "Alt": 1.62,
-        "Üst": 1.69
+        "Alt": 1.7,
+        "Üst": 1.61
     },
     "Hamburg II - St. Pauli II": {
-        "Alt": 3.35,
-        "Üst": 3.98
+        "Alt": 3.39,
+        "Üst": 3.92
     },
     "Çin U23 - Kuzey Kore U23": {
         "Alt": 1.33,
@@ -40,39 +28,59 @@
         "Üst": 1.49
     },
     "Cadiz U19 - Atletico Melilla U19": {
-        "Alt": 1.96,
-        "Üst": 1.43
+        "Alt": 2.02,
+        "Üst": 1.4
     },
     "Uttaradit - Nongbua Pitc.": {
-        "Alt": 1.72,
-        "Üst": 1.58
+        "Alt": 1.69,
+        "Üst": 1.61
     },
     "Chainat - Pattaya Dolphins Utd": {
-        "Alt": 1.74,
-        "Üst": 1.57
+        "Alt": 1.72,
+        "Üst": 1.58
     },
     "Nakhon Pathom Utd - SGB Kanchanaburi": {
         "Alt": 1.72,
         "Üst": 1.59
     },
     "Mahasarakham Utd - Nakhon R.": {
-        "Alt": 1.63,
-        "Üst": 1.68
+        "Alt": 1.59,
+        "Üst": 1.72
     },
     "Niki Volou - Asteras T.": {
-        "Alt": 1.51,
-        "Üst": 1.83
+        "Alt": 1.47,
+        "Üst": 1.88
     },
     "Port - Vissel Kobe": {
-        "Alt": 1.77,
-        "Üst": 1.55
+        "Alt": 1.86,
+        "Üst": 1.48
     },
     "CLB Viettel - Melbourne V.": {
-        "Alt": 1.68,
-        "Üst": 1.62
+        "Alt": 1.71,
+        "Üst": 1.6
     },
     "FK Karvan Yevlakh - Zaqatala FK": {
-        "Alt": 1.82,
-        "Üst": 1.51
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "Y. Krasnoyarsk - Arsenal Tula": {
+        "Alt": 1.42,
+        "Üst": 1.99
+    },
+    "AS Kigali - AL Hilal (Sdn)": {
+        "Alt": 1.5,
+        "Üst": 1.85
+    },
+    "Lugazi Municipal - Uganda Police": {
+        "Alt": 1.32,
+        "Üst": 2.21
+    },
+    "Mbarara - Gaddafi": {
+        "Alt": 1.35,
+        "Üst": 3.31
+    },
+    "Brezilya U20 (K) - ABD U20 (K)": {
+        "Alt": 1.66,
+        "Üst": 1.64
     }
 }
