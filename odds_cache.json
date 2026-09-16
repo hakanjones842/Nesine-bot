@@ -1,39 +1,15 @@
 {
-    "Indy Eleven - Brooklyn": {
-        "Alt": 2.35,
-        "Üst": 1.28
-    },
-    "Ucv - Academia Anzoategui": {
-        "Alt": 1.86,
-        "Üst": 1.49
-    },
-    "Crb Al - Recife": {
-        "Alt": 1.94,
-        "Üst": 1.44
-    },
-    "EC Bahia BA (K) - SC Corinthians SP (K)": {
-        "Alt": 1.87,
-        "Üst": 1.48
-    },
-    "Boyaca Chico - Alianza Valledupar": {
-        "Alt": 3.11,
-        "Üst": 2.98
-    },
-    "Sao Paulo SP - Boca Juniors": {
-        "Alt": 1.29,
-        "Üst": 2.5
-    },
     "Puebla - D. Toluca": {
         "Alt": 2.11,
         "Üst": 1.36
     },
     "CSD D. Sinaloa - Cancun": {
-        "Alt": 1.81,
-        "Üst": 1.51
+        "Alt": 1.88,
+        "Üst": 1.47
     },
     "B.A.E. U23 - İran U23": {
-        "Alt": 1.4,
-        "Üst": 2.0
+        "Alt": 1.42,
+        "Üst": 1.97
     },
     "Tayland U23 - Kırgızistan U23": {
         "Alt": 1.53,
@@ -60,15 +36,43 @@
         "Üst": 2.17
     },
     "Cordoba U19 - Sevilla U19": {
-        "Alt": 1.94,
-        "Üst": 1.44
+        "Alt": 1.86,
+        "Üst": 1.49
     },
     "Cadiz U19 - Atletico Melilla U19": {
-        "Alt": 1.92,
-        "Üst": 1.45
+        "Alt": 1.96,
+        "Üst": 1.43
     },
     "Uttaradit - Nongbua Pitc.": {
-        "Alt": 1.67,
-        "Üst": 1.63
+        "Alt": 1.72,
+        "Üst": 1.58
+    },
+    "Chainat - Pattaya Dolphins Utd": {
+        "Alt": 1.74,
+        "Üst": 1.57
+    },
+    "Nakhon Pathom Utd - SGB Kanchanaburi": {
+        "Alt": 1.72,
+        "Üst": 1.59
+    },
+    "Mahasarakham Utd - Nakhon R.": {
+        "Alt": 1.63,
+        "Üst": 1.68
+    },
+    "Niki Volou - Asteras T.": {
+        "Alt": 1.51,
+        "Üst": 1.83
+    },
+    "Port - Vissel Kobe": {
+        "Alt": 1.77,
+        "Üst": 1.55
+    },
+    "CLB Viettel - Melbourne V.": {
+        "Alt": 1.68,
+        "Üst": 1.62
+    },
+    "FK Karvan Yevlakh - Zaqatala FK": {
+        "Alt": 1.82,
+        "Üst": 1.51
     }
 }
