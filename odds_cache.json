@@ -1,70 +1,90 @@
 {
-    "Greenville T. - Corpus Chri": {
+    "Fleetwood - Sheffield Utd": {
+        "Alt": 1.91,
+        "Üst": 1.53
+    },
+    "Everton - Wolverhampton": {
+        "Alt": 2.14,
+        "Üst": 1.41
+    },
+    "Scunthorpe - Boreham Wood": {
+        "Alt": 2.29,
+        "Üst": 1.29
+    },
+    "Kidderminster Harriers - Gateshead": {
+        "Alt": 1.93,
+        "Üst": 1.44
+    },
+    "Altrincham - Hartlepool": {
         "Alt": 1.74,
         "Üst": 1.58
     },
-    "RSV Eintracht 1949 - Greifswalder": {
-        "Alt": 2.56,
-        "Üst": 1.22
+    "Orihuela - Murcia": {
+        "Alt": 1.49,
+        "Üst": 1.86
     },
-    "Sporting At Ceuta U19 - San Felix U19": {
-        "Alt": 2.4,
-        "Üst": 1.26
+    "Cliftonville U19 - SK Super Nova U19": {
+        "Alt": 2.48,
+        "Üst": 3.47
     },
-    "Rivers Utd - Warri Wolves": {
-        "Alt": 1.47,
-        "Üst": 1.88
+    "AC Milan - Benfica": {
+        "Alt": 2.03,
+        "Üst": 1.46
     },
-    "Grorud IL - Tromsdalen": {
-        "Alt": 2.49,
-        "Üst": 1.23
+    "B. Leverkusen - NK Celje": {
+        "Alt": 1.86,
+        "Üst": 4.12
     },
-    "US Ben Guerdane - Club Sportif Sfaxien": {
-        "Alt": 1.2,
-        "Üst": 2.64
+    "Olympiakos - J. Bialystok": {
+        "Alt": 1.99,
+        "Üst": 1.49
     },
-    "ES Zarzis - US Monastir": {
-        "Alt": 1.18,
-        "Üst": 2.77
-    },
-    "Rodina Moscow - Rubin Kazan": {
-        "Alt": 1.58,
-        "Üst": 1.84
-    },
-    "S. Moskova - Fakel": {
-        "Alt": 1.93,
-        "Üst": 1.51
-    },
-    "Zalgiris Vilnius - Zalgiris Kaunas": {
-        "Alt": 1.7,
-        "Üst": 1.6
-    },
-    "AL Wahda - Al Kuveyt SC": {
-        "Alt": 2.09,
-        "Üst": 1.37
-    },
-    "AL Hussein Irbid - SC East Bengal": {
-        "Alt": 1.7,
-        "Üst": 1.6
-    },
-    "AL Khalidiyah - Nasaf": {
-        "Alt": 1.5,
-        "Üst": 1.85
-    },
-    "AL Nahda - AL Taawoun": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
-    "FSV Schoningen 2011 - W. Flensburg": {
-        "Alt": 3.79,
-        "Üst": 4.04
-    },
-    "FK Sloga Doboj - Banja Luka": {
-        "Alt": 1.44,
-        "Üst": 1.94
-    },
-    "Loko Sofya - CSKA Sofya": {
-        "Alt": 2.02,
+    "Sturm Graz - Rennes": {
+        "Alt": 2.17,
         "Üst": 1.4
+    },
+    "Sunderland - AZ Alkmaar": {
+        "Alt": 1.79,
+        "Üst": 1.62
+    },
+    "HB Sheva - D. Zagreb": {
+        "Alt": 1.92,
+        "Üst": 1.52
+    },
+    "Anderlecht - Lyon": {
+        "Alt": 1.9,
+        "Üst": 1.54
+    },
+    "Guabira M. - Club Aurora": {
+        "Alt": 3.67,
+        "Üst": 3.89
+    },
+    "Coventry - Aston Villa": {
+        "Alt": 2.11,
+        "Üst": 1.43
+    },
+    "Man. Utd - Brighton": {
+        "Alt": 2.67,
+        "Üst": 1.24
+    },
+    "Vis Pesaro - Reggiana": {
+        "Alt": 1.72,
+        "Üst": 1.59
+    },
+    "Perugia - Spezia": {
+        "Alt": 1.51,
+        "Üst": 1.83
+    },
+    "Livorno - Vado": {
+        "Alt": 1.49,
+        "Üst": 1.86
+    },
+    "Pescara - AS Gubbio 1910": {
+        "Alt": 1.71,
+        "Üst": 1.59
+    },
+    "Barcelona - Santander": {
+        "Alt": 1.79,
+        "Üst": 4.38
     }
 }
