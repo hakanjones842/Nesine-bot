@@ -1,74 +1,70 @@
 {
-    "Cordoba U19 - Sevilla U19": {
-        "Alt": 1.85,
-        "Üst": 1.49
-    },
-    "Cadiz U19 - Atletico Melilla U19": {
-        "Alt": 2.07,
-        "Üst": 1.37
-    },
-    "Uttaradit - Nongbua Pitc.": {
-        "Alt": 1.73,
+    "Greenville T. - Corpus Chri": {
+        "Alt": 1.74,
         "Üst": 1.58
     },
-    "Chainat - Pattaya Dolphins Utd": {
-        "Alt": 1.64,
-        "Üst": 1.66
+    "RSV Eintracht 1949 - Greifswalder": {
+        "Alt": 2.56,
+        "Üst": 1.22
     },
-    "Nakhon Pathom Utd - SGB Kanchanaburi": {
-        "Alt": 1.57,
-        "Üst": 1.74
+    "Sporting At Ceuta U19 - San Felix U19": {
+        "Alt": 2.4,
+        "Üst": 1.26
     },
-    "Mahasarakham Utd - Nakhon R.": {
-        "Alt": 1.61,
-        "Üst": 1.69
-    },
-    "Niki Volou - Asteras T.": {
+    "Rivers Utd - Warri Wolves": {
         "Alt": 1.47,
         "Üst": 1.88
     },
-    "Port - Vissel Kobe": {
+    "Grorud IL - Tromsdalen": {
+        "Alt": 2.49,
+        "Üst": 1.23
+    },
+    "US Ben Guerdane - Club Sportif Sfaxien": {
+        "Alt": 1.2,
+        "Üst": 2.64
+    },
+    "ES Zarzis - US Monastir": {
+        "Alt": 1.18,
+        "Üst": 2.77
+    },
+    "Rodina Moscow - Rubin Kazan": {
+        "Alt": 1.58,
+        "Üst": 1.84
+    },
+    "S. Moskova - Fakel": {
         "Alt": 1.93,
-        "Üst": 1.44
+        "Üst": 1.51
     },
-    "CLB Viettel - Melbourne V.": {
-        "Alt": 1.95,
-        "Üst": 1.44
+    "Zalgiris Vilnius - Zalgiris Kaunas": {
+        "Alt": 1.7,
+        "Üst": 1.6
     },
-    "FK Karvan Yevlakh - Zaqatala FK": {
-        "Alt": 2.0,
-        "Üst": 1.41
+    "AL Wahda - Al Kuveyt SC": {
+        "Alt": 2.09,
+        "Üst": 1.37
     },
-    "Y. Krasnoyarsk - Arsenal Tula": {
-        "Alt": 1.42,
-        "Üst": 1.99
+    "AL Hussein Irbid - SC East Bengal": {
+        "Alt": 1.7,
+        "Üst": 1.6
     },
-    "AS Kigali - AL Hilal (Sdn)": {
+    "AL Khalidiyah - Nasaf": {
         "Alt": 1.5,
         "Üst": 1.85
     },
-    "Lugazi Municipal - Uganda Police": {
-        "Alt": 1.32,
-        "Üst": 2.21
+    "AL Nahda - AL Taawoun": {
+        "Alt": 1.79,
+        "Üst": 1.53
     },
-    "Mbarara - Gaddafi": {
-        "Alt": 1.28,
-        "Üst": 3.47
+    "FSV Schoningen 2011 - W. Flensburg": {
+        "Alt": 3.79,
+        "Üst": 4.04
     },
-    "Brezilya U20 (K) - ABD U20 (K)": {
-        "Alt": 1.66,
-        "Üst": 1.64
+    "FK Sloga Doboj - Banja Luka": {
+        "Alt": 1.44,
+        "Üst": 1.94
     },
-    "Arjantin U20 (K) - G. Kore U20 (K)": {
-        "Alt": 1.76,
-        "Üst": 1.56
-    },
-    "Besat Kermanshah - Naft Gachsaran": {
-        "Alt": 1.1,
-        "Üst": 1.23
-    },
-    "Aris - Marko": {
-        "Alt": 2.12,
-        "Üst": 3.46
+    "Loko Sofya - CSKA Sofya": {
+        "Alt": 2.02,
+        "Üst": 1.4
     }
 }
