@@ -1,67 +1,43 @@
 {
-    "Tayland U23 - Kırgızistan U23": {
-        "Alt": 1.53,
-        "Üst": 1.79
-    },
-    "Pusamania Borneo - Dewa Utd": {
-        "Alt": 1.88,
-        "Üst": 1.47
-    },
-    "Jeonbuk - Kashiwa": {
-        "Alt": 1.57,
-        "Üst": 1.74
-    },
-    "Seoul - Persib Bandung": {
-        "Alt": 1.7,
-        "Üst": 1.61
-    },
-    "Hamburg II - St. Pauli II": {
-        "Alt": 3.39,
-        "Üst": 3.92
-    },
-    "Çin U23 - Kuzey Kore U23": {
-        "Alt": 1.33,
-        "Üst": 2.17
-    },
     "Cordoba U19 - Sevilla U19": {
-        "Alt": 1.86,
+        "Alt": 1.85,
         "Üst": 1.49
     },
     "Cadiz U19 - Atletico Melilla U19": {
-        "Alt": 2.02,
-        "Üst": 1.4
+        "Alt": 2.07,
+        "Üst": 1.37
     },
     "Uttaradit - Nongbua Pitc.": {
-        "Alt": 1.69,
-        "Üst": 1.61
-    },
-    "Chainat - Pattaya Dolphins Utd": {
-        "Alt": 1.72,
+        "Alt": 1.73,
         "Üst": 1.58
     },
+    "Chainat - Pattaya Dolphins Utd": {
+        "Alt": 1.64,
+        "Üst": 1.66
+    },
     "Nakhon Pathom Utd - SGB Kanchanaburi": {
-        "Alt": 1.72,
-        "Üst": 1.59
+        "Alt": 1.57,
+        "Üst": 1.74
     },
     "Mahasarakham Utd - Nakhon R.": {
-        "Alt": 1.59,
-        "Üst": 1.72
+        "Alt": 1.61,
+        "Üst": 1.69
     },
     "Niki Volou - Asteras T.": {
         "Alt": 1.47,
         "Üst": 1.88
     },
     "Port - Vissel Kobe": {
-        "Alt": 1.86,
-        "Üst": 1.48
+        "Alt": 1.93,
+        "Üst": 1.44
     },
     "CLB Viettel - Melbourne V.": {
-        "Alt": 1.71,
-        "Üst": 1.6
+        "Alt": 1.95,
+        "Üst": 1.44
     },
     "FK Karvan Yevlakh - Zaqatala FK": {
-        "Alt": 1.86,
-        "Üst": 1.49
+        "Alt": 2.0,
+        "Üst": 1.41
     },
     "Y. Krasnoyarsk - Arsenal Tula": {
         "Alt": 1.42,
@@ -76,11 +52,23 @@
         "Üst": 2.21
     },
     "Mbarara - Gaddafi": {
-        "Alt": 1.35,
-        "Üst": 3.31
+        "Alt": 1.28,
+        "Üst": 3.47
     },
     "Brezilya U20 (K) - ABD U20 (K)": {
         "Alt": 1.66,
         "Üst": 1.64
+    },
+    "Arjantin U20 (K) - G. Kore U20 (K)": {
+        "Alt": 1.76,
+        "Üst": 1.56
+    },
+    "Besat Kermanshah - Naft Gachsaran": {
+        "Alt": 1.1,
+        "Üst": 1.23
+    },
+    "Aris - Marko": {
+        "Alt": 2.12,
+        "Üst": 3.46
     }
 }
