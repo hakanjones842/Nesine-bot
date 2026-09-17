@@ -1,78 +1,74 @@
 {
-    "Orlando Pirates - Durban City 2024": {
-        "Alt": 1.43,
-        "Üst": 1.95
-    },
-    "Dyn. Makhachkala - CSKA Moskova": {
-        "Alt": 1.68,
-        "Üst": 1.72
-    },
-    "Indep. Juniors - Atletico Rojiblanco": {
-        "Alt": 1.33,
-        "Üst": 2.17
-    },
-    "AL Zawraa - Al Garaf": {
-        "Alt": 1.55,
-        "Üst": 1.77
-    },
-    "FK Zeleznicar Pancevo - Kızıl Yıldız": {
-        "Alt": 1.95,
+    "22 de Julio - Cumbaya": {
+        "Alt": 1.93,
         "Üst": 1.44
     },
-    "Man. City - Norwich City": {
-        "Alt": 1.21,
-        "Üst": 1.86
+    "Vargas Torres - El Nacional": {
+        "Alt": 1.41,
+        "Üst": 1.99
     },
-    "Central Espanol - Club Oriental de F.": {
-        "Alt": 1.46,
-        "Üst": 1.9
-    },
-    "CA Juventud De Las Piedras - R. Montevideo": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
-    "SC Bastia - Cannes": {
+    "CA Bucaramanga - I. Medellin": {
         "Alt": 1.51,
         "Üst": 1.83
     },
-    "Beşiktaş - Marsilya": {
-        "Alt": 2.35,
-        "Üst": 1.33
+    "Club Bolivar - GV San Jose": {
+        "Alt": 4.04,
+        "Üst": 2.03
     },
-    "R. Sociedad - Bournemouth": {
-        "Alt": 2.14,
-        "Üst": 1.41
+    "Flamengo - Independiente D.": {
+        "Alt": 2.03,
+        "Üst": 1.46
     },
-    "Lillestrom - Torreense": {
-        "Alt": 2.01,
+    "Alajuelense - Marathon": {
+        "Alt": 1.58,
+        "Üst": 1.73
+    },
+    "Torque - CS Cienciano": {
+        "Alt": 1.87,
+        "Üst": 1.56
+    },
+    "Alac. de Durango - Cruz Azul Hidalgo": {
+        "Alt": 1.88,
         "Üst": 1.47
     },
-    "Crystal Palace - Lech Poznan": {
-        "Alt": 2.37,
-        "Üst": 1.32
+    "CD Olimpia - Angel Firpo": {
+        "Alt": 1.86,
+        "Üst": 1.49
     },
-    "Juventus - NEC Nijmegen": {
-        "Alt": 1.23,
-        "Üst": 1.87
+    "V. Hachinohe - Tegevajaro Mi.": {
+        "Alt": 1.42,
+        "Üst": 1.98
     },
-    "Viktoria Plzen - U. S. Gilloise": {
-        "Alt": 2.05,
-        "Üst": 1.45
-    },
-    "Celtic - Ferencvaros": {
-        "Alt": 2.26,
+    "Filipinler U23 - Vietnam U23": {
+        "Alt": 2.07,
         "Üst": 1.37
     },
-    "Temouchent - JS Kabylie": {
+    "Longyuan Athletic - Wenzhou Professional": {
+        "Alt": 3.9,
+        "Üst": 3.16
+    },
+    "Changchun Xidu - Guangdong Mingtu": {
+        "Alt": 5.13,
+        "Üst": 3.39
+    },
+    "Arema - Persik Kediri": {
+        "Alt": 1.79,
+        "Üst": 1.52
+    },
+    "W. Three Towns B - Nantong Haimen C.": {
         "Alt": 1.31,
         "Üst": 2.23
     },
-    "Wimbledon - MK Dons": {
-        "Alt": 1.65,
-        "Üst": 1.66
+    "Kuveyt U23 - Özbekistan U23": {
+        "Alt": 3.5,
+        "Üst": 1.75
     },
-    "AC Renate - Dolomiti Bellunesi": {
-        "Alt": 1.44,
-        "Üst": 1.93
+    "Yanbian L. - Guangzhou E Power": {
+        "Alt": 1.71,
+        "Üst": 1.6
+    },
+    "Osaka - Fukushima Utd": {
+        "Alt": 2.02,
+        "Üst": 1.39
     }
 }
