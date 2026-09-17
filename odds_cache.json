@@ -1,82 +1,78 @@
 {
-    "N. Namangan - PFK Dinamo Samarqand": {
-        "Alt": 2.03,
-        "Üst": 1.39
+    "Orlando Pirates - Durban City 2024": {
+        "Alt": 1.43,
+        "Üst": 1.95
     },
-    "Mukura - Police": {
-        "Alt": 4.97,
-        "Üst": 3.46
-    },
-    "İngiltere U20 (K) - Nijerya U20 (K)": {
-        "Alt": 1.77,
-        "Üst": 1.55
-    },
-    "Fransa U20 (K) - Kanada U20 (K)": {
-        "Alt": 1.61,
-        "Üst": 1.7
-    },
-    "Orenburg - Krasnodar": {
-        "Alt": 1.94,
-        "Üst": 1.51
-    },
-    "Ismaily Sc - Haras Hodood": {
-        "Alt": 1.25,
-        "Üst": 3.54
-    },
-    "Tanta - AL Nasr Cairo": {
-        "Alt": 1.24,
-        "Üst": 3.54
-    },
-    "El Mansurah - Team Cairo": {
-        "Alt": 3.55,
-        "Üst": 3.15
-    },
-    "El Daklyeh - EL Terasanah": {
-        "Alt": 1.3,
-        "Üst": 3.36
-    },
-    "PAE PS Kalamata - Larissa": {
-        "Alt": 1.52,
-        "Üst": 1.8
-    },
-    "Astana - K. Almaty": {
+    "Dyn. Makhachkala - CSKA Moskova": {
         "Alt": 1.68,
-        "Üst": 1.63
+        "Üst": 1.72
     },
-    "Tobol - Elimai": {
-        "Alt": 1.89,
-        "Üst": 1.46
+    "Indep. Juniors - Atletico Rojiblanco": {
+        "Alt": 1.33,
+        "Üst": 2.17
     },
-    "ZED - Alqana": {
-        "Alt": 1.23,
-        "Üst": 2.54
+    "AL Zawraa - Al Garaf": {
+        "Alt": 1.55,
+        "Üst": 1.77
     },
-    "T. Telec Ivan - Rotor": {
-        "Alt": 1.42,
-        "Üst": 1.99
+    "FK Zeleznicar Pancevo - Kızıl Yıldız": {
+        "Alt": 1.95,
+        "Üst": 1.44
     },
-    "Updf - Maroons": {
-        "Alt": 1.37,
-        "Üst": 2.08
+    "Man. City - Norwich City": {
+        "Alt": 1.21,
+        "Üst": 1.86
     },
-    "AEK Athens - Panseraikos": {
-        "Alt": 3.82,
-        "Üst": 1.66
+    "Central Espanol - Club Oriental de F.": {
+        "Alt": 1.46,
+        "Üst": 1.9
     },
-    "FK Atyrau - Ordabasy": {
-        "Alt": 1.71,
-        "Üst": 1.6
-    },
-    "Eng. Rangers - Nasarawa Utd": {
+    "CA Juventud De Las Piedras - R. Montevideo": {
         "Alt": 1.44,
         "Üst": 1.93
     },
-    "Stade Tunisien - Club Africain": {
-        "Alt": 1.1,
-        "Üst": 3.28
+    "SC Bastia - Cannes": {
+        "Alt": 1.51,
+        "Üst": 1.83
     },
-    "Akron Tolyatti - Akhmat Grozny": {
-        "Alt": 1.7,
-        "Üst": 1.7
+    "Beşiktaş - Marsilya": {
+        "Alt": 2.35,
+        "Üst": 1.33
+    },
+    "R. Sociedad - Bournemouth": {
+        "Alt": 2.14,
+        "Üst": 1.41
+    },
+    "Lillestrom - Torreense": {
+        "Alt": 2.01,
+        "Üst": 1.47
+    },
+    "Crystal Palace - Lech Poznan": {
+        "Alt": 2.37,
+        "Üst": 1.32
+    },
+    "Juventus - NEC Nijmegen": {
+        "Alt": 1.23,
+        "Üst": 1.87
+    },
+    "Viktoria Plzen - U. S. Gilloise": {
+        "Alt": 2.05,
+        "Üst": 1.45
+    },
+    "Celtic - Ferencvaros": {
+        "Alt": 2.26,
+        "Üst": 1.37
+    },
+    "Temouchent - JS Kabylie": {
+        "Alt": 1.31,
+        "Üst": 2.23
+    },
+    "Wimbledon - MK Dons": {
+        "Alt": 1.65,
+        "Üst": 1.66
+    },
+    "AC Renate - Dolomiti Bellunesi": {
+        "Alt": 1.44,
+        "Üst": 1.93
     }
 }
