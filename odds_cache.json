@@ -1,8 +1,4 @@
 {
-    "22 de Julio - Cumbaya": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
     "Vargas Torres - El Nacional": {
         "Alt": 1.41,
         "Üst": 1.99
@@ -12,8 +8,8 @@
         "Üst": 1.83
     },
     "Club Bolivar - GV San Jose": {
-        "Alt": 4.04,
-        "Üst": 2.03
+        "Alt": 4.06,
+        "Üst": 1.89
     },
     "Flamengo - Independiente D.": {
         "Alt": 2.03,
@@ -24,12 +20,12 @@
         "Üst": 1.73
     },
     "Torque - CS Cienciano": {
-        "Alt": 1.87,
-        "Üst": 1.56
+        "Alt": 1.84,
+        "Üst": 1.58
     },
     "Alac. de Durango - Cruz Azul Hidalgo": {
-        "Alt": 1.88,
-        "Üst": 1.47
+        "Alt": 1.85,
+        "Üst": 1.5
     },
     "CD Olimpia - Angel Firpo": {
         "Alt": 1.86,
@@ -40,8 +36,8 @@
         "Üst": 1.98
     },
     "Filipinler U23 - Vietnam U23": {
-        "Alt": 2.07,
-        "Üst": 1.37
+        "Alt": 2.06,
+        "Üst": 1.38
     },
     "Longyuan Athletic - Wenzhou Professional": {
         "Alt": 3.9,
@@ -60,8 +56,8 @@
         "Üst": 2.23
     },
     "Kuveyt U23 - Özbekistan U23": {
-        "Alt": 3.5,
-        "Üst": 1.75
+        "Alt": 3.48,
+        "Üst": 1.72
     },
     "Yanbian L. - Guangzhou E Power": {
         "Alt": 1.71,
@@ -70,5 +66,17 @@
     "Osaka - Fukushima Utd": {
         "Alt": 2.02,
         "Üst": 1.39
+    },
+    "R. Kumamoto - Matsumoto Y.": {
+        "Alt": 1.58,
+        "Üst": 1.72
+    },
+    "Ch. Odessa - Obolon Kiev": {
+        "Alt": 4.02,
+        "Üst": 3.17
+    },
+    "S. Arabistan U23 - Katar U23": {
+        "Alt": 1.64,
+        "Üst": 1.66
     }
 }
