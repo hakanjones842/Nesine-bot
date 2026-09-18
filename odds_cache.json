@@ -1,19 +1,7 @@
 {
-    "Alac. de Durango - Cruz Azul Hidalgo": {
-        "Alt": 1.81,
-        "Üst": 1.51
-    },
-    "CD Olimpia - Angel Firpo": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
-    "V. Hachinohe - Tegevajaro Mi.": {
-        "Alt": 1.42,
-        "Üst": 1.98
-    },
     "Filipinler U23 - Vietnam U23": {
-        "Alt": 2.08,
-        "Üst": 1.37
+        "Alt": 1.93,
+        "Üst": 3.5
     },
     "Longyuan Athletic - Wenzhou Professional": {
         "Alt": 3.9,
@@ -24,16 +12,16 @@
         "Üst": 3.39
     },
     "Arema - Persik Kediri": {
-        "Alt": 1.83,
-        "Üst": 1.51
+        "Alt": 1.86,
+        "Üst": 1.49
     },
     "W. Three Towns B - Nantong Haimen C.": {
         "Alt": 1.31,
         "Üst": 2.23
     },
     "Kuveyt U23 - Özbekistan U23": {
-        "Alt": 3.48,
-        "Üst": 1.7
+        "Alt": 3.54,
+        "Üst": 1.66
     },
     "Yanbian L. - Guangzhou E Power": {
         "Alt": 1.71,
@@ -48,31 +36,47 @@
         "Üst": 1.72
     },
     "Ch. Odessa - Obolon Kiev": {
-        "Alt": 4.13,
-        "Üst": 3.22
+        "Alt": 5.05,
+        "Üst": 3.44
     },
     "S. Arabistan U23 - Katar U23": {
-        "Alt": 1.64,
-        "Üst": 1.66
+        "Alt": 1.67,
+        "Üst": 1.64
     },
     "Dalian Kuncheng C. - Shang J. C.": {
-        "Alt": 1.74,
-        "Üst": 1.57
+        "Alt": 1.71,
+        "Üst": 1.59
     },
     "Okzhetpes K - Zhenis Nur Sultan": {
-        "Alt": 1.61,
-        "Üst": 1.7
+        "Alt": 1.58,
+        "Üst": 1.72
     },
     "Binh Dinh - BA Ria Vung Tau": {
         "Alt": 1.65,
         "Üst": 1.65
     },
     "Nantong Z. - Guangxi Hengchen": {
-        "Alt": 1.55,
-        "Üst": 1.78
+        "Alt": 1.62,
+        "Üst": 1.68
     },
     "Jiangxi Beidamen - S. Taishan B": {
         "Alt": 1.34,
         "Üst": 2.15
+    },
+    "Albirex Niigata (Sin) - Hougang Utd": {
+        "Alt": 2.21,
+        "Üst": 3.38
+    },
+    "Zhejiang - Wuhan T. T.": {
+        "Alt": 2.89,
+        "Üst": 1.16
+    },
+    "Khankendi FK - MOIK Baku": {
+        "Alt": 1.54,
+        "Üst": 1.78
+    },
+    "Madura Utd - Psim Yogyakarta": {
+        "Alt": 1.65,
+        "Üst": 1.65
     }
 }
