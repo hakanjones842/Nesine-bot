@@ -1,74 +1,74 @@
 {
-    "Rodinghausen - Gutersloh 2000": {
+    "ASO Chlef - MC Oran": {
+        "Alt": 1.27,
+        "Üst": 2.37
+    },
+    "CD Marino - Real Union de Tenerife": {
+        "Alt": 1.43,
+        "Üst": 1.97
+    },
+    "Alianza Atl - Comerciantes Uni.": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "C. Cordoba - Def. Justicia": {
+        "Alt": 1.39,
+        "Üst": 2.19
+    },
+    "Platense - Lobos Upnfm": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "R. Aguilas - Dep. Pereira": {
         "Alt": 1.74,
         "Üst": 1.57
     },
-    "Racing Club (K) - CA Banfield (K)": {
-        "Alt": 1.58,
-        "Üst": 1.73
+    "Defensores De Cambaceres - Justo Jose": {
+        "Alt": 4.95,
+        "Üst": 3.22
     },
-    "Rapid Wien - WSG Tirol": {
-        "Alt": 2.58,
-        "Üst": 1.27
+    "3 de Noviembre - Guairena": {
+        "Alt": 1.49,
+        "Üst": 1.86
     },
-    "Klaksvik - Skala": {
-        "Alt": 3.49,
-        "Üst": 2.29
+    "Vila Nova - America MG": {
+        "Alt": 1.49,
+        "Üst": 1.86
     },
-    "B36 Torshavn - Runavik": {
-        "Alt": 1.75,
-        "Üst": 3.54
-    },
-    "Yague - CA River Ebro": {
-        "Alt": 1.91,
-        "Üst": 1.45
-    },
-    "Binissalem - Platges de Calvia": {
-        "Alt": 1.26,
-        "Üst": 3.59
-    },
-    "Herrestads AIF - IFK Kumla FK": {
-        "Alt": 2.39,
-        "Üst": 3.4
-    },
-    "N. Xamax - Rapperswil": {
-        "Alt": 2.62,
-        "Üst": 1.21
-    },
-    "Wil 1900 - Std. Nyonnis": {
+    "Independiente P. - S. A. Bulo Bulo": {
         "Alt": 2.38,
-        "Üst": 1.27
+        "Üst": 3.55
     },
-    "Kriens - Etoile Carouge": {
+    "Boyaca Patr. - U. Magdalena": {
+        "Alt": 1.41,
+        "Üst": 2.0
+    },
+    "New York C. - NY Red Bulls": {
         "Alt": 2.28,
-        "Üst": 1.3
+        "Üst": 1.36
     },
-    "Puskas A. - B. Honved": {
-        "Alt": 1.99,
-        "Üst": 1.41
+    "Ceara CE - Gremio Novo": {
+        "Alt": 1.48,
+        "Üst": 1.86
     },
-    "Al Wehdat - Ramtha SC": {
-        "Alt": 1.58,
-        "Üst": 1.74
+    "Sao Bernardo - Atl Goianiense": {
+        "Alt": 1.39,
+        "Üst": 2.03
     },
-    "Groningen - Zwolle": {
-        "Alt": 2.88,
-        "Üst": 1.21
+    "CD Inca - Fuerte San Francisco": {
+        "Alt": 4.59,
+        "Üst": 3.35
     },
-    "Ferro Carril (K) - CA Huracan (K)": {
-        "Alt": 1.44,
-        "Üst": 1.95
+    "Racing Club - CA Sarmiento": {
+        "Alt": 1.52,
+        "Üst": 1.93
     },
-    "Comunicacion - Unidos": {
-        "Alt": 3.34,
-        "Üst": 3.06
+    "SD Aucas - CSD Macara": {
+        "Alt": 1.48,
+        "Üst": 1.86
     },
-    "Francs Borains - RSC Anderlecht U23": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "C. Brugge U23 - KAA Gent II": {
-        "Alt": 2.0,
-        "Üst": 1.4
+    "Puebla - Atlante": {
+        "Alt": 1.72,
+        "Üst": 1.59
     }
 }
