@@ -1,43 +1,19 @@
 {
-    "Vargas Torres - El Nacional": {
-        "Alt": 1.41,
-        "Üst": 1.99
-    },
-    "CA Bucaramanga - I. Medellin": {
-        "Alt": 1.51,
-        "Üst": 1.83
-    },
-    "Club Bolivar - GV San Jose": {
-        "Alt": 4.06,
-        "Üst": 1.89
-    },
-    "Flamengo - Independiente D.": {
-        "Alt": 2.03,
-        "Üst": 1.46
-    },
-    "Alajuelense - Marathon": {
-        "Alt": 1.58,
-        "Üst": 1.73
-    },
-    "Torque - CS Cienciano": {
-        "Alt": 1.84,
-        "Üst": 1.58
-    },
     "Alac. de Durango - Cruz Azul Hidalgo": {
-        "Alt": 1.85,
-        "Üst": 1.5
+        "Alt": 1.81,
+        "Üst": 1.51
     },
     "CD Olimpia - Angel Firpo": {
-        "Alt": 1.86,
-        "Üst": 1.49
+        "Alt": 1.79,
+        "Üst": 1.53
     },
     "V. Hachinohe - Tegevajaro Mi.": {
         "Alt": 1.42,
         "Üst": 1.98
     },
     "Filipinler U23 - Vietnam U23": {
-        "Alt": 2.06,
-        "Üst": 1.38
+        "Alt": 2.08,
+        "Üst": 1.37
     },
     "Longyuan Athletic - Wenzhou Professional": {
         "Alt": 3.9,
@@ -48,8 +24,8 @@
         "Üst": 3.39
     },
     "Arema - Persik Kediri": {
-        "Alt": 1.79,
-        "Üst": 1.52
+        "Alt": 1.83,
+        "Üst": 1.51
     },
     "W. Three Towns B - Nantong Haimen C.": {
         "Alt": 1.31,
@@ -57,7 +33,7 @@
     },
     "Kuveyt U23 - Özbekistan U23": {
         "Alt": 3.48,
-        "Üst": 1.72
+        "Üst": 1.7
     },
     "Yanbian L. - Guangzhou E Power": {
         "Alt": 1.71,
@@ -72,11 +48,31 @@
         "Üst": 1.72
     },
     "Ch. Odessa - Obolon Kiev": {
-        "Alt": 4.02,
-        "Üst": 3.17
+        "Alt": 4.13,
+        "Üst": 3.22
     },
     "S. Arabistan U23 - Katar U23": {
         "Alt": 1.64,
         "Üst": 1.66
+    },
+    "Dalian Kuncheng C. - Shang J. C.": {
+        "Alt": 1.74,
+        "Üst": 1.57
+    },
+    "Okzhetpes K - Zhenis Nur Sultan": {
+        "Alt": 1.61,
+        "Üst": 1.7
+    },
+    "Binh Dinh - BA Ria Vung Tau": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "Nantong Z. - Guangxi Hengchen": {
+        "Alt": 1.55,
+        "Üst": 1.78
+    },
+    "Jiangxi Beidamen - S. Taishan B": {
+        "Alt": 1.34,
+        "Üst": 2.15
     }
 }
