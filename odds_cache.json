@@ -1,82 +1,74 @@
 {
-    "Newells Old Boys (K) - Gimnasia La Plata (K)": {
+    "Rodinghausen - Gutersloh 2000": {
+        "Alt": 1.74,
+        "Üst": 1.57
+    },
+    "Racing Club (K) - CA Banfield (K)": {
+        "Alt": 1.58,
+        "Üst": 1.73
+    },
+    "Rapid Wien - WSG Tirol": {
+        "Alt": 2.58,
+        "Üst": 1.27
+    },
+    "Klaksvik - Skala": {
+        "Alt": 3.49,
+        "Üst": 2.29
+    },
+    "B36 Torshavn - Runavik": {
+        "Alt": 1.75,
+        "Üst": 3.54
+    },
+    "Yague - CA River Ebro": {
+        "Alt": 1.91,
+        "Üst": 1.45
+    },
+    "Binissalem - Platges de Calvia": {
+        "Alt": 1.26,
+        "Üst": 3.59
+    },
+    "Herrestads AIF - IFK Kumla FK": {
+        "Alt": 2.39,
+        "Üst": 3.4
+    },
+    "N. Xamax - Rapperswil": {
+        "Alt": 2.62,
+        "Üst": 1.21
+    },
+    "Wil 1900 - Std. Nyonnis": {
+        "Alt": 2.38,
+        "Üst": 1.27
+    },
+    "Kriens - Etoile Carouge": {
+        "Alt": 2.28,
+        "Üst": 1.3
+    },
+    "Puskas A. - B. Honved": {
+        "Alt": 1.99,
+        "Üst": 1.41
+    },
+    "Al Wehdat - Ramtha SC": {
+        "Alt": 1.58,
+        "Üst": 1.74
+    },
+    "Groningen - Zwolle": {
+        "Alt": 2.88,
+        "Üst": 1.21
+    },
+    "Ferro Carril (K) - CA Huracan (K)": {
         "Alt": 1.44,
         "Üst": 1.95
     },
-    "NK Lucko - NK Dugo Selo": {
-        "Alt": 1.68,
-        "Üst": 1.62
+    "Comunicacion - Unidos": {
+        "Alt": 3.34,
+        "Üst": 3.06
     },
-    "Mladost Zdralovi - NK Segesta": {
-        "Alt": 1.51,
-        "Üst": 1.84
+    "Francs Borains - RSC Anderlecht U23": {
+        "Alt": 1.93,
+        "Üst": 1.44
     },
-    "Kyzyl Zhar SK - K. Kyzylorda": {
-        "Alt": 1.54,
-        "Üst": 1.79
-    },
-    "FK Sileks K. - GFK Tikvesh 1930": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "FK Shkendija - FK Baskimi": {
-        "Alt": 3.76,
-        "Üst": 1.97
-    },
-    "Sokol Kleczew - Avia Swidnik": {
-        "Alt": 2.05,
-        "Üst": 1.38
-    },
-    "Volga Ulyan. - Spartak Kostroma": {
-        "Alt": 1.47,
-        "Üst": 1.89
-    },
-    "Sochi - SKA Khabarovsk": {
-        "Alt": 1.79,
-        "Üst": 1.54
-    },
-    "Chelyabinsk - Ufa": {
-        "Alt": 1.43,
-        "Üst": 1.96
-    },
-    "Tallinna Kal. - T. Flora U21": {
-        "Alt": 3.05,
-        "Üst": 4.03
-    },
-    "NK Sesvete - HNK Cibalia Vinkovci": {
-        "Alt": 1.36,
-        "Üst": 2.11
-    },
-    "Be1 Nfa - FK Transinvest B": {
-        "Alt": 1.65,
-        "Üst": 3.49
-    },
-    "Rekord Bielsko Biala - Swit Skolwin": {
-        "Alt": 2.08,
-        "Üst": 1.37
-    },
-    "Fujairah - Dibba AL Hisn SC": {
-        "Alt": 1.88,
-        "Üst": 1.47
-    },
-    "Dibba - AL Ittifaq": {
-        "Alt": 1.96,
-        "Üst": 1.43
-    },
-    "Gulf Utd - AL Jazira AL Hamra": {
-        "Alt": 2.58,
-        "Üst": 3.49
-    },
-    "Al Urooba (Bae) - Emirates Club": {
-        "Alt": 1.62,
-        "Üst": 1.68
-    },
-    "Palm City - Gulf": {
-        "Alt": 3.26,
-        "Üst": 3.69
-    },
-    "AL Bataeh - Al Hamriyah": {
-        "Alt": 1.84,
-        "Üst": 1.51
+    "C. Brugge U23 - KAA Gent II": {
+        "Alt": 2.0,
+        "Üst": 1.4
     }
 }
