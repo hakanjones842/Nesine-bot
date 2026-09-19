@@ -1,51 +1,11 @@
 {
-    "SD Aucas - CSD Macara": {
-        "Alt": 1.4,
-        "Üst": 2.0
-    },
-    "Puebla - Atlante": {
-        "Alt": 1.69,
-        "Üst": 1.62
-    },
-    "Tepatitlan - M.D. Zacatecas": {
-        "Alt": 2.02,
-        "Üst": 1.39
-    },
-    "Piratas Veracruz - Venados": {
-        "Alt": 2.19,
-        "Üst": 3.41
-    },
-    "Alianza Lima - A. Deportiva Tarma": {
-        "Alt": 1.88,
-        "Üst": 1.47
-    },
-    "CD Choloma - CD Estrella Roja": {
-        "Alt": 1.74,
-        "Üst": 1.57
-    },
-    "Comunicacion - Dep. Guastatoya": {
-        "Alt": 1.34,
-        "Üst": 2.16
-    },
-    "M. Per. Zeledon - Sporting San Jose": {
-        "Alt": 1.72,
-        "Üst": 1.59
-    },
-    "Juarez - Tigres": {
-        "Alt": 1.77,
-        "Üst": 1.55
-    },
-    "Atl La Paz - Correcaminos": {
-        "Alt": 2.1,
-        "Üst": 3.62
-    },
     "Sapporo - Oita Trinata": {
-        "Alt": 1.45,
-        "Üst": 1.92
+        "Alt": 1.37,
+        "Üst": 2.07
     },
     "Oakleigh C. - Avondale": {
-        "Alt": 1.86,
-        "Üst": 1.49
+        "Alt": 1.89,
+        "Üst": 1.46
     },
     "Saitama (K) - Tokyo Verdy B. (K)": {
         "Alt": 1.96,
@@ -60,15 +20,71 @@
         "Üst": 1.75
     },
     "Jeonnam Dragons - Suwon City": {
-        "Alt": 1.99,
+        "Alt": 1.98,
         "Üst": 1.42
     },
     "Chungnam Asan - Cheonan City": {
-        "Alt": 1.74,
-        "Üst": 1.57
+        "Alt": 1.73,
+        "Üst": 1.58
     },
     "Xi An Ronghai - Guizhou Zhucheng Ath": {
         "Alt": 1.32,
         "Üst": 2.2
+    },
+    "Shanghai Segenda - Hubei Chufen": {
+        "Alt": 1.42,
+        "Üst": 1.97
+    },
+    "Dalian Yingbo B - G. Dandelion Alpha": {
+        "Alt": 4.28,
+        "Üst": 3.36
+    },
+    "Csm Satu Mare - CS Afumati": {
+        "Alt": 1.66,
+        "Üst": 1.64
+    },
+    "ACS Fotbal Club Bacau 2023 - Cetate Suceava": {
+        "Alt": 1.95,
+        "Üst": 1.43
+    },
+    "Unirea Slobozia - Chindia": {
+        "Alt": 1.71,
+        "Üst": 1.6
+    },
+    "CSM Slatina - V. Selimbar": {
+        "Alt": 1.83,
+        "Üst": 1.51
+    },
+    "Csl Stefanestii de Jos - Metaloglobus": {
+        "Alt": 1.69,
+        "Üst": 1.62
+    },
+    "Concordia - AFC Metalul Buzau": {
+        "Alt": 1.8,
+        "Üst": 1.52
+    },
+    "CSA Steaua Bucuresti - ACS Gloria": {
+        "Alt": 1.68,
+        "Üst": 1.62
+    },
+    "Persebaya - Garuda Yaksa": {
+        "Alt": 1.69,
+        "Üst": 1.61
+    },
+    "PSM Makassar - Persita Tangerang": {
+        "Alt": 1.51,
+        "Üst": 1.81
+    },
+    "Dalian Kewei - Shenzhen 2028": {
+        "Alt": 1.34,
+        "Üst": 2.15
+    },
+    "Kawasaki Frontale - Kashima": {
+        "Alt": 2.0,
+        "Üst": 1.48
+    },
+    "Fukuoka - S. Hiroshima": {
+        "Alt": 1.82,
+        "Üst": 1.59
     }
 }
