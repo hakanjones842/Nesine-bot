@@ -1,86 +1,94 @@
 {
-    "Urawa Red - Tokyo Verdy": {
-        "Alt": 1.51,
-        "Üst": 1.93
+    "Werder Bremen - Augsburg": {
+        "Alt": 2.35,
+        "Üst": 1.33
     },
-    "V Varen - Cerezo Osaka": {
-        "Alt": 1.77,
+    "M'gladbach - Mainz": {
+        "Alt": 2.21,
+        "Üst": 1.38
+    },
+    "E. Frankfurt - Freiburg": {
+        "Alt": 2.24,
+        "Üst": 1.37
+    },
+    "Hamburg - Köln": {
+        "Alt": 2.11,
+        "Üst": 1.42
+    },
+    "ASK Voitsberg - SV Austria Salzburg": {
+        "Alt": 2.01,
+        "Üst": 1.4
+    },
+    "Sturm Graz (Amt.) - Wacker Inns.": {
+        "Alt": 2.03,
+        "Üst": 1.39
+    },
+    "Turan Tovuz - Zira": {
+        "Alt": 1.31,
+        "Üst": 2.21
+    },
+    "AL Ittihad K. - Khor Fakkan": {
+        "Alt": 1.95,
+        "Üst": 1.44
+    },
+    "Hatta SC - Al Ahli Dubai": {
+        "Alt": 2.4,
+        "Üst": 1.26
+    },
+    "FK Septemvri Sofia - Botev Plovdiv": {
+        "Alt": 1.54,
+        "Üst": 1.78
+    },
+    "Schaffhausen - Lugano II": {
+        "Alt": 1.66,
+        "Üst": 3.59
+    },
+    "Breitenrain - Biel Bienne": {
+        "Alt": 1.6,
+        "Üst": 3.59
+    },
+    "Basel II - Bulle": {
+        "Alt": 3.21,
+        "Üst": 4.03
+    },
+    "FK Ekranas - FA Siauliai B": {
+        "Alt": 2.03,
+        "Üst": 1.39
+    },
+    "Nieciecza - Odra Opole": {
+        "Alt": 1.67,
         "Üst": 1.64
     },
-    "Shimizu - JEF Utd": {
-        "Alt": 1.48,
-        "Üst": 2.0
+    "Polonia Warszawa - C. Glogow": {
+        "Alt": 1.69,
+        "Üst": 1.61
     },
-    "Fujieda Myfc - Omiya Ardija": {
-        "Alt": 1.83,
-        "Üst": 1.51
+    "Pogon Grodzisk M. - LKS Lodz": {
+        "Alt": 1.75,
+        "Üst": 1.56
     },
-    "Ehime - Kamatamare S.": {
-        "Alt": 1.93,
-        "Üst": 1.44
-    },
-    "SC Popesti Leordeni - Politehn Tim": {
-        "Alt": 1.87,
-        "Üst": 1.47
-    },
-    "Anyang - Ulsan Hora": {
-        "Alt": 2.06,
-        "Üst": 1.44
-    },
-    "Gimpo Citizen - Busan I Park": {
-        "Alt": 1.67,
-        "Üst": 1.63
-    },
-    "Seoul E Land - Daegu": {
-        "Alt": 2.14,
-        "Üst": 1.35
-    },
-    "Panaderia Pulido - CD Tenerife C": {
-        "Alt": 1.51,
-        "Üst": 1.82
-    },
-    "L. Las Planas (K) - Real Sociedad (K)": {
-        "Alt": 1.61,
-        "Üst": 1.69
-    },
-    "CD Basconia - Arosa SC": {
+    "FK Humenne - Inter Bratislava": {
         "Alt": 1.81,
-        "Üst": 1.52
-    },
-    "Qviding FIF - Dalstorps IF": {
-        "Alt": 3.6,
-        "Üst": 3.99
-    },
-    "Nacka Iliria - Raagsveds IF": {
-        "Alt": 3.15,
-        "Üst": 3.77
-    },
-    "Fagiano - Kyoto Sanga": {
-        "Alt": 1.65,
-        "Üst": 1.76
-    },
-    "Tokyo - Nagoya": {
-        "Alt": 1.95,
         "Üst": 1.51
     },
-    "Ventforet - T. Vortis": {
-        "Alt": 1.4,
-        "Üst": 2.01
+    "MFK Lokomotiva Zvolen - OFK Malzenice": {
+        "Alt": 1.89,
+        "Üst": 1.46
     },
-    "Yokohama - Imabari": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
-    "S. Bellmare - B. Akita": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
-    "Sagan Tosu - Iwaki": {
-        "Alt": 1.48,
-        "Üst": 1.86
-    },
-    "M. Yamagata - Kat. Toyama": {
-        "Alt": 2.07,
+    "MFK Bytca - OFK Banik Lehota P. V.": {
+        "Alt": 2.06,
         "Üst": 1.37
+    },
+    "Kocaelispor - Gaziantep FK": {
+        "Alt": 1.45,
+        "Üst": 2.06
+    },
+    "Çorum FK - Alanyaspor": {
+        "Alt": 1.62,
+        "Üst": 1.79
+    },
+    "Sarıyer - Boluspor": {
+        "Alt": 2.04,
+        "Üst": 1.38
     }
 }
