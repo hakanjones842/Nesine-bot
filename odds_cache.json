@@ -1,63 +1,31 @@
 {
-    "Vila Nova - America MG": {
-        "Alt": 1.51,
-        "Üst": 1.83
-    },
-    "Independiente P. - S. A. Bulo Bulo": {
-        "Alt": 2.38,
-        "Üst": 3.55
-    },
-    "Boyaca Patr. - U. Magdalena": {
-        "Alt": 1.39,
-        "Üst": 2.03
-    },
-    "New York C. - NY Red Bulls": {
-        "Alt": 2.21,
-        "Üst": 1.38
-    },
-    "Ceara CE - Gremio Novo": {
-        "Alt": 1.46,
-        "Üst": 1.9
-    },
-    "Sao Bernardo - Atl Goianiense": {
-        "Alt": 1.39,
-        "Üst": 2.03
-    },
-    "CD Inca - Fuerte San Francisco": {
-        "Alt": 4.78,
-        "Üst": 3.4
-    },
-    "Racing Club - CA Sarmiento": {
-        "Alt": 1.52,
-        "Üst": 1.93
-    },
     "SD Aucas - CSD Macara": {
-        "Alt": 1.42,
-        "Üst": 1.98
+        "Alt": 1.4,
+        "Üst": 2.0
     },
     "Puebla - Atlante": {
-        "Alt": 1.72,
-        "Üst": 1.59
+        "Alt": 1.69,
+        "Üst": 1.62
     },
     "Tepatitlan - M.D. Zacatecas": {
-        "Alt": 1.99,
-        "Üst": 1.41
+        "Alt": 2.02,
+        "Üst": 1.39
     },
     "Piratas Veracruz - Venados": {
-        "Alt": 2.14,
-        "Üst": 3.4
+        "Alt": 2.19,
+        "Üst": 3.41
     },
     "Alianza Lima - A. Deportiva Tarma": {
-        "Alt": 1.92,
-        "Üst": 1.45
+        "Alt": 1.88,
+        "Üst": 1.47
     },
     "CD Choloma - CD Estrella Roja": {
         "Alt": 1.74,
         "Üst": 1.57
     },
     "Comunicacion - Dep. Guastatoya": {
-        "Alt": 2.41,
-        "Üst": 2.81
+        "Alt": 1.34,
+        "Üst": 2.16
     },
     "M. Per. Zeledon - Sporting San Jose": {
         "Alt": 1.72,
@@ -68,7 +36,39 @@
         "Üst": 1.55
     },
     "Atl La Paz - Correcaminos": {
-        "Alt": 2.11,
-        "Üst": 3.61
+        "Alt": 2.1,
+        "Üst": 3.62
+    },
+    "Sapporo - Oita Trinata": {
+        "Alt": 1.45,
+        "Üst": 1.92
+    },
+    "Oakleigh C. - Avondale": {
+        "Alt": 1.86,
+        "Üst": 1.49
+    },
+    "Saitama (K) - Tokyo Verdy B. (K)": {
+        "Alt": 1.96,
+        "Üst": 1.43
+    },
+    "Armadale SC - Uwa Nedlands": {
+        "Alt": 2.8,
+        "Üst": 3.56
+    },
+    "Bucheon - Gimcheon S.": {
+        "Alt": 1.65,
+        "Üst": 1.75
+    },
+    "Jeonnam Dragons - Suwon City": {
+        "Alt": 1.99,
+        "Üst": 1.42
+    },
+    "Chungnam Asan - Cheonan City": {
+        "Alt": 1.74,
+        "Üst": 1.57
+    },
+    "Xi An Ronghai - Guizhou Zhucheng Ath": {
+        "Alt": 1.32,
+        "Üst": 2.2
     }
 }
