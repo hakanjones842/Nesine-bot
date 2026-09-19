@@ -1,70 +1,82 @@
 {
-    "Stuttgart - B. Dortmund": {
-        "Alt": 2.82,
-        "Üst": 1.22
+    "Venezia - Lazio": {
+        "Alt": 1.84,
+        "Üst": 1.58
     },
-    "Nottingham F. - Coventry": {
-        "Alt": 1.85,
-        "Üst": 1.57
+    "Lyon - Rennes": {
+        "Alt": 2.16,
+        "Üst": 1.4
     },
-    "Celta Vigo - Santander": {
-        "Alt": 1.93,
-        "Üst": 1.51
+    "Le Mans - Lorient": {
+        "Alt": 1.58,
+        "Üst": 1.85
     },
-    "D. Tirana - KF Laci": {
-        "Alt": 1.65,
-        "Üst": 1.66
+    "Angers - Troyes": {
+        "Alt": 1.84,
+        "Üst": 1.58
     },
-    "Zrinjski Mostar - Velez Mostar": {
-        "Alt": 1.62,
-        "Üst": 1.68
+    "Toulouse - Le Havre": {
+        "Alt": 2.02,
+        "Üst": 1.46
     },
-    "Arsenal (K) - Man. Utd (K)": {
-        "Alt": 3.57,
-        "Üst": 2.11
+    "Anderlecht - Zulte Waregem": {
+        "Alt": 2.06,
+        "Üst": 1.44
     },
-    "Hornchurch - Scunthorpe": {
-        "Alt": 1.79,
-        "Üst": 1.53
+    "Lommel SK - Mechelen": {
+        "Alt": 1.97,
+        "Üst": 1.5
     },
-    "Castellon - Tenerife": {
-        "Alt": 1.65,
-        "Üst": 1.76
+    "Sligo Rovers - St. Patricks": {
+        "Alt": 1.95,
+        "Üst": 1.43
     },
-    "C. Dep. Eldense - Eibar": {
-        "Alt": 1.5,
-        "Üst": 1.96
+    "Sevilla - Barcelona": {
+        "Alt": 3.35,
+        "Üst": 1.14
     },
-    "Gazte Berriak - CD Cantolagua": {
-        "Alt": 1.79,
-        "Üst": 1.53
+    "Willem II - F. Sittard": {
+        "Alt": 2.19,
+        "Üst": 1.39
     },
-    "UE Olot - Utebo": {
-        "Alt": 1.38,
-        "Üst": 2.05
+    "Atl Mineiro - Chapecoense": {
+        "Alt": 1.92,
+        "Üst": 1.52
     },
-    "FK Transinvest - Zalgiris Vilnius": {
-        "Alt": 1.81,
-        "Üst": 1.51
+    "Atletico De Rafaela - Tucuman": {
+        "Alt": 5.21,
+        "Üst": 3.33
     },
-    "Brezilya U20 (K) - İspanya U20 (K)": {
-        "Alt": 1.7,
-        "Üst": 1.61
+    "CA Temperley - Almagro": {
+        "Alt": 2.77,
+        "Üst": 2.85
     },
-    "Aris - POT Iraklis": {
-        "Alt": 1.48,
-        "Üst": 1.87
+    "Montpellier (K) - Marsilya (K)": {
+        "Alt": 1.68,
+        "Üst": 1.62
     },
-    "S. Rotterdam - Heerenveen": {
-        "Alt": 2.54,
-        "Üst": 1.28
+    "Cadiz - Girona": {
+        "Alt": 1.64,
+        "Üst": 1.77
     },
-    "Kilmarnock - Hearts": {
-        "Alt": 2.05,
+    "Huesca - Atl Madrid B": {
+        "Alt": 1.91,
         "Üst": 1.45
     },
-    "Union Irun - Mirandes": {
-        "Alt": 1.56,
-        "Üst": 1.76
+    "Real Jaen - I. Eivissa": {
+        "Alt": 1.49,
+        "Üst": 1.86
+    },
+    "Millonarios - Boyaca Chico": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "Beira Mar - Os Belenenses": {
+        "Alt": 1.61,
+        "Üst": 1.7
+    },
+    "Sporting CP - Arouca": {
+        "Alt": 1.27,
+        "Üst": 2.0
     }
 }
