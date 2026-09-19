@@ -1,82 +1,82 @@
 {
-    "Venezia - Lazio": {
-        "Alt": 1.84,
-        "Üst": 1.58
+    "C.D. Cacahuatique - CD Fas": {
+        "Alt": 1.59,
+        "Üst": 1.72
     },
-    "Lyon - Rennes": {
-        "Alt": 2.16,
-        "Üst": 1.4
+    "Aurora - CD Marquense": {
+        "Alt": 1.53,
+        "Üst": 1.79
     },
-    "Le Mans - Lorient": {
-        "Alt": 1.58,
-        "Üst": 1.85
+    "Cavalry - Forge": {
+        "Alt": 1.5,
+        "Üst": 1.84
     },
-    "Angers - Troyes": {
-        "Alt": 1.84,
-        "Üst": 1.58
+    "Alianza Valledupar - I. Santa Fe": {
+        "Alt": 1.41,
+        "Üst": 2.0
     },
-    "Toulouse - Le Havre": {
-        "Alt": 2.02,
-        "Üst": 1.46
+    "Clube do Remo - Santos SP": {
+        "Alt": 1.74,
+        "Üst": 1.66
     },
-    "Anderlecht - Zulte Waregem": {
-        "Alt": 2.06,
-        "Üst": 1.44
+    "Athletic Club MG - Botafogo": {
+        "Alt": 1.35,
+        "Üst": 2.14
     },
-    "Lommel SK - Mechelen": {
-        "Alt": 1.97,
-        "Üst": 1.5
+    "Guayaquil - Club Leones D. N.": {
+        "Alt": 1.37,
+        "Üst": 2.07
     },
-    "Sligo Rovers - St. Patricks": {
-        "Alt": 1.95,
-        "Üst": 1.43
-    },
-    "Sevilla - Barcelona": {
-        "Alt": 3.35,
-        "Üst": 1.14
-    },
-    "Willem II - F. Sittard": {
-        "Alt": 2.19,
-        "Üst": 1.39
-    },
-    "Atl Mineiro - Chapecoense": {
-        "Alt": 1.92,
-        "Üst": 1.52
-    },
-    "Atletico De Rafaela - Tucuman": {
-        "Alt": 5.21,
-        "Üst": 3.33
-    },
-    "CA Temperley - Almagro": {
-        "Alt": 2.77,
-        "Üst": 2.85
-    },
-    "Montpellier (K) - Marsilya (K)": {
-        "Alt": 1.68,
-        "Üst": 1.62
-    },
-    "Cadiz - Girona": {
+    "Genesis PN - Olancho": {
         "Alt": 1.64,
-        "Üst": 1.77
+        "Üst": 1.66
     },
-    "Huesca - Atl Madrid B": {
-        "Alt": 1.91,
-        "Üst": 1.45
+    "D. Maldonado - Cerro Largo": {
+        "Alt": 1.52,
+        "Üst": 1.8
     },
-    "Real Jaen - I. Eivissa": {
+    "Richmond - Charlotte Ind.": {
+        "Alt": 1.65,
+        "Üst": 3.71
+    },
+    "River Plate - CA Huracan": {
+        "Alt": 1.44,
+        "Üst": 2.07
+    },
+    "A. Puerto C. - Portuguesa": {
         "Alt": 1.49,
         "Üst": 1.86
     },
-    "Millonarios - Boyaca Chico": {
-        "Alt": 1.79,
-        "Üst": 1.53
+    "Lexington SC - Orange Count": {
+        "Alt": 1.85,
+        "Üst": 1.5
     },
-    "Beira Mar - Os Belenenses": {
-        "Alt": 1.61,
-        "Üst": 1.7
+    "Charleston - Monterey Bay": {
+        "Alt": 2.38,
+        "Üst": 1.26
     },
-    "Sporting CP - Arouca": {
-        "Alt": 1.27,
-        "Üst": 2.0
+    "Louisville - Loudoun Utd": {
+        "Alt": 2.2,
+        "Üst": 1.32
+    },
+    "Brooklyn - Tulsa Roughnecks": {
+        "Alt": 1.9,
+        "Üst": 1.46
+    },
+    "Detroit City - Pittsburgh R.": {
+        "Alt": 1.29,
+        "Üst": 2.3
+    },
+    "New York Cosmos - Westchester SC": {
+        "Alt": 2.74,
+        "Üst": 3.65
+    },
+    "C. Red Wolves SC - P. Hearts of Pine": {
+        "Alt": 2.04,
+        "Üst": 1.38
+    },
+    "Forward M. - Av Alta": {
+        "Alt": 2.06,
+        "Üst": 1.38
     }
 }
