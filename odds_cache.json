@@ -1,90 +1,86 @@
 {
-    "Sapporo - Oita Trinata": {
-        "Alt": 1.37,
-        "Üst": 2.07
+    "Urawa Red - Tokyo Verdy": {
+        "Alt": 1.51,
+        "Üst": 1.93
     },
-    "Oakleigh C. - Avondale": {
-        "Alt": 1.89,
-        "Üst": 1.46
-    },
-    "Saitama (K) - Tokyo Verdy B. (K)": {
-        "Alt": 1.96,
-        "Üst": 1.43
-    },
-    "Armadale SC - Uwa Nedlands": {
-        "Alt": 2.8,
-        "Üst": 3.56
-    },
-    "Bucheon - Gimcheon S.": {
-        "Alt": 1.65,
-        "Üst": 1.75
-    },
-    "Jeonnam Dragons - Suwon City": {
-        "Alt": 1.98,
-        "Üst": 1.42
-    },
-    "Chungnam Asan - Cheonan City": {
-        "Alt": 1.73,
-        "Üst": 1.58
-    },
-    "Xi An Ronghai - Guizhou Zhucheng Ath": {
-        "Alt": 1.32,
-        "Üst": 2.2
-    },
-    "Shanghai Segenda - Hubei Chufen": {
-        "Alt": 1.42,
-        "Üst": 1.97
-    },
-    "Dalian Yingbo B - G. Dandelion Alpha": {
-        "Alt": 4.28,
-        "Üst": 3.36
-    },
-    "Csm Satu Mare - CS Afumati": {
-        "Alt": 1.66,
+    "V Varen - Cerezo Osaka": {
+        "Alt": 1.77,
         "Üst": 1.64
     },
-    "ACS Fotbal Club Bacau 2023 - Cetate Suceava": {
-        "Alt": 1.95,
-        "Üst": 1.43
+    "Shimizu - JEF Utd": {
+        "Alt": 1.48,
+        "Üst": 2.0
     },
-    "Unirea Slobozia - Chindia": {
-        "Alt": 1.71,
-        "Üst": 1.6
-    },
-    "CSM Slatina - V. Selimbar": {
+    "Fujieda Myfc - Omiya Ardija": {
         "Alt": 1.83,
         "Üst": 1.51
     },
-    "Csl Stefanestii de Jos - Metaloglobus": {
-        "Alt": 1.69,
-        "Üst": 1.62
+    "Ehime - Kamatamare S.": {
+        "Alt": 1.93,
+        "Üst": 1.44
     },
-    "Concordia - AFC Metalul Buzau": {
-        "Alt": 1.8,
+    "SC Popesti Leordeni - Politehn Tim": {
+        "Alt": 1.87,
+        "Üst": 1.47
+    },
+    "Anyang - Ulsan Hora": {
+        "Alt": 2.06,
+        "Üst": 1.44
+    },
+    "Gimpo Citizen - Busan I Park": {
+        "Alt": 1.67,
+        "Üst": 1.63
+    },
+    "Seoul E Land - Daegu": {
+        "Alt": 2.14,
+        "Üst": 1.35
+    },
+    "Panaderia Pulido - CD Tenerife C": {
+        "Alt": 1.51,
+        "Üst": 1.82
+    },
+    "L. Las Planas (K) - Real Sociedad (K)": {
+        "Alt": 1.61,
+        "Üst": 1.69
+    },
+    "CD Basconia - Arosa SC": {
+        "Alt": 1.81,
         "Üst": 1.52
     },
-    "CSA Steaua Bucuresti - ACS Gloria": {
-        "Alt": 1.68,
-        "Üst": 1.62
+    "Qviding FIF - Dalstorps IF": {
+        "Alt": 3.6,
+        "Üst": 3.99
     },
-    "Persebaya - Garuda Yaksa": {
-        "Alt": 1.69,
-        "Üst": 1.61
+    "Nacka Iliria - Raagsveds IF": {
+        "Alt": 3.15,
+        "Üst": 3.77
     },
-    "PSM Makassar - Persita Tangerang": {
-        "Alt": 1.51,
-        "Üst": 1.81
+    "Fagiano - Kyoto Sanga": {
+        "Alt": 1.65,
+        "Üst": 1.76
     },
-    "Dalian Kewei - Shenzhen 2028": {
-        "Alt": 1.34,
-        "Üst": 2.15
+    "Tokyo - Nagoya": {
+        "Alt": 1.95,
+        "Üst": 1.51
     },
-    "Kawasaki Frontale - Kashima": {
-        "Alt": 2.0,
-        "Üst": 1.48
+    "Ventforet - T. Vortis": {
+        "Alt": 1.4,
+        "Üst": 2.01
     },
-    "Fukuoka - S. Hiroshima": {
-        "Alt": 1.82,
-        "Üst": 1.59
+    "Yokohama - Imabari": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "S. Bellmare - B. Akita": {
+        "Alt": 1.44,
+        "Üst": 1.93
+    },
+    "Sagan Tosu - Iwaki": {
+        "Alt": 1.48,
+        "Üst": 1.86
+    },
+    "M. Yamagata - Kat. Toyama": {
+        "Alt": 2.07,
+        "Üst": 1.37
     }
 }
