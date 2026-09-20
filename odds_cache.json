@@ -1,86 +1,86 @@
 {
-    "Dallas - Austin": {
-        "Alt": 2.21,
-        "Üst": 1.37
+    "Supreme - Central Western": {
+        "Alt": 2.04,
+        "Üst": 3.67
     },
-    "Minnesota Utd - LA Galaxy": {
-        "Alt": 2.54,
-        "Üst": 1.28
-    },
-    "Kansas City - Phila. Union": {
-        "Alt": 2.91,
-        "Üst": 1.2
-    },
-    "Houston Dyn. - Cincinnati": {
-        "Alt": 2.19,
-        "Üst": 1.39
-    },
-    "S. Louis City SC - Toronto": {
-        "Alt": 2.37,
-        "Üst": 1.32
-    },
-    "Colorado Spr. - New Mexico": {
-        "Alt": 2.03,
-        "Üst": 1.39
-    },
-    "Atl Morelia - Leones Negros": {
-        "Alt": 2.42,
-        "Üst": 3.53
-    },
-    "Cancun - A. Oaxaca": {
-        "Alt": 1.73,
-        "Üst": 1.58
-    },
-    "Jaiba Brava - CSD D. Sinaloa": {
-        "Alt": 1.89,
-        "Üst": 1.46
-    },
-    "Monterrey - Cruz Azul": {
-        "Alt": 1.87,
-        "Üst": 1.48
-    },
-    "Deportivo Pasto - Once Caldas": {
-        "Alt": 1.5,
-        "Üst": 1.85
-    },
-    "Melgar - Sport Boys": {
-        "Alt": 1.79,
-        "Üst": 1.53
-    },
-    "Nashville SC - Chicago Fire": {
-        "Alt": 2.35,
-        "Üst": 1.33
-    },
-    "Real Salt Lake - V. Whitecaps": {
-        "Alt": 2.21,
-        "Üst": 1.38
-    },
-    "Colorado R. - S. Sounders": {
-        "Alt": 2.07,
+    "Box Hill Utd (K) - Avondale (K)": {
+        "Alt": 1.93,
         "Üst": 1.44
     },
-    "Real CD Espana - Motagua": {
-        "Alt": 1.63,
-        "Üst": 1.67
+    "Hong Kong U23 - Tayland U23": {
+        "Alt": 1.91,
+        "Üst": 1.45
     },
-    "Phoenix Rising - El Paso Loc.": {
-        "Alt": 1.88,
-        "Üst": 1.47
+    "Tung Sing - Wofoo SE": {
+        "Alt": 1.66,
+        "Üst": 3.59
     },
-    "D. Saprissa - CS Herediano": {
-        "Alt": 1.63,
-        "Üst": 1.68
-    },
-    "Portland Tim. - Atlanta Utd": {
-        "Alt": 2.49,
-        "Üst": 1.29
-    },
-    "Las Vegas L. - Hartford Ath": {
-        "Alt": 1.74,
+    "Urawa Red (K) - Omiya (K)": {
+        "Alt": 1.72,
         "Üst": 1.58
     },
-    "America - CD Guadalajara": {
-        "Alt": 1.71,
-        "Üst": 1.6
+    "Jeonbuk - Gwangju": {
+        "Alt": 1.92,
+        "Üst": 1.52
+    },
+    "Gangwon - Jeju Utd": {
+        "Alt": 1.48,
+        "Üst": 2.0
+    },
+    "Ansan Greene - Chungbuk Cheongju": {
+        "Alt": 1.59,
+        "Üst": 1.71
+    },
+    "Yongin - Gyeongnam": {
+        "Alt": 1.55,
+        "Üst": 1.77
+    },
+    "Resources Capital - South China": {
+        "Alt": 2.56,
+        "Üst": 3.82
+    },
+    "Citizen AA - Lucky Mile": {
+        "Alt": 2.38,
+        "Üst": 3.92
+    },
+    "3 Sing - Yuen Long": {
+        "Alt": 3.97,
+        "Üst": 2.26
+    },
+    "Gyeongju - Changwon City": {
+        "Alt": 1.52,
+        "Üst": 1.8
+    },
+    "Gamba Osaka - Vissel Kobe": {
+        "Alt": 1.68,
+        "Üst": 1.72
+    },
+    "Machida Zelvia - Kashiwa": {
+        "Alt": 1.64,
+        "Üst": 1.77
+    },
+    "Yscc Yokohama - Briobecca Urayasu": {
+        "Alt": 1.57,
+        "Üst": 1.75
+    },
+    "Tochigi City - Sendai": {
+        "Alt": 1.77,
+        "Üst": 1.55
+    },
+    "AC N. Parceiro - Gifu": {
+        "Alt": 1.65,
+        "Üst": 1.65
+    },
+    "MIO Biwako Shiga - Ryukyu": {
+        "Alt": 1.86,
+        "Üst": 1.48
+    },
+    "SC Sagamihara - G. Kitakyushu": {
+        "Alt": 1.75,
+        "Üst": 1.56
+    },
+    "Hang Yuen - Taipei Tatung": {
+        "Alt": 1.54,
+        "Üst": 1.78
     }
 }
