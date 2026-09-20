@@ -1,74 +1,74 @@
 {
-    "America (K) - Atlas (K)": {
-        "Alt": 4.24,
-        "Üst": 2.41
-    },
-    "Belgrano - Estudiantes Río C.": {
-        "Alt": 1.35,
-        "Üst": 2.3
-    },
-    "Paranaense - Bahia BA": {
-        "Alt": 1.71,
-        "Üst": 1.69
-    },
-    "Inter Miami - San Diego": {
-        "Alt": 4.4,
-        "Üst": 1.05
-    },
-    "Sacramento R. - San Antonio": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
-    "Spokane Velocity - AC Boise": {
-        "Alt": 1.81,
-        "Üst": 1.51
-    },
-    "CD Suchitepequez - Xelaju": {
-        "Alt": 1.47,
-        "Üst": 1.87
-    },
-    "Alajuelense - Inter San Carlos": {
-        "Alt": 1.9,
-        "Üst": 1.46
+    "D. Toluca - Santos Laguna": {
+        "Alt": 2.81,
+        "Üst": 1.17
     },
     "Pachuca - Club Tijuana": {
         "Alt": 1.71,
         "Üst": 1.59
     },
-    "CD Tapatio - Tlaxcala": {
-        "Alt": 1.91,
-        "Üst": 1.46
+    "V. Sarsfield - CA Tigre": {
+        "Alt": 1.25,
+        "Üst": 2.64
     },
-    "Atl San Luis (K) - Pachuca (K)": {
-        "Alt": 2.09,
-        "Üst": 3.61
+    "Malacateco - Deportivo Mixco": {
+        "Alt": 1.65,
+        "Üst": 1.65
     },
-    "Rancho Santana - Managua": {
-        "Alt": 2.07,
-        "Üst": 1.37
+    "AD San Carlos - CS Cartagines": {
+        "Alt": 1.57,
+        "Üst": 1.75
     },
-    "Liverpool M. - R. Montevideo": {
-        "Alt": 1.34,
-        "Üst": 2.15
+    "Llaneros - Atl. Nacional Medellin": {
+        "Alt": 1.6,
+        "Üst": 1.71
     },
-    "CD Tolima - America De Cali": {
-        "Alt": 1.43,
-        "Üst": 1.95
+    "Juticalpa - Marathon": {
+        "Alt": 1.75,
+        "Üst": 1.56
     },
-    "CD Olimpia - CA Independiente S.": {
+    "Queretaro - Club Leon": {
+        "Alt": 1.78,
+        "Üst": 1.54
+    },
+    "Okinawa SV - Tiamo Hirakata": {
+        "Alt": 1.76,
+        "Üst": 1.56
+    },
+    "Vizela U23 - Farense U23": {
+        "Alt": 1.7,
+        "Üst": 1.61
+    },
+    "Bolton Wanderers U21 - QPR U21": {
+        "Alt": 2.78,
+        "Üst": 3.75
+    },
+    "N. Zamini Tehran - Fard": {
+        "Alt": 1.21,
+        "Üst": 1.23
+    },
+    "Odds BK II - Stabaek II": {
         "Alt": 1.94,
+        "Üst": 3.83
+    },
+    "PFK Sportist Svoge - PFC Vihren Sandanski": {
+        "Alt": 1.4,
+        "Üst": 2.01
+    },
+    "Nomme Kalju U21 - Nomme Utd U21": {
+        "Alt": 1.48,
+        "Üst": 4.18
+    },
+    "UD Leiria U23 - Gil Vicente U23": {
+        "Alt": 1.79,
+        "Üst": 1.53
+    },
+    "Otelul Galati - CS Corvinul 1921 H.": {
+        "Alt": 1.51,
+        "Üst": 1.83
+    },
+    "A. Petrzalka - Pohronie": {
+        "Alt": 1.93,
         "Üst": 1.44
-    },
-    "LDU Quito - Uni. Catolica": {
-        "Alt": 1.62,
-        "Üst": 1.68
-    },
-    "Angel Firpo - Atletico Balboa": {
-        "Alt": 1.77,
-        "Üst": 1.55
-    },
-    "D. Toluca - Santos Laguna": {
-        "Alt": 2.91,
-        "Üst": 1.16
     }
 }
