@@ -1,82 +1,94 @@
 {
-    "Kortrijk - SK Beveren": {
-        "Alt": 1.88,
-        "Üst": 1.55
+    "Porto - Benfica": {
+        "Alt": 1.72,
+        "Üst": 1.69
     },
-    "FCV Dender EH - Patro M.": {
-        "Alt": 1.64,
-        "Üst": 1.66
+    "CD Maipu - Gimnasia Jujuy": {
+        "Alt": 1.48,
+        "Üst": 1.86
     },
-    "Marchamalo CD - CD Guadalajara B": {
-        "Alt": 1.46,
-        "Üst": 1.9
+    "Colon - CA Los Andes": {
+        "Alt": 2.98,
+        "Üst": 2.82
     },
-    "Al Ahli Doha - Al Shahaniya": {
+    "Nacional - Defensor Sp.": {
+        "Alt": 1.52,
+        "Üst": 1.8
+    },
+    "Rosario C. - Argentinos J.": {
+        "Alt": 1.37,
+        "Üst": 2.22
+    },
+    "CA Platense - New Old Boys": {
+        "Alt": 1.27,
+        "Üst": 2.56
+    },
+    "Csd Merlo - CSD Flandria": {
+        "Alt": 5.33,
+        "Üst": 3.33
+    },
+    "Central N. Salta - Defensores B.": {
+        "Alt": 4.57,
+        "Üst": 3.22
+    },
+    "Chaco For Ever - Almirante Brown": {
+        "Alt": 3.54,
+        "Üst": 2.91
+    },
+    "S. Martin SJ - Colegiales": {
+        "Alt": 3.54,
+        "Üst": 3.03
+    },
+    "CA Guemes - F. Midland": {
+        "Alt": 1.31,
+        "Üst": 3.37
+    },
+    "Academia Anzoategui - Caracas": {
+        "Alt": 1.59,
+        "Üst": 1.72
+    },
+    "Zamora - Metropolitan": {
+        "Alt": 1.59,
+        "Üst": 1.72
+    },
+    "Mount Pleasant - Racing Utd": {
+        "Alt": 1.54,
+        "Üst": 1.78
+    },
+    "Chapelton Maroons - Molynes": {
+        "Alt": 1.52,
+        "Üst": 1.8
+    },
+    "Treasure Beach - Tivoli Gardens": {
+        "Alt": 1.68,
+        "Üst": 1.63
+    },
+    "Montego Bay Utd - Tru Juice": {
+        "Alt": 2.69,
+        "Üst": 3.54
+    },
+    "Juan Pablo II - CD Moquegua": {
         "Alt": 1.71,
         "Üst": 1.6
     },
-    "AL Rayyan - Katar SC": {
-        "Alt": 2.35,
-        "Üst": 1.28
+    "Dep. San Pedro - CSD Imperial": {
+        "Alt": 1.45,
+        "Üst": 1.92
     },
-    "Brann - Bodo Glimt": {
-        "Alt": 3.32,
-        "Üst": 1.15
+    "Houston Dynamo 2 - S. Kansas City II": {
+        "Alt": 1.64,
+        "Üst": 3.66
     },
-    "Paderborn - Hoffenheim": {
-        "Alt": 2.76,
-        "Üst": 1.23
-    },
-    "W. Wiesbaden - Duisburg": {
-        "Alt": 1.85,
-        "Üst": 1.58
-    },
-    "EV Tarnova - Chernomorets Burgas": {
-        "Alt": 1.86,
-        "Üst": 1.49
-    },
-    "Modena - Empoli": {
-        "Alt": 1.73,
-        "Üst": 1.67
-    },
-    "Nyiregyhaza - Ferencvaros": {
-        "Alt": 2.05,
-        "Üst": 1.38
-    },
-    "GKS Tychy - Sandecja": {
+    "Saint Louis City SC 2 - Austin II": {
         "Alt": 1.72,
         "Üst": 1.59
     },
-    "D. Bükreş - Farul Cons.": {
-        "Alt": 1.84,
-        "Üst": 1.51
+    "R. Monarchs - Ventura County": {
+        "Alt": 1.42,
+        "Üst": 3.96
     },
-    "San Lorenzo - Boca Juniors": {
-        "Alt": 1.26,
-        "Üst": 2.62
-    },
-    "Toronto II - New England R. II": {
-        "Alt": 1.52,
-        "Üst": 3.66
-    },
-    "Cincinnati 2 - Crown Legacy": {
-        "Alt": 1.92,
-        "Üst": 3.56
-    },
-    "Orlando City B - Atlanta Utd 2": {
-        "Alt": 1.37,
-        "Üst": 4.09
-    },
-    "Connecticut Utd - Inter Miami II": {
-        "Alt": 2.12,
-        "Üst": 3.83
-    },
-    "Chicago Fire II - Chattanooga": {
-        "Alt": 1.36,
-        "Üst": 4.2
-    },
-    "Philadelphia Union II - New York City II": {
-        "Alt": 2.99,
-        "Üst": 3.87
+    "Colorado Rapids 2 - North Texas SC": {
+        "Alt": 2.06,
+        "Üst": 1.38
     }
 }
