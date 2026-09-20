@@ -1,94 +1,74 @@
 {
-    "Porto - Benfica": {
-        "Alt": 1.72,
+    "America (K) - Atlas (K)": {
+        "Alt": 4.24,
+        "Üst": 2.41
+    },
+    "Belgrano - Estudiantes Río C.": {
+        "Alt": 1.35,
+        "Üst": 2.3
+    },
+    "Paranaense - Bahia BA": {
+        "Alt": 1.71,
         "Üst": 1.69
     },
-    "CD Maipu - Gimnasia Jujuy": {
-        "Alt": 1.48,
-        "Üst": 1.86
+    "Inter Miami - San Diego": {
+        "Alt": 4.4,
+        "Üst": 1.05
     },
-    "Colon - CA Los Andes": {
-        "Alt": 2.98,
-        "Üst": 2.82
+    "Sacramento R. - San Antonio": {
+        "Alt": 1.44,
+        "Üst": 1.93
     },
-    "Nacional - Defensor Sp.": {
-        "Alt": 1.52,
-        "Üst": 1.8
+    "Spokane Velocity - AC Boise": {
+        "Alt": 1.81,
+        "Üst": 1.51
     },
-    "Rosario C. - Argentinos J.": {
-        "Alt": 1.37,
-        "Üst": 2.22
+    "CD Suchitepequez - Xelaju": {
+        "Alt": 1.47,
+        "Üst": 1.87
     },
-    "CA Platense - New Old Boys": {
-        "Alt": 1.27,
-        "Üst": 2.56
+    "Alajuelense - Inter San Carlos": {
+        "Alt": 1.9,
+        "Üst": 1.46
     },
-    "Csd Merlo - CSD Flandria": {
-        "Alt": 5.33,
-        "Üst": 3.33
-    },
-    "Central N. Salta - Defensores B.": {
-        "Alt": 4.57,
-        "Üst": 3.22
-    },
-    "Chaco For Ever - Almirante Brown": {
-        "Alt": 3.54,
-        "Üst": 2.91
-    },
-    "S. Martin SJ - Colegiales": {
-        "Alt": 3.54,
-        "Üst": 3.03
-    },
-    "CA Guemes - F. Midland": {
-        "Alt": 1.31,
-        "Üst": 3.37
-    },
-    "Academia Anzoategui - Caracas": {
-        "Alt": 1.59,
-        "Üst": 1.72
-    },
-    "Zamora - Metropolitan": {
-        "Alt": 1.59,
-        "Üst": 1.72
-    },
-    "Mount Pleasant - Racing Utd": {
-        "Alt": 1.54,
-        "Üst": 1.78
-    },
-    "Chapelton Maroons - Molynes": {
-        "Alt": 1.52,
-        "Üst": 1.8
-    },
-    "Treasure Beach - Tivoli Gardens": {
-        "Alt": 1.68,
-        "Üst": 1.63
-    },
-    "Montego Bay Utd - Tru Juice": {
-        "Alt": 2.69,
-        "Üst": 3.54
-    },
-    "Juan Pablo II - CD Moquegua": {
+    "Pachuca - Club Tijuana": {
         "Alt": 1.71,
-        "Üst": 1.6
-    },
-    "Dep. San Pedro - CSD Imperial": {
-        "Alt": 1.45,
-        "Üst": 1.92
-    },
-    "Houston Dynamo 2 - S. Kansas City II": {
-        "Alt": 1.64,
-        "Üst": 3.66
-    },
-    "Saint Louis City SC 2 - Austin II": {
-        "Alt": 1.72,
         "Üst": 1.59
     },
-    "R. Monarchs - Ventura County": {
-        "Alt": 1.42,
-        "Üst": 3.96
+    "CD Tapatio - Tlaxcala": {
+        "Alt": 1.91,
+        "Üst": 1.46
     },
-    "Colorado Rapids 2 - North Texas SC": {
-        "Alt": 2.06,
-        "Üst": 1.38
+    "Atl San Luis (K) - Pachuca (K)": {
+        "Alt": 2.09,
+        "Üst": 3.61
+    },
+    "Rancho Santana - Managua": {
+        "Alt": 2.07,
+        "Üst": 1.37
+    },
+    "Liverpool M. - R. Montevideo": {
+        "Alt": 1.34,
+        "Üst": 2.15
+    },
+    "CD Tolima - America De Cali": {
+        "Alt": 1.43,
+        "Üst": 1.95
+    },
+    "CD Olimpia - CA Independiente S.": {
+        "Alt": 1.94,
+        "Üst": 1.44
+    },
+    "LDU Quito - Uni. Catolica": {
+        "Alt": 1.62,
+        "Üst": 1.68
+    },
+    "Angel Firpo - Atletico Balboa": {
+        "Alt": 1.77,
+        "Üst": 1.55
+    },
+    "D. Toluca - Santos Laguna": {
+        "Alt": 2.91,
+        "Üst": 1.16
     }
 }
