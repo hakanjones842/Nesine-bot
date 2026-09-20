@@ -1,70 +1,82 @@
 {
-    "Erzurumspor FK - Samsunspor": {
-        "Alt": 1.5,
-        "Üst": 1.97
+    "Kortrijk - SK Beveren": {
+        "Alt": 1.88,
+        "Üst": 1.55
     },
-    "Fenerbahçe - Eyüpspor": {
-        "Alt": 1.36,
-        "Üst": 2.0
-    },
-    "Pendikspor - Bodrum FK": {
-        "Alt": 1.51,
-        "Üst": 1.81
-    },
-    "Manisa FK - İstanbulspor": {
-        "Alt": 2.02,
-        "Üst": 1.39
-    },
-    "St. Truidense - Westerlo": {
-        "Alt": 2.47,
-        "Üst": 1.3
-    },
-    "Southall - Dorking Wanderers": {
+    "FCV Dender EH - Patro M.": {
         "Alt": 1.64,
-        "Üst": 3.7
+        "Üst": 1.66
     },
-    "Gremio P. - Palmeiras SP": {
-        "Alt": 1.66,
-        "Üst": 1.73
+    "Marchamalo CD - CD Guadalajara B": {
+        "Alt": 1.46,
+        "Üst": 1.9
     },
-    "Hannoverscher - Hamburg II": {
-        "Alt": 3.4,
-        "Üst": 3.99
+    "Al Ahli Doha - Al Shahaniya": {
+        "Alt": 1.71,
+        "Üst": 1.6
     },
-    "SC Freiburg (K) - B. Leverkusen (K)": {
-        "Alt": 1.94,
-        "Üst": 3.43
+    "AL Rayyan - Katar SC": {
+        "Alt": 2.35,
+        "Üst": 1.28
     },
-    "KF Tirana - Af Elbasani": {
-        "Alt": 4.73,
-        "Üst": 3.4
+    "Brann - Bodo Glimt": {
+        "Alt": 3.32,
+        "Üst": 1.15
     },
-    "Dinamo Brest - Dnepr Mogilev": {
-        "Alt": 1.76,
-        "Üst": 1.56
+    "Paderborn - Hoffenheim": {
+        "Alt": 2.76,
+        "Üst": 1.23
     },
-    "KSC Lokeren Temse - Excelsior V.": {
-        "Alt": 2.09,
-        "Üst": 1.37
+    "W. Wiesbaden - Duisburg": {
+        "Alt": 1.85,
+        "Üst": 1.58
     },
-    "Ponte Preta - Crb Al": {
-        "Alt": 2.03,
-        "Üst": 1.39
+    "EV Tarnova - Chernomorets Burgas": {
+        "Alt": 1.86,
+        "Üst": 1.49
     },
-    "Marek Dupnica - PFC Rilski Sportist Samokov": {
+    "Modena - Empoli": {
+        "Alt": 1.73,
+        "Üst": 1.67
+    },
+    "Nyiregyhaza - Ferencvaros": {
+        "Alt": 2.05,
+        "Üst": 1.38
+    },
+    "GKS Tychy - Sandecja": {
+        "Alt": 1.72,
+        "Üst": 1.59
+    },
+    "D. Bükreş - Farul Cons.": {
+        "Alt": 1.84,
+        "Üst": 1.51
+    },
+    "San Lorenzo - Boca Juniors": {
+        "Alt": 1.26,
+        "Üst": 2.62
+    },
+    "Toronto II - New England R. II": {
+        "Alt": 1.52,
+        "Üst": 3.66
+    },
+    "Cincinnati 2 - Crown Legacy": {
+        "Alt": 1.92,
+        "Üst": 3.56
+    },
+    "Orlando City B - Atlanta Utd 2": {
+        "Alt": 1.37,
+        "Üst": 4.09
+    },
+    "Connecticut Utd - Inter Miami II": {
+        "Alt": 2.12,
+        "Üst": 3.83
+    },
+    "Chicago Fire II - Chattanooga": {
         "Alt": 1.36,
-        "Üst": 2.1
+        "Üst": 4.2
     },
-    "PFC Nesebar - Stara Zagora": {
-        "Alt": 1.42,
-        "Üst": 1.98
-    },
-    "Township Rollers - Extension Gunners": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
-    "AC Horsens - AGF Aarhus": {
-        "Alt": 1.87,
-        "Üst": 1.56
+    "Philadelphia Union II - New York City II": {
+        "Alt": 2.99,
+        "Üst": 3.87
     }
 }
