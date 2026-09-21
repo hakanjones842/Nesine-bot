@@ -1,35 +1,39 @@
 {
-    "Queretaro - Club Leon": {
-        "Alt": 1.78,
-        "Üst": 1.54
-    },
-    "Okinawa SV - Tiamo Hirakata": {
-        "Alt": 1.76,
-        "Üst": 1.56
-    },
     "Vizela U23 - Farense U23": {
         "Alt": 1.7,
         "Üst": 1.61
     },
     "Bolton Wanderers U21 - QPR U21": {
-        "Alt": 2.78,
-        "Üst": 3.75
+        "Alt": 2.84,
+        "Üst": 3.85
+    },
+    "Tromsö (A) - Kongvinger 2": {
+        "Alt": 2.21,
+        "Üst": 4.0
     },
     "N. Zamini Tehran - Fard": {
         "Alt": 1.21,
         "Üst": 1.23
     },
     "Odds BK II - Stabaek II": {
-        "Alt": 2.09,
-        "Üst": 3.86
+        "Alt": 2.07,
+        "Üst": 4.1
     },
     "PFK Sportist Svoge - PFC Vihren Sandanski": {
-        "Alt": 1.4,
-        "Üst": 2.01
+        "Alt": 1.48,
+        "Üst": 1.87
+    },
+    "Struga Trim - FK Arsimi 1973": {
+        "Alt": 2.5,
+        "Üst": 3.57
     },
     "Nomme Kalju U21 - Nomme Utd U21": {
+        "Alt": 1.74,
+        "Üst": 3.89
+    },
+    "Rustvai - Iberia 1999": {
         "Alt": 1.48,
-        "Üst": 4.18
+        "Üst": 1.86
     },
     "UD Leiria U23 - Gil Vicente U23": {
         "Alt": 1.79,
@@ -40,35 +44,43 @@
         "Üst": 1.83
     },
     "A. Petrzalka - Pohronie": {
-        "Alt": 1.93,
-        "Üst": 1.44
+        "Alt": 1.96,
+        "Üst": 1.43
     },
     "Xorazm Fk Urganch - Qizilqum Zarafshon": {
         "Alt": 1.42,
         "Üst": 1.98
     },
     "SC Paderborn 07 II - B. Dortmund II": {
-        "Alt": 1.4,
-        "Üst": 3.81
+        "Alt": 2.06,
+        "Üst": 1.38
     },
     "Werder Bremen (K) - VfB Stuttgart (K)": {
-        "Alt": 1.99,
-        "Üst": 1.42
+        "Alt": 2.0,
+        "Üst": 1.41
     },
     "PFC Spartak Pleven - Ludogorets Razgrad II": {
-        "Alt": 1.57,
-        "Üst": 1.74
+        "Alt": 1.54,
+        "Üst": 1.78
     },
     "Dobrudzha Dobrich - CSKA Sofia II": {
-        "Alt": 1.63,
-        "Üst": 1.67
+        "Alt": 1.62,
+        "Üst": 1.69
+    },
+    "Madla - FK Haugesund 2": {
+        "Alt": 1.92,
+        "Üst": 4.08
+    },
+    "Lyn 1896 FK II - Sarpsborg 08 2": {
+        "Alt": 2.19,
+        "Üst": 4.1
+    },
+    "S. Joerpeland - Viking (A)": {
+        "Alt": 2.46,
+        "Üst": 4.0
     },
     "Brumundal - Sandefjord Fotball 2": {
-        "Alt": 2.05,
-        "Üst": 4.03
-    },
-    "Montana 1921 - Hebar Pazardzhik": {
-        "Alt": 1.76,
-        "Üst": 1.55
+        "Alt": 1.7,
+        "Üst": 4.08
     }
 }
