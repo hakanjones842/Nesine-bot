@@ -1,47 +1,7 @@
 {
-    "Benjamin Aceval - CA Tembetary": {
-        "Alt": 1.63,
-        "Üst": 1.65
-    },
-    "Bogota - Barranquilla": {
-        "Alt": 1.6,
-        "Üst": 1.67
-    },
-    "Atlante (K) - Queretaro (K)": {
-        "Alt": 1.92,
-        "Üst": 1.43
-    },
-    "Barracas - Ind. Mendoza": {
-        "Alt": 1.3,
-        "Üst": 2.46
-    },
-    "Nueva Chicago - Patronato": {
-        "Alt": 3.07,
-        "Üst": 2.84
-    },
-    "R. S. Cundinamarca - Deportes Quindio": {
-        "Alt": 1.33,
-        "Üst": 2.13
-    },
-    "Encarnacion - Deportivo Capiata": {
-        "Alt": 1.45,
-        "Üst": 1.87
-    },
-    "Humble Lions - Waterhouse": {
-        "Alt": 1.59,
-        "Üst": 1.68
-    },
-    "Criciuma - Operario": {
-        "Alt": 1.39,
-        "Üst": 1.99
-    },
-    "Central Espanol - Torque": {
-        "Alt": 1.39,
-        "Üst": 1.98
-    },
     "Club Leon (K) - Juarez (K)": {
-        "Alt": 1.99,
-        "Üst": 1.39
+        "Alt": 1.95,
+        "Üst": 1.41
     },
     "Dep. Toluca (K) - Tigres UANL (K)": {
         "Alt": 1.46,
@@ -49,26 +9,70 @@
     },
     "Lanus - Estudiantes": {
         "Alt": 1.26,
-        "Üst": 2.59
+        "Üst": 2.6
     },
     "Cuiaba - Nautico PE": {
-        "Alt": 1.39,
-        "Üst": 1.98
+        "Alt": 1.37,
+        "Üst": 2.01
     },
     "SC Corinthians SP (K) - EC Bahia BA (K)": {
-        "Alt": 2.45,
-        "Üst": 3.53
+        "Alt": 2.51,
+        "Üst": 3.52
     },
     "R. Cartagena - Envigado": {
-        "Alt": 1.51,
-        "Üst": 1.78
+        "Alt": 1.5,
+        "Üst": 1.8
     },
     "Arnett Gardens - Dunbeholden": {
-        "Alt": 2.52,
-        "Üst": 3.5
+        "Alt": 2.06,
+        "Üst": 1.36
     },
     "C. Santos Laguna (K) - Cruz Azul (K)": {
-        "Alt": 2.04,
-        "Üst": 1.37
+        "Alt": 2.0,
+        "Üst": 1.38
+    },
+    "Filipinler U23 - Kuveyt U23": {
+        "Alt": 1.89,
+        "Üst": 1.44
+    },
+    "Güney Kore U23 - S. Arabistan U23": {
+        "Alt": 1.84,
+        "Üst": 1.47
+    },
+    "Santa Clara U23 - Portimonense U23": {
+        "Alt": 1.76,
+        "Üst": 1.52
+    },
+    "Wigan Ath U21 - Coventry City U21": {
+        "Alt": 3.23,
+        "Üst": 4.18
+    },
+    "Charlton Ath U21 - Sheffield Utd U21": {
+        "Alt": 3.59,
+        "Üst": 4.06
+    },
+    "Mes Kerman - Saipa": {
+        "Alt": 1.17,
+        "Üst": 2.7
+    },
+    "Dumbravita - CSM Resita": {
+        "Alt": 1.65,
+        "Üst": 1.63
+    },
+    "Havadar SC - Besat Kermanshah": {
+        "Alt": 1.22,
+        "Üst": 2.49
+    },
+    "Skjetten - Skjervoy": {
+        "Alt": 1.69,
+        "Üst": 3.88
+    },
+    "US Biskra - JS Saoura": {
+        "Alt": 1.23,
+        "Üst": 2.47
+    },
+    "NM Soleyman - Palayesh Naft B. A.": {
+        "Alt": 1.23,
+        "Üst": 2.43
     }
 }
