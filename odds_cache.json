@@ -1,82 +1,74 @@
 {
-    "Nomme Kalju U21 - Nomme Utd U21": {
-        "Alt": 1.65,
-        "Üst": 4.24
-    },
-    "FCI Levadia Tallinn U19 - Tammeka U21": {
-        "Alt": 2.15,
-        "Üst": 4.0
-    },
-    "Rustvai - Iberia 1999": {
-        "Alt": 1.46,
-        "Üst": 1.89
-    },
-    "Umm Salal SC - Kharitiyat": {
-        "Alt": 1.87,
-        "Üst": 1.48
-    },
-    "UD Leiria U23 - Gil Vicente U23": {
-        "Alt": 1.83,
-        "Üst": 1.51
-    },
-    "Otelul Galati - CS Corvinul 1921 H.": {
-        "Alt": 1.44,
-        "Üst": 1.93
-    },
-    "A. Petrzalka - Pohronie": {
-        "Alt": 2.05,
-        "Üst": 1.38
-    },
-    "Xorazm Fk Urganch - Qizilqum Zarafshon": {
-        "Alt": 1.39,
-        "Üst": 2.02
-    },
-    "SC Paderborn 07 II - B. Dortmund II": {
-        "Alt": 1.5,
-        "Üst": 3.64
-    },
-    "Werder Bremen (K) - VfB Stuttgart (K)": {
-        "Alt": 2.03,
-        "Üst": 1.39
-    },
-    "PFC Spartak Pleven - Ludogorets Razgrad II": {
-        "Alt": 1.57,
-        "Üst": 1.74
-    },
-    "Dobrudzha Dobrich - CSKA Sofia II": {
-        "Alt": 1.65,
+    "Benjamin Aceval - CA Tembetary": {
+        "Alt": 1.63,
         "Üst": 1.65
     },
-    "Antigua - Municipal": {
-        "Alt": 1.78,
-        "Üst": 3.44
+    "Bogota - Barranquilla": {
+        "Alt": 1.6,
+        "Üst": 1.67
     },
-    "Shahin Bandar Ameri - Pars Jonoubi": {
-        "Alt": 1.18,
-        "Üst": 1.24
-    },
-    "Madla - FK Haugesund 2": {
-        "Alt": 2.17,
-        "Üst": 3.94
-    },
-    "Lyn 1896 FK II - Sarpsborg 08 2": {
+    "Atlante (K) - Queretaro (K)": {
         "Alt": 1.92,
-        "Üst": 4.14
+        "Üst": 1.43
     },
-    "S. Joerpeland - Viking (A)": {
-        "Alt": 1.84,
-        "Üst": 3.96
+    "Barracas - Ind. Mendoza": {
+        "Alt": 1.3,
+        "Üst": 2.46
     },
-    "Brumundal - Sandefjord Fotball 2": {
-        "Alt": 2.03,
-        "Üst": 4.06
+    "Nueva Chicago - Patronato": {
+        "Alt": 3.07,
+        "Üst": 2.84
     },
-    "Spjelkavik - Rosenborg 2": {
-        "Alt": 1.64,
-        "Üst": 3.93
+    "R. S. Cundinamarca - Deportes Quindio": {
+        "Alt": 1.33,
+        "Üst": 2.13
     },
-    "Montana 1921 - Hebar Pazardzhik": {
-        "Alt": 1.79,
-        "Üst": 1.53
+    "Encarnacion - Deportivo Capiata": {
+        "Alt": 1.45,
+        "Üst": 1.87
+    },
+    "Humble Lions - Waterhouse": {
+        "Alt": 1.59,
+        "Üst": 1.68
+    },
+    "Criciuma - Operario": {
+        "Alt": 1.39,
+        "Üst": 1.99
+    },
+    "Central Espanol - Torque": {
+        "Alt": 1.39,
+        "Üst": 1.98
+    },
+    "Club Leon (K) - Juarez (K)": {
+        "Alt": 1.99,
+        "Üst": 1.39
+    },
+    "Dep. Toluca (K) - Tigres UANL (K)": {
+        "Alt": 1.46,
+        "Üst": 3.71
+    },
+    "Lanus - Estudiantes": {
+        "Alt": 1.26,
+        "Üst": 2.59
+    },
+    "Cuiaba - Nautico PE": {
+        "Alt": 1.39,
+        "Üst": 1.98
+    },
+    "SC Corinthians SP (K) - EC Bahia BA (K)": {
+        "Alt": 2.45,
+        "Üst": 3.53
+    },
+    "R. Cartagena - Envigado": {
+        "Alt": 1.51,
+        "Üst": 1.78
+    },
+    "Arnett Gardens - Dunbeholden": {
+        "Alt": 2.52,
+        "Üst": 3.5
+    },
+    "C. Santos Laguna (K) - Cruz Azul (K)": {
+        "Alt": 2.04,
+        "Üst": 1.37
     }
 }
