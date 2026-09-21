@@ -1,32 +1,4 @@
 {
-    "D. Toluca - Santos Laguna": {
-        "Alt": 2.81,
-        "Üst": 1.17
-    },
-    "Pachuca - Club Tijuana": {
-        "Alt": 1.71,
-        "Üst": 1.59
-    },
-    "V. Sarsfield - CA Tigre": {
-        "Alt": 1.25,
-        "Üst": 2.64
-    },
-    "Malacateco - Deportivo Mixco": {
-        "Alt": 1.65,
-        "Üst": 1.65
-    },
-    "AD San Carlos - CS Cartagines": {
-        "Alt": 1.57,
-        "Üst": 1.75
-    },
-    "Llaneros - Atl. Nacional Medellin": {
-        "Alt": 1.6,
-        "Üst": 1.71
-    },
-    "Juticalpa - Marathon": {
-        "Alt": 1.75,
-        "Üst": 1.56
-    },
     "Queretaro - Club Leon": {
         "Alt": 1.78,
         "Üst": 1.54
@@ -48,8 +20,8 @@
         "Üst": 1.23
     },
     "Odds BK II - Stabaek II": {
-        "Alt": 1.94,
-        "Üst": 3.83
+        "Alt": 2.09,
+        "Üst": 3.86
     },
     "PFK Sportist Svoge - PFC Vihren Sandanski": {
         "Alt": 1.4,
@@ -70,5 +42,33 @@
     "A. Petrzalka - Pohronie": {
         "Alt": 1.93,
         "Üst": 1.44
+    },
+    "Xorazm Fk Urganch - Qizilqum Zarafshon": {
+        "Alt": 1.42,
+        "Üst": 1.98
+    },
+    "SC Paderborn 07 II - B. Dortmund II": {
+        "Alt": 1.4,
+        "Üst": 3.81
+    },
+    "Werder Bremen (K) - VfB Stuttgart (K)": {
+        "Alt": 1.99,
+        "Üst": 1.42
+    },
+    "PFC Spartak Pleven - Ludogorets Razgrad II": {
+        "Alt": 1.57,
+        "Üst": 1.74
+    },
+    "Dobrudzha Dobrich - CSKA Sofia II": {
+        "Alt": 1.63,
+        "Üst": 1.67
+    },
+    "Brumundal - Sandefjord Fotball 2": {
+        "Alt": 2.05,
+        "Üst": 4.03
+    },
+    "Montana 1921 - Hebar Pazardzhik": {
+        "Alt": 1.76,
+        "Üst": 1.55
     }
 }
