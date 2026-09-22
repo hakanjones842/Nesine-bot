@@ -1,98 +1,94 @@
 {
-    "US Biskra - JS Saoura": {
-        "Alt": 1.07,
-        "Üst": 3.47
+    "Atletico - Tigres (Kol)": {
+        "Alt": 1.32,
+        "Üst": 2.14
     },
-    "NM Soleyman - Palayesh Naft B. A.": {
-        "Alt": 1.23,
-        "Üst": 2.43
+    "CD Real San Andres - Orsomarso SC": {
+        "Alt": 1.44,
+        "Üst": 1.9
     },
-    "Naft Gachsaran - Ario Eslamshahr": {
-        "Alt": 1.2,
-        "Üst": 2.59
+    "Independiente Yumbo - Internacional Palmira": {
+        "Alt": 1.33,
+        "Üst": 2.13
     },
-    "Academico V. U23 - Estoril Praia U23": {
-        "Alt": 2.05,
-        "Üst": 1.37
+    "D. Puerto Montt - Nublense": {
+        "Alt": 1.43,
+        "Üst": 1.92
     },
-    "B. Münih (K) - Man. City (K)": {
-        "Alt": 3.04,
-        "Üst": 1.12
+    "2 De Mayo - Sol de A.": {
+        "Alt": 1.74,
+        "Üst": 1.54
     },
-    "Inter (K) - Hacken (K)": {
-        "Alt": 1.77,
-        "Üst": 1.52
+    "Criciuma - Operario": {
+        "Alt": 1.36,
+        "Üst": 2.07
     },
-    "Bristol City U21 - Hull City U21": {
-        "Alt": 1.95,
-        "Üst": 3.75
-    },
-    "Asa Targu Mures - CS D. Bucuresti": {
-        "Alt": 3.55,
-        "Üst": 2.25
-    },
-    "Al Mesaimeer - AL Waab": {
-        "Alt": 1.72,
-        "Üst": 1.56
-    },
-    "Muaither SC - Al Khoor": {
-        "Alt": 2.13,
-        "Üst": 1.33
-    },
-    "Koninklijke - Dovo Veenendaal": {
-        "Alt": 2.28,
-        "Üst": 3.43
-    },
-    "Groene Ster - Amsterdamsche": {
-        "Alt": 1.81,
-        "Üst": 3.52
-    },
-    "Rkav Volendam - Spakenburg": {
-        "Alt": 1.6,
-        "Üst": 3.5
-    },
-    "ZSV Sportlust 46 - Excelsior Maassluis": {
-        "Alt": 1.98,
-        "Üst": 1.39
-    },
-    "Gvvv Veenendaal - SV Dvs 33 Ermelo": {
-        "Alt": 1.78,
-        "Üst": 3.42
-    },
-    "Staphorst - SC Genemuiden": {
+    "I. Medellin - J. De Cordoba": {
         "Alt": 2.03,
         "Üst": 1.37
     },
-    "EVV Echt - Rksv Halsteren": {
-        "Alt": 2.56,
-        "Üst": 3.8
+    "Audax Ital. - Colo Colo": {
+        "Alt": 1.71,
+        "Üst": 1.57
     },
-    "ACV Assen - Hzvv Hoogeveen": {
-        "Alt": 2.34,
-        "Üst": 3.89
-    },
-    "HHC Hardenberg - BVV Barendrecht": {
-        "Alt": 2.04,
-        "Üst": 3.43
-    },
-    "VV Eemdijk - RBC Roosendaal": {
-        "Alt": 1.46,
-        "Üst": 3.84
-    },
-    "Excelsior '31 - AFC '34": {
-        "Alt": 2.23,
-        "Üst": 3.58
-    },
-    "Rijnvogels - VV Sint Bavo": {
-        "Alt": 2.04,
-        "Üst": 1.37
-    },
-    "Plymouth - Crystal Palace U21": {
-        "Alt": 3.14,
-        "Üst": 1.1
-    },
-    "Walsall - Stevenage": {
-        "Alt": 1.5,
+    "CD Cobreloa C. - Coquimbo U.": {
+        "Alt": 1.51,
         "Üst": 1.79
+    },
+    "I. Santa Fe - Deport Cali": {
+        "Alt": 1.38,
+        "Üst": 2.0
+    },
+    "Kanagawa (K) - Saitama (K)": {
+        "Alt": 1.65,
+        "Üst": 1.63
+    },
+    "Tokyo Verdy B. (K) - Albirex Niigata (K)": {
+        "Alt": 1.82,
+        "Üst": 1.49
+    },
+    "İran U23 - Kuzey Kore U23": {
+        "Alt": 1.4,
+        "Üst": 1.96
+    },
+    "Çin U23 - B.A.E. U23": {
+        "Alt": 1.39,
+        "Üst": 1.99
+    },
+    "Urawa Red (K) - Nagano P. (K)": {
+        "Alt": 3.42,
+        "Üst": 2.06
+    },
+    "Omiya (K) - Mynavi S. (K)": {
+        "Alt": 1.59,
+        "Üst": 1.68
+    },
+    "JEF Utd Ichihara (K) - INAC Kobe L. (K)": {
+        "Alt": 1.84,
+        "Üst": 1.48
+    },
+    "Gamba Osaka - T. Vortis": {
+        "Alt": 1.72,
+        "Üst": 1.57
+    },
+    "Kyoto Sanga - Fujieda Myfc": {
+        "Alt": 1.72,
+        "Üst": 1.57
+    },
+    "Kashiwa - Imabari": {
+        "Alt": 1.27,
+        "Üst": 1.96
+    },
+    "Kashima - Ventforet": {
+        "Alt": 1.98,
+        "Üst": 1.4
+    },
+    "Vissel Kobe - Sagan Tosu": {
+        "Alt": 1.72,
+        "Üst": 1.57
+    },
+    "Machida Zelvia - Tochigi City": {
+        "Alt": 2.25,
+        "Üst": 1.29
     }
 }
