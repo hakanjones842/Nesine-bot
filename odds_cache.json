@@ -1,35 +1,7 @@
 {
-    "Club Leon (K) - Juarez (K)": {
-        "Alt": 1.95,
-        "Üst": 1.41
-    },
-    "Dep. Toluca (K) - Tigres UANL (K)": {
-        "Alt": 1.46,
-        "Üst": 3.71
-    },
-    "Lanus - Estudiantes": {
-        "Alt": 1.26,
-        "Üst": 2.6
-    },
-    "Cuiaba - Nautico PE": {
-        "Alt": 1.37,
-        "Üst": 2.01
-    },
-    "SC Corinthians SP (K) - EC Bahia BA (K)": {
-        "Alt": 2.51,
-        "Üst": 3.52
-    },
-    "R. Cartagena - Envigado": {
-        "Alt": 1.5,
-        "Üst": 1.8
-    },
-    "Arnett Gardens - Dunbeholden": {
-        "Alt": 2.06,
-        "Üst": 1.36
-    },
-    "C. Santos Laguna (K) - Cruz Azul (K)": {
-        "Alt": 2.0,
-        "Üst": 1.38
+    "Vietnam U23 - Özbekistan U23": {
+        "Alt": 1.41,
+        "Üst": 1.95
     },
     "Filipinler U23 - Kuveyt U23": {
         "Alt": 1.89,
@@ -56,8 +28,8 @@
         "Üst": 2.7
     },
     "Dumbravita - CSM Resita": {
-        "Alt": 1.65,
-        "Üst": 1.63
+        "Alt": 1.67,
+        "Üst": 1.6
     },
     "Havadar SC - Besat Kermanshah": {
         "Alt": 1.22,
@@ -74,5 +46,37 @@
     "NM Soleyman - Palayesh Naft B. A.": {
         "Alt": 1.23,
         "Üst": 2.43
+    },
+    "Naft Gachsaran - Ario Eslamshahr": {
+        "Alt": 1.2,
+        "Üst": 2.59
+    },
+    "Academico V. U23 - Estoril Praia U23": {
+        "Alt": 1.79,
+        "Üst": 1.51
+    },
+    "B. Münih (K) - Man. City (K)": {
+        "Alt": 2.35,
+        "Üst": 1.25
+    },
+    "Inter (K) - Hacken (K)": {
+        "Alt": 1.72,
+        "Üst": 1.56
+    },
+    "Bristol City U21 - Hull City U21": {
+        "Alt": 1.95,
+        "Üst": 3.73
+    },
+    "Asa Targu Mures - CS D. Bucuresti": {
+        "Alt": 3.89,
+        "Üst": 1.59
+    },
+    "Al Mesaimeer - AL Waab": {
+        "Alt": 1.76,
+        "Üst": 1.53
+    },
+    "Muaither SC - Al Khoor": {
+        "Alt": 2.04,
+        "Üst": 1.37
     }
 }
