@@ -1,39 +1,7 @@
 {
-    "Wigan Ath U21 - Coventry City U21": {
-        "Alt": 1.64,
-        "Üst": 4.12
-    },
-    "Charlton Ath U21 - Sheffield Utd U21": {
-        "Alt": 2.72,
-        "Üst": 3.6
-    },
-    "Mes Kerman - Saipa": {
-        "Alt": 1.17,
-        "Üst": 2.7
-    },
-    "Dumbravita - CSM Resita": {
-        "Alt": 1.67,
-        "Üst": 1.6
-    },
-    "Dibba - AL Ittifaq": {
-        "Alt": 2.02,
-        "Üst": 1.37
-    },
-    "Al Urooba (Bae) - Dubai City": {
-        "Alt": 1.91,
-        "Üst": 1.43
-    },
-    "Havadar SC - Besat Kermanshah": {
-        "Alt": 1.22,
-        "Üst": 2.49
-    },
-    "Skjetten - Skjervoy": {
-        "Alt": 2.25,
-        "Üst": 4.04
-    },
     "US Biskra - JS Saoura": {
-        "Alt": 1.09,
-        "Üst": 3.3
+        "Alt": 1.07,
+        "Üst": 3.47
     },
     "NM Soleyman - Palayesh Naft B. A.": {
         "Alt": 1.23,
@@ -44,32 +12,32 @@
         "Üst": 2.59
     },
     "Academico V. U23 - Estoril Praia U23": {
-        "Alt": 1.98,
-        "Üst": 1.4
+        "Alt": 2.05,
+        "Üst": 1.37
     },
     "B. Münih (K) - Man. City (K)": {
-        "Alt": 2.62,
-        "Üst": 1.19
+        "Alt": 3.04,
+        "Üst": 1.12
     },
     "Inter (K) - Hacken (K)": {
-        "Alt": 1.8,
-        "Üst": 1.5
+        "Alt": 1.77,
+        "Üst": 1.52
     },
     "Bristol City U21 - Hull City U21": {
         "Alt": 1.95,
-        "Üst": 3.73
+        "Üst": 3.75
     },
     "Asa Targu Mures - CS D. Bucuresti": {
-        "Alt": 3.93,
-        "Üst": 1.58
+        "Alt": 3.55,
+        "Üst": 2.25
     },
     "Al Mesaimeer - AL Waab": {
-        "Alt": 1.76,
-        "Üst": 1.53
+        "Alt": 1.72,
+        "Üst": 1.56
     },
     "Muaither SC - Al Khoor": {
-        "Alt": 2.04,
-        "Üst": 1.37
+        "Alt": 2.13,
+        "Üst": 1.33
     },
     "Koninklijke - Dovo Veenendaal": {
         "Alt": 2.28,
@@ -82,5 +50,49 @@
     "Rkav Volendam - Spakenburg": {
         "Alt": 1.6,
         "Üst": 3.5
+    },
+    "ZSV Sportlust 46 - Excelsior Maassluis": {
+        "Alt": 1.98,
+        "Üst": 1.39
+    },
+    "Gvvv Veenendaal - SV Dvs 33 Ermelo": {
+        "Alt": 1.78,
+        "Üst": 3.42
+    },
+    "Staphorst - SC Genemuiden": {
+        "Alt": 2.03,
+        "Üst": 1.37
+    },
+    "EVV Echt - Rksv Halsteren": {
+        "Alt": 2.56,
+        "Üst": 3.8
+    },
+    "ACV Assen - Hzvv Hoogeveen": {
+        "Alt": 2.34,
+        "Üst": 3.89
+    },
+    "HHC Hardenberg - BVV Barendrecht": {
+        "Alt": 2.04,
+        "Üst": 3.43
+    },
+    "VV Eemdijk - RBC Roosendaal": {
+        "Alt": 1.46,
+        "Üst": 3.84
+    },
+    "Excelsior '31 - AFC '34": {
+        "Alt": 2.23,
+        "Üst": 3.58
+    },
+    "Rijnvogels - VV Sint Bavo": {
+        "Alt": 2.04,
+        "Üst": 1.37
+    },
+    "Plymouth - Crystal Palace U21": {
+        "Alt": 3.14,
+        "Üst": 1.1
+    },
+    "Walsall - Stevenage": {
+        "Alt": 1.5,
+        "Üst": 1.79
     }
 }
