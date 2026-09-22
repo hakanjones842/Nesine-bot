@@ -1,19 +1,11 @@
 {
-    "Güney Kore U23 - S. Arabistan U23": {
-        "Alt": 1.91,
-        "Üst": 1.44
-    },
-    "Santa Clara U23 - Portimonense U23": {
-        "Alt": 1.73,
-        "Üst": 1.55
-    },
     "Wigan Ath U21 - Coventry City U21": {
-        "Alt": 3.21,
-        "Üst": 4.21
+        "Alt": 1.64,
+        "Üst": 4.12
     },
     "Charlton Ath U21 - Sheffield Utd U21": {
-        "Alt": 3.74,
-        "Üst": 3.98
+        "Alt": 2.72,
+        "Üst": 3.6
     },
     "Mes Kerman - Saipa": {
         "Alt": 1.17,
@@ -23,17 +15,25 @@
         "Alt": 1.67,
         "Üst": 1.6
     },
+    "Dibba - AL Ittifaq": {
+        "Alt": 2.02,
+        "Üst": 1.37
+    },
+    "Al Urooba (Bae) - Dubai City": {
+        "Alt": 1.91,
+        "Üst": 1.43
+    },
     "Havadar SC - Besat Kermanshah": {
         "Alt": 1.22,
         "Üst": 2.49
     },
     "Skjetten - Skjervoy": {
-        "Alt": 1.72,
-        "Üst": 3.76
+        "Alt": 2.25,
+        "Üst": 4.04
     },
     "US Biskra - JS Saoura": {
-        "Alt": 1.14,
-        "Üst": 2.92
+        "Alt": 1.09,
+        "Üst": 3.3
     },
     "NM Soleyman - Palayesh Naft B. A.": {
         "Alt": 1.23,
@@ -44,23 +44,23 @@
         "Üst": 2.59
     },
     "Academico V. U23 - Estoril Praia U23": {
-        "Alt": 1.82,
-        "Üst": 1.48
+        "Alt": 1.98,
+        "Üst": 1.4
     },
     "B. Münih (K) - Man. City (K)": {
-        "Alt": 2.49,
-        "Üst": 1.22
+        "Alt": 2.62,
+        "Üst": 1.19
     },
     "Inter (K) - Hacken (K)": {
-        "Alt": 1.75,
-        "Üst": 1.53
+        "Alt": 1.8,
+        "Üst": 1.5
     },
     "Bristol City U21 - Hull City U21": {
         "Alt": 1.95,
         "Üst": 3.73
     },
     "Asa Targu Mures - CS D. Bucuresti": {
-        "Alt": 3.92,
+        "Alt": 3.93,
         "Üst": 1.58
     },
     "Al Mesaimeer - AL Waab": {
@@ -76,23 +76,11 @@
         "Üst": 3.43
     },
     "Groene Ster - Amsterdamsche": {
-        "Alt": 1.93,
-        "Üst": 3.49
+        "Alt": 1.81,
+        "Üst": 3.52
     },
     "Rkav Volendam - Spakenburg": {
         "Alt": 1.6,
         "Üst": 3.5
-    },
-    "ZSV Sportlust 46 - Excelsior Maassluis": {
-        "Alt": 1.98,
-        "Üst": 1.39
-    },
-    "Gvvv Veenendaal - SV Dvs 33 Ermelo": {
-        "Alt": 1.78,
-        "Üst": 3.42
-    },
-    "Staphorst - SC Genemuiden": {
-        "Alt": 2.03,
-        "Üst": 1.37
     }
 }
