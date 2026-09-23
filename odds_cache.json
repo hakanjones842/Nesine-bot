@@ -1,43 +1,27 @@
 {
-    "Criciuma - Operario": {
-        "Alt": 1.36,
-        "Üst": 2.07
-    },
-    "I. Medellin - J. De Cordoba": {
-        "Alt": 2.7,
-        "Üst": 3.55
-    },
-    "Audax Ital. - Colo Colo": {
-        "Alt": 1.78,
-        "Üst": 1.51
-    },
-    "CD Cobreloa C. - Coquimbo U.": {
-        "Alt": 1.52,
-        "Üst": 1.77
-    },
     "I. Santa Fe - Deport Cali": {
-        "Alt": 1.38,
-        "Üst": 2.0
+        "Alt": 3.35,
+        "Üst": 3.16
     },
     "Kanagawa (K) - Saitama (K)": {
         "Alt": 1.65,
         "Üst": 1.63
     },
     "Tokyo Verdy B. (K) - Albirex Niigata (K)": {
-        "Alt": 1.82,
-        "Üst": 1.49
+        "Alt": 1.78,
+        "Üst": 1.51
     },
     "İran U23 - Kuzey Kore U23": {
         "Alt": 1.4,
         "Üst": 1.96
     },
     "Çin U23 - B.A.E. U23": {
-        "Alt": 1.41,
-        "Üst": 1.95
+        "Alt": 1.39,
+        "Üst": 1.99
     },
     "Urawa Red (K) - Nagano P. (K)": {
-        "Alt": 2.04,
-        "Üst": 1.37
+        "Alt": 2.0,
+        "Üst": 1.38
     },
     "Omiya (K) - Mynavi S. (K)": {
         "Alt": 1.59,
@@ -76,19 +60,23 @@
         "Üst": 1.88
     },
     "Real Madrid U19 - Getafe U19": {
-        "Alt": 2.44,
-        "Üst": 3.62
+        "Alt": 3.54,
+        "Üst": 2.02
     },
     "Kırgızistan U23 - Hong Kong U23": {
         "Alt": 1.92,
         "Üst": 1.43
     },
     "Japonya U23 - Tayland U23": {
-        "Alt": 3.41,
-        "Üst": 2.26
+        "Alt": 3.42,
+        "Üst": 2.2
     },
     "İtalya U20 (K) - İspanya U20 (K)": {
         "Alt": 1.8,
         "Üst": 1.5
+    },
+    "Irak - Umman": {
+        "Alt": 1.44,
+        "Üst": 1.88
     }
 }
