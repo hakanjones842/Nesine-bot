@@ -1,55 +1,51 @@
 {
-    "I. Santa Fe - Deport Cali": {
-        "Alt": 3.35,
-        "Üst": 3.16
-    },
     "Kanagawa (K) - Saitama (K)": {
-        "Alt": 1.65,
-        "Üst": 1.63
+        "Alt": 1.66,
+        "Üst": 1.6
     },
     "Tokyo Verdy B. (K) - Albirex Niigata (K)": {
         "Alt": 1.78,
         "Üst": 1.51
     },
     "İran U23 - Kuzey Kore U23": {
-        "Alt": 1.4,
-        "Üst": 1.96
+        "Alt": 1.42,
+        "Üst": 1.93
     },
     "Çin U23 - B.A.E. U23": {
-        "Alt": 1.39,
-        "Üst": 1.99
+        "Alt": 1.32,
+        "Üst": 2.14
     },
     "Urawa Red (K) - Nagano P. (K)": {
         "Alt": 2.0,
         "Üst": 1.38
     },
     "Omiya (K) - Mynavi S. (K)": {
-        "Alt": 1.59,
-        "Üst": 1.68
+        "Alt": 1.43,
+        "Üst": 1.93
     },
     "JEF Utd Ichihara (K) - INAC Kobe L. (K)": {
-        "Alt": 1.72,
-        "Üst": 1.56
+        "Alt": 1.78,
+        "Üst": 1.51
     },
     "Gamba Osaka - T. Vortis": {
         "Alt": 1.72,
-        "Üst": 1.57
+        "Üst": 1.56
     },
     "Kyoto Sanga - Fujieda Myfc": {
         "Alt": 1.72,
         "Üst": 1.57
     },
     "Kashiwa - Imabari": {
-        "Alt": 1.27,
-        "Üst": 1.96
+        "Alt": 1.24,
+        "Üst": 2.0
     },
     "Kashima - Ventforet": {
-        "Alt": 1.98,
-        "Üst": 1.39
+        "Alt": 2.0,
+        "Üst": 1.38
     },
     "Vissel Kobe - Sagan Tosu": {
-        "Alt": 1.72,
-        "Üst": 1.57
+        "Alt": 1.83,
+        "Üst": 1.48
     },
     "Machida Zelvia - Tochigi City": {
         "Alt": 2.21,
@@ -60,16 +56,16 @@
         "Üst": 1.88
     },
     "Real Madrid U19 - Getafe U19": {
-        "Alt": 3.54,
-        "Üst": 2.02
+        "Alt": 2.28,
+        "Üst": 3.61
     },
     "Kırgızistan U23 - Hong Kong U23": {
-        "Alt": 1.92,
-        "Üst": 1.43
+        "Alt": 1.89,
+        "Üst": 1.44
     },
     "Japonya U23 - Tayland U23": {
-        "Alt": 3.42,
-        "Üst": 2.2
+        "Alt": 3.39,
+        "Üst": 2.35
     },
     "İtalya U20 (K) - İspanya U20 (K)": {
         "Alt": 1.8,
@@ -78,5 +74,25 @@
     "Irak - Umman": {
         "Alt": 1.44,
         "Üst": 1.88
+    },
+    "Dreams - Medeama SC": {
+        "Alt": 1.58,
+        "Üst": 1.7
+    },
+    "Barau - Abia Warriors": {
+        "Alt": 1.4,
+        "Üst": 1.97
+    },
+    "Inter Lagos - Kano Pillars": {
+        "Alt": 1.41,
+        "Üst": 1.95
+    },
+    "Eng. Rangers - Ranchers Bees": {
+        "Alt": 1.51,
+        "Üst": 1.79
+    },
+    "Enyimba - Sporting Lagos": {
+        "Alt": 1.32,
+        "Üst": 2.15
     }
 }
