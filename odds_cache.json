@@ -1,74 +1,74 @@
 {
-    "Real Madrid U19 - Getafe U19": {
-        "Alt": 2.46,
-        "Üst": 3.63
-    },
-    "Kırgızistan U23 - Hong Kong U23": {
-        "Alt": 1.71,
-        "Üst": 3.38
-    },
-    "Japonya U23 - Tayland U23": {
-        "Alt": 3.86,
-        "Üst": 1.82
-    },
-    "İtalya U20 (K) - İspanya U20 (K)": {
-        "Alt": 1.77,
-        "Üst": 1.52
-    },
     "Irak - Umman": {
-        "Alt": 1.34,
-        "Üst": 2.09
+        "Alt": 1.16,
+        "Üst": 2.73
+    },
+    "AL Bataeh - Palm City": {
+        "Alt": 1.95,
+        "Üst": 1.41
     },
     "AL Jazira AL Hamra - Gulf": {
-        "Alt": 1.86,
-        "Üst": 1.46
+        "Alt": 1.79,
+        "Üst": 1.51
     },
-    "Dreams - Medeama SC": {
-        "Alt": 1.6,
-        "Üst": 1.67
+    "Gulf Utd - Fujairah": {
+        "Alt": 1.94,
+        "Üst": 1.41
+    },
+    "AL Arabi (Bae) - Emirates Club": {
+        "Alt": 1.91,
+        "Üst": 1.43
+    },
+    "Niger Tornadoes - Warri Wolves": {
+        "Alt": 2.1,
+        "Üst": 2.7
     },
     "Barau - Abia Warriors": {
         "Alt": 1.38,
         "Üst": 2.0
     },
-    "Inter Lagos - Kano Pillars": {
-        "Alt": 4.0,
-        "Üst": 3.12
-    },
     "Eng. Rangers - Ranchers Bees": {
-        "Alt": 1.51,
-        "Üst": 1.79
+        "Alt": 1.56,
+        "Üst": 1.72
     },
     "Enyimba - Sporting Lagos": {
-        "Alt": 1.34,
-        "Üst": 2.11
+        "Alt": 1.4,
+        "Üst": 1.97
     },
     "Shooting Stars - Katsina Utd": {
         "Alt": 1.48,
         "Üst": 1.84
     },
     "Azerbaycan - Tacikistan": {
-        "Alt": 1.54,
-        "Üst": 1.74
+        "Alt": 1.41,
+        "Üst": 1.96
     },
     "Cebelitarık - S. T. ve Principe": {
-        "Alt": 1.86,
-        "Üst": 1.46
+        "Alt": 1.9,
+        "Üst": 1.44
     },
     "Birmingham Legion - Brooklyn": {
-        "Alt": 2.16,
-        "Üst": 1.32
+        "Alt": 2.37,
+        "Üst": 1.25
     },
     "FK Bregalnica Stip - FK Skopje": {
         "Alt": 1.65,
         "Üst": 1.63
     },
     "Grorud IL - Moss": {
-        "Alt": 1.47,
-        "Üst": 3.73
+        "Alt": 1.31,
+        "Üst": 3.89
     },
     "Kuzey Kore U20 (K) - Kolombiya U20 (K)": {
-        "Alt": 1.36,
-        "Üst": 1.69
+        "Alt": 3.34,
+        "Üst": 2.57
+    },
+    "OH Leuven (K) - AS Roma (K)": {
+        "Alt": 1.93,
+        "Üst": 1.43
+    },
+    "VV Zwaluwen Vlaardingen - Vpv Purmersteijn": {
+        "Alt": 1.32,
+        "Üst": 3.9
     }
 }
