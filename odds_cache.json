@@ -1,44 +1,4 @@
 {
-    "Liverpool M. - Colon": {
-        "Alt": 1.56,
-        "Üst": 1.72
-    },
-    "Boston River - Atl Fenix M.": {
-        "Alt": 1.44,
-        "Üst": 1.88
-    },
-    "Hamilton - Cowdenbeath": {
-        "Alt": 3.99,
-        "Üst": 1.69
-    },
-    "Turks ve Caicos Adaları - Montserrat": {
-        "Alt": 3.5,
-        "Üst": 1.97
-    },
-    "UE Sant Andreu - Real Madrid B": {
-        "Alt": 1.5,
-        "Üst": 1.8
-    },
-    "San Lorenzo - 4 de Mayo": {
-        "Alt": 3.3,
-        "Üst": 1.84
-    },
-    "Bahamalar - Saint Martin": {
-        "Alt": 3.69,
-        "Üst": 1.7
-    },
-    "A. Deportiva Tarma - CS Cienciano": {
-        "Alt": 1.92,
-        "Üst": 1.43
-    },
-    "Curico Unido - Dep. Concepcion": {
-        "Alt": 1.44,
-        "Üst": 1.9
-    },
-    "Fernando Mora - L. Asuncion": {
-        "Alt": 1.81,
-        "Üst": 1.49
-    },
     "Aruba - Antigua & Bar.": {
         "Alt": 1.87,
         "Üst": 1.45
@@ -47,20 +7,76 @@
         "Alt": 1.4,
         "Üst": 1.97
     },
+    "Montevideo - CS Cerrito": {
+        "Alt": 1.31,
+        "Üst": 2.16
+    },
     "D. Union La Calera - Uni. Catolica": {
-        "Alt": 1.58,
-        "Üst": 1.7
+        "Alt": 1.42,
+        "Üst": 3.42
     },
     "Dep. Iquique - Antofagasta": {
         "Alt": 1.58,
         "Üst": 1.7
     },
     "America De Cali - R. Aguilas": {
-        "Alt": 1.59,
-        "Üst": 1.68
+        "Alt": 1.66,
+        "Üst": 1.61
     },
     "Angel Firpo - C.D. Cacahuatique": {
-        "Alt": 1.67,
-        "Üst": 1.6
+        "Alt": 1.72,
+        "Üst": 1.56
+    },
+    "Alianza - Fuerte San Francisco": {
+        "Alt": 1.61,
+        "Üst": 1.66
+    },
+    "S. Sounders - Real Salt Lake": {
+        "Alt": 2.23,
+        "Üst": 1.37
+    },
+    "Xelaju - Antigua": {
+        "Alt": 1.6,
+        "Üst": 1.67
+    },
+    "Vancouver Langley - York Utd": {
+        "Alt": 2.03,
+        "Üst": 1.37
+    },
+    "Laos - Brunei": {
+        "Alt": 2.9,
+        "Üst": 3.7
+    },
+    "Filistin - Yeni Zelanda": {
+        "Alt": 1.53,
+        "Üst": 1.76
+    },
+    "Japonya - Uruguay": {
+        "Alt": 1.51,
+        "Üst": 1.79
+    },
+    "Güney Kore - Ekvador": {
+        "Alt": 1.47,
+        "Üst": 1.84
+    },
+    "Myanmar - Doğu Timor": {
+        "Alt": 2.21,
+        "Üst": 3.64
+    },
+    "Namibya - Kongo": {
+        "Alt": 1.31,
+        "Üst": 2.16
+    },
+    "Team Cairo - El Daklyeh": {
+        "Alt": 4.31,
+        "Üst": 3.24
+    },
+    "Kahrabaa Ismailia - Farco": {
+        "Alt": 4.43,
+        "Üst": 3.26
+    },
+    "AL Nasr Cairo - El Sekka El Hadid": {
+        "Alt": 4.69,
+        "Üst": 3.17
     }
 }
