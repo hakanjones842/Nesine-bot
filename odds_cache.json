@@ -1,74 +1,66 @@
 {
-    "Irak - Umman": {
-        "Alt": 1.16,
-        "Üst": 2.73
-    },
-    "AL Bataeh - Palm City": {
-        "Alt": 1.95,
-        "Üst": 1.41
-    },
-    "AL Jazira AL Hamra - Gulf": {
-        "Alt": 1.79,
-        "Üst": 1.51
-    },
-    "Gulf Utd - Fujairah": {
-        "Alt": 1.94,
-        "Üst": 1.41
-    },
-    "AL Arabi (Bae) - Emirates Club": {
-        "Alt": 1.91,
-        "Üst": 1.43
-    },
-    "Niger Tornadoes - Warri Wolves": {
-        "Alt": 2.1,
-        "Üst": 2.7
-    },
-    "Barau - Abia Warriors": {
-        "Alt": 1.38,
-        "Üst": 2.0
-    },
-    "Eng. Rangers - Ranchers Bees": {
+    "Liverpool M. - Colon": {
         "Alt": 1.56,
         "Üst": 1.72
     },
-    "Enyimba - Sporting Lagos": {
+    "Boston River - Atl Fenix M.": {
+        "Alt": 1.44,
+        "Üst": 1.88
+    },
+    "Hamilton - Cowdenbeath": {
+        "Alt": 3.99,
+        "Üst": 1.69
+    },
+    "Turks ve Caicos Adaları - Montserrat": {
+        "Alt": 3.5,
+        "Üst": 1.97
+    },
+    "UE Sant Andreu - Real Madrid B": {
+        "Alt": 1.5,
+        "Üst": 1.8
+    },
+    "San Lorenzo - 4 de Mayo": {
+        "Alt": 3.3,
+        "Üst": 1.84
+    },
+    "Bahamalar - Saint Martin": {
+        "Alt": 3.69,
+        "Üst": 1.7
+    },
+    "A. Deportiva Tarma - CS Cienciano": {
+        "Alt": 1.92,
+        "Üst": 1.43
+    },
+    "Curico Unido - Dep. Concepcion": {
+        "Alt": 1.44,
+        "Üst": 1.9
+    },
+    "Fernando Mora - L. Asuncion": {
+        "Alt": 1.81,
+        "Üst": 1.49
+    },
+    "Aruba - Antigua & Bar.": {
+        "Alt": 1.87,
+        "Üst": 1.45
+    },
+    "Ca Cerro - D. Maldonado": {
         "Alt": 1.4,
         "Üst": 1.97
     },
-    "Shooting Stars - Katsina Utd": {
-        "Alt": 1.48,
-        "Üst": 1.84
+    "D. Union La Calera - Uni. Catolica": {
+        "Alt": 1.58,
+        "Üst": 1.7
     },
-    "Azerbaycan - Tacikistan": {
-        "Alt": 1.41,
-        "Üst": 1.96
+    "Dep. Iquique - Antofagasta": {
+        "Alt": 1.58,
+        "Üst": 1.7
     },
-    "Cebelitarık - S. T. ve Principe": {
-        "Alt": 1.9,
-        "Üst": 1.44
+    "America De Cali - R. Aguilas": {
+        "Alt": 1.59,
+        "Üst": 1.68
     },
-    "Birmingham Legion - Brooklyn": {
-        "Alt": 2.37,
-        "Üst": 1.25
-    },
-    "FK Bregalnica Stip - FK Skopje": {
-        "Alt": 1.65,
-        "Üst": 1.63
-    },
-    "Grorud IL - Moss": {
-        "Alt": 1.31,
-        "Üst": 3.89
-    },
-    "Kuzey Kore U20 (K) - Kolombiya U20 (K)": {
-        "Alt": 3.34,
-        "Üst": 2.57
-    },
-    "OH Leuven (K) - AS Roma (K)": {
-        "Alt": 1.93,
-        "Üst": 1.43
-    },
-    "VV Zwaluwen Vlaardingen - Vpv Purmersteijn": {
-        "Alt": 1.32,
-        "Üst": 3.9
+    "Angel Firpo - C.D. Cacahuatique": {
+        "Alt": 1.67,
+        "Üst": 1.6
     }
 }
