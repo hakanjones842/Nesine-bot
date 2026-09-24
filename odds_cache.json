@@ -1,47 +1,23 @@
 {
-    "America De Cali - R. Aguilas": {
-        "Alt": 1.9,
-        "Üst": 3.1
-    },
-    "Angel Firpo - C.D. Cacahuatique": {
-        "Alt": 1.72,
-        "Üst": 1.56
-    },
-    "Alianza - Fuerte San Francisco": {
-        "Alt": 3.05,
-        "Üst": 2.02
-    },
-    "S. Sounders - Real Salt Lake": {
-        "Alt": 2.27,
-        "Üst": 1.36
-    },
-    "Xelaju - Antigua": {
-        "Alt": 1.6,
-        "Üst": 1.67
-    },
-    "Vancouver Langley - York Utd": {
-        "Alt": 2.07,
-        "Üst": 1.36
-    },
     "Laos - Brunei": {
-        "Alt": 2.77,
-        "Üst": 3.73
+        "Alt": 2.78,
+        "Üst": 3.69
     },
     "Filistin - Yeni Zelanda": {
         "Alt": 1.53,
         "Üst": 1.76
     },
     "Japonya - Uruguay": {
-        "Alt": 1.51,
-        "Üst": 1.79
+        "Alt": 1.49,
+        "Üst": 1.82
     },
     "Güney Kore - Ekvador": {
-        "Alt": 1.47,
-        "Üst": 1.84
+        "Alt": 1.45,
+        "Üst": 1.87
     },
     "Myanmar - Doğu Timor": {
-        "Alt": 2.12,
-        "Üst": 3.6
+        "Alt": 2.01,
+        "Üst": 3.62
     },
     "Namibya - Kongo": {
         "Alt": 1.31,
@@ -72,7 +48,39 @@
         "Üst": 1.37
     },
     "Rivers Utd - Kun Khalifat": {
-        "Alt": 2.42,
-        "Üst": 3.47
+        "Alt": 2.44,
+        "Üst": 3.46
+    },
+    "B. A. Emirlikleri - Yemen": {
+        "Alt": 1.86,
+        "Üst": 1.46
+    },
+    "Andorra - Malta": {
+        "Alt": 1.21,
+        "Üst": 2.85
+    },
+    "D. Kongo Cum. - Ekvator Ginesi": {
+        "Alt": 1.52,
+        "Üst": 1.77
+    },
+    "Moritanya - Orta Afrika Cum.": {
+        "Alt": 1.33,
+        "Üst": 2.13
+    },
+    "Libya - Botsvana": {
+        "Alt": 1.3,
+        "Üst": 2.2
+    },
+    "Al Ahli (Ürd) - Maan": {
+        "Alt": 1.38,
+        "Üst": 2.01
+    },
+    "Sahl Horan SC - Hay AL Amir Hassan": {
+        "Alt": 1.4,
+        "Üst": 1.96
+    },
+    "Katar - Bahreyn": {
+        "Alt": 1.47,
+        "Üst": 1.85
     }
 }
