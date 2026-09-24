@@ -1,82 +1,78 @@
 {
-    "Katar - Bahreyn": {
-        "Alt": 1.34,
-        "Üst": 2.11
+    "O'Higgins - CD Santa Cruz": {
+        "Alt": 1.87,
+        "Üst": 1.45
     },
-    "Belçika U21 - Belarus U21": {
-        "Alt": 1.37,
-        "Üst": 2.14
+    "CD Recoleta - Guairena": {
+        "Alt": 1.93,
+        "Üst": 1.42
     },
-    "IK Kongahalla - Lindome": {
-        "Alt": 1.36,
-        "Üst": 4.13
+    "Everton DV - U. Chile": {
+        "Alt": 1.76,
+        "Üst": 1.52
     },
-    "Torque - CA Atenas de S. C.": {
-        "Alt": 1.52,
-        "Üst": 1.76
-    },
-    "Danubio - Penarol": {
-        "Alt": 1.37,
-        "Üst": 2.03
-    },
-    "Portekiz - Galler": {
-        "Alt": 1.17,
-        "Üst": 1.81
-    },
-    "Norveç - Danimarka": {
-        "Alt": 2.28,
-        "Üst": 1.35
-    },
-    "Sırbistan - Yunanistan": {
-        "Alt": 1.51,
-        "Üst": 1.94
-    },
-    "Hollanda - Almanya": {
-        "Alt": 2.63,
-        "Üst": 1.33
-    },
-    "Kosova - İrlanda": {
-        "Alt": 1.39,
-        "Üst": 2.19
-    },
-    "Lihtenştayn - Litvanya": {
-        "Alt": 1.4,
-        "Üst": 2.16
-    },
-    "Caen - Rouen": {
-        "Alt": 1.72,
-        "Üst": 1.56
-    },
-    "Fildişi Sahili - Gana": {
-        "Alt": 1.37,
-        "Üst": 2.04
-    },
-    "Kamerun - Komorlar": {
-        "Alt": 1.4,
-        "Üst": 1.97
-    },
-    "Sierra Leone - Zimbabve": {
-        "Alt": 1.23,
-        "Üst": 2.42
-    },
-    "Tunus - Uganda": {
+    "Dominik Cum. - Nikaragua": {
         "Alt": 1.53,
         "Üst": 1.76
     },
-    "Porto Riko - Guyana": {
-        "Alt": 1.68,
-        "Üst": 1.59
+    "Gualaceo SC - Independiente D.": {
+        "Alt": 1.67,
+        "Üst": 1.6
     },
-    "Atletico Rojiblanco - Cuenca Juniors": {
-        "Alt": 3.33,
-        "Üst": 2.98
+    "Cayman Adaları - Dominika": {
+        "Alt": 1.64,
+        "Üst": 1.64
     },
-    "CA Tembetary - Sportivo Iteno": {
-        "Alt": 1.85,
-        "Üst": 1.47
+    "Haiti - Trinidad & T.": {
+        "Alt": 1.65,
+        "Üst": 1.63
     },
-    "U. Sp. Amal Tiznit - I. Tanger": {
-        "Alt": 1.18,
-        "Üst": 2.64
+    "Atl. Nacional Medellin - Millonarios": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "M.D. Zacatecas - Piratas Veracruz": {
+        "Alt": 1.51,
+        "Üst": 1.78
+    },
+    "A. Oaxaca - Atl La Paz": {
+        "Alt": 1.95,
+        "Üst": 1.41
+    },
+    "Kosta Rika - Curaçao": {
+        "Alt": 1.51,
+        "Üst": 1.79
+    },
+    "Municipal - CD Suchitepequez": {
+        "Alt": 1.78,
+        "Üst": 1.51
+    },
+    "Özbekistan U23 - S. Arabistan U23": {
+        "Alt": 1.48,
+        "Üst": 1.84
+    },
+    "Bangladeş - Malezya": {
+        "Alt": 2.74,
+        "Üst": 3.35
+    },
+    "Polonya U19 - İsviçre U19": {
+        "Alt": 1.8,
+        "Üst": 1.5
+    },
+    "İtalya U20 - İngiltere U20": {
+        "Alt": 1.71,
+        "Üst": 1.58
+    },
+    "Avustralya - Brezilya": {
+        "Alt": 2.02,
+        "Üst": 1.37
+    },
+    "Güney Kore U23 - Vietnam U23": {
+        "Alt": 1.28,
+        "Üst": 1.89
+    },
+    "Wuxi Wuguo - Guangxi Hengchen": {
+        "Alt": 1.79,
+        "Üst": 1.51
     }
 }
