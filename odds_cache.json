@@ -1,86 +1,82 @@
 {
     "Laos - Brunei": {
-        "Alt": 2.78,
-        "Üst": 3.69
+        "Alt": 2.63,
+        "Üst": 3.46
     },
     "Filistin - Yeni Zelanda": {
-        "Alt": 1.53,
-        "Üst": 1.76
+        "Alt": 1.47,
+        "Üst": 1.85
     },
     "Japonya - Uruguay": {
-        "Alt": 1.49,
-        "Üst": 1.82
+        "Alt": 1.53,
+        "Üst": 1.75
     },
     "Güney Kore - Ekvador": {
         "Alt": 1.45,
-        "Üst": 1.87
+        "Üst": 1.86
     },
     "Myanmar - Doğu Timor": {
-        "Alt": 2.01,
-        "Üst": 3.62
+        "Alt": 3.68,
+        "Üst": 2.21
     },
     "Namibya - Kongo": {
-        "Alt": 1.31,
-        "Üst": 2.16
+        "Alt": 1.29,
+        "Üst": 2.25
     },
     "Team Cairo - El Daklyeh": {
-        "Alt": 4.31,
-        "Üst": 3.24
+        "Alt": 4.04,
+        "Üst": 3.13
     },
     "Kahrabaa Ismailia - Farco": {
-        "Alt": 4.43,
-        "Üst": 3.26
+        "Alt": 4.1,
+        "Üst": 3.19
     },
     "AL Nasr Cairo - El Sekka El Hadid": {
-        "Alt": 4.69,
-        "Üst": 3.17
+        "Alt": 4.27,
+        "Üst": 3.22
     },
     "Maleyat Kafr El Z. - El Mansurah": {
         "Alt": 4.53,
-        "Üst": 3.18
+        "Üst": 3.17
     },
     "Masar - Proxy SC": {
         "Alt": 1.34,
         "Üst": 2.1
+    },
+    "Sırbistan U19 - Bulgaristan U19": {
+        "Alt": 1.78,
+        "Üst": 1.51
     },
     "NK Koprivnica - NK Uskok": {
         "Alt": 2.03,
         "Üst": 1.37
     },
     "Rivers Utd - Kun Khalifat": {
-        "Alt": 2.44,
-        "Üst": 3.46
+        "Alt": 1.93,
+        "Üst": 1.42
     },
     "B. A. Emirlikleri - Yemen": {
-        "Alt": 1.86,
-        "Üst": 1.46
+        "Alt": 1.83,
+        "Üst": 1.48
     },
     "Andorra - Malta": {
-        "Alt": 1.21,
-        "Üst": 2.85
+        "Alt": 1.2,
+        "Üst": 2.91
     },
     "D. Kongo Cum. - Ekvator Ginesi": {
         "Alt": 1.52,
         "Üst": 1.77
     },
     "Moritanya - Orta Afrika Cum.": {
-        "Alt": 1.33,
-        "Üst": 2.13
+        "Alt": 1.31,
+        "Üst": 2.18
     },
     "Libya - Botsvana": {
-        "Alt": 1.3,
-        "Üst": 2.2
+        "Alt": 1.32,
+        "Üst": 2.16
     },
     "Al Ahli (Ürd) - Maan": {
-        "Alt": 1.38,
-        "Üst": 2.01
-    },
-    "Sahl Horan SC - Hay AL Amir Hassan": {
-        "Alt": 1.4,
-        "Üst": 1.96
-    },
-    "Katar - Bahreyn": {
-        "Alt": 1.47,
-        "Üst": 1.85
+        "Alt": 1.51,
+        "Üst": 1.79
     }
 }
