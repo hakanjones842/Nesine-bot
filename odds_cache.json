@@ -1,78 +1,86 @@
 {
-    "Kosta Rika - Curaçao": {
-        "Alt": 1.58,
-        "Üst": 1.7
-    },
-    "Municipal - CD Suchitepequez": {
-        "Alt": 2.54,
-        "Üst": 1.51
-    },
-    "Özbekistan U23 - S. Arabistan U23": {
-        "Alt": 1.48,
-        "Üst": 1.84
-    },
     "Bangladeş - Malezya": {
-        "Alt": 2.63,
-        "Üst": 3.36
+        "Alt": 1.64,
+        "Üst": 3.55
     },
     "Polonya U19 - İsviçre U19": {
-        "Alt": 3.91,
-        "Üst": 3.68
+        "Alt": 1.8,
+        "Üst": 1.5
     },
     "İtalya U20 - İngiltere U20": {
-        "Alt": 1.71,
-        "Üst": 1.58
+        "Alt": 1.77,
+        "Üst": 1.52
     },
     "Avustralya - Brezilya": {
-        "Alt": 2.11,
-        "Üst": 1.34
+        "Alt": 2.28,
+        "Üst": 1.28
     },
     "Güney Kore U23 - Vietnam U23": {
-        "Alt": 1.28,
-        "Üst": 1.81
+        "Alt": 1.27,
+        "Üst": 1.87
     },
     "Wuxi Wuguo - Guangxi Hengchen": {
-        "Alt": 1.76,
-        "Üst": 1.53
+        "Alt": 1.79,
+        "Üst": 1.51
     },
     "Barnsley U21 - Sheffield Utd U21": {
         "Alt": 1.41,
-        "Üst": 3.89
+        "Üst": 3.82
     },
     "Tanzanya - Gine Bissau": {
-        "Alt": 1.3,
-        "Üst": 2.19
+        "Alt": 1.29,
+        "Üst": 2.24
     },
     "Sudan - Etiyopya": {
-        "Alt": 1.31,
-        "Üst": 2.18
+        "Alt": 1.32,
+        "Üst": 2.14
     },
     "Mozambik - Senegal": {
-        "Alt": 1.68,
-        "Üst": 1.59
+        "Alt": 1.65,
+        "Üst": 1.62
     },
     "Endonezya - Singapur": {
-        "Alt": 3.42,
-        "Üst": 2.13
+        "Alt": 3.44,
+        "Üst": 2.0
     },
     "PSG U19 - SM Caen U19": {
-        "Alt": 2.09,
-        "Üst": 3.42
+        "Alt": 1.86,
+        "Üst": 3.38
     },
     "Dinamo Zagreb II - Mladost Zdralovi": {
-        "Alt": 1.56,
-        "Üst": 1.72
+        "Alt": 1.51,
+        "Üst": 1.79
     },
     "CS Maritimo U23 - Benfica U23": {
-        "Alt": 1.84,
-        "Üst": 1.48
+        "Alt": 1.97,
+        "Üst": 3.36
+    },
+    "AL Sarhan - AL Aqaba": {
+        "Alt": 1.94,
+        "Üst": 1.41
     },
     "Mega Sport Belqas - Ismaily Sc": {
-        "Alt": 4.35,
-        "Üst": 3.24
+        "Alt": 1.24,
+        "Üst": 3.45
     },
     "EL Terasanah - Baladiyyat AL M.": {
-        "Alt": 4.94,
-        "Üst": 3.4
+        "Alt": 4.56,
+        "Üst": 3.32
+    },
+    "Telecom Egypt - La Viena": {
+        "Alt": 4.21,
+        "Üst": 3.06
+    },
+    "Haras Hodood - Dayrout": {
+        "Alt": 1.5,
+        "Üst": 1.81
+    },
+    "Entag Harby - Tanta": {
+        "Alt": 4.74,
+        "Üst": 3.34
+    },
+    "Fransa U19 - İtalya U19": {
+        "Alt": 1.8,
+        "Üst": 1.5
     }
 }
