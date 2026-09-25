@@ -1,55 +1,7 @@
 {
-    "Grenada - Küba": {
-        "Alt": 1.44,
-        "Üst": 1.91
-    },
-    "Club General C. - 3 de Noviembre": {
-        "Alt": 1.92,
-        "Üst": 1.43
-    },
-    "Ituzaingo - Unidos": {
-        "Alt": 1.36,
-        "Üst": 3.28
-    },
-    "Club Mercedes - Puerto Nuevo": {
-        "Alt": 4.7,
-        "Üst": 3.34
-    },
-    "Gremio Novo - Sao Bernardo": {
-        "Alt": 1.7,
-        "Üst": 1.58
-    },
-    "Hartford Ath - Louisville": {
-        "Alt": 1.78,
-        "Üst": 1.51
-    },
-    "Excursionist - Real Pilar": {
-        "Alt": 1.33,
-        "Üst": 2.13
-    },
-    "U. Magdalena - I. Santa Fe": {
-        "Alt": 1.48,
-        "Üst": 1.83
-    },
-    "Colo Colo - Audax Ital.": {
-        "Alt": 1.93,
-        "Üst": 1.42
-    },
-    "Boyaca Chico - Deportivo Pasto": {
-        "Alt": 1.31,
-        "Üst": 2.18
-    },
-    "Sporting Jax - Loudoun Utd": {
-        "Alt": 2.28,
-        "Üst": 1.28
-    },
-    "Vila Nova - Londrina PR": {
-        "Alt": 1.53,
-        "Üst": 1.76
-    },
     "Barbados - Saint Lucia": {
-        "Alt": 1.77,
-        "Üst": 1.52
+        "Alt": 1.9,
+        "Üst": 1.44
     },
     "Jamaika - Guatemala": {
         "Alt": 1.42,
@@ -64,11 +16,59 @@
         "Üst": 1.54
     },
     "Honduras - Surinam": {
-        "Alt": 1.42,
-        "Üst": 1.93
+        "Alt": 1.4,
+        "Üst": 1.97
     },
     "Cavalry - Supra Du Quebec": {
         "Alt": 2.14,
         "Üst": 1.32
+    },
+    "Atlante - Monterrey": {
+        "Alt": 1.8,
+        "Üst": 1.5
+    },
+    "Correcaminos - Jaiba Brava": {
+        "Alt": 1.89,
+        "Üst": 1.44
+    },
+    "Cruz Azul (K) - Guadalajara (K)": {
+        "Alt": 1.97,
+        "Üst": 1.4
+    },
+    "Once Caldas - CA Bucaramanga": {
+        "Alt": 1.44,
+        "Üst": 1.89
+    },
+    "Wellington P. 2 - Auckland Utd": {
+        "Alt": 2.03,
+        "Üst": 3.56
+    },
+    "El Salvador - Martinik": {
+        "Alt": 1.38,
+        "Üst": 2.0
+    },
+    "Club Tijuana - Atlas": {
+        "Alt": 1.64,
+        "Üst": 1.64
+    },
+    "Ferrymead Bays - Eastern Suburbs": {
+        "Alt": 1.9,
+        "Üst": 1.44
+    },
+    "Z. Kanazawa - Gainare Tottori": {
+        "Alt": 1.71,
+        "Üst": 1.57
+    },
+    "Briobecca Urayasu - J Lease": {
+        "Alt": 1.37,
+        "Üst": 2.04
+    },
+    "Renofa Y. - SC Sagamihara": {
+        "Alt": 1.65,
+        "Üst": 1.62
+    },
+    "Tiamo Hirakata - Vonds Ichihara": {
+        "Alt": 1.62,
+        "Üst": 1.65
     }
 }
