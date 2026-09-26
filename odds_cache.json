@@ -1,82 +1,86 @@
 {
-    "Vietnam - Filipinler": {
-        "Alt": 1.93,
-        "Üst": 1.42
-    },
-    "Slutsk - Gomel 2": {
-        "Alt": 2.28,
-        "Üst": 3.56
-    },
-    "Holstebro BK - Ishoej IF": {
-        "Alt": 1.83,
-        "Üst": 1.48
-    },
-    "Gvvv Veenendaal - Rkav Volendam": {
-        "Alt": 2.57,
-        "Üst": 3.62
-    },
-    "Charlton Ath (K) - Man. City (K)": {
-        "Alt": 3.78,
-        "Üst": 1.89
-    },
-    "AC Lumezzane - Folgore Caratese": {
-        "Alt": 1.54,
-        "Üst": 1.75
-    },
-    "AS Giana E. - Pro Vercelli": {
-        "Alt": 1.52,
-        "Üst": 1.77
-    },
-    "Crotone - Salernitana": {
-        "Alt": 1.65,
-        "Üst": 1.62
-    },
-    "ASD Pineto Calcio - US Grosseto": {
-        "Alt": 1.49,
-        "Üst": 1.81
-    },
-    "Torres S. - Vado": {
-        "Alt": 1.57,
-        "Üst": 1.72
-    },
-    "Pergolettese - AC Trento": {
-        "Alt": 1.45,
-        "Üst": 1.87
-    },
-    "Wacker Burg. - 1860 Münih": {
-        "Alt": 1.84,
-        "Üst": 3.59
-    },
-    "Slovenya - İskoçya": {
-        "Alt": 1.37,
-        "Üst": 2.21
-    },
-    "Güney Afrika - Gine": {
-        "Alt": 1.3,
-        "Üst": 2.21
-    },
-    "Kenya - Eritre": {
-        "Alt": 1.45,
-        "Üst": 1.87
-    },
-    "SSV Jeddeloh II - Eintracht Norder.": {
-        "Alt": 2.2,
-        "Üst": 3.76
-    },
-    "UNI Minsk - Ostrovets": {
+    "Oldham - Salford City": {
         "Alt": 1.72,
         "Üst": 1.56
     },
-    "PFC Rilski Sportist Samokov - Pirin Blagoevgrad": {
-        "Alt": 1.38,
-        "Üst": 1.93
+    "Celta Vigo B - CE Sabadell": {
+        "Alt": 1.58,
+        "Üst": 1.85
     },
-    "Lokomotiv Gorna O. - Marek Dupnica": {
-        "Alt": 1.33,
+    "Tenerife - Cadiz": {
+        "Alt": 1.42,
         "Üst": 2.13
     },
-    "B93 Kopenhag - Thisted": {
-        "Alt": 2.07,
-        "Üst": 1.36
+    "Constancia - Alcudia": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "Madrid Ccf (K) - Deportivo Alaves (K)": {
+        "Alt": 1.74,
+        "Üst": 1.55
+    },
+    "Orihuela - CD Castellon B": {
+        "Alt": 1.79,
+        "Üst": 1.51
+    },
+    "Sestao River Club - Atletico Astorga": {
+        "Alt": 1.53,
+        "Üst": 1.76
+    },
+    "Lokomotiv Os. - Gamle Oslo FK": {
+        "Alt": 1.93,
+        "Üst": 3.89
+    },
+    "Triglav - Primorje Ajdovscina": {
+        "Alt": 2.01,
+        "Üst": 1.37
+    },
+    "RC Deportivo Fabril - Union Irun": {
+        "Alt": 1.65,
+        "Üst": 1.62
+    },
+    "Gimnastic - UE Sant Andreu": {
+        "Alt": 1.46,
+        "Üst": 1.86
+    },
+    "A. Club De Getxo - Ath Bilbao B": {
+        "Alt": 1.87,
+        "Üst": 1.45
+    },
+    "SD Sarriana - Gran Pena": {
+        "Alt": 1.69,
+        "Üst": 1.58
+    },
+    "Malagueno - CD Atletico de Marbella Paraiso": {
+        "Alt": 1.73,
+        "Üst": 3.33
+    },
+    "AD Cala Pozuelo - CD Leganes B": {
+        "Alt": 1.62,
+        "Üst": 1.65
+    },
+    "Manresa - UD Logrones B": {
+        "Alt": 1.55,
+        "Üst": 1.74
+    },
+    "Betis D. Balompie - Linares Dep.": {
+        "Alt": 1.67,
+        "Üst": 1.6
+    },
+    "Barcelona B - Pena Sport": {
+        "Alt": 3.37,
+        "Üst": 2.01
+    },
+    "Biel Bienne - Bavois": {
+        "Alt": 1.96,
+        "Üst": 3.54
+    },
+    "V. Haugesund - Fana": {
+        "Alt": 1.79,
+        "Üst": 3.91
+    },
+    "Tabor Sezana - NK Bistrica": {
+        "Alt": 1.82,
+        "Üst": 1.48
     }
 }
