@@ -1,102 +1,82 @@
 {
-    "Tegevajaro Mi. - Sapporo": {
-        "Alt": 1.63,
-        "Üst": 1.65
-    },
-    "Kat. Toyama - Yokohama": {
-        "Alt": 1.95,
-        "Üst": 1.41
-    },
-    "Oita Trinata - Fujieda Myfc": {
-        "Alt": 1.36,
-        "Üst": 2.06
-    },
-    "T. Vortis - Tochigi City": {
-        "Alt": 1.72,
-        "Üst": 1.56
-    },
-    "Omiya Ardija - Ventforet": {
-        "Alt": 1.81,
-        "Üst": 1.5
-    },
-    "Iwaki - Sendai": {
-        "Alt": 1.7,
-        "Üst": 1.58
-    },
-    "M. Yamagata - Sagan Tosu": {
-        "Alt": 1.61,
-        "Üst": 1.66
-    },
-    "Iwata Jubilo - V. Hachinohe": {
-        "Alt": 1.54,
-        "Üst": 1.74
-    },
-    "B. Akita - Niigata": {
-        "Alt": 1.37,
-        "Üst": 2.04
-    },
-    "Imabari - S. Bellmare": {
-        "Alt": 1.58,
-        "Üst": 1.7
-    },
-    "Ryukyu - Ehime": {
+    "Vietnam - Filipinler": {
         "Alt": 1.93,
         "Üst": 1.42
     },
-    "Fukushima Utd - AC N. Parceiro": {
-        "Alt": 1.67,
-        "Üst": 1.6
+    "Slutsk - Gomel 2": {
+        "Alt": 2.28,
+        "Üst": 3.56
     },
-    "G. Kitakyushu - Kagoshima Utd": {
-        "Alt": 1.66,
-        "Üst": 1.61
+    "Holstebro BK - Ishoej IF": {
+        "Alt": 1.83,
+        "Üst": 1.48
     },
-    "Tochigi - Matsumoto Y.": {
-        "Alt": 1.47,
-        "Üst": 1.85
+    "Gvvv Veenendaal - Rkav Volendam": {
+        "Alt": 2.57,
+        "Üst": 3.62
     },
-    "Kamatamare S. - Gifu": {
-        "Alt": 1.76,
-        "Üst": 1.53
+    "Charlton Ath (K) - Man. City (K)": {
+        "Alt": 3.78,
+        "Üst": 1.89
     },
-    "Thespakusatsu G. - R. Kumamoto": {
-        "Alt": 1.68,
-        "Üst": 1.59
+    "AC Lumezzane - Folgore Caratese": {
+        "Alt": 1.54,
+        "Üst": 1.75
     },
-    "Kochi Utd SC - Osaka": {
-        "Alt": 1.41,
-        "Üst": 1.94
+    "AS Giana E. - Pro Vercelli": {
+        "Alt": 1.52,
+        "Üst": 1.77
     },
-    "U. Azzurri - Darwin Olympic SC": {
-        "Alt": 1.88,
-        "Üst": 3.75
+    "Crotone - Salernitana": {
+        "Alt": 1.65,
+        "Üst": 1.62
     },
-    "Pakistan - Tayland": {
-        "Alt": 3.63,
-        "Üst": 1.64
+    "ASD Pineto Calcio - US Grosseto": {
+        "Alt": 1.49,
+        "Üst": 1.81
     },
-    "Diosgyori Vtk II - Debreceni EAC": {
-        "Alt": 2.0,
-        "Üst": 1.38
+    "Torres S. - Vado": {
+        "Alt": 1.57,
+        "Üst": 1.72
     },
-    "Gyulai - Budapest Honved MFA": {
-        "Alt": 3.62,
-        "Üst": 2.42
+    "Pergolettese - AC Trento": {
+        "Alt": 1.45,
+        "Üst": 1.87
     },
-    "Ujpest II - Szolnoki MAV": {
-        "Alt": 2.41,
+    "Wacker Burg. - 1860 Münih": {
+        "Alt": 1.84,
+        "Üst": 3.59
+    },
+    "Slovenya - İskoçya": {
+        "Alt": 1.37,
+        "Üst": 2.21
+    },
+    "Güney Afrika - Gine": {
+        "Alt": 1.3,
+        "Üst": 2.21
+    },
+    "Kenya - Eritre": {
+        "Alt": 1.45,
+        "Üst": 1.87
+    },
+    "SSV Jeddeloh II - Eintracht Norder.": {
+        "Alt": 2.2,
         "Üst": 3.76
     },
-    "Chelyabinsk - Y. Krasnoyarsk": {
-        "Alt": 1.53,
-        "Üst": 1.76
+    "UNI Minsk - Ostrovets": {
+        "Alt": 1.72,
+        "Üst": 1.56
     },
-    "UD Aretxabaleta - CD Derio": {
-        "Alt": 1.57,
-        "Üst": 1.71
+    "PFC Rilski Sportist Samokov - Pirin Blagoevgrad": {
+        "Alt": 1.38,
+        "Üst": 1.93
     },
-    "Villarreal C - Levante B": {
-        "Alt": 1.55,
-        "Üst": 1.73
+    "Lokomotiv Gorna O. - Marek Dupnica": {
+        "Alt": 1.33,
+        "Üst": 2.13
+    },
+    "B93 Kopenhag - Thisted": {
+        "Alt": 2.07,
+        "Üst": 1.36
     }
 }
