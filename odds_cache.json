@@ -1,51 +1,11 @@
 {
-    "Barbados - Saint Lucia": {
-        "Alt": 1.9,
-        "Üst": 1.44
-    },
-    "Jamaika - Guatemala": {
-        "Alt": 1.42,
-        "Üst": 1.93
-    },
-    "El Nacional - Cumbaya": {
-        "Alt": 1.45,
-        "Üst": 1.86
-    },
-    "El Paso Loc. - Tulsa Roughnecks": {
-        "Alt": 1.75,
-        "Üst": 1.54
-    },
-    "Honduras - Surinam": {
-        "Alt": 1.4,
-        "Üst": 1.97
-    },
-    "Cavalry - Supra Du Quebec": {
-        "Alt": 2.14,
-        "Üst": 1.32
-    },
-    "Atlante - Monterrey": {
-        "Alt": 1.8,
-        "Üst": 1.5
-    },
-    "Correcaminos - Jaiba Brava": {
-        "Alt": 1.89,
-        "Üst": 1.44
-    },
-    "Cruz Azul (K) - Guadalajara (K)": {
-        "Alt": 1.97,
-        "Üst": 1.4
-    },
-    "Once Caldas - CA Bucaramanga": {
-        "Alt": 1.44,
-        "Üst": 1.89
-    },
     "Wellington P. 2 - Auckland Utd": {
-        "Alt": 2.03,
-        "Üst": 3.56
+        "Alt": 2.02,
+        "Üst": 3.58
     },
     "El Salvador - Martinik": {
-        "Alt": 1.38,
-        "Üst": 2.0
+        "Alt": 1.34,
+        "Üst": 2.11
     },
     "Club Tijuana - Atlas": {
         "Alt": 1.64,
@@ -70,5 +30,61 @@
     "Tiamo Hirakata - Vonds Ichihara": {
         "Alt": 1.62,
         "Üst": 1.65
+    },
+    "Çin U23 - Tayland U23": {
+        "Alt": 1.41,
+        "Üst": 1.95
+    },
+    "Honda Lock - Veertien Mie": {
+        "Alt": 1.5,
+        "Üst": 1.8
+    },
+    "Nara Club - MIO Biwako Shiga": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "Tegevajaro Mi. - Sapporo": {
+        "Alt": 1.65,
+        "Üst": 1.63
+    },
+    "Kat. Toyama - Yokohama": {
+        "Alt": 1.92,
+        "Üst": 1.43
+    },
+    "Oita Trinata - Fujieda Myfc": {
+        "Alt": 1.36,
+        "Üst": 2.06
+    },
+    "T. Vortis - Tochigi City": {
+        "Alt": 1.72,
+        "Üst": 1.56
+    },
+    "Omiya Ardija - Ventforet": {
+        "Alt": 1.81,
+        "Üst": 1.5
+    },
+    "Iwaki - Sendai": {
+        "Alt": 1.65,
+        "Üst": 1.63
+    },
+    "M. Yamagata - Sagan Tosu": {
+        "Alt": 1.61,
+        "Üst": 1.66
+    },
+    "Iwata Jubilo - V. Hachinohe": {
+        "Alt": 1.54,
+        "Üst": 1.74
+    },
+    "B. Akita - Niigata": {
+        "Alt": 1.42,
+        "Üst": 1.93
+    },
+    "Imabari - S. Bellmare": {
+        "Alt": 1.58,
+        "Üst": 1.7
+    },
+    "Ryukyu - Ehime": {
+        "Alt": 1.86,
+        "Üst": 1.46
     }
 }
