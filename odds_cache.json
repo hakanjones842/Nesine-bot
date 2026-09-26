@@ -1,55 +1,11 @@
 {
-    "Wellington P. 2 - Auckland Utd": {
-        "Alt": 2.02,
-        "Üst": 3.58
-    },
-    "El Salvador - Martinik": {
-        "Alt": 1.34,
-        "Üst": 2.11
-    },
-    "Club Tijuana - Atlas": {
-        "Alt": 1.64,
-        "Üst": 1.64
-    },
-    "Ferrymead Bays - Eastern Suburbs": {
-        "Alt": 1.9,
-        "Üst": 1.44
-    },
-    "Z. Kanazawa - Gainare Tottori": {
-        "Alt": 1.71,
-        "Üst": 1.57
-    },
-    "Briobecca Urayasu - J Lease": {
-        "Alt": 1.37,
-        "Üst": 2.04
-    },
-    "Renofa Y. - SC Sagamihara": {
-        "Alt": 1.65,
-        "Üst": 1.62
-    },
-    "Tiamo Hirakata - Vonds Ichihara": {
-        "Alt": 1.62,
+    "Tegevajaro Mi. - Sapporo": {
+        "Alt": 1.63,
         "Üst": 1.65
     },
-    "Çin U23 - Tayland U23": {
-        "Alt": 1.41,
-        "Üst": 1.95
-    },
-    "Honda Lock - Veertien Mie": {
-        "Alt": 1.5,
-        "Üst": 1.8
-    },
-    "Nara Club - MIO Biwako Shiga": {
-        "Alt": 1.83,
-        "Üst": 1.48
-    },
-    "Tegevajaro Mi. - Sapporo": {
-        "Alt": 1.65,
-        "Üst": 1.63
-    },
     "Kat. Toyama - Yokohama": {
-        "Alt": 1.92,
-        "Üst": 1.43
+        "Alt": 1.95,
+        "Üst": 1.41
     },
     "Oita Trinata - Fujieda Myfc": {
         "Alt": 1.36,
@@ -64,8 +20,8 @@
         "Üst": 1.5
     },
     "Iwaki - Sendai": {
-        "Alt": 1.65,
-        "Üst": 1.63
+        "Alt": 1.7,
+        "Üst": 1.58
     },
     "M. Yamagata - Sagan Tosu": {
         "Alt": 1.61,
@@ -76,15 +32,71 @@
         "Üst": 1.74
     },
     "B. Akita - Niigata": {
-        "Alt": 1.42,
-        "Üst": 1.93
+        "Alt": 1.37,
+        "Üst": 2.04
     },
     "Imabari - S. Bellmare": {
         "Alt": 1.58,
         "Üst": 1.7
     },
     "Ryukyu - Ehime": {
-        "Alt": 1.86,
-        "Üst": 1.46
+        "Alt": 1.93,
+        "Üst": 1.42
+    },
+    "Fukushima Utd - AC N. Parceiro": {
+        "Alt": 1.67,
+        "Üst": 1.6
+    },
+    "G. Kitakyushu - Kagoshima Utd": {
+        "Alt": 1.66,
+        "Üst": 1.61
+    },
+    "Tochigi - Matsumoto Y.": {
+        "Alt": 1.47,
+        "Üst": 1.85
+    },
+    "Kamatamare S. - Gifu": {
+        "Alt": 1.76,
+        "Üst": 1.53
+    },
+    "Thespakusatsu G. - R. Kumamoto": {
+        "Alt": 1.68,
+        "Üst": 1.59
+    },
+    "Kochi Utd SC - Osaka": {
+        "Alt": 1.41,
+        "Üst": 1.94
+    },
+    "U. Azzurri - Darwin Olympic SC": {
+        "Alt": 1.88,
+        "Üst": 3.75
+    },
+    "Pakistan - Tayland": {
+        "Alt": 3.63,
+        "Üst": 1.64
+    },
+    "Diosgyori Vtk II - Debreceni EAC": {
+        "Alt": 2.0,
+        "Üst": 1.38
+    },
+    "Gyulai - Budapest Honved MFA": {
+        "Alt": 3.62,
+        "Üst": 2.42
+    },
+    "Ujpest II - Szolnoki MAV": {
+        "Alt": 2.41,
+        "Üst": 3.76
+    },
+    "Chelyabinsk - Y. Krasnoyarsk": {
+        "Alt": 1.53,
+        "Üst": 1.76
+    },
+    "UD Aretxabaleta - CD Derio": {
+        "Alt": 1.57,
+        "Üst": 1.71
+    },
+    "Villarreal C - Levante B": {
+        "Alt": 1.55,
+        "Üst": 1.73
     }
 }
