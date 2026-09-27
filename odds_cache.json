@@ -1,78 +1,82 @@
 {
-    "Chelsea (K) - Arsenal (K)": {
-        "Alt": 1.85,
-        "Üst": 1.47
+    "CD Maipu - CA Temperley": {
+        "Alt": 1.34,
+        "Üst": 2.1
     },
-    "Granada B - CD Cantoria 2017": {
-        "Alt": 1.58,
-        "Üst": 1.7
+    "F. Midland - T. Suarez": {
+        "Alt": 4.35,
+        "Üst": 3.1
     },
-    "CD Utiel - CD Roda": {
-        "Alt": 1.33,
-        "Üst": 2.13
-    },
-    "Numancia - CD Guadalajara": {
-        "Alt": 1.4,
-        "Üst": 1.97
-    },
-    "Ath Carpi - Arzignano V.": {
-        "Alt": 1.47,
-        "Üst": 1.85
-    },
-    "Perugia - Reggiana": {
-        "Alt": 1.47,
-        "Üst": 1.85
-    },
-    "Scafatese Calcio 1922 - Altamura": {
-        "Alt": 1.43,
-        "Üst": 1.91
-    },
-    "Vis Pesaro - Monterosi T.": {
-        "Alt": 1.53,
-        "Üst": 1.75
-    },
-    "AC Renate - Treviso FBC": {
-        "Alt": 1.5,
-        "Üst": 1.8
-    },
-    "Honefoss BK - Tromsdalen": {
-        "Alt": 2.79,
-        "Üst": 1.16
-    },
-    "Antofagasta - Dep. Iquique": {
-        "Alt": 1.56,
-        "Üst": 1.72
-    },
-    "Yemen - Katar": {
+    "New York Cosmos - Richmond": {
         "Alt": 2.01,
         "Üst": 1.37
     },
-    "Avusturya - Kosova": {
-        "Alt": 1.69,
+    "Racing Club - Boca Juniors": {
+        "Alt": 1.43,
+        "Üst": 2.09
+    },
+    "Racing de Cordoba - Godoy Cruz": {
+        "Alt": 1.42,
+        "Üst": 3.13
+    },
+    "K. Marrakech - Hassania A.": {
+        "Alt": 1.27,
+        "Üst": 2.31
+    },
+    "A. Deportiva Tarma - S. Cristal": {
+        "Alt": 1.57,
+        "Üst": 1.72
+    },
+    "Bolivya - Paraguay": {
+        "Alt": 1.61,
+        "Üst": 1.66
+    },
+    "Vargas Torres - Gualaceo SC": {
+        "Alt": 4.35,
+        "Üst": 3.12
+    },
+    "Molynes - Tru Juice": {
+        "Alt": 1.72,
+        "Üst": 1.56
+    },
+    "Dunbeholden - Mount Pleasant": {
+        "Alt": 1.62,
+        "Üst": 1.65
+    },
+    "Cavalier - Arnett Gardens": {
+        "Alt": 1.73,
+        "Üst": 1.55
+    },
+    "Tivoli Gardens - Chapelton Maroons": {
+        "Alt": 1.58,
         "Üst": 1.71
     },
-    "Cebelitarık - Andorra": {
-        "Alt": 1.09,
-        "Üst": 3.96
+    "Portmore Utd - Humble Lions": {
+        "Alt": 2.42,
+        "Üst": 3.51
     },
-    "Danimarka - Galler": {
-        "Alt": 2.13,
+    "U. Chile - Everton DV": {
+        "Alt": 1.93,
         "Üst": 1.42
     },
-    "Sırbistan - Hollanda": {
-        "Alt": 2.28,
-        "Üst": 1.36
+    "Gimnasia Y. Tiro - Atletico De Rafaela": {
+        "Alt": 3.66,
+        "Üst": 2.98
     },
-    "Ludogorets Razgrad II - EV Tarnova": {
-        "Alt": 1.85,
-        "Üst": 1.47
+    "Alianza - CD Inca": {
+        "Alt": 1.88,
+        "Üst": 1.44
     },
-    "Hebar Pazardzhik - Dobrudzha Dobrich": {
-        "Alt": 1.85,
-        "Üst": 1.47
-    },
-    "Fratria Varna - PFC Spartak Pleven": {
+    "Platense M. - Fuerte San Francisco": {
         "Alt": 1.65,
         "Üst": 1.62
+    },
+    "Deportivo Mixco - Antigua": {
+        "Alt": 1.8,
+        "Üst": 1.5
+    },
+    "J. De Cordoba - Alianza Valledupar": {
+        "Alt": 1.42,
+        "Üst": 1.93
     }
 }
