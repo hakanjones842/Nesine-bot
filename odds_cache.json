@@ -1,63 +1,11 @@
 {
-    "Independiente Yumbo - Orsomarso SC": {
-        "Alt": 1.37,
-        "Üst": 2.04
-    },
-    "Küba - Bonaire": {
-        "Alt": 1.25,
-        "Üst": 1.82
-    },
-    "Internacional Palmira - Itagui Leones": {
-        "Alt": 1.53,
-        "Üst": 1.76
-    },
-    "Atlante (K) - Pumas Unam (K)": {
-        "Alt": 2.63,
-        "Üst": 3.38
-    },
-    "Surinam - Martinik": {
-        "Alt": 1.55,
+    "Club Necaxa (K) - Dep. Toluca (K)": {
+        "Alt": 3.9,
         "Üst": 1.73
     },
-    "Guairena - Fernando Mora": {
-        "Alt": 1.46,
-        "Üst": 1.86
-    },
-    "America MG - Juventude": {
-        "Alt": 1.44,
-        "Üst": 1.89
-    },
-    "Deportes Quindio - Bogota": {
-        "Alt": 1.36,
-        "Üst": 2.06
-    },
-    "Club Leon (K) - America (K)": {
-        "Alt": 1.81,
-        "Üst": 3.65
-    },
-    "Montevideo - Albion": {
-        "Alt": 1.51,
-        "Üst": 1.78
-    },
-    "Jamaika - Honduras": {
-        "Alt": 1.47,
-        "Üst": 1.84
-    },
-    "ST Kitts ve Nevis - Grenada": {
-        "Alt": 2.05,
-        "Üst": 1.37
-    },
-    "Saint Lucia - Bermuda": {
-        "Alt": 1.89,
-        "Üst": 1.44
-    },
-    "Club Necaxa (K) - Dep. Toluca (K)": {
-        "Alt": 4.02,
-        "Üst": 1.76
-    },
     "Guatemala - El Salvador": {
-        "Alt": 1.59,
-        "Üst": 1.69
+        "Alt": 1.52,
+        "Üst": 1.77
     },
     "Filipinler - Pakistan": {
         "Alt": 1.93,
@@ -72,7 +20,79 @@
         "Üst": 1.36
     },
     "R. Kumamoto - Kawasaki Frontale": {
-        "Alt": 1.6,
+        "Alt": 2.71,
+        "Üst": 3.3
+    },
+    "Gifu - Yokohama": {
+        "Alt": 1.86,
+        "Üst": 1.46
+    },
+    "Osaka - Fukuoka": {
+        "Alt": 1.93,
+        "Üst": 1.42
+    },
+    "Kat. Toyama - Urawa Red": {
+        "Alt": 1.91,
+        "Üst": 1.44
+    },
+    "G. Kitakyushu - Nagoya": {
+        "Alt": 1.59,
         "Üst": 3.54
+    },
+    "Z. Kanazawa - Shimizu": {
+        "Alt": 1.93,
+        "Üst": 1.42
+    },
+    "Sapporo - Fagiano": {
+        "Alt": 1.85,
+        "Üst": 1.47
+    },
+    "Ehime - Tokyo": {
+        "Alt": 1.6,
+        "Üst": 3.55
+    },
+    "Fujieda Myfc - Cerezo Osaka": {
+        "Alt": 1.79,
+        "Üst": 1.51
+    },
+    "Tochigi City - S. Hiroshima": {
+        "Alt": 1.69,
+        "Üst": 3.61
+    },
+    "Sagan Tosu - Tokyo Verdy": {
+        "Alt": 1.49,
+        "Üst": 1.82
+    },
+    "M. Yamagata - Yokohama M.": {
+        "Alt": 1.8,
+        "Üst": 1.5
+    },
+    "Gainare Tottori - V Varen": {
+        "Alt": 1.84,
+        "Üst": 1.47
+    },
+    "Fukushima Utd - M. Hollyhock": {
+        "Alt": 1.96,
+        "Üst": 1.41
+    },
+    "Iwata Jubilo - JEF Utd": {
+        "Alt": 1.79,
+        "Üst": 1.51
+    },
+    "Matsumoto Y. - Niigata": {
+        "Alt": 1.84,
+        "Üst": 1.48
+    },
+    "Portekiz U20 - İsviçre U20": {
+        "Alt": 2.06,
+        "Üst": 1.36
+    },
+    "Wuxi Wuguo - Shang J. C.": {
+        "Alt": 1.58,
+        "Üst": 1.71
+    },
+    "Santa Clara U23 - Felgueiras 1932 U23": {
+        "Alt": 1.77,
+        "Üst": 1.52
     }
 }
