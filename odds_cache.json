@@ -1,110 +1,86 @@
 {
-    "Filipinler - Pakistan": {
-        "Alt": 1.38,
-        "Üst": 2.15
-    },
-    "İngiltere U20 - Fransa U20": {
-        "Alt": 1.83,
-        "Üst": 1.48
-    },
-    "Avustralya - Brezilya": {
-        "Alt": 2.07,
-        "Üst": 1.36
-    },
-    "R. Kumamoto - Kawasaki Frontale": {
-        "Alt": 2.77,
-        "Üst": 3.32
-    },
-    "Gifu - Yokohama": {
-        "Alt": 1.86,
-        "Üst": 1.46
-    },
-    "Osaka - Fukuoka": {
-        "Alt": 1.93,
-        "Üst": 1.42
-    },
-    "Kat. Toyama - Urawa Red": {
-        "Alt": 1.91,
-        "Üst": 1.44
-    },
-    "G. Kitakyushu - Nagoya": {
-        "Alt": 2.76,
-        "Üst": 3.3
-    },
-    "Z. Kanazawa - Shimizu": {
-        "Alt": 1.89,
-        "Üst": 1.44
-    },
-    "Sapporo - Fagiano": {
-        "Alt": 1.85,
-        "Üst": 1.47
-    },
-    "Ehime - Tokyo": {
-        "Alt": 1.62,
-        "Üst": 3.54
-    },
-    "Fujieda Myfc - Cerezo Osaka": {
-        "Alt": 1.79,
-        "Üst": 1.51
-    },
-    "Tochigi City - S. Hiroshima": {
-        "Alt": 1.71,
-        "Üst": 3.58
-    },
-    "Sagan Tosu - Tokyo Verdy": {
-        "Alt": 1.49,
-        "Üst": 1.82
-    },
-    "M. Yamagata - Yokohama M.": {
-        "Alt": 1.78,
-        "Üst": 1.51
-    },
-    "Gainare Tottori - V Varen": {
-        "Alt": 1.84,
-        "Üst": 1.47
-    },
-    "Fukushima Utd - M. Hollyhock": {
-        "Alt": 1.96,
-        "Üst": 1.41
-    },
-    "Iwata Jubilo - JEF Utd": {
-        "Alt": 1.79,
-        "Üst": 1.51
-    },
-    "Matsumoto Y. - Niigata": {
-        "Alt": 1.84,
-        "Üst": 1.48
-    },
-    "Portekiz U20 - İsviçre U20": {
-        "Alt": 2.06,
-        "Üst": 1.36
-    },
     "Wuxi Wuguo - Shang J. C.": {
         "Alt": 1.58,
         "Üst": 1.71
     },
     "Santa Clara U23 - Felgueiras 1932 U23": {
-        "Alt": 1.77,
-        "Üst": 1.52
+        "Alt": 1.74,
+        "Üst": 1.54
     },
     "Komorlar - Namibya": {
-        "Alt": 1.29,
-        "Üst": 2.25
+        "Alt": 1.28,
+        "Üst": 2.28
     },
     "Peterborough Utd U21 - Fleetwood T. U21": {
-        "Alt": 2.28,
-        "Üst": 3.75
+        "Alt": 2.08,
+        "Üst": 3.76
     },
     "Charlton Ath U21 - Millwall U21": {
-        "Alt": 2.3,
-        "Üst": 3.64
+        "Alt": 2.29,
+        "Üst": 3.68
     },
     "Wigan Ath U21 - Huddersfield T. U21": {
-        "Alt": 1.47,
-        "Üst": 3.97
+        "Alt": 1.45,
+        "Üst": 4.02
     },
     "Hull City U21 - Bolton Wanderers U21": {
-        "Alt": 1.4,
-        "Üst": 3.91
+        "Alt": 1.32,
+        "Üst": 4.14
+    },
+    "Coventry City U21 - Colchester Utd U21": {
+        "Alt": 2.09,
+        "Üst": 3.87
+    },
+    "Tayland - Vietnam": {
+        "Alt": 1.48,
+        "Üst": 1.83
+    },
+    "Mozambik - Sudan": {
+        "Alt": 1.23,
+        "Üst": 2.42
+    },
+    "Güney Sudan - Mısır": {
+        "Alt": 1.54,
+        "Üst": 1.85
+    },
+    "Etiyopya - Senegal": {
+        "Alt": 1.58,
+        "Üst": 1.69
+    },
+    "Lesotho - Fas": {
+        "Alt": 1.09,
+        "Üst": 2.12
+    },
+    "Burundi - Cezayir": {
+        "Alt": 1.66,
+        "Üst": 1.61
+    },
+    "Mes Rafsanjan - Besat Kermanshah": {
+        "Alt": 1.19,
+        "Üst": 2.61
+    },
+    "Bulgaristan U19 - Romanya U19": {
+        "Alt": 1.66,
+        "Üst": 1.61
+    },
+    "Madagaskar - Tanzanya": {
+        "Alt": 1.29,
+        "Üst": 2.24
+    },
+    "Sırbistan U19 - Macaristan U19": {
+        "Alt": 1.86,
+        "Üst": 1.46
+    },
+    "Fujairah - AL Jazira AL Hamra": {
+        "Alt": 1.7,
+        "Üst": 3.33
+    },
+    "Palm City - Dibba AL Hisn SC": {
+        "Alt": 2.03,
+        "Üst": 1.37
+    },
+    "Al Khoor - Umm Salal SC": {
+        "Alt": 1.89,
+        "Üst": 1.44
     }
 }
