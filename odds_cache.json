@@ -1,86 +1,62 @@
 {
-    "Unterhaching - Buchbach": {
-        "Alt": 2.42,
-        "Üst": 3.68
+    "Fransız Guyanası - Sint Maarten": {
+        "Alt": 1.89,
+        "Üst": 1.44
     },
-    "SD Huesca (K) - CA Osasuna (K)": {
+    "Atletico Balboa - C.D. Cacahuatique": {
+        "Alt": 1.48,
+        "Üst": 1.82
+    },
+    "D. Puerto Montt - Colo Colo": {
+        "Alt": 1.7,
+        "Üst": 1.58
+    },
+    "Botafogo - Ponte Preta": {
         "Alt": 1.84,
-        "Üst": 1.48
-    },
-    "AL Markhiya - Al Ahli Doha": {
-        "Alt": 1.85,
         "Üst": 1.47
     },
-    "AL Waab - Lusail SC": {
-        "Alt": 1.75,
-        "Üst": 1.53
-    },
-    "Umman - Kuveyt": {
+    "U. Magdalena - R. Cartagena": {
         "Alt": 1.49,
-        "Üst": 1.81
+        "Üst": 1.82
     },
-    "Suudi Arabistan - Irak": {
-        "Alt": 1.3,
-        "Üst": 2.19
+    "ABD - Şili": {
+        "Alt": 1.82,
+        "Üst": 1.49
     },
-    "Boreham Wood - Kidderminster Harriers": {
-        "Alt": 2.18,
-        "Üst": 1.31
+    "Meksika - Peru": {
+        "Alt": 1.4,
+        "Üst": 1.96
     },
-    "İrlanda U21 - Kazakistan U21": {
-        "Alt": 2.07,
-        "Üst": 1.36
+    "I. Medellin - Millonarios": {
+        "Alt": 1.58,
+        "Üst": 1.7
     },
-    "Belçika U21 - Galler U21": {
-        "Alt": 1.29,
-        "Üst": 2.04
-    },
-    "FK Union Carl Berner - KFUM II": {
-        "Alt": 1.7,
-        "Üst": 3.93
-    },
-    "Wimborne - Yate Town": {
-        "Alt": 1.59,
+    "Belize - Saint Vincent ve G.": {
+        "Alt": 1.6,
         "Üst": 1.68
     },
-    "Bulgaristan - Estonya": {
-        "Alt": 1.44,
-        "Üst": 2.09
+    "Güney Kore U23 - Çin U23": {
+        "Alt": 1.8,
+        "Üst": 1.5
     },
-    "Slovakya - Kazakistan": {
-        "Alt": 2.03,
-        "Üst": 1.46
+    "Doğu Timor - Kamboçya": {
+        "Alt": 1.81,
+        "Üst": 1.49
     },
-    "San Marino - Arnavutluk": {
-        "Alt": 1.23,
-        "Üst": 1.97
+    "Özbekistan U23 - Japonya U23": {
+        "Alt": 1.53,
+        "Üst": 1.76
     },
-    "İspanya - Hırvatistan": {
-        "Alt": 2.63,
-        "Üst": 1.25
-    },
-    "Slovenya - Kuzey Makedonya": {
-        "Alt": 1.4,
-        "Üst": 2.15
-    },
-    "Lüksemburg - İzlanda": {
-        "Alt": 1.49,
-        "Üst": 1.98
-    },
-    "İskoçya - İsviçre": {
-        "Alt": 1.51,
+    "Medeama SC - Port City": {
+        "Alt": 1.41,
         "Üst": 1.95
     },
-    "Çekya - İngiltere": {
-        "Alt": 2.28,
-        "Üst": 1.36
+    "Sporting Lagos - Ikorodu City": {
+        "Alt": 1.39,
+        "Üst": 1.99
     },
-    "Cardiff Metro. - Haverfordwest C.": {
-        "Alt": 1.71,
-        "Üst": 1.57
-    },
-    "Hav. Waterloo - Hanwell Town": {
-        "Alt": 1.94,
-        "Üst": 1.41
+    "Enyimba - Shooting Stars": {
+        "Alt": 1.37,
+        "Üst": 2.05
     }
 }
