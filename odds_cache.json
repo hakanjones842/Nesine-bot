@@ -1,62 +1,54 @@
 {
-    "Fransız Guyanası - Sint Maarten": {
-        "Alt": 1.89,
-        "Üst": 1.44
-    },
-    "Atletico Balboa - C.D. Cacahuatique": {
-        "Alt": 1.48,
-        "Üst": 1.82
-    },
-    "D. Puerto Montt - Colo Colo": {
-        "Alt": 1.7,
-        "Üst": 1.58
-    },
-    "Botafogo - Ponte Preta": {
-        "Alt": 1.84,
-        "Üst": 1.47
-    },
-    "U. Magdalena - R. Cartagena": {
-        "Alt": 1.49,
-        "Üst": 1.82
-    },
-    "ABD - Şili": {
-        "Alt": 1.82,
-        "Üst": 1.49
-    },
-    "Meksika - Peru": {
-        "Alt": 1.4,
-        "Üst": 1.96
-    },
     "I. Medellin - Millonarios": {
         "Alt": 1.58,
         "Üst": 1.7
     },
-    "Belize - Saint Vincent ve G.": {
-        "Alt": 1.6,
-        "Üst": 1.68
-    },
     "Güney Kore U23 - Çin U23": {
-        "Alt": 1.8,
-        "Üst": 1.5
+        "Alt": 1.74,
+        "Üst": 1.55
     },
     "Doğu Timor - Kamboçya": {
-        "Alt": 1.81,
-        "Üst": 1.49
+        "Alt": 1.84,
+        "Üst": 1.47
     },
     "Özbekistan U23 - Japonya U23": {
-        "Alt": 1.53,
-        "Üst": 1.76
-    },
-    "Medeama SC - Port City": {
-        "Alt": 1.41,
-        "Üst": 1.95
+        "Alt": 1.51,
+        "Üst": 1.79
     },
     "Sporting Lagos - Ikorodu City": {
-        "Alt": 1.39,
-        "Üst": 1.99
+        "Alt": 1.37,
+        "Üst": 2.02
     },
     "Enyimba - Shooting Stars": {
         "Alt": 1.37,
         "Üst": 2.05
+    },
+    "Eritre - Güney Afrika": {
+        "Alt": 2.2,
+        "Üst": 1.3
+    },
+    "Litvanya - Andorra": {
+        "Alt": 1.28,
+        "Üst": 2.27
+    },
+    "Polonya U21 - İsveç U21": {
+        "Alt": 1.88,
+        "Üst": 1.45
+    },
+    "Romanya U21 - Finlandiya U21": {
+        "Alt": 1.68,
+        "Üst": 1.59
+    },
+    "Faroe A. U21 - Lüksemburg U21": {
+        "Alt": 1.43,
+        "Üst": 1.92
+    },
+    "Çekya U21 - Bulgaristan U21": {
+        "Alt": 1.48,
+        "Üst": 1.83
+    },
+    "Paris (K) - Arsenal (K)": {
+        "Alt": 1.87,
+        "Üst": 1.45
     }
 }
