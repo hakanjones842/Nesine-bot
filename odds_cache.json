@@ -1,82 +1,82 @@
 {
-    "Man. City (K) - Real Madrid (K)": {
-        "Alt": 2.28,
-        "Üst": 1.28
-    },
-    "PSG (K) - OH Leuven (K)": {
-        "Alt": 1.23,
-        "Üst": 1.9
-    },
-    "İngiliz Virjin A. - Montserrat": {
-        "Alt": 3.39,
-        "Üst": 1.8
-    },
-    "ABD Virgin Adaları - Saint Martin": {
-        "Alt": 1.8,
-        "Üst": 3.57
-    },
-    "S. Cristal - A. Deportiva Tarma": {
-        "Alt": 1.74,
-        "Üst": 1.54
-    },
-    "Cumbaya - Vargas Torres": {
-        "Alt": 1.74,
-        "Üst": 1.54
-    },
-    "Envigado - Orsomarso SC": {
-        "Alt": 1.36,
-        "Üst": 2.07
-    },
-    "Dominika - Guyana": {
-        "Alt": 1.96,
-        "Üst": 1.4
-    },
-    "Fuerte San Francisco - Angel Firpo": {
-        "Alt": 1.72,
-        "Üst": 1.56
-    },
-    "Curaçao - Trinidad & T.": {
-        "Alt": 1.95,
-        "Üst": 1.41
-    },
-    "Club Olimpia - S. Luqueno": {
-        "Alt": 1.8,
-        "Üst": 1.5
-    },
-    "Athletic Club MG - Recife": {
-        "Alt": 1.38,
-        "Üst": 2.0
+    "Anguilla - Antigua & Bar.": {
+        "Alt": 3.92,
+        "Üst": 2.28
     },
     "Gremio Novo - Goias GO": {
         "Alt": 1.55,
         "Üst": 1.73
     },
     "Dominik Cum. - Haiti": {
-        "Alt": 1.99,
-        "Üst": 1.39
+        "Alt": 2.09,
+        "Üst": 1.34
     },
     "Cayman Adaları - Porto Riko": {
         "Alt": 1.18,
-        "Üst": 1.76
+        "Üst": 1.73
     },
     "CD Inca - Municipal L.": {
-        "Alt": 1.51,
-        "Üst": 1.78
-    },
-    "CA Platense - Estudiantes": {
-        "Alt": 1.22,
-        "Üst": 2.81
-    },
-    "Inter Bogota - Once Caldas": {
-        "Alt": 1.53,
-        "Üst": 1.76
+        "Alt": 1.58,
+        "Üst": 1.69
     },
     "S. Sounders - Kansas City": {
-        "Alt": 2.78,
-        "Üst": 1.23
+        "Alt": 2.95,
+        "Üst": 1.19
     },
     "Nikaragua - Kosta Rika": {
-        "Alt": 1.77,
-        "Üst": 1.52
+        "Alt": 1.98,
+        "Üst": 1.39
+    },
+    "Vietnam - Pakistan": {
+        "Alt": 3.54,
+        "Üst": 2.56
+    },
+    "Tayland - Filipinler": {
+        "Alt": 1.8,
+        "Üst": 1.5
+    },
+    "Lugano - Hellas Verona": {
+        "Alt": 1.79,
+        "Üst": 1.51
+    },
+    "Daejeon Korail - Gangneung City": {
+        "Alt": 1.59,
+        "Üst": 1.68
+    },
+    "MIO Biwako Shiga - R. Kumamoto": {
+        "Alt": 1.62,
+        "Üst": 1.65
+    },
+    "Nürnberg - Ingolstadt": {
+        "Alt": 1.93,
+        "Üst": 3.54
+    },
+    "Galler U19 - Norveç U19": {
+        "Alt": 1.86,
+        "Üst": 3.4
+    },
+    "Güney Kore - Venezuela": {
+        "Alt": 1.47,
+        "Üst": 1.84
+    },
+    "Augsburg - Hertha Berlin": {
+        "Alt": 2.55,
+        "Üst": 1.21
+    },
+    "Fleetwood T. U21 - S. Wednesday U21": {
+        "Alt": 2.97,
+        "Üst": 3.82
+    },
+    "Dayrout - Ismaily Sc": {
+        "Alt": 1.65,
+        "Üst": 2.98
+    },
+    "El Daklyeh - Maleyat Kafr El Z.": {
+        "Alt": 1.35,
+        "Üst": 3.16
+    },
+    "Baladiyyat AL M. - Team Cairo": {
+        "Alt": 4.03,
+        "Üst": 3.06
     }
 }
