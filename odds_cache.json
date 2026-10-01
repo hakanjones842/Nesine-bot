@@ -1,19 +1,15 @@
 {
-    "Atl. Nacional Medellin - Atl Junior": {
-        "Alt": 1.96,
-        "Üst": 1.4
-    },
-    "Panama - Yeni Zelanda": {
-        "Alt": 1.46,
-        "Üst": 1.86
-    },
     "Slovakya U19 - İsviçre U19": {
-        "Alt": 1.79,
-        "Üst": 1.5
+        "Alt": 1.84,
+        "Üst": 1.47
+    },
+    "Polonya U19 - Kazakistan U19": {
+        "Alt": 1.83,
+        "Üst": 1.48
     },
     "Japonya - Ekvador": {
-        "Alt": 1.47,
-        "Üst": 1.85
+        "Alt": 1.49,
+        "Üst": 1.82
     },
     "Endonezya - Bangladeş": {
         "Alt": 3.57,
@@ -24,20 +20,20 @@
         "Üst": 1.45
     },
     "La Viena - AL Nasr Cairo": {
-        "Alt": 5.03,
-        "Üst": 3.22
+        "Alt": 5.09,
+        "Üst": 3.34
     },
     "Farco - EL Terasanah": {
         "Alt": 3.65,
         "Üst": 3.04
     },
     "El Sekka El Hadid - Entag Harby": {
-        "Alt": 1.23,
-        "Üst": 3.52
+        "Alt": 1.24,
+        "Üst": 3.49
     },
     "El Mansurah - Masar": {
-        "Alt": 1.45,
-        "Üst": 3.12
+        "Alt": 1.44,
+        "Üst": 3.19
     },
     "Dubai Utd - Hatta SC": {
         "Alt": 1.83,
@@ -52,12 +48,16 @@
         "Üst": 1.54
     },
     "Özbekistan - Suriye": {
-        "Alt": 1.58,
-        "Üst": 1.69
+        "Alt": 1.56,
+        "Üst": 1.72
     },
-    "Asante Kotoko - Karela Utd": {
-        "Alt": 1.32,
-        "Üst": 2.15
+    "Faroe Adaları U19 - Slovenya U19": {
+        "Alt": 3.5,
+        "Üst": 1.73
+    },
+    "Katar U19 - İrlanda U19": {
+        "Alt": 1.79,
+        "Üst": 1.51
     },
     "AL Gharraf SC - Al Mesaimeer": {
         "Alt": 1.91,
@@ -65,14 +65,26 @@
     },
     "Yunanistan U21 - Letonya U21": {
         "Alt": 1.16,
-        "Üst": 2.34
+        "Üst": 2.37
     },
     "Stuttgart - G. Furth": {
-        "Alt": 1.63,
-        "Üst": 3.53
+        "Alt": 2.41,
+        "Üst": 3.67
     },
     "Baniyas - AL Wahda": {
         "Alt": 1.9,
         "Üst": 1.44
+    },
+    "Azerbaycan - Lihtenştayn": {
+        "Alt": 1.46,
+        "Üst": 2.01
+    },
+    "Gine - Kenya": {
+        "Alt": 1.24,
+        "Üst": 2.4
+    },
+    "Asante Kotoko - Karela Utd": {
+        "Alt": 1.41,
+        "Üst": 1.95
     }
 }
