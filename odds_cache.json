@@ -1,78 +1,78 @@
 {
-    "Volna Pinsk - Lida": {
-        "Alt": 1.35,
-        "Üst": 3.99
+    "I. Tanger - Moghreb": {
+        "Alt": 1.3,
+        "Üst": 2.23
     },
-    "Khor Fakkan - AL Jazira (Bae)": {
-        "Alt": 2.11,
-        "Üst": 1.34
+    "Real Union de Tenerife - CD Laguna Sad": {
+        "Alt": 1.79,
+        "Üst": 1.51
     },
-    "Al Ahli Dubai - Al Nasr Dubai": {
-        "Alt": 2.41,
-        "Üst": 1.24
+    "San Antonio - Cuniburo": {
+        "Alt": 1.58,
+        "Üst": 1.69
     },
-    "Letonya - Karadağ": {
-        "Alt": 1.6,
-        "Üst": 1.81
+    "Cuenca Juniors - Indep. Juniors": {
+        "Alt": 4.99,
+        "Üst": 3.42
     },
-    "G. Kıbrıs - Ermenistan": {
-        "Alt": 1.57,
-        "Üst": 1.86
+    "ST Kitts ve Nevis - Küba": {
+        "Alt": 1.64,
+        "Üst": 1.63
     },
-    "Dukla Prag - Jablonec": {
-        "Alt": 1.49,
-        "Üst": 1.81
+    "Defensores De Cambaceres - Victoriano A": {
+        "Alt": 5.84,
+        "Üst": 3.37
     },
-    "Fus Rabat - U. Sp. Amal Tiznit": {
-        "Alt": 1.38,
-        "Üst": 2.0
-    },
-    "Hinna - S. Joerpeland": {
-        "Alt": 2.56,
-        "Üst": 4.1
-    },
-    "İngiltere U19 - ABD U19": {
-        "Alt": 2.3,
-        "Üst": 3.5
-    },
-    "Avusturya U21 - Danimarka U21": {
-        "Alt": 1.72,
-        "Üst": 1.56
-    },
-    "Ukrayna U21 - Hırvatistan U21": {
-        "Alt": 1.68,
-        "Üst": 1.59
-    },
-    "Slovenya U21 - Hollanda U21": {
-        "Alt": 2.03,
-        "Üst": 1.37
-    },
-    "Sırbistan U21 - Rusya U21": {
-        "Alt": 1.62,
+    "Carapegua - Deportivo Capiata": {
+        "Alt": 1.63,
         "Üst": 1.65
     },
-    "Hay AL Amir Hassan - Al Hashemehya": {
-        "Alt": 1.56,
-        "Üst": 1.72
+    "Ferro Carril Oeste - Dep. Madryn": {
+        "Alt": 3.04,
+        "Üst": 2.94
     },
-    "AL Sareeh - Maan": {
+    "Surinam - Guatemala": {
+        "Alt": 1.92,
+        "Üst": 1.43
+    },
+    "Atletico - R. S. Cundinamarca": {
+        "Alt": 1.45,
+        "Üst": 1.86
+    },
+    "Independiente - Instituto": {
+        "Alt": 1.29,
+        "Üst": 2.49
+    },
+    "Sao Bernardo - Crb Al": {
         "Alt": 1.54,
         "Üst": 1.74
     },
-    "B. Leverkusen (K) - Werder Bremen (K)": {
-        "Alt": 2.35,
-        "Üst": 3.39
+    "Sao Paulo SP - Santos SP": {
+        "Alt": 1.51,
+        "Üst": 1.95
     },
-    "FK Garliava - Dfk Dainava": {
-        "Alt": 1.97,
-        "Üst": 1.4
+    "C. Santos Laguna (K) - Puebla (K)": {
+        "Alt": 1.69,
+        "Üst": 3.59
     },
-    "Molde II - Herd": {
+    "U. Concepcion - Huachipato": {
+        "Alt": 1.75,
+        "Üst": 1.53
+    },
+    "Londrina PR - Criciuma": {
+        "Alt": 1.4,
+        "Üst": 1.98
+    },
+    "Juventude - Operario": {
         "Alt": 1.44,
-        "Üst": 4.41
+        "Üst": 1.9
     },
-    "Stuttgarter Kickers - Offenbacher": {
-        "Alt": 2.03,
-        "Üst": 1.37
+    "Kolombiya - Paraguay": {
+        "Alt": 1.44,
+        "Üst": 1.9
+    },
+    "Barbados - Bermuda": {
+        "Alt": 2.58,
+        "Üst": 1.2
     }
 }
