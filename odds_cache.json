@@ -1,59 +1,11 @@
 {
-    "I. Tanger - Moghreb": {
-        "Alt": 1.3,
-        "Üst": 2.23
-    },
-    "Real Union de Tenerife - CD Laguna Sad": {
-        "Alt": 1.79,
-        "Üst": 1.51
-    },
-    "San Antonio - Cuniburo": {
-        "Alt": 1.58,
-        "Üst": 1.69
-    },
-    "Cuenca Juniors - Indep. Juniors": {
-        "Alt": 4.99,
-        "Üst": 3.42
-    },
-    "ST Kitts ve Nevis - Küba": {
-        "Alt": 1.64,
-        "Üst": 1.63
-    },
-    "Defensores De Cambaceres - Victoriano A": {
-        "Alt": 5.84,
-        "Üst": 3.37
-    },
-    "Carapegua - Deportivo Capiata": {
-        "Alt": 1.63,
-        "Üst": 1.65
-    },
-    "Ferro Carril Oeste - Dep. Madryn": {
-        "Alt": 3.04,
-        "Üst": 2.94
-    },
-    "Surinam - Guatemala": {
-        "Alt": 1.92,
-        "Üst": 1.43
-    },
-    "Atletico - R. S. Cundinamarca": {
-        "Alt": 1.45,
-        "Üst": 1.86
-    },
-    "Independiente - Instituto": {
-        "Alt": 1.29,
-        "Üst": 2.49
-    },
-    "Sao Bernardo - Crb Al": {
-        "Alt": 1.54,
-        "Üst": 1.74
-    },
     "Sao Paulo SP - Santos SP": {
-        "Alt": 1.51,
-        "Üst": 1.95
+        "Alt": 1.52,
+        "Üst": 1.93
     },
     "C. Santos Laguna (K) - Puebla (K)": {
-        "Alt": 1.69,
-        "Üst": 3.59
+        "Alt": 2.53,
+        "Üst": 3.72
     },
     "U. Concepcion - Huachipato": {
         "Alt": 1.75,
@@ -64,15 +16,63 @@
         "Üst": 1.98
     },
     "Juventude - Operario": {
-        "Alt": 1.44,
-        "Üst": 1.9
+        "Alt": 1.47,
+        "Üst": 1.84
     },
     "Kolombiya - Paraguay": {
-        "Alt": 1.44,
-        "Üst": 1.9
+        "Alt": 1.4,
+        "Üst": 1.97
     },
     "Barbados - Bermuda": {
-        "Alt": 2.58,
-        "Üst": 1.2
+        "Alt": 2.51,
+        "Üst": 1.22
+    },
+    "Bonaire - Grenada": {
+        "Alt": 1.54,
+        "Üst": 1.74
+    },
+    "Martinik - Honduras": {
+        "Alt": 1.54,
+        "Üst": 1.74
+    },
+    "Ind. Mendoza - Gimnasia": {
+        "Alt": 1.47,
+        "Üst": 2.01
+    },
+    "Boca Juniors - Union Santa Fe": {
+        "Alt": 1.78,
+        "Üst": 1.63
+    },
+    "Fortaleza CE - Nautico PE": {
+        "Alt": 1.57,
+        "Üst": 1.71
+    },
+    "Deport Cali - Alianza Valledupar": {
+        "Alt": 1.5,
+        "Üst": 1.8
+    },
+    "Tepatitlan - Jaiba Brava": {
+        "Alt": 2.02,
+        "Üst": 3.32
+    },
+    "Correcaminos - Cruz Azul Hidalgo": {
+        "Alt": 1.81,
+        "Üst": 3.49
+    },
+    "Pumas Unam (K) - Tigres UANL (K)": {
+        "Alt": 1.74,
+        "Üst": 3.53
+    },
+    "Rancho Santana - Managua": {
+        "Alt": 1.71,
+        "Üst": 3.66
+    },
+    "Wellington Oly. - Ferrymead Bays": {
+        "Alt": 1.95,
+        "Üst": 3.57
+    },
+    "Miramar Rangers - Auckland": {
+        "Alt": 2.05,
+        "Üst": 3.59
     }
 }
