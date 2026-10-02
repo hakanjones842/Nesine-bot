@@ -1,82 +1,78 @@
 {
-    "Vietnam - Pakistan": {
-        "Alt": 3.88,
-        "Üst": 1.59
+    "Volna Pinsk - Lida": {
+        "Alt": 1.35,
+        "Üst": 3.99
     },
-    "Tayland - Filipinler": {
-        "Alt": 1.86,
-        "Üst": 1.46
+    "Khor Fakkan - AL Jazira (Bae)": {
+        "Alt": 2.11,
+        "Üst": 1.34
     },
-    "Lugano - Hellas Verona": {
-        "Alt": 1.79,
-        "Üst": 1.51
+    "Al Ahli Dubai - Al Nasr Dubai": {
+        "Alt": 2.41,
+        "Üst": 1.24
     },
-    "Daejeon Korail - Gangneung City": {
+    "Letonya - Karadağ": {
         "Alt": 1.6,
-        "Üst": 1.67
+        "Üst": 1.81
     },
-    "MIO Biwako Shiga - R. Kumamoto": {
-        "Alt": 1.65,
-        "Üst": 1.63
-    },
-    "Nürnberg - Ingolstadt": {
-        "Alt": 1.81,
-        "Üst": 3.52
-    },
-    "Galler U19 - Norveç U19": {
-        "Alt": 1.81,
-        "Üst": 3.39
-    },
-    "Güney Kore - Venezuela": {
-        "Alt": 1.61,
-        "Üst": 1.66
-    },
-    "Augsburg - Hertha Berlin": {
-        "Alt": 2.55,
-        "Üst": 1.21
-    },
-    "Çin - Filistin": {
-        "Alt": 1.46,
+    "G. Kıbrıs - Ermenistan": {
+        "Alt": 1.57,
         "Üst": 1.86
     },
-    "Fleetwood T. U21 - S. Wednesday U21": {
-        "Alt": 3.39,
-        "Üst": 3.92
+    "Dukla Prag - Jablonec": {
+        "Alt": 1.49,
+        "Üst": 1.81
     },
-    "Dayrout - Ismaily Sc": {
-        "Alt": 1.67,
-        "Üst": 2.93
+    "Fus Rabat - U. Sp. Amal Tiznit": {
+        "Alt": 1.38,
+        "Üst": 2.0
     },
-    "El Daklyeh - Maleyat Kafr El Z.": {
-        "Alt": 1.37,
-        "Üst": 3.12
+    "Hinna - S. Joerpeland": {
+        "Alt": 2.56,
+        "Üst": 4.1
     },
-    "Baladiyyat AL M. - Team Cairo": {
-        "Alt": 4.06,
-        "Üst": 3.06
+    "İngiltere U19 - ABD U19": {
+        "Alt": 2.3,
+        "Üst": 3.5
     },
-    "Tanta - Haras Hodood": {
-        "Alt": 1.29,
-        "Üst": 3.33
+    "Avusturya U21 - Danimarka U21": {
+        "Alt": 1.72,
+        "Üst": 1.56
     },
-    "Proxy SC - Telecom Egypt": {
-        "Alt": 1.26,
+    "Ukrayna U21 - Hırvatistan U21": {
+        "Alt": 1.68,
+        "Üst": 1.59
+    },
+    "Slovenya U21 - Hollanda U21": {
+        "Alt": 2.03,
+        "Üst": 1.37
+    },
+    "Sırbistan U21 - Rusya U21": {
+        "Alt": 1.62,
+        "Üst": 1.65
+    },
+    "Hay AL Amir Hassan - Al Hashemehya": {
+        "Alt": 1.56,
+        "Üst": 1.72
+    },
+    "AL Sareeh - Maan": {
+        "Alt": 1.54,
+        "Üst": 1.74
+    },
+    "B. Leverkusen (K) - Werder Bremen (K)": {
+        "Alt": 2.35,
         "Üst": 3.39
     },
-    "Kahrabaa Ismailia - Mega Sport Belqas": {
-        "Alt": 1.5,
-        "Üst": 1.8
+    "FK Garliava - Dfk Dainava": {
+        "Alt": 1.97,
+        "Üst": 1.4
     },
-    "Arnavutluk U19 - Litvanya U19": {
-        "Alt": 1.61,
-        "Üst": 1.66
+    "Molde II - Herd": {
+        "Alt": 1.44,
+        "Üst": 4.41
     },
-    "Belçika U19 - Kuzey İrlanda U19": {
-        "Alt": 2.49,
-        "Üst": 3.53
-    },
-    "Kazakistan - Moldova": {
-        "Alt": 1.41,
-        "Üst": 2.14
+    "Stuttgarter Kickers - Offenbacher": {
+        "Alt": 2.03,
+        "Üst": 1.37
     }
 }
