@@ -1,86 +1,78 @@
 {
-    "Unionistas - Cultural Leonesa": {
-        "Alt": 1.47,
-        "Üst": 1.84
-    },
-    "Alcorcon - Juventud Torremolinos": {
+    "CA Talleres de C. (K) - CA Independiente (K)": {
         "Alt": 1.75,
         "Üst": 1.54
     },
-    "Cartagena - Aguilas": {
-        "Alt": 1.32,
-        "Üst": 2.14
+    "SAO Paulo SP (K) - SC Corinthians SP (K)": {
+        "Alt": 1.5,
+        "Üst": 1.8
     },
-    "Deportivo Mixco - Municipal": {
-        "Alt": 1.65,
-        "Üst": 1.62
+    "Atl Tucuman - Barracas": {
+        "Alt": 1.26,
+        "Üst": 2.61
     },
-    "L. Entregu - Colunga": {
+    "New Old Boys - Lanus": {
+        "Alt": 1.3,
+        "Üst": 2.47
+    },
+    "Boca Juniors (K) - San Luis (K)": {
+        "Alt": 1.51,
+        "Üst": 1.79
+    },
+    "Cuiaba - Ponte Preta": {
+        "Alt": 1.33,
+        "Üst": 1.93
+    },
+    "Santa Cruz - Maringa": {
+        "Alt": 4.66,
+        "Üst": 3.46
+    },
+    "Floresta EC - Botafogo PB": {
+        "Alt": 4.01,
+        "Üst": 3.11
+    },
+    "R. Casablanca - CR Khemis Zemamra": {
+        "Alt": 1.45,
+        "Üst": 1.86
+    },
+    "Forge - Hfx Wan.": {
+        "Alt": 1.86,
+        "Üst": 1.45
+    },
+    "Portoviejo - El Nacional": {
         "Alt": 1.58,
-        "Üst": 1.71
+        "Üst": 1.7
     },
-    "La Solana - CP Villarrobledo": {
-        "Alt": 1.32,
-        "Üst": 2.15
+    "CD Real San Andres - U. Magdalena": {
+        "Alt": 1.51,
+        "Üst": 1.79
     },
-    "CD Estepona - Don Benito": {
+    "Boyaca Patr. - Independiente Yumbo": {
         "Alt": 1.44,
-        "Üst": 1.91
+        "Üst": 1.88
     },
-    "Moyola Park - Glenavon": {
-        "Alt": 2.14,
-        "Üst": 1.33
+    "Sint Maarten - Saint Vincent ve G.": {
+        "Alt": 1.64,
+        "Üst": 1.63
     },
-    "Fransa U21 - Lüksemburg U21": {
-        "Alt": 1.09,
-        "Üst": 1.67
-    },
-    "KAA Gent (K) - SV Zulte Waregem (K)": {
-        "Alt": 1.84,
-        "Üst": 1.48
-    },
-    "Standard Liege (K) - KRC Genk (K)": {
-        "Alt": 1.72,
-        "Üst": 1.56
-    },
-    "Vilanova Geltru - Montcada": {
-        "Alt": 1.79,
-        "Üst": 1.51
-    },
-    "CD Atletico Paso - Real Madrid C": {
-        "Alt": 1.34,
-        "Üst": 2.09
-    },
-    "Def. Justicia - San Lorenzo": {
-        "Alt": 1.36,
-        "Üst": 2.28
-    },
-    "Kanada - Peru": {
-        "Alt": 1.6,
-        "Üst": 1.67
-    },
-    "Newells Old Boys (K) - CA River Plate (K)": {
-        "Alt": 1.62,
+    "CD Aguila - C.D. Cacahuatique": {
+        "Alt": 1.63,
         "Üst": 1.65
     },
-    "CSD Liniers - Excursionist": {
-        "Alt": 1.31,
-        "Üst": 2.18
+    "CSD Imperial - Malacateco": {
+        "Alt": 1.55,
+        "Üst": 1.73
     },
-    "Sportivo Dock Sud - Dep. Armenio": {
-        "Alt": 1.33,
-        "Üst": 2.12
+    "D. Maldonado - Central Espanol": {
+        "Alt": 1.65,
+        "Üst": 1.63
     },
-    "Villa San Ca - Arsenal Sarandi": {
-        "Alt": 1.4,
-        "Üst": 3.12
+    "CD Tolima - Boyaca Chico": {
+        "Alt": 1.73,
+        "Üst": 1.55
     },
-    "San Martin - Argentino De Merlo": {
-        "Alt": 3.97,
-        "Üst": 3.19
-    },
-    "Atl Camioneros - Deportivo Laferrere": {
-        "Alt": 1.36,
-        "Üst": 2.07
+    "Atl Mineiro - Bragantino": {
+        "Alt": 1.79,
+        "Üst": 1.62
     }
 }
