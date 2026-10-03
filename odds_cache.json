@@ -1,78 +1,78 @@
 {
-    "CA Talleres de C. (K) - CA Independiente (K)": {
-        "Alt": 1.75,
-        "Üst": 1.54
+    "Internacional SP - Brusque Sc": {
+        "Alt": 1.37,
+        "Üst": 2.04
     },
-    "SAO Paulo SP (K) - SC Corinthians SP (K)": {
-        "Alt": 1.5,
-        "Üst": 1.8
+    "Paysandu SC PA - Ferroviaria": {
+        "Alt": 1.53,
+        "Üst": 1.76
     },
-    "Atl Tucuman - Barracas": {
-        "Alt": 1.26,
-        "Üst": 2.61
-    },
-    "New Old Boys - Lanus": {
-        "Alt": 1.3,
-        "Üst": 2.47
-    },
-    "Boca Juniors (K) - San Luis (K)": {
-        "Alt": 1.51,
-        "Üst": 1.79
-    },
-    "Cuiaba - Ponte Preta": {
-        "Alt": 1.33,
-        "Üst": 1.93
-    },
-    "Santa Cruz - Maringa": {
-        "Alt": 4.66,
-        "Üst": 3.46
-    },
-    "Floresta EC - Botafogo PB": {
-        "Alt": 4.01,
-        "Üst": 3.11
-    },
-    "R. Casablanca - CR Khemis Zemamra": {
-        "Alt": 1.45,
-        "Üst": 1.86
-    },
-    "Forge - Hfx Wan.": {
-        "Alt": 1.86,
-        "Üst": 1.45
-    },
-    "Portoviejo - El Nacional": {
-        "Alt": 1.58,
-        "Üst": 1.7
-    },
-    "CD Real San Andres - U. Magdalena": {
-        "Alt": 1.51,
-        "Üst": 1.79
-    },
-    "Boyaca Patr. - Independiente Yumbo": {
-        "Alt": 1.44,
-        "Üst": 1.88
-    },
-    "Sint Maarten - Saint Vincent ve G.": {
-        "Alt": 1.64,
-        "Üst": 1.63
-    },
-    "CD Aguila - C.D. Cacahuatique": {
-        "Alt": 1.63,
-        "Üst": 1.65
-    },
-    "CSD Imperial - Malacateco": {
-        "Alt": 1.55,
-        "Üst": 1.73
-    },
-    "D. Maldonado - Central Espanol": {
-        "Alt": 1.65,
-        "Üst": 1.63
-    },
-    "CD Tolima - Boyaca Chico": {
+    "Eastern Suburbs - Auckland City": {
         "Alt": 1.73,
         "Üst": 1.55
     },
-    "Atl Mineiro - Bragantino": {
+    "Detroit City - Birmingham Legion": {
         "Alt": 1.79,
-        "Üst": 1.62
+        "Üst": 1.51
+    },
+    "Lexington SC - El Paso Loc.": {
+        "Alt": 1.88,
+        "Üst": 1.44
+    },
+    "Brooklyn - Rhode Island": {
+        "Alt": 1.86,
+        "Üst": 1.46
+    },
+    "Naples - New York Cosmos": {
+        "Alt": 1.99,
+        "Üst": 1.39
+    },
+    "Westchester SC - Av Alta": {
+        "Alt": 2.48,
+        "Üst": 3.52
+    },
+    "Metapan - Atletico Balboa": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "Queretaro (K) - Atl San Luis (K)": {
+        "Alt": 1.72,
+        "Üst": 3.45
+    },
+    "Barranquilla - Millonarios": {
+        "Alt": 1.68,
+        "Üst": 1.59
+    },
+    "Tampa Bay - Miami": {
+        "Alt": 2.0,
+        "Üst": 1.38
+    },
+    "Sarasota Paradise - Charlotte Ind.": {
+        "Alt": 3.26,
+        "Üst": 3.74
+    },
+    "Fort Wayne - Forward M.": {
+        "Alt": 1.93,
+        "Üst": 1.42
+    },
+    "Tulsa Roughnecks - Sacramento R.": {
+        "Alt": 1.37,
+        "Üst": 2.03
+    },
+    "Walter Ferretti - ART Jalapa": {
+        "Alt": 1.77,
+        "Üst": 1.52
+    },
+    "Auckland Utd - Napier City R.": {
+        "Alt": 1.3,
+        "Üst": 3.89
+    },
+    "Colorado Spr. - Oakland Roots SC": {
+        "Alt": 1.86,
+        "Üst": 1.46
+    },
+    "Spokane Velocity - P. Hearts of Pine": {
+        "Alt": 1.99,
+        "Üst": 1.39
     }
 }
