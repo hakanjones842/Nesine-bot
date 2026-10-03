@@ -1,74 +1,86 @@
 {
-    "Molodechno - Slutsk": {
-        "Alt": 1.49,
-        "Üst": 3.64
+    "Unionistas - Cultural Leonesa": {
+        "Alt": 1.47,
+        "Üst": 1.84
     },
-    "Hoek - De Treffers": {
+    "Alcorcon - Juventud Torremolinos": {
+        "Alt": 1.75,
+        "Üst": 1.54
+    },
+    "Cartagena - Aguilas": {
+        "Alt": 1.32,
+        "Üst": 2.14
+    },
+    "Deportivo Mixco - Municipal": {
+        "Alt": 1.65,
+        "Üst": 1.62
+    },
+    "L. Entregu - Colunga": {
         "Alt": 1.58,
-        "Üst": 3.56
-    },
-    "Rijnsburgse Boys - VV Kloetinge": {
-        "Alt": 1.96,
-        "Üst": 3.68
-    },
-    "HHC Hardenberg - Ijsselmeervogels": {
-        "Alt": 2.0,
-        "Üst": 1.38
-    },
-    "Rkav Volendam - Almere City": {
-        "Alt": 3.05,
-        "Üst": 3.76
-    },
-    "Man. Utd (K) - Liverpool (K)": {
-        "Alt": 1.97,
-        "Üst": 1.4
-    },
-    "Sorrento - Casarano": {
-        "Alt": 1.66,
-        "Üst": 1.61
-    },
-    "AS Gubbio 1910 - Perugia": {
-        "Alt": 1.46,
-        "Üst": 1.86
-    },
-    "Cittadella - US Albinoleffe": {
-        "Alt": 1.58,
-        "Üst": 1.69
-    },
-    "Cavese 1919 - Casertana": {
-        "Alt": 1.57,
         "Üst": 1.71
     },
-    "Vado - Forli": {
-        "Alt": 1.63,
+    "La Solana - CP Villarrobledo": {
+        "Alt": 1.32,
+        "Üst": 2.15
+    },
+    "CD Estepona - Don Benito": {
+        "Alt": 1.44,
+        "Üst": 1.91
+    },
+    "Moyola Park - Glenavon": {
+        "Alt": 2.14,
+        "Üst": 1.33
+    },
+    "Fransa U21 - Lüksemburg U21": {
+        "Alt": 1.09,
+        "Üst": 1.67
+    },
+    "KAA Gent (K) - SV Zulte Waregem (K)": {
+        "Alt": 1.84,
+        "Üst": 1.48
+    },
+    "Standard Liege (K) - KRC Genk (K)": {
+        "Alt": 1.72,
+        "Üst": 1.56
+    },
+    "Vilanova Geltru - Montcada": {
+        "Alt": 1.79,
+        "Üst": 1.51
+    },
+    "CD Atletico Paso - Real Madrid C": {
+        "Alt": 1.34,
+        "Üst": 2.09
+    },
+    "Def. Justicia - San Lorenzo": {
+        "Alt": 1.36,
+        "Üst": 2.28
+    },
+    "Kanada - Peru": {
+        "Alt": 1.6,
+        "Üst": 1.67
+    },
+    "Newells Old Boys (K) - CA River Plate (K)": {
+        "Alt": 1.62,
         "Üst": 1.65
     },
-    "Strommen - Sandnes ULF": {
-        "Alt": 1.84,
-        "Üst": 1.47
+    "CSD Liniers - Excursionist": {
+        "Alt": 1.31,
+        "Üst": 2.18
     },
-    "Follo - S. Blink": {
-        "Alt": 2.46,
-        "Üst": 1.23
+    "Sportivo Dock Sud - Dep. Armenio": {
+        "Alt": 1.33,
+        "Üst": 2.12
     },
-    "Finlandiya - Arnavutluk": {
-        "Alt": 1.32,
-        "Üst": 2.39
+    "Villa San Ca - Arsenal Sarandi": {
+        "Alt": 1.4,
+        "Üst": 3.12
     },
-    "Smorgon - Osipovichi": {
-        "Alt": 2.14,
-        "Üst": 3.41
+    "San Martin - Argentino De Merlo": {
+        "Alt": 3.97,
+        "Üst": 3.19
     },
-    "Valenciennes U19 - USL Dunkerque U19": {
-        "Alt": 2.04,
-        "Üst": 1.37
-    },
-    "Katwijk - Kozakken Boys": {
-        "Alt": 1.32,
-        "Üst": 3.96
-    },
-    "BVV Barendrecht - J. S. Rotterdam": {
-        "Alt": 1.35,
-        "Üst": 4.21
+    "Atl Camioneros - Deportivo Laferrere": {
+        "Alt": 1.36,
+        "Üst": 2.07
     }
 }
