@@ -1,86 +1,90 @@
 {
-    "El Salvador - Jamaika": {
-        "Alt": 1.45,
-        "Üst": 1.88
+    "Ulsan Citizen - Siheung Citi.": {
+        "Alt": 1.58,
+        "Üst": 1.7
     },
-    "CD Marquense - Antigua": {
-        "Alt": 1.49,
-        "Üst": 1.81
+    "Tochigi City - Imabari": {
+        "Alt": 1.9,
+        "Üst": 1.44
     },
-    "Atl La Paz - Venados": {
-        "Alt": 1.97,
+    "Oita Trinata - M. Yamagata": {
+        "Alt": 1.35,
+        "Üst": 2.07
+    },
+    "G. Kitakyushu - Kochi Utd SC": {
+        "Alt": 1.62,
+        "Üst": 1.65
+    },
+    "SC Sagamihara - Osaka": {
+        "Alt": 1.68,
+        "Üst": 1.59
+    },
+    "Ryukyu - Z. Kanazawa": {
+        "Alt": 1.78,
+        "Üst": 1.51
+    },
+    "Real Betis U19 - Sevilla U19": {
+        "Alt": 2.0,
+        "Üst": 1.38
+    },
+    "Honda - Honda Lock": {
+        "Alt": 1.57,
+        "Üst": 1.71
+    },
+    "Veertien Mie - Verspah Oita": {
+        "Alt": 1.54,
+        "Üst": 1.75
+    },
+    "Egri - Diosgyori Vtk II": {
+        "Alt": 1.32,
+        "Üst": 3.84
+    },
+    "Ujpest II - Bss Monor": {
+        "Alt": 3.31,
+        "Üst": 3.89
+    },
+    "Vasas SC II - BKV Elore": {
+        "Alt": 1.92,
         "Üst": 3.68
     },
-    "Monterrey (K) - America (K)": {
-        "Alt": 2.03,
+    "Paksi II - Szekszardi Ufc": {
+        "Alt": 1.82,
+        "Üst": 3.53
+    },
+    "Fransa U20 - İtalya U20": {
+        "Alt": 1.81,
+        "Üst": 1.49
+    },
+    "V. Tulevik - T. Kalev U21": {
+        "Alt": 2.01,
+        "Üst": 4.11
+    },
+    "SD Eibar U19 - Santutxu U19": {
+        "Alt": 2.02,
         "Üst": 1.37
     },
-    "Vonds Ichihara - Grulla Morioka": {
-        "Alt": 1.54,
-        "Üst": 1.74
+    "Cordoba U19 - Atletico Melilla U19": {
+        "Alt": 1.67,
+        "Üst": 3.47
     },
-    "Tokyo Musashino City - Azul Claro N.": {
-        "Alt": 1.49,
-        "Üst": 1.82
+    "Acodetti U19 - CD Herbania U19": {
+        "Alt": 1.86,
+        "Üst": 1.46
     },
-    "Pocheon Citi. - Chuncheon": {
-        "Alt": 1.85,
-        "Üst": 1.47
+    "AD Alcorcon U19 - CD Toledo U19": {
+        "Alt": 1.86,
+        "Üst": 1.46
     },
-    "Yeoju Citizen - Jeonbuk II": {
-        "Alt": 1.7,
-        "Üst": 1.58
+    "RCD Espanyol (K) - Deportivo Alaves (K)": {
+        "Alt": 1.48,
+        "Üst": 1.83
     },
-    "Changwon City - Yangpyeong": {
-        "Alt": 1.45,
-        "Üst": 1.87
+    "Sevilla (K) - L. Las Planas (K)": {
+        "Alt": 1.65,
+        "Üst": 1.62
     },
-    "Fujieda Myfc - S. Bellmare": {
-        "Alt": 1.49,
-        "Üst": 1.82
-    },
-    "Niigata - T. Vortis": {
-        "Alt": 1.41,
-        "Üst": 1.94
-    },
-    "Gifu - Renofa Y.": {
-        "Alt": 1.74,
-        "Üst": 1.54
-    },
-    "AC N. Parceiro - Nara Club": {
-        "Alt": 1.92,
-        "Üst": 1.43
-    },
-    "Matsumoto Y. - Gainare Tottori": {
-        "Alt": 1.72,
-        "Üst": 1.56
-    },
-    "S. Hiroshima (K) - Nagano P. (K)": {
-        "Alt": 1.84,
-        "Üst": 1.48
-    },
-    "Urawa Red (K) - Tokyo Verdy B. (K)": {
-        "Alt": 1.93,
-        "Üst": 1.43
-    },
-    "Mynavi S. (K) - INAC Kobe L. (K)": {
-        "Alt": 1.63,
-        "Üst": 1.64
-    },
-    "Çin U23 - Özbekistan U23": {
-        "Alt": 1.61,
-        "Üst": 1.66
-    },
-    "Ehime - Thespakusatsu G.": {
-        "Alt": 1.99,
-        "Üst": 1.39
-    },
-    "Perth Glory - Adelaide Utd": {
-        "Alt": 1.93,
-        "Üst": 1.43
-    },
-    "Ventforet - Kat. Toyama": {
-        "Alt": 1.79,
-        "Üst": 1.51
+    "Kashiwa - Gamba Osaka": {
+        "Alt": 1.95,
+        "Üst": 1.41
     }
 }
