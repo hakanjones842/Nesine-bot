@@ -1,90 +1,74 @@
 {
-    "Ulsan Citizen - Siheung Citi.": {
+    "Molodechno - Slutsk": {
+        "Alt": 1.49,
+        "Üst": 3.64
+    },
+    "Hoek - De Treffers": {
         "Alt": 1.58,
-        "Üst": 1.7
+        "Üst": 3.56
     },
-    "Tochigi City - Imabari": {
-        "Alt": 1.9,
-        "Üst": 1.44
+    "Rijnsburgse Boys - VV Kloetinge": {
+        "Alt": 1.96,
+        "Üst": 3.68
     },
-    "Oita Trinata - M. Yamagata": {
-        "Alt": 1.35,
-        "Üst": 2.07
-    },
-    "G. Kitakyushu - Kochi Utd SC": {
-        "Alt": 1.62,
-        "Üst": 1.65
-    },
-    "SC Sagamihara - Osaka": {
-        "Alt": 1.68,
-        "Üst": 1.59
-    },
-    "Ryukyu - Z. Kanazawa": {
-        "Alt": 1.78,
-        "Üst": 1.51
-    },
-    "Real Betis U19 - Sevilla U19": {
+    "HHC Hardenberg - Ijsselmeervogels": {
         "Alt": 2.0,
         "Üst": 1.38
     },
-    "Honda - Honda Lock": {
+    "Rkav Volendam - Almere City": {
+        "Alt": 3.05,
+        "Üst": 3.76
+    },
+    "Man. Utd (K) - Liverpool (K)": {
+        "Alt": 1.97,
+        "Üst": 1.4
+    },
+    "Sorrento - Casarano": {
+        "Alt": 1.66,
+        "Üst": 1.61
+    },
+    "AS Gubbio 1910 - Perugia": {
+        "Alt": 1.46,
+        "Üst": 1.86
+    },
+    "Cittadella - US Albinoleffe": {
+        "Alt": 1.58,
+        "Üst": 1.69
+    },
+    "Cavese 1919 - Casertana": {
         "Alt": 1.57,
         "Üst": 1.71
     },
-    "Veertien Mie - Verspah Oita": {
-        "Alt": 1.54,
-        "Üst": 1.75
+    "Vado - Forli": {
+        "Alt": 1.63,
+        "Üst": 1.65
     },
-    "Egri - Diosgyori Vtk II": {
+    "Strommen - Sandnes ULF": {
+        "Alt": 1.84,
+        "Üst": 1.47
+    },
+    "Follo - S. Blink": {
+        "Alt": 2.46,
+        "Üst": 1.23
+    },
+    "Finlandiya - Arnavutluk": {
         "Alt": 1.32,
-        "Üst": 3.84
+        "Üst": 2.39
     },
-    "Ujpest II - Bss Monor": {
-        "Alt": 3.31,
-        "Üst": 3.89
+    "Smorgon - Osipovichi": {
+        "Alt": 2.14,
+        "Üst": 3.41
     },
-    "Vasas SC II - BKV Elore": {
-        "Alt": 1.92,
-        "Üst": 3.68
-    },
-    "Paksi II - Szekszardi Ufc": {
-        "Alt": 1.82,
-        "Üst": 3.53
-    },
-    "Fransa U20 - İtalya U20": {
-        "Alt": 1.81,
-        "Üst": 1.49
-    },
-    "V. Tulevik - T. Kalev U21": {
-        "Alt": 2.01,
-        "Üst": 4.11
-    },
-    "SD Eibar U19 - Santutxu U19": {
-        "Alt": 2.02,
+    "Valenciennes U19 - USL Dunkerque U19": {
+        "Alt": 2.04,
         "Üst": 1.37
     },
-    "Cordoba U19 - Atletico Melilla U19": {
-        "Alt": 1.67,
-        "Üst": 3.47
+    "Katwijk - Kozakken Boys": {
+        "Alt": 1.32,
+        "Üst": 3.96
     },
-    "Acodetti U19 - CD Herbania U19": {
-        "Alt": 1.86,
-        "Üst": 1.46
-    },
-    "AD Alcorcon U19 - CD Toledo U19": {
-        "Alt": 1.86,
-        "Üst": 1.46
-    },
-    "RCD Espanyol (K) - Deportivo Alaves (K)": {
-        "Alt": 1.48,
-        "Üst": 1.83
-    },
-    "Sevilla (K) - L. Las Planas (K)": {
-        "Alt": 1.65,
-        "Üst": 1.62
-    },
-    "Kashiwa - Gamba Osaka": {
-        "Alt": 1.95,
-        "Üst": 1.41
+    "BVV Barendrecht - J. S. Rotterdam": {
+        "Alt": 1.35,
+        "Üst": 4.21
     }
 }
