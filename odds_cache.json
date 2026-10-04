@@ -1,82 +1,74 @@
 {
-    "Atletico De Rafaela - CA Atlanta": {
-        "Alt": 4.18,
-        "Üst": 3.14
-    },
-    "Tru Juice - Tivoli Gardens": {
-        "Alt": 1.58,
-        "Üst": 1.7
-    },
-    "Montego Bay Utd - Dunbeholden": {
-        "Alt": 1.81,
-        "Üst": 1.5
-    },
-    "Treasure Beach - Humble Lions": {
-        "Alt": 1.85,
-        "Üst": 1.47
-    },
-    "Godoy Cruz - CA Los Andes": {
-        "Alt": 2.34,
-        "Üst": 2.71
-    },
-    "Platense M. - Municipal L.": {
-        "Alt": 1.63,
-        "Üst": 1.64
-    },
-    "Tigres (Kol) - Internacional Palmira": {
-        "Alt": 1.34,
-        "Üst": 2.09
-    },
-    "Cucuta D. - Dep. Pereira": {
-        "Alt": 1.58,
-        "Üst": 1.69
-    },
-    "Inter Bogota - Once Caldas": {
-        "Alt": 1.71,
-        "Üst": 1.57
-    },
-    "Tucuman - Gimnasia Y. Tiro": {
-        "Alt": 2.68,
-        "Üst": 2.83
-    },
-    "New Mexico - Phoenix Rising": {
-        "Alt": 2.08,
-        "Üst": 1.35
-    },
-    "Porto Riko - Cayman Adaları": {
-        "Alt": 1.12,
-        "Üst": 2.21
-    },
-    "Trinidad & T. - Curaçao": {
-        "Alt": 2.13,
-        "Üst": 1.33
-    },
-    "Molynes - Racing Utd": {
+    "CA Bucaramanga - Atl Junior": {
         "Alt": 1.6,
         "Üst": 1.67
     },
-    "Argentinos J. - CA Tigre": {
-        "Alt": 1.34,
-        "Üst": 2.31
+    "Kosta Rika - Haiti": {
+        "Alt": 1.92,
+        "Üst": 1.43
     },
-    "R. Montevideo - Penarol": {
-        "Alt": 1.33,
-        "Üst": 2.12
+    "Estudiantes Río C. - Racing Club": {
+        "Alt": 1.3,
+        "Üst": 2.48
     },
-    "Aruba - Anguilla": {
+    "Mount Pleasant - Cavalier": {
+        "Alt": 1.5,
+        "Üst": 1.81
+    },
+    "CD Fas - CD Inca": {
         "Alt": 3.89,
-        "Üst": 2.2
+        "Üst": 1.59
     },
-    "Fundacion F. Un Atleta - Fuerte San Francisco": {
-        "Alt": 1.65,
-        "Üst": 1.62
+    "Comunicacion - CD Suchitepequez": {
+        "Alt": 1.64,
+        "Üst": 1.64
     },
-    "Dep. Guastatoya - Aurora": {
+    "Pachuca (K) - Dep. Toluca (K)": {
+        "Alt": 2.6,
+        "Üst": 3.75
+    },
+    "Llaneros - America De Cali": {
+        "Alt": 1.49,
+        "Üst": 1.81
+    },
+    "Nikaragua - Dominik Cum.": {
+        "Alt": 2.09,
+        "Üst": 1.35
+    },
+    "Malezya - Vietnam": {
+        "Alt": 1.68,
+        "Üst": 1.59
+    },
+    "N. Zamini Tehran - Mes Kerman": {
+        "Alt": 1.2,
+        "Üst": 1.22
+    },
+    "Uganda - D. Kongo Cum.": {
+        "Alt": 1.42,
+        "Üst": 1.93
+    },
+    "Besat Kermanshah - Palayesh Naft B. A.": {
+        "Alt": 1.25,
+        "Üst": 1.21
+    },
+    "Endonezya - Tayland": {
         "Alt": 1.58,
-        "Üst": 1.7
+        "Üst": 1.69
     },
-    "Guadalajara (K) - Juarez (K)": {
-        "Alt": 1.44,
-        "Üst": 1.88
+    "Sheffield Utd U21 - Bolton Wanderers U21": {
+        "Alt": 3.06,
+        "Üst": 3.94
+    },
+    "Mes Rafsanjan - Ario Eslamshahr": {
+        "Alt": 1.27,
+        "Üst": 1.21
+    },
+    "Karadağ U21 - Ermenistan U21": {
+        "Alt": 1.85,
+        "Üst": 1.47
+    },
+    "Liptovsky Mikulas - Samorin": {
+        "Alt": 2.01,
+        "Üst": 1.38
     }
 }
