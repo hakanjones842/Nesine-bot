@@ -1,78 +1,82 @@
 {
-    "Internacional SP - Brusque Sc": {
-        "Alt": 1.37,
-        "Üst": 2.04
-    },
-    "Paysandu SC PA - Ferroviaria": {
-        "Alt": 1.53,
-        "Üst": 1.76
-    },
-    "Eastern Suburbs - Auckland City": {
-        "Alt": 1.73,
-        "Üst": 1.55
-    },
-    "Detroit City - Birmingham Legion": {
-        "Alt": 1.79,
-        "Üst": 1.51
-    },
-    "Lexington SC - El Paso Loc.": {
-        "Alt": 1.88,
-        "Üst": 1.44
-    },
-    "Brooklyn - Rhode Island": {
-        "Alt": 1.86,
-        "Üst": 1.46
-    },
-    "Naples - New York Cosmos": {
-        "Alt": 1.99,
-        "Üst": 1.39
-    },
-    "Westchester SC - Av Alta": {
-        "Alt": 2.48,
-        "Üst": 3.52
-    },
-    "Metapan - Atletico Balboa": {
-        "Alt": 1.83,
-        "Üst": 1.48
-    },
-    "Queretaro (K) - Atl San Luis (K)": {
-        "Alt": 1.72,
-        "Üst": 3.45
-    },
-    "Barranquilla - Millonarios": {
-        "Alt": 1.68,
-        "Üst": 1.59
-    },
-    "Tampa Bay - Miami": {
-        "Alt": 2.0,
-        "Üst": 1.38
-    },
-    "Sarasota Paradise - Charlotte Ind.": {
-        "Alt": 3.26,
-        "Üst": 3.74
-    },
-    "Fort Wayne - Forward M.": {
-        "Alt": 1.93,
-        "Üst": 1.42
-    },
-    "Tulsa Roughnecks - Sacramento R.": {
-        "Alt": 1.37,
-        "Üst": 2.03
-    },
-    "Walter Ferretti - ART Jalapa": {
-        "Alt": 1.77,
-        "Üst": 1.52
-    },
-    "Auckland Utd - Napier City R.": {
-        "Alt": 1.3,
-        "Üst": 3.89
-    },
     "Colorado Spr. - Oakland Roots SC": {
         "Alt": 1.86,
         "Üst": 1.46
     },
     "Spokane Velocity - P. Hearts of Pine": {
-        "Alt": 1.99,
-        "Üst": 1.39
+        "Alt": 2.05,
+        "Üst": 1.36
+    },
+    "Alianza - Angel Firpo": {
+        "Alt": 1.51,
+        "Üst": 1.79
+    },
+    "Piratas Veracruz - A. Oaxaca": {
+        "Alt": 1.81,
+        "Üst": 1.49
+    },
+    "Atl Morelia - Tlaxcala": {
+        "Alt": 1.93,
+        "Üst": 3.33
+    },
+    "Cancun - CD Tapatio": {
+        "Alt": 1.92,
+        "Üst": 1.43
+    },
+    "Alac. de Durango - M.D. Zacatecas": {
+        "Alt": 1.66,
+        "Üst": 1.61
+    },
+    "Cashmere Technical - Wellington P. 2": {
+        "Alt": 4.05,
+        "Üst": 1.73
+    },
+    "Club Tijuana (K) - Atlante (K)": {
+        "Alt": 1.97,
+        "Üst": 1.4
+    },
+    "R. Cartagena - Boca Juniors (Kol)": {
+        "Alt": 1.81,
+        "Üst": 1.49
+    },
+    "ABD - Meksika": {
+        "Alt": 1.74,
+        "Üst": 1.55
+    },
+    "Orange Count - Monterey Bay": {
+        "Alt": 1.86,
+        "Üst": 1.46
+    },
+    "Belize - Fransız Guyanası": {
+        "Alt": 1.39,
+        "Üst": 1.99
+    },
+    "Xelaju - Dep. San Pedro": {
+        "Alt": 1.65,
+        "Üst": 1.63
+    },
+    "Las Vegas L. - San Antonio": {
+        "Alt": 1.65,
+        "Üst": 1.62
+    },
+    "Club Necaxa (K) - Cruz Azul (K)": {
+        "Alt": 3.86,
+        "Üst": 2.23
+    },
+    "Okinawa SV - Briobecca Urayasu": {
+        "Alt": 1.65,
+        "Üst": 1.62
+    },
+    "J Lease - Tiamo Hirakata": {
+        "Alt": 1.71,
+        "Üst": 1.58
+    },
+    "Maruyasu Okazaki - Reinmeer Aomori": {
+        "Alt": 1.43,
+        "Üst": 1.93
+    },
+    "V. Hachinohe - Yokohama": {
+        "Alt": 1.58,
+        "Üst": 1.69
     }
 }
