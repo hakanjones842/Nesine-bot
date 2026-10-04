@@ -1,90 +1,82 @@
 {
-    "Gazte Berriak - Doneztebe Ft": {
-        "Alt": 1.59,
-        "Üst": 1.68
+    "Atletico De Rafaela - CA Atlanta": {
+        "Alt": 4.18,
+        "Üst": 3.14
     },
-    "Valencia (K) - Real Sociedad (K)": {
-        "Alt": 1.75,
-        "Üst": 1.54
+    "Tru Juice - Tivoli Gardens": {
+        "Alt": 1.58,
+        "Üst": 1.7
     },
-    "Zawisza Bydgoszcz - Olimpia": {
-        "Alt": 1.84,
+    "Montego Bay Utd - Dunbeholden": {
+        "Alt": 1.81,
+        "Üst": 1.5
+    },
+    "Treasure Beach - Humble Lions": {
+        "Alt": 1.85,
         "Üst": 1.47
     },
-    "CA Huracan - Aldosivi": {
-        "Alt": 1.37,
-        "Üst": 2.21
+    "Godoy Cruz - CA Los Andes": {
+        "Alt": 2.34,
+        "Üst": 2.71
     },
-    "Mısır - Güney Afrika": {
-        "Alt": 1.47,
-        "Üst": 1.84
+    "Platense M. - Municipal L.": {
+        "Alt": 1.63,
+        "Üst": 1.64
     },
-    "Fas - Mali": {
-        "Alt": 1.54,
-        "Üst": 1.74
-    },
-    "Comunicacion - CSD Flandria": {
-        "Alt": 3.61,
-        "Üst": 2.98
-    },
-    "CS Italiano - Talleres de": {
-        "Alt": 1.31,
-        "Üst": 3.3
-    },
-    "Puerto Nuevo - Justo Jose": {
-        "Alt": 5.67,
-        "Üst": 3.36
-    },
-    "Sacachispas - Cl. Estrella Del Sur": {
-        "Alt": 3.82,
-        "Üst": 3.01
-    },
-    "Central Cordoba - Yupanqui": {
-        "Alt": 1.32,
-        "Üst": 2.14
-    },
-    "CA Lugano - Argentino De Rosario": {
-        "Alt": 1.35,
+    "Tigres (Kol) - Internacional Palmira": {
+        "Alt": 1.34,
         "Üst": 2.09
     },
-    "Agropecuario A. - F. Midland": {
-        "Alt": 3.93,
-        "Üst": 3.21
-    },
-    "Leones Negros - CSD D. Sinaloa": {
-        "Alt": 2.05,
-        "Üst": 1.37
-    },
-    "Chac. Juniors - Patronato": {
-        "Alt": 3.2,
-        "Üst": 2.93
-    },
-    "San Telmo - Almir. Brown": {
-        "Alt": 5.12,
-        "Üst": 3.33
-    },
-    "Salernitana - SSC Bari": {
-        "Alt": 1.57,
-        "Üst": 1.72
-    },
-    "Alcione Milano - AC Trento": {
-        "Alt": 1.55,
-        "Üst": 1.72
-    },
-    "Potenza C. - AZ Picerno": {
-        "Alt": 1.65,
-        "Üst": 1.63
-    },
-    "Audace Cerignola - Altamura": {
+    "Cucuta D. - Dep. Pereira": {
         "Alt": 1.58,
-        "Üst": 1.71
+        "Üst": 1.69
     },
-    "Latina C. - Ostia Mare": {
-        "Alt": 1.51,
-        "Üst": 1.79
+    "Inter Bogota - Once Caldas": {
+        "Alt": 1.71,
+        "Üst": 1.57
     },
-    "O'Higgins - Dep. Concepcion": {
-        "Alt": 1.55,
-        "Üst": 1.73
+    "Tucuman - Gimnasia Y. Tiro": {
+        "Alt": 2.68,
+        "Üst": 2.83
+    },
+    "New Mexico - Phoenix Rising": {
+        "Alt": 2.08,
+        "Üst": 1.35
+    },
+    "Porto Riko - Cayman Adaları": {
+        "Alt": 1.12,
+        "Üst": 2.21
+    },
+    "Trinidad & T. - Curaçao": {
+        "Alt": 2.13,
+        "Üst": 1.33
+    },
+    "Molynes - Racing Utd": {
+        "Alt": 1.6,
+        "Üst": 1.67
+    },
+    "Argentinos J. - CA Tigre": {
+        "Alt": 1.34,
+        "Üst": 2.31
+    },
+    "R. Montevideo - Penarol": {
+        "Alt": 1.33,
+        "Üst": 2.12
+    },
+    "Aruba - Anguilla": {
+        "Alt": 3.89,
+        "Üst": 2.2
+    },
+    "Fundacion F. Un Atleta - Fuerte San Francisco": {
+        "Alt": 1.65,
+        "Üst": 1.62
+    },
+    "Dep. Guastatoya - Aurora": {
+        "Alt": 1.58,
+        "Üst": 1.7
+    },
+    "Guadalajara (K) - Juarez (K)": {
+        "Alt": 1.44,
+        "Üst": 1.88
     }
 }
