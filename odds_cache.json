@@ -1,82 +1,90 @@
 {
-    "Manila Digger - DH Cebu": {
-        "Alt": 2.07,
-        "Üst": 3.51
+    "Azerbaycan - Litvanya": {
+        "Alt": 1.28,
+        "Üst": 2.53
     },
-    "Citizen AA - Yuen Long": {
-        "Alt": 1.46,
-        "Üst": 3.65
+    "Fleury (K) - PSG (K)": {
+        "Alt": 1.65,
+        "Üst": 1.62
     },
-    "Sham Shui Po SA - Supreme": {
-        "Alt": 2.21,
-        "Üst": 3.56
+    "Amiens U19 - Racing U19": {
+        "Alt": 1.86,
+        "Üst": 1.45
     },
-    "South China - Tung Sing": {
-        "Alt": 1.3,
-        "Üst": 3.92
+    "C Chartres Football U19 - Le Havre U19": {
+        "Alt": 1.64,
+        "Üst": 3.49
     },
-    "A. Petrzalka - OFK Malzenice": {
-        "Alt": 2.0,
-        "Üst": 1.38
+    "Versailles 78 U19 - RC Lens U19": {
+        "Alt": 3.19,
+        "Üst": 3.62
     },
-    "AJ Auxerre U19 - Annecy U19": {
-        "Alt": 1.97,
-        "Üst": 1.4
+    "US Quevilly R. U19 - Lille U19": {
+        "Alt": 1.36,
+        "Üst": 3.85
     },
-    "AS Saint Etienne U19 - OGC Nice U19": {
-        "Alt": 1.31,
-        "Üst": 3.92
+    "Montfermeil U19 - CA Pontarlier U19": {
+        "Alt": 1.87,
+        "Üst": 1.45
     },
-    "Cartagena B - Algar": {
-        "Alt": 1.59,
-        "Üst": 1.68
+    "EA Guingamp U19 - Lorient U19": {
+        "Alt": 1.91,
+        "Üst": 3.55
     },
-    "C. Dep. Minera - La Nucia": {
-        "Alt": 1.4,
-        "Üst": 1.97
-    },
-    "Yscc Yokohama - Criacao Shinjuku": {
-        "Alt": 1.51,
-        "Üst": 1.78
-    },
-    "Kagoshima Utd - Fukushima Utd": {
-        "Alt": 1.7,
+    "Lyon U19 - Paris U19": {
+        "Alt": 2.29,
         "Üst": 3.38
     },
-    "Budapest Honved MFA - III Keruleti Tve": {
-        "Alt": 1.77,
-        "Üst": 3.39
+    "Stade Reims U19 - RC Strasbourg A. U19": {
+        "Alt": 1.9,
+        "Üst": 1.44
     },
-    "Skjervoy - Fauske Sprint": {
-        "Alt": 2.72,
-        "Üst": 4.15
+    "Brighton (K) - Charlton Ath (K)": {
+        "Alt": 2.14,
+        "Üst": 3.44
     },
-    "Atletico Pulpileno - Santomera": {
-        "Alt": 1.46,
+    "Tottenham H. (K) - London City (K)": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "Everton (K) - Birmingham City (K)": {
+        "Alt": 1.79,
+        "Üst": 1.51
+    },
+    "Aston Villa (K) - Crystal Palace (K)": {
+        "Alt": 1.98,
+        "Üst": 1.4
+    },
+    "West Ham Utd (K) - Chelsea (K)": {
+        "Alt": 3.54,
         "Üst": 1.86
     },
-    "T. Valderas Alcorcon - LAS Rozas": {
-        "Alt": 1.55,
-        "Üst": 1.73
+    "Hammarby IF Dff (K) - Brommapojkarna (K)": {
+        "Alt": 2.32,
+        "Üst": 3.63
     },
-    "Manchego Ciudad R. - UD Almansa": {
-        "Alt": 1.54,
-        "Üst": 1.74
+    "Malmo FF (K) - Rosengard (K)": {
+        "Alt": 1.86,
+        "Üst": 1.45
     },
-    "AD Torrejon - AD Union Adarve": {
-        "Alt": 1.5,
-        "Üst": 1.8
+    "IFK Trelleborg - Rappe Goif": {
+        "Alt": 3.83,
+        "Üst": 1.67
     },
-    "Sevilla Atl - Badajoz": {
-        "Alt": 1.48,
-        "Üst": 1.83
+    "AC Milan (K) - Juventus (K)": {
+        "Alt": 1.76,
+        "Üst": 1.53
     },
-    "Valencia M. - Pena Deportiva": {
-        "Alt": 1.63,
-        "Üst": 1.65
+    "Brann (K) - Fortuna Alesund (K)": {
+        "Alt": 2.43,
+        "Üst": 3.54
     },
-    "Davao Aguilas - Tuloy": {
-        "Alt": 4.08,
-        "Üst": 1.63
+    "Sandviken - FK Arendal": {
+        "Alt": 2.25,
+        "Üst": 1.29
+    },
+    "NK Bistrica - Rudar": {
+        "Alt": 1.86,
+        "Üst": 1.46
     }
 }
