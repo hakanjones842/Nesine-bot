@@ -1,31 +1,39 @@
 {
-    "Nikaragua - Dominik Cum.": {
-        "Alt": 2.02,
-        "Üst": 1.37
-    },
     "Malezya - Vietnam": {
-        "Alt": 1.73,
-        "Üst": 1.55
+        "Alt": 1.68,
+        "Üst": 1.59
+    },
+    "Galler U19 - Kuzey İrlanda U19": {
+        "Alt": 2.06,
+        "Üst": 1.36
+    },
+    "Japonya - Yeni Zelanda": {
+        "Alt": 2.23,
+        "Üst": 1.3
     },
     "Odds BK II - Viking (A)": {
-        "Alt": 3.1,
-        "Üst": 4.18
+        "Alt": 1.94,
+        "Üst": 3.93
+    },
+    "İngiltere U19 - Belçika U19": {
+        "Alt": 1.79,
+        "Üst": 3.37
     },
     "N. Zamini Tehran - Mes Kerman": {
         "Alt": 1.2,
         "Üst": 1.22
-    },
-    "Uganda - D. Kongo Cum.": {
-        "Alt": 1.42,
-        "Üst": 1.93
     },
     "Besat Kermanshah - Palayesh Naft B. A.": {
         "Alt": 1.25,
         "Üst": 1.21
     },
     "Endonezya - Tayland": {
-        "Alt": 1.58,
-        "Üst": 1.69
+        "Alt": 1.52,
+        "Üst": 1.76
+    },
+    "Uganda - D. Kongo Cum.": {
+        "Alt": 1.42,
+        "Üst": 1.93
     },
     "Sheffield Utd U21 - Bolton Wanderers U21": {
         "Alt": 3.06,
@@ -34,6 +42,10 @@
     "Mes Rafsanjan - Ario Eslamshahr": {
         "Alt": 1.27,
         "Üst": 1.21
+    },
+    "Gürcistan U19 - Letonya U19": {
+        "Alt": 1.8,
+        "Üst": 1.5
     },
     "Karadağ U21 - Ermenistan U21": {
         "Alt": 1.85,
@@ -47,6 +59,14 @@
         "Alt": 1.54,
         "Üst": 1.9
     },
+    "Ruanda - Kenya": {
+        "Alt": 1.34,
+        "Üst": 2.11
+    },
+    "Fana - Aasane Fotball 2": {
+        "Alt": 1.78,
+        "Üst": 3.98
+    },
     "Torreense U23 - Estoril Praia U23": {
         "Alt": 1.88,
         "Üst": 1.44
@@ -54,21 +74,5 @@
     "Sırbistan U21 - Rusya U21": {
         "Alt": 1.78,
         "Üst": 1.51
-    },
-    "İtalya U21 - Polonya U21": {
-        "Alt": 1.7,
-        "Üst": 1.58
-    },
-    "İsveç U21 - K. Makedonya U21": {
-        "Alt": 2.0,
-        "Üst": 1.38
-    },
-    "Herrestads AIF - Grebbestads": {
-        "Alt": 1.3,
-        "Üst": 3.96
-    },
-    "Moss - Kongsvinger": {
-        "Alt": 1.8,
-        "Üst": 3.9
     }
 }
