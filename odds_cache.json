@@ -1,82 +1,70 @@
 {
-    "Urquiza - Ituzaingo": {
-        "Alt": 1.42,
-        "Üst": 1.93
+    "Grenada - Bonaire": {
+        "Alt": 2.1,
+        "Üst": 1.34
     },
-    "Deportivo Paraguayo - Club Mercedes": {
-        "Alt": 1.48,
-        "Üst": 2.99
+    "Guatemala - Surinam": {
+        "Alt": 1.65,
+        "Üst": 1.62
     },
-    "Lujan - General Lama": {
+    "Bermuda - Barbados": {
+        "Alt": 2.63,
+        "Üst": 1.19
+    },
+    "I. Medellin - I. Santa Fe": {
+        "Alt": 1.58,
+        "Üst": 1.7
+    },
+    "Banfield - Rosario C.": {
+        "Alt": 1.47,
+        "Üst": 2.01
+    },
+    "Orsomarso SC - Deportes Quindio": {
+        "Alt": 1.41,
+        "Üst": 1.95
+    },
+    "Arnett Gardens - Portmore Utd": {
+        "Alt": 1.77,
+        "Üst": 1.52
+    },
+    "Honduras - Jamaika": {
+        "Alt": 1.41,
+        "Üst": 1.95
+    },
+    "Changchun Xidu - G. Dandelion Alpha": {
+        "Alt": 5.52,
+        "Üst": 3.64
+    },
+    "Shanghai Segenda - Wenzhou Professional": {
+        "Alt": 3.92,
+        "Üst": 3.2
+    },
+    "Qingdao Red - W. Three Towns B": {
+        "Alt": 4.4,
+        "Üst": 3.3
+    },
+    "Beijing Tech - Chengdu Rongcheng B": {
+        "Alt": 1.51,
+        "Üst": 1.78
+    },
+    "Hubei Chufen - Longyuan Athletic": {
         "Alt": 1.32,
         "Üst": 2.14
     },
-    "El Porvenir - Canuelas": {
-        "Alt": 1.47,
-        "Üst": 3.07
+    "UD Leiria U23 - Santa Clara U23": {
+        "Alt": 1.64,
+        "Üst": 1.64
     },
-    "CS Barracas - Leones de Rosario": {
-        "Alt": 4.83,
-        "Üst": 3.23
-    },
-    "Cordoba - Tenerife": {
-        "Alt": 1.76,
+    "Güney Kore - Özbekistan": {
+        "Alt": 1.61,
         "Üst": 1.65
     },
-    "Karadağ - Ermenistan": {
-        "Alt": 2.04,
-        "Üst": 1.46
+    "Wuxi Wuguo - Suzhou Jinfu": {
+        "Alt": 1.54,
+        "Üst": 1.74
     },
-    "Bosna Hersek - Polonya": {
-        "Alt": 1.59,
-        "Üst": 1.82
-    },
-    "Kuzey İrlanda - Gürcistan": {
-        "Alt": 1.26,
-        "Üst": 2.59
-    },
-    "Romanya - İsveç": {
-        "Alt": 2.2,
-        "Üst": 1.38
-    },
-    "Ukrayna - Macaristan": {
-        "Alt": 1.44,
-        "Üst": 2.09
-    },
-    "İtalya - Türkiye": {
-        "Alt": 2.21,
-        "Üst": 1.38
-    },
-    "Fransa - Belçika": {
-        "Alt": 2.14,
-        "Üst": 1.41
-    },
-    "Lihtenştayn - Cebelitarık": {
-        "Alt": 1.35,
-        "Üst": 3.12
-    },
-    "Carshalton - Eastbourne Bor.": {
-        "Alt": 1.37,
-        "Üst": 3.79
-    },
-    "Guadeloupe - Saint Lucia": {
-        "Alt": 1.94,
-        "Üst": 1.41
-    },
-    "Dep. Riestra - C. Cordoba": {
-        "Alt": 1.29,
-        "Üst": 2.51
-    },
-    "Nueva Chicago - CD Maipu": {
-        "Alt": 4.65,
-        "Üst": 3.25
-    },
-    "12 de Junio de Villa Hayes - Sol de A.": {
-        "Alt": 1.33,
-        "Üst": 2.12
-    },
-    "Küba - ST Kitts ve Nevis": {
-        "Alt": 2.14,
-        "Üst": 1.32
+    "Changchun Yatai - Yanbian L.": {
+        "Alt": 1.57,
+        "Üst": 1.72
     }
 }
