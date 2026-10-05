@@ -1,78 +1,82 @@
 {
-    "Malezya - Vietnam": {
-        "Alt": 1.68,
-        "Üst": 1.59
-    },
-    "Galler U19 - Kuzey İrlanda U19": {
-        "Alt": 2.06,
-        "Üst": 1.36
-    },
-    "Japonya - Yeni Zelanda": {
-        "Alt": 2.23,
-        "Üst": 1.3
-    },
-    "Odds BK II - Viking (A)": {
-        "Alt": 1.94,
-        "Üst": 3.93
-    },
-    "İngiltere U19 - Belçika U19": {
-        "Alt": 1.79,
-        "Üst": 3.37
-    },
-    "N. Zamini Tehran - Mes Kerman": {
-        "Alt": 1.2,
-        "Üst": 1.22
-    },
-    "Besat Kermanshah - Palayesh Naft B. A.": {
-        "Alt": 1.25,
-        "Üst": 1.21
-    },
-    "Endonezya - Tayland": {
-        "Alt": 1.52,
-        "Üst": 1.76
-    },
-    "Uganda - D. Kongo Cum.": {
+    "Urquiza - Ituzaingo": {
         "Alt": 1.42,
         "Üst": 1.93
     },
-    "Sheffield Utd U21 - Bolton Wanderers U21": {
-        "Alt": 3.06,
-        "Üst": 3.94
+    "Deportivo Paraguayo - Club Mercedes": {
+        "Alt": 1.48,
+        "Üst": 2.99
     },
-    "Mes Rafsanjan - Ario Eslamshahr": {
-        "Alt": 1.27,
-        "Üst": 1.21
+    "Lujan - General Lama": {
+        "Alt": 1.32,
+        "Üst": 2.14
     },
-    "Gürcistan U19 - Letonya U19": {
-        "Alt": 1.8,
-        "Üst": 1.5
+    "El Porvenir - Canuelas": {
+        "Alt": 1.47,
+        "Üst": 3.07
     },
-    "Karadağ U21 - Ermenistan U21": {
-        "Alt": 1.85,
-        "Üst": 1.47
+    "CS Barracas - Leones de Rosario": {
+        "Alt": 4.83,
+        "Üst": 3.23
     },
-    "Liptovsky Mikulas - Samorin": {
-        "Alt": 2.01,
+    "Cordoba - Tenerife": {
+        "Alt": 1.76,
+        "Üst": 1.65
+    },
+    "Karadağ - Ermenistan": {
+        "Alt": 2.04,
+        "Üst": 1.46
+    },
+    "Bosna Hersek - Polonya": {
+        "Alt": 1.59,
+        "Üst": 1.82
+    },
+    "Kuzey İrlanda - Gürcistan": {
+        "Alt": 1.26,
+        "Üst": 2.59
+    },
+    "Romanya - İsveç": {
+        "Alt": 2.2,
         "Üst": 1.38
     },
-    "G. Kıbrıs - Letonya": {
-        "Alt": 1.54,
-        "Üst": 1.9
+    "Ukrayna - Macaristan": {
+        "Alt": 1.44,
+        "Üst": 2.09
     },
-    "Ruanda - Kenya": {
-        "Alt": 1.34,
-        "Üst": 2.11
+    "İtalya - Türkiye": {
+        "Alt": 2.21,
+        "Üst": 1.38
     },
-    "Fana - Aasane Fotball 2": {
-        "Alt": 1.78,
-        "Üst": 3.98
+    "Fransa - Belçika": {
+        "Alt": 2.14,
+        "Üst": 1.41
     },
-    "Torreense U23 - Estoril Praia U23": {
-        "Alt": 1.88,
-        "Üst": 1.44
+    "Lihtenştayn - Cebelitarık": {
+        "Alt": 1.35,
+        "Üst": 3.12
     },
-    "Sırbistan U21 - Rusya U21": {
-        "Alt": 1.78,
-        "Üst": 1.51
+    "Carshalton - Eastbourne Bor.": {
+        "Alt": 1.37,
+        "Üst": 3.79
+    },
+    "Guadeloupe - Saint Lucia": {
+        "Alt": 1.94,
+        "Üst": 1.41
+    },
+    "Dep. Riestra - C. Cordoba": {
+        "Alt": 1.29,
+        "Üst": 2.51
+    },
+    "Nueva Chicago - CD Maipu": {
+        "Alt": 4.65,
+        "Üst": 3.25
+    },
+    "12 de Junio de Villa Hayes - Sol de A.": {
+        "Alt": 1.33,
+        "Üst": 2.12
+    },
+    "Küba - ST Kitts ve Nevis": {
+        "Alt": 2.14,
+        "Üst": 1.32
     }
 }
