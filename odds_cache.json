@@ -1,74 +1,106 @@
 {
-    "UD Leiria U23 - Santa Clara U23": {
-        "Alt": 1.58,
-        "Üst": 1.7
+    "Portekiz U21 - Çekya U21": {
+        "Alt": 1.94,
+        "Üst": 1.41
     },
-    "Güney Kore - Özbekistan": {
-        "Alt": 1.84,
-        "Üst": 1.47
+    "Galler U21 - Avusturya U21": {
+        "Alt": 1.74,
+        "Üst": 1.55
     },
-    "Wuxi Wuguo - Suzhou Jinfu": {
-        "Alt": 1.54,
-        "Üst": 1.74
+    "Danimarka U21 - Belçika U21": {
+        "Alt": 1.55,
+        "Üst": 1.73
     },
-    "Changchun Yatai - Yanbian L.": {
-        "Alt": 1.64,
-        "Üst": 1.64
-    },
-    "Danimarka U19 - Hollanda U19": {
-        "Alt": 2.0,
-        "Üst": 1.38
-    },
-    "Jiangxi Dingnan Utd. - Meizhou Hakka": {
-        "Alt": 1.92,
-        "Üst": 1.43
-    },
-    "SJZ Gongfu - Dalian Kuncheng C.": {
+    "Bulgaristan U21 - İskoçya U21": {
         "Alt": 1.47,
         "Üst": 1.85
     },
-    "Nantong Z. - Shang J. C.": {
-        "Alt": 1.56,
-        "Üst": 1.72
+    "Hollanda U21 - Bosna Hersek U21": {
+        "Alt": 1.19,
+        "Üst": 1.71
     },
-    "Hangzhou Linping - Xi An Ronghai": {
-        "Alt": 1.35,
-        "Üst": 2.09
+    "Cezayir - Nijer": {
+        "Alt": 2.01,
+        "Üst": 1.38
     },
-    "Shenzhen 2028 - S. Taishan B": {
-        "Alt": 1.68,
-        "Üst": 1.59
-    },
-    "Guangdong Mingtu - Dalian Yingbo B": {
-        "Alt": 4.08,
-        "Üst": 3.24
-    },
-    "Hull City U21 - Wigan Ath U21": {
-        "Alt": 2.98,
-        "Üst": 4.13
-    },
-    "Bristol City U21 - Charlton Ath U21": {
-        "Alt": 2.42,
-        "Üst": 3.69
-    },
-    "QPR U21 - Coventry City U21": {
-        "Alt": 2.65,
-        "Üst": 3.96
-    },
-    "Kariobangi - Mombasa Elite": {
-        "Alt": 1.36,
-        "Üst": 2.07
-    },
-    "Colchester Utd U21 - Swansea U21": {
-        "Alt": 1.79,
-        "Üst": 3.82
-    },
-    "Azerbaycan U21 - Cebelitarık U21": {
-        "Alt": 1.25,
+    "Ürdün - Venezuela": {
+        "Alt": 1.43,
         "Üst": 1.92
     },
-    "Kazakistan - Faroe Adaları": {
-        "Alt": 1.33,
+    "Mutual Leand - Cen. Espanol": {
+        "Alt": 1.38,
+        "Üst": 2.0
+    },
+    "Atl. Fenix - CA Atlas": {
+        "Alt": 1.32,
+        "Üst": 2.15
+    },
+    "Claypole - Depo Espanol": {
+        "Alt": 1.3,
+        "Üst": 3.31
+    },
+    "G. Kıbrıs U21 - San Marino U21": {
+        "Alt": 3.82,
+        "Üst": 2.43
+    },
+    "İspanya U21 - Romanya U21": {
+        "Alt": 1.13,
+        "Üst": 2.29
+    },
+    "Fransa U21 - İsviçre U21": {
+        "Alt": 2.1,
+        "Üst": 1.34
+    },
+    "Litvanya U21 - Hırvatistan U21": {
+        "Alt": 1.98,
+        "Üst": 1.39
+    },
+    "Andorra U21 - Slovakya U21": {
+        "Alt": 2.01,
+        "Üst": 1.37
+    },
+    "Kosova U21 - Finlandiya U21": {
+        "Alt": 1.53,
+        "Üst": 1.75
+    },
+    "İrlanda U21 - İngiltere U21": {
+        "Alt": 1.93,
+        "Üst": 1.42
+    },
+    "Lüksemburg U21 - Estonya U21": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "Faroe A. U21 - İzlanda U21": {
+        "Alt": 1.75,
+        "Üst": 1.53
+    },
+    "Suudi Arabistan - B. A. Emirlikleri": {
+        "Alt": 1.25,
         "Üst": 2.35
+    },
+    "Wimbledon - Barnet": {
+        "Alt": 1.93,
+        "Üst": 1.43
+    },
+    "MK Dons - Brentford U21": {
+        "Alt": 2.51,
+        "Üst": 1.22
+    },
+    "Cambridge - Northampton": {
+        "Alt": 1.86,
+        "Üst": 1.45
+    },
+    "Wycombe - Bristol Rovers": {
+        "Alt": 2.11,
+        "Üst": 1.34
+    },
+    "Peterborough - Ipswich Town U21": {
+        "Alt": 3.91,
+        "Üst": 2.42
+    },
+    "Stevenage - Leicester City": {
+        "Alt": 2.08,
+        "Üst": 1.35
     }
 }
