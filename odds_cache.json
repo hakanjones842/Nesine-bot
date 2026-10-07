@@ -1,74 +1,86 @@
 {
-    "Pyramids - Alqana": {
-        "Alt": 1.53,
-        "Üst": 1.76
+    "22 de Julio - El Nacional": {
+        "Alt": 1.62,
+        "Üst": 3.53
     },
-    "Asyut Petroleum - El Ahly (Mıs)": {
-        "Alt": 1.47,
-        "Üst": 1.84
-    },
-    "FK Neftchi Fargona - Xorazm Fk Urganch": {
-        "Alt": 3.57,
-        "Üst": 2.26
-    },
-    "AL Mosul SC - AL Jawiya": {
-        "Alt": 1.45,
-        "Üst": 1.88
-    },
-    "York Utd - Supra Du Quebec": {
-        "Alt": 2.23,
-        "Üst": 1.29
-    },
-    "Shooting Stars - Kano Pillars": {
-        "Alt": 1.09,
-        "Üst": 2.09
-    },
-    "Gnistan - Inter Turku": {
-        "Alt": 2.06,
+    "Urena SC - Trujillanos": {
+        "Alt": 1.9,
         "Üst": 1.44
     },
-    "CS Constantine - US Biskra": {
-        "Alt": 1.2,
-        "Üst": 2.56
+    "Cuniburo - Cuenca Juniors": {
+        "Alt": 1.57,
+        "Üst": 1.72
     },
-    "Ben Aknoun - Js El Biar": {
-        "Alt": 1.31,
-        "Üst": 2.17
-    },
-    "Zamalek - ZED": {
+    "Itagui Leones - Barranquilla": {
         "Alt": 1.65,
+        "Üst": 1.63
+    },
+    "Boca Juniors (Kol) - U. Magdalena": {
+        "Alt": 1.4,
+        "Üst": 1.97
+    },
+    "Coquimbo U. - CD Cobreloa C.": {
+        "Alt": 2.04,
+        "Üst": 1.37
+    },
+    "Antofagasta - U. Chile": {
+        "Alt": 1.97,
+        "Üst": 1.4
+    },
+    "Caracas - Yaracuyanos": {
+        "Alt": 2.66,
+        "Üst": 3.57
+    },
+    "Dynamo Puerto - Bolivar SC": {
+        "Alt": 1.51,
+        "Üst": 1.79
+    },
+    "Clube do Remo - Gremio P.": {
+        "Alt": 1.69,
+        "Üst": 1.71
+    },
+    "Bragantino - Mirassol SP": {
+        "Alt": 1.97,
+        "Üst": 1.5
+    },
+    "Internacional - Corinthians": {
+        "Alt": 1.3,
+        "Üst": 2.43
+    },
+    "Operario - Botafogo": {
+        "Alt": 1.45,
+        "Üst": 1.86
+    },
+    "Avai SC - Londrina PR": {
+        "Alt": 1.39,
+        "Üst": 1.99
+    },
+    "Barquisimeto SC - Aragua": {
+        "Alt": 1.7,
+        "Üst": 1.58
+    },
+    "Vitoria BA - Chapecoense": {
+        "Alt": 1.79,
         "Üst": 1.62
     },
-    "Cer. Cleopatra - Al Masry": {
-        "Alt": 1.16,
-        "Üst": 2.76
+    "One Knoxville SC - C. Red Wolves SC": {
+        "Alt": 1.78,
+        "Üst": 1.51
     },
-    "LAS Rozas - RC Alcobendas": {
-        "Alt": 1.5,
-        "Üst": 1.8
+    "Naples - Richmond": {
+        "Alt": 2.28,
+        "Üst": 3.45
     },
-    "Cartagena - Murcia": {
-        "Alt": 1.43,
-        "Üst": 1.93
+    "Forge - Pacific": {
+        "Alt": 2.33,
+        "Üst": 1.26
     },
-    "CS Cerrito - Montevideo": {
-        "Alt": 1.42,
-        "Üst": 1.93
+    "Plaza Colonia - CA Juventud De Las Piedras": {
+        "Alt": 1.33,
+        "Üst": 2.12
     },
-    "Gosport - Poole Town": {
-        "Alt": 1.74,
-        "Üst": 1.54
-    },
-    "Avro - Lancaster": {
-        "Alt": 2.41,
-        "Üst": 3.42
-    },
-    "CR Belouizdad - USM Khenchela": {
-        "Alt": 1.5,
-        "Üst": 1.8
-    },
-    "Deportivo Miranda - Atletico Avila": {
-        "Alt": 1.74,
-        "Üst": 1.54
+    "Botafogo RJ - Vasco Da G.": {
+        "Alt": 2.03,
+        "Üst": 1.46
     }
 }
