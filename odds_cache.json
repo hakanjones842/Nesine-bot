@@ -1,27 +1,15 @@
 {
-    "Unan Managua - Real Esteli": {
-        "Alt": 1.65,
-        "Üst": 1.62
-    },
-    "Cruzeiro MG - Sao Paulo SP": {
-        "Alt": 1.63,
-        "Üst": 1.78
-    },
-    "Corpus Chri - Fort Wayne": {
-        "Alt": 1.86,
-        "Üst": 1.46
-    },
     "Lion C. Sailors - Cong An Nhan Dan": {
         "Alt": 1.79,
-        "Üst": 1.51
+        "Üst": 1.5
     },
     "Port - Persib Bandung": {
         "Alt": 1.57,
         "Üst": 1.71
     },
     "Johor Darul - Preah Khan R. S.": {
-        "Alt": 2.59,
-        "Üst": 1.19
+        "Alt": 2.49,
+        "Üst": 1.22
     },
     "FK Otrant Olympic U. - Mladost DG": {
         "Alt": 1.65,
@@ -36,8 +24,8 @@
         "Üst": 1.77
     },
     "Al Akhaa Al Ahli - Nejmeh SC": {
-        "Alt": 2.04,
-        "Üst": 1.08
+        "Alt": 1.44,
+        "Üst": 1.89
     },
     "CLB Viettel - Hong Linh": {
         "Alt": 1.39,
@@ -52,11 +40,11 @@
         "Üst": 1.21
     },
     "AL Nasr Cairo - Proxy SC": {
-        "Alt": 1.36,
-        "Üst": 2.07
+        "Alt": 1.37,
+        "Üst": 2.03
     },
     "Mega Sport Belqas - Dayrout": {
-        "Alt": 1.35,
+        "Alt": 1.36,
         "Üst": 2.07
     },
     "Haras Hodood - El Sekka El Hadid": {
@@ -76,15 +64,39 @@
         "Üst": 1.48
     },
     "Fer. de Maputo - Vilankulo": {
-        "Alt": 3.47,
-        "Üst": 3.06
+        "Alt": 2.74,
+        "Üst": 2.87
     },
     "Blacks Power - Vipers SC": {
-        "Alt": 1.36,
-        "Üst": 2.05
+        "Alt": 1.31,
+        "Üst": 2.18
     },
     "AL Ain - AL Ittihad K.": {
         "Alt": 2.63,
         "Üst": 1.19
+    },
+    "Al Ahli Dubai - Dubai Utd": {
+        "Alt": 2.79,
+        "Üst": 1.16
+    },
+    "GOL Gohar - Esteghlal K.": {
+        "Alt": 1.09,
+        "Üst": 1.17
+    },
+    "Pamba SC - Geita Gold": {
+        "Alt": 1.38,
+        "Üst": 2.01
+    },
+    "TS Tabriz - Esteghlal": {
+        "Alt": 1.33,
+        "Üst": 2.13
+    },
+    "Rc Kouba - USM EL Harrach": {
+        "Alt": 3.83,
+        "Üst": 3.03
+    },
+    "Al Mokawloon - El Gouna": {
+        "Alt": 1.33,
+        "Üst": 2.13
     }
 }
