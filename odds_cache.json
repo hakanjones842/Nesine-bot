@@ -1,48 +1,4 @@
 {
-    "Santos SP - Flamengo": {
-        "Alt": 2.08,
-        "Üst": 1.44
-    },
-    "Nautico PE - Gremio Novo": {
-        "Alt": 1.79,
-        "Üst": 1.51
-    },
-    "Ceara CE - Criciuma": {
-        "Alt": 1.38,
-        "Üst": 2.0
-    },
-    "Paranaense - Atl Mineiro": {
-        "Alt": 1.68,
-        "Üst": 1.72
-    },
-    "Atl. Nacional Medellin - CD Tolima": {
-        "Alt": 1.72,
-        "Üst": 1.56
-    },
-    "Fluminense - Coritiba": {
-        "Alt": 1.91,
-        "Üst": 1.53
-    },
-    "Palmeiras SP - Bahia BA": {
-        "Alt": 2.1,
-        "Üst": 1.43
-    },
-    "Antigua - Municipal": {
-        "Alt": 1.56,
-        "Üst": 1.72
-    },
-    "A. Oaxaca - Correcaminos": {
-        "Alt": 1.81,
-        "Üst": 3.46
-    },
-    "Fortaleza - Millonarios": {
-        "Alt": 1.42,
-        "Üst": 1.93
-    },
-    "CD Fas - Alianza": {
-        "Alt": 1.76,
-        "Üst": 1.53
-    },
     "Daejeon Citizen - Jeonbuk": {
         "Alt": 1.84,
         "Üst": 1.58
@@ -60,8 +16,8 @@
         "Üst": 1.95
     },
     "Incheon Utd - Pohang S.": {
-        "Alt": 1.38,
-        "Üst": 2.21
+        "Alt": 1.37,
+        "Üst": 2.26
     },
     "Chungbuk Cheongju - Seongnam": {
         "Alt": 1.55,
@@ -74,5 +30,45 @@
     "Persik Kediri - Madura Utd": {
         "Alt": 1.76,
         "Üst": 1.52
+    },
+    "Ispe - Dagon": {
+        "Alt": 2.63,
+        "Üst": 3.47
+    },
+    "Sagaing Utd - Chinland": {
+        "Alt": 2.21,
+        "Üst": 3.52
+    },
+    "SC Sagamihara - Kamatamare S.": {
+        "Alt": 1.69,
+        "Üst": 1.58
+    },
+    "Torrent - Hercules B": {
+        "Alt": 1.49,
+        "Üst": 1.82
+    },
+    "Kashiwa - Vissel Kobe": {
+        "Alt": 1.71,
+        "Üst": 1.69
+    },
+    "Kashima - Gamba Osaka": {
+        "Alt": 2.12,
+        "Üst": 1.42
+    },
+    "Osaka - Z. Kanazawa": {
+        "Alt": 1.8,
+        "Üst": 1.5
+    },
+    "Estoril Praia U23 - Sporting U23": {
+        "Alt": 1.89,
+        "Üst": 1.44
+    },
+    "Fountain Gate - Jkt Tanzania": {
+        "Alt": 1.38,
+        "Üst": 2.0
+    },
+    "Ratchaburi - Sukhothai": {
+        "Alt": 1.86,
+        "Üst": 1.45
     }
 }
