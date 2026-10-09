@@ -1,70 +1,74 @@
 {
-    "FK Rostov - Akron Tolyatti": {
-        "Alt": 1.63,
+    "Instituto - Boca Juniors": {
+        "Alt": 1.29,
+        "Üst": 2.5
+    },
+    "Sol de A. - Carapegua": {
+        "Alt": 1.65,
+        "Üst": 1.63
+    },
+    "Talleres de - Atl Camioneros": {
+        "Alt": 1.37,
+        "Üst": 2.02
+    },
+    "Excursionist - Villa San Ca": {
+        "Alt": 1.51,
         "Üst": 1.78
     },
-    "Heidenheim - Kaiserslautern": {
-        "Alt": 2.24,
-        "Üst": 1.37
-    },
-    "Braunschweig - Holstein Kiel": {
-        "Alt": 2.37,
-        "Üst": 1.32
-    },
-    "Kapfenberger - Austria Wien II": {
-        "Alt": 1.98,
-        "Üst": 1.4
-    },
-    "Amstetten - Blau Weiss L.": {
-        "Alt": 2.06,
-        "Üst": 1.36
-    },
-    "Tartu - Elva": {
-        "Alt": 2.91,
-        "Üst": 3.76
-    },
-    "Villarreal C - CD Bunol": {
-        "Alt": 1.54,
-        "Üst": 1.74
-    },
-    "Arsenal Tula - Spartak Kostroma": {
-        "Alt": 1.41,
-        "Üst": 1.96
-    },
-    "Al Jazeera - Al Wehdat": {
-        "Alt": 1.53,
-        "Üst": 1.76
-    },
-    "JS Kabylie - ASO Chlef": {
+    "Alianza Valledupar - R. Aguilas": {
         "Alt": 1.44,
-        "Üst": 1.9
+        "Üst": 1.88
     },
-    "Hırvatistan (K) - İzlanda (K)": {
-        "Alt": 1.95,
-        "Üst": 1.41
+    "CD Tapatio - Atl La Paz": {
+        "Alt": 1.38,
+        "Üst": 3.84
     },
-    "AL Naft - Diyala": {
-        "Alt": 1.37,
-        "Üst": 2.05
+    "Kanada (K) - Danimarka (K)": {
+        "Alt": 1.51,
+        "Üst": 1.79
     },
-    "Galatasaray - Kasımpaşa": {
-        "Alt": 2.46,
-        "Üst": 1.3
+    "D. Maldonado - Liverpool M.": {
+        "Alt": 1.49,
+        "Üst": 1.81
     },
-    "Vanspor FK - Bandırmaspor": {
-        "Alt": 1.57,
-        "Üst": 1.75
+    "Lexington SC - Tulsa Roughnecks": {
+        "Alt": 1.71,
+        "Üst": 1.58
     },
-    "Ümraniyespor - Sarıyer": {
-        "Alt": 1.5,
+    "CD Inca - Platense M.": {
+        "Alt": 1.47,
         "Üst": 1.84
     },
-    "Preussen M. - Weiss Essen": {
-        "Alt": 2.08,
-        "Üst": 1.44
+    "Union Santa Fe - Def. Justicia": {
+        "Alt": 1.52,
+        "Üst": 1.93
     },
-    "Bayern Münih II - Unterhaching": {
-        "Alt": 1.39,
-        "Üst": 3.77
+    "Puebla - Club Leon": {
+        "Alt": 1.62,
+        "Üst": 1.65
+    },
+    "Tepatitlan - Atl Morelia": {
+        "Alt": 2.27,
+        "Üst": 3.33
+    },
+    "Deportivo Garcilaso - Huancayo": {
+        "Alt": 1.59,
+        "Üst": 1.68
+    },
+    "Once Caldas - Llaneros": {
+        "Alt": 1.59,
+        "Üst": 1.68
+    },
+    "Wellington P. 2 - Birkenhead Utd AFC": {
+        "Alt": 1.87,
+        "Üst": 3.81
+    },
+    "Sporting San Jose - CS Cartagines": {
+        "Alt": 1.52,
+        "Üst": 1.78
+    },
+    "Auckland City - Wellington Oly.": {
+        "Alt": 2.46,
+        "Üst": 3.48
     }
 }
