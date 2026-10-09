@@ -1,74 +1,78 @@
 {
-    "Daejeon Citizen - Jeonbuk": {
-        "Alt": 1.84,
-        "Üst": 1.58
-    },
-    "Suwon City - Hwaseong": {
-        "Alt": 1.89,
-        "Üst": 1.44
-    },
-    "Yangpyeong - Ulsan Citizen": {
-        "Alt": 1.52,
-        "Üst": 1.77
-    },
-    "Gangwon - Bucheon": {
-        "Alt": 1.51,
-        "Üst": 1.95
-    },
-    "Incheon Utd - Pohang S.": {
-        "Alt": 1.37,
-        "Üst": 2.26
-    },
-    "Chungbuk Cheongju - Seongnam": {
-        "Alt": 1.55,
-        "Üst": 1.73
-    },
-    "Gimpo Citizen - Seoul E Land": {
-        "Alt": 1.81,
-        "Üst": 1.5
-    },
-    "Persik Kediri - Madura Utd": {
-        "Alt": 1.76,
-        "Üst": 1.52
-    },
-    "Ispe - Dagon": {
-        "Alt": 2.63,
-        "Üst": 3.47
-    },
-    "Sagaing Utd - Chinland": {
-        "Alt": 2.21,
-        "Üst": 3.52
-    },
     "SC Sagamihara - Kamatamare S.": {
-        "Alt": 1.69,
-        "Üst": 1.58
+        "Alt": 1.72,
+        "Üst": 1.56
     },
     "Torrent - Hercules B": {
-        "Alt": 1.49,
-        "Üst": 1.82
+        "Alt": 1.51,
+        "Üst": 1.79
     },
     "Kashiwa - Vissel Kobe": {
-        "Alt": 1.71,
-        "Üst": 1.69
+        "Alt": 1.79,
+        "Üst": 1.62
     },
     "Kashima - Gamba Osaka": {
-        "Alt": 2.12,
-        "Üst": 1.42
+        "Alt": 2.04,
+        "Üst": 1.46
     },
     "Osaka - Z. Kanazawa": {
-        "Alt": 1.8,
-        "Üst": 1.5
+        "Alt": 1.72,
+        "Üst": 1.57
     },
     "Estoril Praia U23 - Sporting U23": {
-        "Alt": 1.89,
-        "Üst": 1.44
+        "Alt": 1.85,
+        "Üst": 1.47
     },
     "Fountain Gate - Jkt Tanzania": {
-        "Alt": 1.38,
-        "Üst": 2.0
+        "Alt": 1.37,
+        "Üst": 2.04
     },
     "Ratchaburi - Sukhothai": {
-        "Alt": 1.86,
-        "Üst": 1.45
+        "Alt": 1.94,
+        "Üst": 1.42
+    },
+    "Sh. Peng City - Henan Songs.": {
+        "Alt": 1.97,
+        "Üst": 1.4
+    },
+    "Qingdao Jonoon - Beijing Guoan": {
+        "Alt": 2.59,
+        "Üst": 1.2
+    },
+    "Araz Nakhchivan PFK - FK Kapaz": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "Zhejiang - Shanghai Port": {
+        "Alt": 2.99,
+        "Üst": 1.13
+    },
+    "Farmel - Persebaya": {
+        "Alt": 2.34,
+        "Üst": 3.34
+    },
+    "Ethiopia Electricity - Adama City": {
+        "Alt": 5.92,
+        "Üst": 3.57
+    },
+    "Eastern Sports - Golik North D.": {
+        "Alt": 1.65,
+        "Üst": 3.63
+    },
+    "Barnsley U21 - Hull City U21": {
+        "Alt": 2.42,
+        "Üst": 3.72
+    },
+    "KF Llapi - Ballkani": {
+        "Alt": 1.72,
+        "Üst": 1.57
+    },
+    "Tripoli AC - Al Ahed": {
+        "Alt": 1.62,
+        "Üst": 1.65
+    },
+    "Phrae Utd - SGB Kanchanaburi": {
+        "Alt": 1.64,
+        "Üst": 1.64
     }
 }
