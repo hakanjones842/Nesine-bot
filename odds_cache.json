@@ -1,90 +1,98 @@
 {
-    "Azul Claro N. - Vonds Ichihara": {
-        "Alt": 1.44,
-        "Üst": 1.9
+    "Saham - Sur SC": {
+        "Alt": 1.52,
+        "Üst": 1.77
     },
-    "Ventforet - Tochigi City": {
-        "Alt": 1.77,
-        "Üst": 1.52
+    "Amsterdamsche - Hoek": {
+        "Alt": 2.05,
+        "Üst": 1.37
     },
-    "Fukushima Utd - MIO Biwako Shiga": {
-        "Alt": 3.31,
-        "Üst": 3.69
+    "Posta Ranger - Shabana": {
+        "Alt": 1.33,
+        "Üst": 3.27
     },
-    "SKA Khabarovsk - Kamaz Chelny": {
-        "Alt": 1.48,
-        "Üst": 1.83
+    "Hoffenheim - Hamburg": {
+        "Alt": 2.8,
+        "Üst": 1.22
     },
-    "Gimcheon S. - Anyang": {
-        "Alt": 1.83,
+    "Augsburg - Bayern Münih": {
+        "Alt": 2.43,
+        "Üst": 4.23
+    },
+    "Union Berlin - Elversberg": {
+        "Alt": 2.11,
+        "Üst": 1.43
+    },
+    "Paderborn - Stuttgart": {
+        "Alt": 3.19,
+        "Üst": 1.16
+    },
+    "Mainz - B. Leverkusen": {
+        "Alt": 2.18,
+        "Üst": 1.39
+    },
+    "R. Wien (Amt) - Wacker Inns.": {
+        "Alt": 2.12,
+        "Üst": 1.33
+    },
+    "Wsc Hertha - Schwarz Weiss B.": {
+        "Alt": 1.86,
+        "Üst": 1.46
+    },
+    "Liefering - Sturm Graz (Amt.)": {
+        "Alt": 2.84,
+        "Üst": 1.15
+    },
+    "SV Austria Salzburg - Floridsdorfer": {
+        "Alt": 1.71,
         "Üst": 1.58
     },
-    "Cheonan City - Gyeongnam": {
-        "Alt": 1.53,
-        "Üst": 1.75
+    "Cardiff Draconians - Carmarthen": {
+        "Alt": 1.37,
+        "Üst": 3.8
     },
-    "Gimhae - Chungnam Asan": {
-        "Alt": 1.61,
-        "Üst": 1.66
+    "Aberystwyth - Caerau Ely": {
+        "Alt": 1.95,
+        "Üst": 1.41
     },
-    "Liaoning (K) - Zhejiang H. (K)": {
-        "Alt": 1.61,
-        "Üst": 2.33
+    "Treowen Stars - Trethomas Bluebirds": {
+        "Alt": 3.18,
+        "Üst": 3.75
     },
-    "Kitchee SC - Hong Kong": {
-        "Alt": 3.98,
-        "Üst": 1.59
+    "Ynyshir Albions - Llanelli": {
+        "Alt": 1.89,
+        "Üst": 3.33
     },
-    "Wofoo Tai PO - Kowloon City": {
-        "Alt": 1.77,
-        "Üst": 3.54
+    "Llantwit Major - Pontardawe T.": {
+        "Alt": 1.95,
+        "Üst": 1.41
     },
-    "Cetate Suceava - Dumbravita": {
-        "Alt": 1.84,
-        "Üst": 1.48
-    },
-    "Metaloglobus - SC Popesti Leordeni": {
-        "Alt": 1.58,
-        "Üst": 1.7
-    },
-    "Chindia - Concordia": {
+    "Baglan Dragons - Pontypridd Town": {
         "Alt": 1.83,
         "Üst": 1.48
     },
-    "CS D. Bucuresti - Csm Satu Mare": {
-        "Alt": 1.97,
-        "Üst": 1.4
+    "Holyhead Hotspur - Caersws": {
+        "Alt": 1.37,
+        "Üst": 3.82
     },
-    "AFC Metalul Buzau - Asa Targu Mures": {
-        "Alt": 1.78,
-        "Üst": 1.51
-    },
-    "V. Selimbar - Unirea Slobozia": {
-        "Alt": 1.58,
-        "Üst": 1.69
-    },
-    "ACS Gloria - Scm Ramnicu V.": {
-        "Alt": 1.72,
-        "Üst": 1.57
-    },
-    "Persita Tangerang - Garuda Yaksa": {
-        "Alt": 1.58,
-        "Üst": 1.71
-    },
-    "Arema - Bhayangkara": {
-        "Alt": 1.76,
-        "Üst": 1.53
-    },
-    "Psim Yogyakarta - Persija Jakarta": {
-        "Alt": 1.7,
-        "Üst": 1.58
-    },
-    "Real Zaragoza U19 - UD Montecarlo U19": {
-        "Alt": 1.97,
-        "Üst": 1.4
-    },
-    "South Melbourne - Melbourne V.": {
+    "Newtown - Bangor 1876": {
         "Alt": 1.99,
-        "Üst": 1.49
+        "Üst": 3.36
+    },
+    "Brickfield Rangers - Mold Alexandra": {
+        "Alt": 1.98,
+        "Üst": 1.39
+    },
+    "Gresford Ath - Porthmadog": {
+        "Alt": 1.86,
+        "Üst": 3.4
+    },
+    "Llanuwchllyn - Penrhyncoch": {
+        "Alt": 2.23,
+        "Üst": 3.47
+    },
+    "Guilsfield - Denbigh Town": {
+        "Alt": 2.32,
+        "Üst": 3.55
     }
 }
