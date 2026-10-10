@@ -1,82 +1,82 @@
 {
-    "F. Sittard - Twente": {
-        "Alt": 2.78,
-        "Üst": 1.23
+    "Vasco Da G. - Clube do Remo": {
+        "Alt": 2.25,
+        "Üst": 1.37
     },
-    "CSD Flandria - Unidos": {
-        "Alt": 3.53,
-        "Üst": 3.03
+    "Union Omaha SC - Fort Wayne": {
+        "Alt": 2.02,
+        "Üst": 1.37
     },
-    "Deportivo Laferrere - Csd Merlo": {
-        "Alt": 1.37,
-        "Üst": 2.04
+    "P. Hearts of Pine - AC Boise": {
+        "Alt": 1.63,
+        "Üst": 3.55
     },
-    "Ituzaingo - Quilmes": {
-        "Alt": 1.77,
-        "Üst": 2.79
+    "Fuerte San Francisco - C.D. Cacahuatique": {
+        "Alt": 1.45,
+        "Üst": 1.87
     },
-    "Villa Dalmine - CSD Liniers": {
-        "Alt": 3.13,
-        "Üst": 2.91
+    "Aurora - Xelaju": {
+        "Alt": 1.57,
+        "Üst": 1.71
     },
-    "Arsenal Sarandi - San Martin": {
-        "Alt": 1.54,
-        "Üst": 1.74
+    "Genesis PN - CD Olimpia": {
+        "Alt": 1.62,
+        "Üst": 1.65
     },
-    "Colegiales - T. Suarez": {
-        "Alt": 5.16,
-        "Üst": 3.3
+    "Inter San Carlos - M. Per. Zeledon": {
+        "Alt": 1.96,
+        "Üst": 1.4
     },
-    "Beerschot - RFC Liege": {
-        "Alt": 2.29,
-        "Üst": 1.27
+    "Portuguesa - Dep. La Gua.": {
+        "Alt": 1.6,
+        "Üst": 1.67
     },
-    "St Etienne - Rodez AF": {
-        "Alt": 2.42,
-        "Üst": 1.3
+    "Guayaquil - CS Emelec": {
+        "Alt": 1.33,
+        "Üst": 2.12
     },
-    "Pontevedra B - Portonovo SD": {
-        "Alt": 1.51,
-        "Üst": 1.78
-    },
-    "Montcada - Atletic Lleida CE": {
-        "Alt": 1.4,
-        "Üst": 1.96
-    },
-    "Club Siero - L. Entregu": {
-        "Alt": 1.49,
-        "Üst": 1.81
-    },
-    "CD Coria - CD Extremadura": {
-        "Alt": 1.51,
-        "Üst": 1.79
-    },
-    "Salamanca - San Sebastian R.": {
-        "Alt": 1.4,
-        "Üst": 1.97
-    },
-    "A. Deportiva Tarma - Cajamarca": {
-        "Alt": 1.72,
-        "Üst": 1.56
-    },
-    "Al Hilal - AL Ittihad": {
-        "Alt": 2.86,
-        "Üst": 1.15
-    },
-    "Cobresal - U. Concepcion": {
-        "Alt": 1.92,
-        "Üst": 1.43
-    },
-    "Montevideo - Boston River": {
-        "Alt": 1.51,
-        "Üst": 1.79
-    },
-    "SD Atletico Albericia - Castro": {
+    "Penarol - CA Progreso": {
         "Alt": 1.69,
         "Üst": 1.58
     },
-    "J. Bialystok - Gornik Zabrze": {
+    "Charleston - Louisville": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "Tlaxcala - Piratas Veracruz": {
         "Alt": 1.68,
         "Üst": 1.59
+    },
+    "Dep. Tachira - Ucv": {
+        "Alt": 1.93,
+        "Üst": 1.42
+    },
+    "CA Tigre - Banfield": {
+        "Alt": 1.44,
+        "Üst": 2.06
+    },
+    "Detroit City - Rhode Island": {
+        "Alt": 1.46,
+        "Üst": 1.86
+    },
+    "Miami - Loudoun Utd": {
+        "Alt": 2.34,
+        "Üst": 1.26
+    },
+    "Indy Eleven - Tampa Bay": {
+        "Alt": 1.77,
+        "Üst": 1.52
+    },
+    "Pittsburgh R. - Hartford Ath": {
+        "Alt": 1.41,
+        "Üst": 1.95
+    },
+    "Westchester SC - Forward M.": {
+        "Alt": 1.49,
+        "Üst": 3.61
+    },
+    "Charlotte Ind. - New York Cosmos": {
+        "Alt": 1.86,
+        "Üst": 3.7
     }
 }
