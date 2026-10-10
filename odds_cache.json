@@ -1,82 +1,90 @@
 {
-    "Puebla - Club Leon": {
-        "Alt": 1.62,
-        "Üst": 1.65
+    "Azul Claro N. - Vonds Ichihara": {
+        "Alt": 1.44,
+        "Üst": 1.9
     },
-    "Tepatitlan - Atl Morelia": {
-        "Alt": 2.26,
-        "Üst": 3.33
+    "Ventforet - Tochigi City": {
+        "Alt": 1.77,
+        "Üst": 1.52
     },
-    "Deportivo Garcilaso - Huancayo": {
-        "Alt": 1.62,
-        "Üst": 1.65
+    "Fukushima Utd - MIO Biwako Shiga": {
+        "Alt": 3.31,
+        "Üst": 3.69
     },
-    "Once Caldas - Llaneros": {
-        "Alt": 1.59,
-        "Üst": 1.68
+    "SKA Khabarovsk - Kamaz Chelny": {
+        "Alt": 1.48,
+        "Üst": 1.83
     },
-    "Wellington P. 2 - Birkenhead Utd AFC": {
-        "Alt": 1.73,
-        "Üst": 3.63
+    "Gimcheon S. - Anyang": {
+        "Alt": 1.83,
+        "Üst": 1.58
     },
-    "Sporting San Jose - CS Cartagines": {
-        "Alt": 1.54,
+    "Cheonan City - Gyeongnam": {
+        "Alt": 1.53,
         "Üst": 1.75
     },
-    "Auckland City - Wellington Oly.": {
-        "Alt": 2.51,
-        "Üst": 3.37
+    "Gimhae - Chungnam Asan": {
+        "Alt": 1.61,
+        "Üst": 1.66
     },
-    "Tigres - D. Toluca": {
+    "Liaoning (K) - Zhejiang H. (K)": {
+        "Alt": 1.61,
+        "Üst": 2.33
+    },
+    "Kitchee SC - Hong Kong": {
+        "Alt": 3.98,
+        "Üst": 1.59
+    },
+    "Wofoo Tai PO - Kowloon City": {
+        "Alt": 1.77,
+        "Üst": 3.54
+    },
+    "Cetate Suceava - Dumbravita": {
         "Alt": 1.84,
-        "Üst": 1.47
+        "Üst": 1.48
     },
-    "Ferrymead Bays - Miramar Rangers": {
-        "Alt": 1.38,
-        "Üst": 3.84
+    "Metaloglobus - SC Popesti Leordeni": {
+        "Alt": 1.58,
+        "Üst": 1.7
     },
-    "Okinawa SV - J Lease": {
-        "Alt": 1.57,
+    "Chindia - Concordia": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "CS D. Bucuresti - Csm Satu Mare": {
+        "Alt": 1.97,
+        "Üst": 1.4
+    },
+    "AFC Metalul Buzau - Asa Targu Mures": {
+        "Alt": 1.78,
+        "Üst": 1.51
+    },
+    "V. Selimbar - Unirea Slobozia": {
+        "Alt": 1.58,
+        "Üst": 1.69
+    },
+    "ACS Gloria - Scm Ramnicu V.": {
+        "Alt": 1.72,
+        "Üst": 1.57
+    },
+    "Persita Tangerang - Garuda Yaksa": {
+        "Alt": 1.58,
         "Üst": 1.71
     },
-    "Maruyasu Okazaki - Yscc Yokohama": {
-        "Alt": 1.59,
-        "Üst": 1.68
+    "Arema - Bhayangkara": {
+        "Alt": 1.76,
+        "Üst": 1.53
     },
-    "Criacao Shinjuku - Reinmeer Aomori": {
-        "Alt": 1.45,
-        "Üst": 1.87
-    },
-    "JEF Utd Ichihara (K) - Kanagawa (K)": {
-        "Alt": 1.49,
-        "Üst": 1.82
-    },
-    "Seoul - Jeju Utd": {
-        "Alt": 1.89,
-        "Üst": 1.54
-    },
-    "Paju Citizen - Busan I Park": {
-        "Alt": 1.63,
-        "Üst": 1.65
-    },
-    "Jeonnam Dragons - Yongin": {
+    "Psim Yogyakarta - Persija Jakarta": {
         "Alt": 1.7,
         "Üst": 1.58
     },
-    "Changwon City - Pocheon Citi.": {
-        "Alt": 1.46,
-        "Üst": 1.86
+    "Real Zaragoza U19 - UD Montecarlo U19": {
+        "Alt": 1.97,
+        "Üst": 1.4
     },
-    "Chuncheon - Jeonbuk II": {
-        "Alt": 1.72,
-        "Üst": 1.56
-    },
-    "Busan - Yeoju Citizen": {
-        "Alt": 1.66,
-        "Üst": 1.61
-    },
-    "Cerezo Osaka - Yokohama M.": {
-        "Alt": 1.9,
-        "Üst": 1.54
+    "South Melbourne - Melbourne V.": {
+        "Alt": 1.99,
+        "Üst": 1.49
     }
 }
