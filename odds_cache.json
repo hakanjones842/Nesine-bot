@@ -1,82 +1,74 @@
 {
-    "Flamengo - Fluminense": {
-        "Alt": 1.79,
-        "Üst": 1.61
+    "Talleres - Independiente": {
+        "Alt": 1.43,
+        "Üst": 2.1
     },
-    "Palmeiras SP - Corinthians": {
-        "Alt": 1.44,
-        "Üst": 2.07
+    "Rancho Santana - Unan Managua": {
+        "Alt": 1.82,
+        "Üst": 1.49
     },
-    "Gremio P. - Internacional": {
-        "Alt": 1.49,
-        "Üst": 1.98
+    "Antigua - CSD Imperial": {
+        "Alt": 1.83,
+        "Üst": 1.48
     },
-    "Nautico PE - Vila Nova": {
-        "Alt": 1.46,
-        "Üst": 1.86
+    "America De Cali - I. Medellin": {
+        "Alt": 1.57,
+        "Üst": 1.72
     },
-    "Sport Boys - Alianza Atl": {
-        "Alt": 1.58,
-        "Üst": 1.7
+    "Pumas Unam - Cruz Azul": {
+        "Alt": 1.85,
+        "Üst": 1.47
     },
-    "Dep. Concepcion - D. Union La Calera": {
-        "Alt": 1.47,
-        "Üst": 1.85
-    },
-    "CD Aguila - Metapan": {
-        "Alt": 1.46,
-        "Üst": 1.86
-    },
-    "Atletico Balboa - CD Fas": {
-        "Alt": 1.98,
-        "Üst": 1.39
-    },
-    "Dep. San Pedro - Comunicacion": {
-        "Alt": 1.41,
-        "Üst": 1.96
-    },
-    "CD Estrella Roja - Real CD Espana": {
-        "Alt": 1.71,
-        "Üst": 1.57
-    },
-    "ART Jalapa - Managua": {
-        "Alt": 1.7,
-        "Üst": 1.58
-    },
-    "J. De Cordoba - CD Tolima": {
+    "Saitama (K) - Albirex Niigata (K)": {
         "Alt": 1.63,
         "Üst": 1.65
     },
-    "Club Aurora - Nacional Potosi": {
-        "Alt": 2.0,
-        "Üst": 1.38
+    "Xi An Ronghai - Jiangxi Beidamen": {
+        "Alt": 1.35,
+        "Üst": 2.09
     },
-    "Cuiaba - Avai SC": {
+    "Dalian Kewei - Hangzhou Linping": {
+        "Alt": 1.45,
+        "Üst": 1.87
+    },
+    "G. Dandelion Alpha - Shanghai Segenda": {
         "Alt": 1.43,
-        "Üst": 1.92
+        "Üst": 1.93
     },
-    "Operario - Goias GO": {
-        "Alt": 1.51,
-        "Üst": 1.79
-    },
-    "LDU Quito - Barcelona (Ekv)": {
-        "Alt": 1.68,
-        "Üst": 1.59
-    },
-    "Central Espanol - Nacional": {
+    "Levy Bereg Kiev - Zorya Luhansk": {
         "Alt": 1.58,
         "Üst": 1.71
     },
-    "Caracas - Zamora": {
-        "Alt": 1.87,
-        "Üst": 1.45
+    "Wenzhou Professional - Changchun Xidu": {
+        "Alt": 4.12,
+        "Üst": 3.23
     },
-    "Barranquilla - Deportes Quindio": {
-        "Alt": 1.54,
-        "Üst": 1.74
+    "Xiamen Feilu - Taian Tiankuang": {
+        "Alt": 1.35,
+        "Üst": 2.08
     },
-    "U. Magdalena - Itagui Leones": {
-        "Alt": 1.6,
-        "Üst": 1.67
+    "Mes Kerman - Mes Rafsanjan": {
+        "Alt": 1.21,
+        "Üst": 1.23
+    },
+    "Hougang Utd - Balestier": {
+        "Alt": 3.13,
+        "Üst": 3.88
+    },
+    "Real Valladolid - Albacete": {
+        "Alt": 1.67,
+        "Üst": 1.72
+    },
+    "Cagliari U20 - AC Monza U20": {
+        "Alt": 1.62,
+        "Üst": 1.65
+    },
+    "FK Baskimi - Struga Trim": {
+        "Alt": 1.37,
+        "Üst": 1.97
+    },
+    "Pakhtakor Tashkent - AL Qadisiyah": {
+        "Alt": 1.85,
+        "Üst": 1.47
     }
 }
