@@ -1,78 +1,74 @@
 {
-    "Utrecht - Willem II": {
-        "Alt": 2.5,
-        "Üst": 1.29
+    "Real Betis - Osasuna": {
+        "Alt": 2.17,
+        "Üst": 1.4
     },
-    "CD Zafra - UD Montijo": {
-        "Alt": 1.43,
-        "Üst": 1.91
+    "Westerlo - Antwerp": {
+        "Alt": 2.28,
+        "Üst": 1.36
     },
-    "Konyaspor - Başakşehir": {
-        "Alt": 1.93,
-        "Üst": 1.52
+    "Rubin Kazan - D. Moskova": {
+        "Alt": 1.56,
+        "Üst": 1.86
     },
-    "Como 1907 - AS Roma": {
-        "Alt": 2.12,
-        "Üst": 1.42
+    "Partizani Tirana - KF Tirana": {
+        "Alt": 1.44,
+        "Üst": 1.88
     },
-    "FSV Frankfurt U19 - SV Wehen Wiesbaden U19": {
-        "Alt": 3.13,
-        "Üst": 3.9
+    "KF Vllaznia - D. Tirana": {
+        "Alt": 1.45,
+        "Üst": 1.87
     },
-    "Real Sociedad U19 - Antiguoko Ke U19": {
-        "Alt": 2.19,
-        "Üst": 3.61
+    "Dnepr Mogilev - D. Minsk": {
+        "Alt": 1.65,
+        "Üst": 1.62
     },
-    "Sevilla U19 - Sporting At Ceuta U19": {
-        "Alt": 2.02,
-        "Üst": 3.54
+    "NK Celik Zenica - Sarajevo": {
+        "Alt": 1.49,
+        "Üst": 3.09
     },
-    "UCAM Murcia U19 - Torrent U19": {
-        "Alt": 1.98,
-        "Üst": 1.39
+    "Uni. Catolica - CSD Macara": {
+        "Alt": 1.72,
+        "Üst": 1.56
     },
-    "SD Leioa U19 - SD Eibar U19": {
-        "Alt": 2.05,
-        "Üst": 1.37
-    },
-    "Minor Nigran U19 - G. de Torrelavega U19": {
-        "Alt": 2.59,
-        "Üst": 3.43
-    },
-    "Churriana de la Vega - CD Cantoria 2017": {
-        "Alt": 1.53,
-        "Üst": 1.76
-    },
-    "A. Coruna Montaneros - Gran Pena": {
-        "Alt": 1.62,
+    "Mallorca - Las Palmas": {
+        "Alt": 1.76,
         "Üst": 1.65
     },
-    "Linares Dep. - CA Antoniano": {
-        "Alt": 1.44,
-        "Üst": 1.9
+    "Rayo Majadah - Murcia": {
+        "Alt": 1.38,
+        "Üst": 2.0
     },
-    "Real Oviedo B - Rayo Cantabria": {
-        "Alt": 1.74,
-        "Üst": 1.54
+    "Benfica - V. Guimaraes": {
+        "Alt": 2.55,
+        "Üst": 1.28
     },
-    "Torres S. - Atalanta BC U23": {
-        "Alt": 1.71,
-        "Üst": 1.58
+    "CSKA 1948 Sofia - CSKA Sofya": {
+        "Alt": 1.59,
+        "Üst": 1.68
     },
-    "Altamura - Calcio Catania": {
+    "US Yacoub Mansour - CRS Salmi": {
+        "Alt": 1.31,
+        "Üst": 2.16
+    },
+    "Xerez Deportivo - San Roque": {
         "Alt": 1.43,
-        "Üst": 1.92
-    },
-    "NK Dugopolje - NK Croatia Zmijavci": {
-        "Alt": 1.44,
         "Üst": 1.91
     },
-    "Akhmat Grozny - B. Kaliningrad": {
-        "Alt": 1.37,
-        "Üst": 2.25
+    "CD Estepona - Club Atletico Central": {
+        "Alt": 1.55,
+        "Üst": 1.73
     },
-    "Viktoria Köln U19 - Bochum U19": {
-        "Alt": 1.79,
-        "Üst": 3.82
+    "ETO Gyor - Puskas A.": {
+        "Alt": 2.09,
+        "Üst": 1.35
+    },
+    "Zamalek - El Ahly (Mıs)": {
+        "Alt": 1.44,
+        "Üst": 1.89
+    },
+    "Uniao Leiria - Academica": {
+        "Alt": 1.66,
+        "Üst": 1.61
     }
 }
