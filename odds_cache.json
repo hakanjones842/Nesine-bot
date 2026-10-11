@@ -1,74 +1,82 @@
 {
-    "Real Betis - Osasuna": {
-        "Alt": 2.17,
-        "Üst": 1.4
+    "Flamengo - Fluminense": {
+        "Alt": 1.79,
+        "Üst": 1.61
     },
-    "Westerlo - Antwerp": {
-        "Alt": 2.28,
-        "Üst": 1.36
+    "Palmeiras SP - Corinthians": {
+        "Alt": 1.44,
+        "Üst": 2.07
     },
-    "Rubin Kazan - D. Moskova": {
-        "Alt": 1.56,
+    "Gremio P. - Internacional": {
+        "Alt": 1.49,
+        "Üst": 1.98
+    },
+    "Nautico PE - Vila Nova": {
+        "Alt": 1.46,
         "Üst": 1.86
     },
-    "Partizani Tirana - KF Tirana": {
-        "Alt": 1.44,
-        "Üst": 1.88
+    "Sport Boys - Alianza Atl": {
+        "Alt": 1.58,
+        "Üst": 1.7
     },
-    "KF Vllaznia - D. Tirana": {
-        "Alt": 1.45,
-        "Üst": 1.87
+    "Dep. Concepcion - D. Union La Calera": {
+        "Alt": 1.47,
+        "Üst": 1.85
     },
-    "Dnepr Mogilev - D. Minsk": {
-        "Alt": 1.65,
-        "Üst": 1.62
+    "CD Aguila - Metapan": {
+        "Alt": 1.46,
+        "Üst": 1.86
     },
-    "NK Celik Zenica - Sarajevo": {
-        "Alt": 1.49,
-        "Üst": 3.09
+    "Atletico Balboa - CD Fas": {
+        "Alt": 1.98,
+        "Üst": 1.39
     },
-    "Uni. Catolica - CSD Macara": {
-        "Alt": 1.72,
-        "Üst": 1.56
+    "Dep. San Pedro - Comunicacion": {
+        "Alt": 1.41,
+        "Üst": 1.96
     },
-    "Mallorca - Las Palmas": {
-        "Alt": 1.76,
+    "CD Estrella Roja - Real CD Espana": {
+        "Alt": 1.71,
+        "Üst": 1.57
+    },
+    "ART Jalapa - Managua": {
+        "Alt": 1.7,
+        "Üst": 1.58
+    },
+    "J. De Cordoba - CD Tolima": {
+        "Alt": 1.63,
         "Üst": 1.65
     },
-    "Rayo Majadah - Murcia": {
-        "Alt": 1.38,
-        "Üst": 2.0
+    "Club Aurora - Nacional Potosi": {
+        "Alt": 2.0,
+        "Üst": 1.38
     },
-    "Benfica - V. Guimaraes": {
-        "Alt": 2.55,
-        "Üst": 1.28
-    },
-    "CSKA 1948 Sofia - CSKA Sofya": {
-        "Alt": 1.59,
-        "Üst": 1.68
-    },
-    "US Yacoub Mansour - CRS Salmi": {
-        "Alt": 1.31,
-        "Üst": 2.16
-    },
-    "Xerez Deportivo - San Roque": {
+    "Cuiaba - Avai SC": {
         "Alt": 1.43,
-        "Üst": 1.91
+        "Üst": 1.92
     },
-    "CD Estepona - Club Atletico Central": {
-        "Alt": 1.55,
-        "Üst": 1.73
+    "Operario - Goias GO": {
+        "Alt": 1.51,
+        "Üst": 1.79
     },
-    "ETO Gyor - Puskas A.": {
-        "Alt": 2.09,
-        "Üst": 1.35
+    "LDU Quito - Barcelona (Ekv)": {
+        "Alt": 1.68,
+        "Üst": 1.59
     },
-    "Zamalek - El Ahly (Mıs)": {
-        "Alt": 1.44,
-        "Üst": 1.89
+    "Central Espanol - Nacional": {
+        "Alt": 1.58,
+        "Üst": 1.71
     },
-    "Uniao Leiria - Academica": {
-        "Alt": 1.66,
-        "Üst": 1.61
+    "Caracas - Zamora": {
+        "Alt": 1.87,
+        "Üst": 1.45
+    },
+    "Barranquilla - Deportes Quindio": {
+        "Alt": 1.54,
+        "Üst": 1.74
+    },
+    "U. Magdalena - Itagui Leones": {
+        "Alt": 1.6,
+        "Üst": 1.67
     }
 }
