@@ -1,82 +1,86 @@
 {
-    "Sao Paulo SP - Vitoria BA": {
-        "Alt": 1.52,
-        "Üst": 1.93
-    },
-    "Diriangen - Walter Ferretti": {
-        "Alt": 2.04,
-        "Üst": 1.37
-    },
-    "U. Deportes - Melgar": {
-        "Alt": 1.51,
-        "Üst": 1.79
-    },
-    "Kansas City - Portland Tim.": {
-        "Alt": 2.92,
-        "Üst": 1.2
-    },
-    "Austin - Nashville SC": {
-        "Alt": 1.94,
-        "Üst": 1.51
-    },
-    "Minnesota Utd - Houston Dyn.": {
-        "Alt": 1.86,
-        "Üst": 1.56
-    },
-    "Corpus Chri - Naples": {
-        "Alt": 1.74,
-        "Üst": 1.54
-    },
-    "River Plate - Estudiantes Río C.": {
-        "Alt": 1.75,
+    "Tiamo Hirakata - Tokyo Musashino City": {
+        "Alt": 1.62,
         "Üst": 1.65
     },
-    "El Paso Loc. - Orange Count": {
-        "Alt": 1.84,
-        "Üst": 1.48
+    "Briobecca Urayasu - Veertien Mie": {
+        "Alt": 1.44,
+        "Üst": 1.88
     },
-    "New Mexico - Monterey Bay": {
-        "Alt": 2.16,
-        "Üst": 1.31
+    "Grulla Morioka - Honda": {
+        "Alt": 1.68,
+        "Üst": 1.59
     },
-    "Municipal L. - Angel Firpo": {
-        "Alt": 1.55,
-        "Üst": 1.73
+    "Matsumoto Y. - Kagoshima Utd": {
+        "Alt": 1.53,
+        "Üst": 1.76
     },
-    "Malacateco - Dep. Guastatoya": {
-        "Alt": 1.37,
-        "Üst": 2.02
+    "R. Kumamoto - Ehime": {
+        "Alt": 1.64,
+        "Üst": 1.64
     },
-    "Atlas - CD Guadalajara": {
-        "Alt": 1.74,
-        "Üst": 1.54
+    "M. Yamagata - Sendai": {
+        "Alt": 1.65,
+        "Üst": 1.63
     },
-    "CSD D. Sinaloa - Cruz Azul Hidalgo": {
-        "Alt": 2.42,
-        "Üst": 3.44
+    "Gwangju - Ulsan Hora": {
+        "Alt": 2.1,
+        "Üst": 1.43
     },
-    "Jaiba Brava - Alac. de Durango": {
-        "Alt": 1.46,
-        "Üst": 1.86
+    "S. S. Bluewings - Ansan Greene": {
+        "Alt": 2.21,
+        "Üst": 1.3
     },
-    "M.D. Zacatecas - Cancun": {
-        "Alt": 1.79,
+    "Gyeongju - Mokpo City": {
+        "Alt": 1.72,
+        "Üst": 1.56
+    },
+    "Gangneung City - Siheung Citi.": {
+        "Alt": 1.51,
+        "Üst": 1.78
+    },
+    "JEF Utd - V Varen": {
+        "Alt": 1.65,
+        "Üst": 1.75
+    },
+    "Kat. Toyama - Tegevajaro Mi.": {
+        "Alt": 1.82,
+        "Üst": 1.49
+    },
+    "Tochigi - Renofa Y.": {
+        "Alt": 1.59,
+        "Üst": 1.69
+    },
+    "Gainare Tottori - Gifu": {
+        "Alt": 1.78,
         "Üst": 1.51
     },
-    "Indigenas de Matagalpa - Real Esteli": {
+    "Nagano P. (K) - INAC Kobe L. (K)": {
         "Alt": 1.85,
         "Üst": 1.47
     },
-    "Bogota - Boyaca Patr.": {
-        "Alt": 1.67,
-        "Üst": 1.6
+    "Cerezo Osaka S. (K) - Omiya (K)": {
+        "Alt": 1.84,
+        "Üst": 1.47
     },
-    "Colorado R. - San Jose E.": {
-        "Alt": 2.11,
-        "Üst": 1.43
+    "Hoi King - Citizen AA": {
+        "Alt": 3.34,
+        "Üst": 3.88
     },
-    "Lobos Upnfm - Marathon": {
-        "Alt": 1.64,
-        "Üst": 1.63
+    "Tokyo Verdy - S. Hiroshima": {
+        "Alt": 1.94,
+        "Üst": 1.51
+    },
+    "M. Hollyhock - Shimizu": {
+        "Alt": 1.55,
+        "Üst": 1.88
+    },
+    "Verspah Oita - Honda Lock": {
+        "Alt": 1.63,
+        "Üst": 1.65
+    },
+    "Iwaki - B. Akita": {
+        "Alt": 1.5,
+        "Üst": 1.8
     }
 }
