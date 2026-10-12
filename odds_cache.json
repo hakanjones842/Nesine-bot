@@ -1,31 +1,11 @@
 {
-    "Talleres - Independiente": {
-        "Alt": 1.43,
-        "Üst": 2.1
-    },
-    "Rancho Santana - Unan Managua": {
-        "Alt": 1.82,
-        "Üst": 1.49
-    },
-    "Antigua - CSD Imperial": {
-        "Alt": 1.83,
-        "Üst": 1.48
-    },
-    "America De Cali - I. Medellin": {
-        "Alt": 1.57,
-        "Üst": 1.72
-    },
-    "Pumas Unam - Cruz Azul": {
-        "Alt": 1.85,
-        "Üst": 1.47
-    },
     "Saitama (K) - Albirex Niigata (K)": {
-        "Alt": 1.63,
-        "Üst": 1.65
+        "Alt": 1.65,
+        "Üst": 1.62
     },
     "Xi An Ronghai - Jiangxi Beidamen": {
-        "Alt": 1.35,
-        "Üst": 2.09
+        "Alt": 1.38,
+        "Üst": 2.0
     },
     "Dalian Kewei - Hangzhou Linping": {
         "Alt": 1.45,
@@ -64,11 +44,39 @@
         "Üst": 1.65
     },
     "FK Baskimi - Struga Trim": {
-        "Alt": 1.37,
-        "Üst": 1.97
+        "Alt": 1.35,
+        "Üst": 1.94
     },
     "Pakhtakor Tashkent - AL Qadisiyah": {
         "Alt": 1.85,
         "Üst": 1.47
+    },
+    "Js El Biar - CR Belouizdad": {
+        "Alt": 1.28,
+        "Üst": 2.28
+    },
+    "USM Khenchela - CS Constantine": {
+        "Alt": 1.3,
+        "Üst": 2.2
+    },
+    "Northeast Utd - Mohun Bagan": {
+        "Alt": 1.73,
+        "Üst": 1.55
+    },
+    "Cultural Leonesa - A. Club De Getxo": {
+        "Alt": 1.74,
+        "Üst": 1.54
+    },
+    "Modern Sport Club - Enppi Club": {
+        "Alt": 1.24,
+        "Üst": 2.38
+    },
+    "Al Mokawloon - ZED": {
+        "Alt": 1.24,
+        "Üst": 2.41
+    },
+    "Braga U23 - CS Maritimo U23": {
+        "Alt": 2.06,
+        "Üst": 1.36
     }
 }
