@@ -1,82 +1,74 @@
 {
-    "Levy Bereg Kiev - Zorya Luhansk": {
-        "Alt": 1.58,
-        "Üst": 1.7
-    },
-    "Wenzhou Professional - Changchun Xidu": {
-        "Alt": 4.28,
+    "Racing de Cordoba - CA Los Andes": {
+        "Alt": 4.6,
         "Üst": 3.19
     },
-    "Xiamen Feilu - Taian Tiankuang": {
-        "Alt": 1.44,
-        "Üst": 1.88
+    "Hassania A. - AS Far Rabat": {
+        "Alt": 1.52,
+        "Üst": 1.77
     },
-    "Mes Kerman - Mes Rafsanjan": {
-        "Alt": 1.21,
-        "Üst": 1.23
+    "Hfx Wan. - Cavalry": {
+        "Alt": 2.07,
+        "Üst": 1.36
     },
-    "Hougang Utd - Balestier": {
-        "Alt": 3.13,
-        "Üst": 3.88
-    },
-    "Real Valladolid - Albacete": {
-        "Alt": 1.67,
-        "Üst": 1.72
-    },
-    "Shabab AL Sahel - Safa SC": {
-        "Alt": 1.46,
-        "Üst": 1.86
-    },
-    "Cagliari U20 - AC Monza U20": {
-        "Alt": 1.62,
-        "Üst": 1.65
-    },
-    "FK Baskimi - Struga Trim": {
-        "Alt": 3.36,
-        "Üst": 2.08
-    },
-    "Nejmeh SC - AL Tadamon Sour": {
+    "U. Chile - Nublense": {
         "Alt": 1.83,
         "Üst": 1.48
     },
-    "CD Maxaquene - Ferroviario de L.": {
-        "Alt": 1.32,
+    "Orsomarso SC - Boca Juniors (Kol)": {
+        "Alt": 1.52,
+        "Üst": 1.78
+    },
+    "Always Ready - Independiente P.": {
+        "Alt": 3.67,
+        "Üst": 2.26
+    },
+    "Gimnasia Y. - New Old Boys": {
+        "Alt": 1.41,
         "Üst": 2.14
     },
-    "Pakhtakor Tashkent - AL Qadisiyah": {
-        "Alt": 1.97,
-        "Üst": 1.4
+    "All Boys - Godoy Cruz": {
+        "Alt": 1.24,
+        "Üst": 3.41
     },
-    "Js El Biar - CR Belouizdad": {
-        "Alt": 1.28,
-        "Üst": 2.27
+    "Gremio Novo - Ponte Preta": {
+        "Alt": 1.14,
+        "Üst": 2.2
     },
-    "USM Khenchela - CS Constantine": {
-        "Alt": 1.31,
-        "Üst": 2.16
+    "Tivoli Gardens - Racing Utd": {
+        "Alt": 1.49,
+        "Üst": 1.82
     },
-    "Northeast Utd - Mohun Bagan": {
-        "Alt": 1.59,
-        "Üst": 1.69
+    "Chapecoense - Paranaense": {
+        "Alt": 1.87,
+        "Üst": 1.56
     },
-    "Cultural Leonesa - A. Club De Getxo": {
-        "Alt": 1.76,
-        "Üst": 1.52
+    "Criciuma - America MG": {
+        "Alt": 1.67,
+        "Üst": 1.6
     },
-    "Modern Sport Club - Enppi Club": {
-        "Alt": 1.22,
-        "Üst": 2.49
+    "Deportivo Capiata - Benjamin Aceval": {
+        "Alt": 1.66,
+        "Üst": 1.61
     },
-    "Al Mokawloon - ZED": {
-        "Alt": 1.23,
-        "Üst": 2.46
+    "Bragantino - Cruzeiro MG": {
+        "Alt": 2.05,
+        "Üst": 1.45
     },
-    "Braga U23 - CS Maritimo U23": {
-        "Alt": 2.06,
-        "Üst": 1.36
-    },
-    "Burgos - Granada": {
-        "Alt": 1.48,
+    "Botafogo - Ceara CE": {
+        "Alt": 1.38,
         "Üst": 2.0
+    },
+    "Waterhouse - Tru Juice": {
+        "Alt": 2.14,
+        "Üst": 3.45
+    },
+    "Newcastle Utd Jets - Gamba Osaka": {
+        "Alt": 2.47,
+        "Üst": 1.23
+    },
+    "Pohang S. - Johor Darul": {
+        "Alt": 1.76,
+        "Üst": 1.53
     }
 }
