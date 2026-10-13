@@ -1,74 +1,74 @@
 {
-    "Racing de Cordoba - CA Los Andes": {
-        "Alt": 4.6,
-        "Üst": 3.19
-    },
-    "Hassania A. - AS Far Rabat": {
-        "Alt": 1.52,
-        "Üst": 1.77
-    },
-    "Hfx Wan. - Cavalry": {
-        "Alt": 2.07,
-        "Üst": 1.36
-    },
-    "U. Chile - Nublense": {
-        "Alt": 1.83,
-        "Üst": 1.48
-    },
-    "Orsomarso SC - Boca Juniors (Kol)": {
-        "Alt": 1.52,
-        "Üst": 1.78
-    },
-    "Always Ready - Independiente P.": {
-        "Alt": 3.67,
-        "Üst": 2.26
-    },
-    "Gimnasia Y. - New Old Boys": {
-        "Alt": 1.41,
-        "Üst": 2.14
-    },
-    "All Boys - Godoy Cruz": {
-        "Alt": 1.24,
-        "Üst": 3.41
-    },
-    "Gremio Novo - Ponte Preta": {
-        "Alt": 1.14,
-        "Üst": 2.2
-    },
-    "Tivoli Gardens - Racing Utd": {
-        "Alt": 1.49,
-        "Üst": 1.82
-    },
-    "Chapecoense - Paranaense": {
-        "Alt": 1.87,
-        "Üst": 1.56
-    },
-    "Criciuma - America MG": {
-        "Alt": 1.67,
-        "Üst": 1.6
-    },
-    "Deportivo Capiata - Benjamin Aceval": {
-        "Alt": 1.66,
-        "Üst": 1.61
-    },
-    "Bragantino - Cruzeiro MG": {
-        "Alt": 2.05,
-        "Üst": 1.45
-    },
-    "Botafogo - Ceara CE": {
-        "Alt": 1.38,
-        "Üst": 2.0
-    },
-    "Waterhouse - Tru Juice": {
-        "Alt": 2.14,
-        "Üst": 3.45
-    },
     "Newcastle Utd Jets - Gamba Osaka": {
-        "Alt": 2.47,
+        "Alt": 2.43,
         "Üst": 1.23
     },
     "Pohang S. - Johor Darul": {
         "Alt": 1.76,
         "Üst": 1.53
+    },
+    "Kyoto Sanga - Ratchaburi": {
+        "Alt": 1.88,
+        "Üst": 1.44
+    },
+    "Shanghai Port - Daejeon Citizen": {
+        "Alt": 1.91,
+        "Üst": 1.44
+    },
+    "Portimonense U23 - Academico V. U23": {
+        "Alt": 1.85,
+        "Üst": 1.47
+    },
+    "Muang Thong Utd - Phrae Utd": {
+        "Alt": 1.68,
+        "Üst": 1.59
+    },
+    "Sabah Masazir U19 - Slavia Prag U19": {
+        "Alt": 3.88,
+        "Üst": 2.0
+    },
+    "RC Lens U19 - S. Lizbon U19": {
+        "Alt": 2.25,
+        "Üst": 1.29
+    },
+    "Bandırmaspor - Sivasspor": {
+        "Alt": 1.68,
+        "Üst": 1.63
+    },
+    "SGB Kanchanaburi - Police Tero": {
+        "Alt": 1.98,
+        "Üst": 1.39
+    },
+    "Chengdu Rongcheng B - Qingdao Red": {
+        "Alt": 1.32,
+        "Üst": 2.15
+    },
+    "Peterborough Utd U21 - Sheffield Utd U21": {
+        "Alt": 3.38,
+        "Üst": 4.16
+    },
+    "Ballkani - KF Drita": {
+        "Alt": 1.47,
+        "Üst": 1.84
+    },
+    "Tripoli AC - Al Akhaa Al Ahli": {
+        "Alt": 1.44,
+        "Üst": 1.9
+    },
+    "Moreirense U23 - Santa Clara U23": {
+        "Alt": 1.72,
+        "Üst": 1.55
+    },
+    "Nakhon R. - Muang Loei Utd": {
+        "Alt": 1.56,
+        "Üst": 1.72
+    },
+    "RB Leipzig U19 - PSV U19": {
+        "Alt": 2.88,
+        "Üst": 1.15
+    },
+    "Arsenal U19 - Lille U19": {
+        "Alt": 2.6,
+        "Üst": 1.19
     }
 }
