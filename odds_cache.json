@@ -1,74 +1,90 @@
 {
-    "TSV Aubstadt - Illertissen": {
-        "Alt": 1.86,
-        "Üst": 1.45
+    "Athletic Club MG - Londrina PR": {
+        "Alt": 1.45,
+        "Üst": 1.87
     },
-    "Sabah - Slavia Prag": {
-        "Alt": 1.98,
-        "Üst": 1.49
+    "CD Tapatio - Tepatitlan": {
+        "Alt": 1.78,
+        "Üst": 3.52
     },
-    "RC Lens - Sporting CP": {
-        "Alt": 1.99,
-        "Üst": 1.49
+    "ABD (K) - İspanya (K)": {
+        "Alt": 1.9,
+        "Üst": 1.44
     },
-    "ASO Chlef - MC Alger": {
+    "CA Bucaramanga - R. Aguilas": {
+        "Alt": 1.69,
+        "Üst": 1.58
+    },
+    "Brezilya (K) - Arjantin (K)": {
+        "Alt": 2.3,
+        "Üst": 3.4
+    },
+    "CS Cartagines - Puntarenas": {
+        "Alt": 1.78,
+        "Üst": 1.51
+    },
+    "Boca Juniors - Vasco Da G.": {
         "Alt": 1.27,
-        "Üst": 2.31
+        "Üst": 2.56
     },
-    "Pendikspor - Vanspor FK": {
-        "Alt": 1.67,
+    "Millonarios - Once Caldas": {
+        "Alt": 1.59,
+        "Üst": 1.68
+    },
+    "AD San Carlos - Inter San Carlos": {
+        "Alt": 1.59,
+        "Üst": 1.68
+    },
+    "Melbourne V. - Seoul": {
+        "Alt": 1.96,
+        "Üst": 1.4
+    },
+    "Yokohama - Urawa Red": {
+        "Alt": 1.83,
+        "Üst": 1.48
+    },
+    "Kashiwa - Port": {
+        "Alt": 1.17,
+        "Üst": 1.24
+    },
+    "Vissel Kobe - Jeonbuk": {
+        "Alt": 1.64,
+        "Üst": 1.64
+    },
+    "Iwata Jubilo - Kawasaki Frontale": {
+        "Alt": 1.93,
+        "Üst": 1.42
+    },
+    "Sagan Tosu - Fukuoka": {
+        "Alt": 1.51,
+        "Üst": 1.79
+    },
+    "Yokohama M. - Shimizu": {
+        "Alt": 1.58,
+        "Üst": 1.7
+    },
+    "Nagoya - Fagiano": {
+        "Alt": 1.65,
         "Üst": 1.63
     },
-    "Saarbrucken - Duisburg": {
-        "Alt": 2.03,
+    "Gainare Tottori - Cerezo Osaka": {
+        "Alt": 1.86,
         "Üst": 1.46
     },
-    "Stuttgart II - Hoffenheim II": {
-        "Alt": 2.76,
-        "Üst": 1.23
+    "M. Hollyhock - Tokyo": {
+        "Alt": 1.65,
+        "Üst": 1.62
     },
-    "Weiss Essen - Fortuna Köln": {
-        "Alt": 2.19,
-        "Üst": 1.39
+    "Matsumoto Y. - S. Hiroshima": {
+        "Alt": 1.85,
+        "Üst": 3.49
     },
-    "TSV Havelse - Würzburg": {
-        "Alt": 2.11,
-        "Üst": 1.43
+    "I Pavlodar - Astana": {
+        "Alt": 1.74,
+        "Üst": 1.54
     },
-    "H. Rostock - Meppen": {
-        "Alt": 2.55,
-        "Üst": 1.28
-    },
-    "Buchbach - Augsburg II": {
-        "Alt": 2.34,
-        "Üst": 3.6
-    },
-    "Eichstatt - Vilzing": {
-        "Alt": 1.93,
-        "Üst": 1.43
-    },
-    "Greuther Furth II - Memmingen": {
-        "Alt": 1.63,
-        "Üst": 1.65
-    },
-    "Township Rollers - Orapa Utd": {
-        "Alt": 4.18,
-        "Üst": 3.16
-    },
-    "Norrköping - Sundsvall": {
-        "Alt": 1.23,
-        "Üst": 1.92
-    },
-    "AL Ittihad - El Gouna": {
-        "Alt": 1.23,
-        "Üst": 2.46
-    },
-    "Petrojet - Wadi Degla": {
-        "Alt": 1.36,
-        "Üst": 2.05
-    },
-    "Heming - KFUM II": {
-        "Alt": 2.8,
-        "Üst": 4.25
+    "Nongbua Pitc. - Chiangma Utd": {
+        "Alt": 1.9,
+        "Üst": 1.44
     }
 }
