@@ -1,35 +1,11 @@
 {
-    "Athletic Club MG - Londrina PR": {
-        "Alt": 1.45,
-        "Üst": 1.87
-    },
-    "CD Tapatio - Tepatitlan": {
-        "Alt": 1.78,
-        "Üst": 3.52
-    },
-    "ABD (K) - İspanya (K)": {
-        "Alt": 1.9,
-        "Üst": 1.44
-    },
-    "CA Bucaramanga - R. Aguilas": {
-        "Alt": 1.69,
-        "Üst": 1.58
-    },
-    "Brezilya (K) - Arjantin (K)": {
-        "Alt": 2.3,
-        "Üst": 3.4
-    },
-    "CS Cartagines - Puntarenas": {
-        "Alt": 1.78,
-        "Üst": 1.51
-    },
     "Boca Juniors - Vasco Da G.": {
         "Alt": 1.27,
-        "Üst": 2.56
+        "Üst": 2.57
     },
     "Millonarios - Once Caldas": {
-        "Alt": 1.59,
-        "Üst": 1.68
+        "Alt": 1.61,
+        "Üst": 1.66
     },
     "AD San Carlos - Inter San Carlos": {
         "Alt": 1.59,
@@ -40,16 +16,16 @@
         "Üst": 1.4
     },
     "Yokohama - Urawa Red": {
-        "Alt": 1.83,
-        "Üst": 1.48
+        "Alt": 1.9,
+        "Üst": 1.44
     },
     "Kashiwa - Port": {
         "Alt": 1.17,
-        "Üst": 1.24
+        "Üst": 1.86
     },
     "Vissel Kobe - Jeonbuk": {
-        "Alt": 1.64,
-        "Üst": 1.64
+        "Alt": 1.66,
+        "Üst": 1.61
     },
     "Iwata Jubilo - Kawasaki Frontale": {
         "Alt": 1.93,
@@ -72,19 +48,43 @@
         "Üst": 1.46
     },
     "M. Hollyhock - Tokyo": {
-        "Alt": 1.65,
-        "Üst": 1.62
+        "Alt": 1.68,
+        "Üst": 1.59
     },
     "Matsumoto Y. - S. Hiroshima": {
-        "Alt": 1.85,
-        "Üst": 3.49
+        "Alt": 1.88,
+        "Üst": 3.47
     },
     "I Pavlodar - Astana": {
         "Alt": 1.74,
         "Üst": 1.54
     },
+    "LASK Linz U19 - Liverpool U19": {
+        "Alt": 2.63,
+        "Üst": 1.19
+    },
     "Nongbua Pitc. - Chiangma Utd": {
-        "Alt": 1.9,
-        "Üst": 1.44
+        "Alt": 1.97,
+        "Üst": 1.4
+    },
+    "Pattaya Dolphins Utd - Songkhla": {
+        "Alt": 1.58,
+        "Üst": 1.7
+    },
+    "S. Donetsk U19 - AEK U19": {
+        "Alt": 2.16,
+        "Üst": 1.31
+    },
+    "Feyenoord U19 - Como 1907 U20": {
+        "Alt": 2.61,
+        "Üst": 1.19
+    },
+    "Batman Petrol - İstanbulspor": {
+        "Alt": 3.32,
+        "Üst": 1.86
+    },
+    "Chanthaburi - Nakhon Pathom Utd": {
+        "Alt": 1.37,
+        "Üst": 2.05
     }
 }
