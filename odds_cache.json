@@ -1,86 +1,98 @@
 {
-    "Dep. Guastatoya - Antigua": {
-        "Alt": 1.37,
-        "Üst": 2.02
-    },
-    "Indigenas de Matagalpa - Walter Ferretti": {
-        "Alt": 1.72,
-        "Üst": 1.56
-    },
-    "Real Salt Lake - San Jose E.": {
-        "Alt": 2.4,
-        "Üst": 1.31
-    },
-    "Colorado R. - Minnesota Utd": {
-        "Alt": 2.01,
-        "Üst": 1.47
-    },
-    "Atl. Nacional Medellin - I. Medellin": {
-        "Alt": 1.71,
-        "Üst": 1.58
-    },
-    "Alajuelense - CS Herediano": {
-        "Alt": 1.55,
-        "Üst": 1.73
-    },
-    "LA Galaxy - Portland Tim.": {
-        "Alt": 2.74,
-        "Üst": 1.23
-    },
-    "Los Angeles - Austin": {
-        "Alt": 2.36,
-        "Üst": 1.32
-    },
-    "San Diego - Houston Dyn.": {
-        "Alt": 2.02,
-        "Üst": 1.47
-    },
-    "CD Marquense - Deportivo Mixco": {
-        "Alt": 1.6,
-        "Üst": 1.68
-    },
     "Preston Lions - Woll. Wolves": {
-        "Alt": 2.21,
-        "Üst": 1.3
+        "Alt": 2.07,
+        "Üst": 1.36
     },
     "Gangwon - Phnom Penh Crown": {
-        "Alt": 1.59,
-        "Üst": 1.68
+        "Alt": 1.77,
+        "Üst": 1.52
     },
     "Wofoo Tai PO - Lion C. Sailors": {
-        "Alt": 2.25,
-        "Üst": 1.29
+        "Alt": 2.39,
+        "Üst": 1.24
     },
     "Uttaradit - Satun Utd": {
-        "Alt": 1.7,
-        "Üst": 1.58
+        "Alt": 1.72,
+        "Üst": 1.56
     },
     "KF Malisheva - Prishtina": {
         "Alt": 1.62,
         "Üst": 1.65
     },
     "Khon Kaen Utd - Chainat": {
-        "Alt": 1.91,
-        "Üst": 1.43
+        "Alt": 1.85,
+        "Üst": 1.47
     },
     "Kuching FA - Kitchee SC": {
-        "Alt": 1.63,
-        "Üst": 1.65
-    },
-    "Tampines Rov. - Machida Zelvia": {
-        "Alt": 1.93,
-        "Üst": 1.42
-    },
-    "BG Pathum Utd - Adelaide Utd": {
         "Alt": 1.79,
         "Üst": 1.51
     },
+    "Tampines Rov. - Machida Zelvia": {
+        "Alt": 2.01,
+        "Üst": 1.37
+    },
+    "BG Pathum Utd - Adelaide Utd": {
+        "Alt": 1.85,
+        "Üst": 1.47
+    },
     "Preah Khan R. S. - Shanghai S.": {
-        "Alt": 2.0,
-        "Üst": 1.38
+        "Alt": 2.14,
+        "Üst": 1.33
     },
     "Tanta - Dayrout": {
-        "Alt": 3.09,
-        "Üst": 3.03
+        "Alt": 1.32,
+        "Üst": 2.14
+    },
+    "El Daklyeh - Telecom Egypt": {
+        "Alt": 1.44,
+        "Üst": 2.97
+    },
+    "La Viena - Haras Hodood": {
+        "Alt": 1.68,
+        "Üst": 2.84
+    },
+    "Kahrabaa Ismailia - Team Cairo": {
+        "Alt": 1.47,
+        "Üst": 1.84
+    },
+    "El Mansurah - AL Nasr Cairo": {
+        "Alt": 5.42,
+        "Üst": 3.45
+    },
+    "Express - Updf": {
+        "Alt": 1.33,
+        "Üst": 2.14
+    },
+    "Kataka - Vipers SC": {
+        "Alt": 1.68,
+        "Üst": 1.59
+    },
+    "Maan - Jerash": {
+        "Alt": 1.48,
+        "Üst": 1.84
+    },
+    "AL Faisaly (Sar) - AL Khlood": {
+        "Alt": 1.64,
+        "Üst": 1.64
+    },
+    "Mardin 1969 - F. Karagümrük": {
+        "Alt": 1.61,
+        "Üst": 1.69
+    },
+    "USM EL Harrach - RC Arbaa": {
+        "Alt": 1.89,
+        "Üst": 2.68
+    },
+    "MO Bejaia - Nrb Beni Oulbene": {
+        "Alt": 1.42,
+        "Üst": 1.93
+    },
+    "Rigas Skola - Super Nova": {
+        "Alt": 3.46,
+        "Üst": 2.42
+    },
+    "Andijon - Qizilqum Zarafshon": {
+        "Alt": 1.53,
+        "Üst": 1.76
     }
 }
