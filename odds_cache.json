@@ -1,90 +1,86 @@
 {
-    "Cerro Porteno - San Lorenzo": {
-        "Alt": 1.79,
-        "Üst": 3.33
+    "Dep. Guastatoya - Antigua": {
+        "Alt": 1.37,
+        "Üst": 2.02
     },
-    "Hartford Ath - Charleston": {
+    "Indigenas de Matagalpa - Walter Ferretti": {
+        "Alt": 1.72,
+        "Üst": 1.56
+    },
+    "Real Salt Lake - San Jose E.": {
+        "Alt": 2.4,
+        "Üst": 1.31
+    },
+    "Colorado R. - Minnesota Utd": {
+        "Alt": 2.01,
+        "Üst": 1.47
+    },
+    "Atl. Nacional Medellin - I. Medellin": {
+        "Alt": 1.71,
+        "Üst": 1.58
+    },
+    "Alajuelense - CS Herediano": {
+        "Alt": 1.55,
+        "Üst": 1.73
+    },
+    "LA Galaxy - Portland Tim.": {
+        "Alt": 2.74,
+        "Üst": 1.23
+    },
+    "Los Angeles - Austin": {
+        "Alt": 2.36,
+        "Üst": 1.32
+    },
+    "San Diego - Houston Dyn.": {
+        "Alt": 2.02,
+        "Üst": 1.47
+    },
+    "CD Marquense - Deportivo Mixco": {
+        "Alt": 1.6,
+        "Üst": 1.68
+    },
+    "Preston Lions - Woll. Wolves": {
+        "Alt": 2.21,
+        "Üst": 1.3
+    },
+    "Gangwon - Phnom Penh Crown": {
+        "Alt": 1.59,
+        "Üst": 1.68
+    },
+    "Wofoo Tai PO - Lion C. Sailors": {
+        "Alt": 2.25,
+        "Üst": 1.29
+    },
+    "Uttaradit - Satun Utd": {
+        "Alt": 1.7,
+        "Üst": 1.58
+    },
+    "KF Malisheva - Prishtina": {
+        "Alt": 1.62,
+        "Üst": 1.65
+    },
+    "Khon Kaen Utd - Chainat": {
+        "Alt": 1.91,
+        "Üst": 1.43
+    },
+    "Kuching FA - Kitchee SC": {
+        "Alt": 1.63,
+        "Üst": 1.65
+    },
+    "Tampines Rov. - Machida Zelvia": {
+        "Alt": 1.93,
+        "Üst": 1.42
+    },
+    "BG Pathum Utd - Adelaide Utd": {
         "Alt": 1.79,
         "Üst": 1.51
     },
-    "Sporting Jax - Birmingham Legion": {
-        "Alt": 2.47,
-        "Üst": 1.23
+    "Preah Khan R. S. - Shanghai S.": {
+        "Alt": 2.0,
+        "Üst": 1.38
     },
-    "Greenville T. - Spokane Velocity": {
-        "Alt": 1.77,
-        "Üst": 1.52
-    },
-    "Comunicacion - Aurora": {
-        "Alt": 1.56,
-        "Üst": 1.72
-    },
-    "M. Per. Zeledon - CD Esc. Belen": {
-        "Alt": 1.71,
-        "Üst": 1.57
-    },
-    "Unan Managua - Diriangen": {
-        "Alt": 1.76,
-        "Üst": 1.52
-    },
-    "Guaros Lara - Urena SC": {
-        "Alt": 1.74,
-        "Üst": 1.54
-    },
-    "Cincinnati - N. E. Revolution": {
-        "Alt": 2.9,
-        "Üst": 1.2
-    },
-    "Inter Miami - New York C.": {
-        "Alt": 2.62,
-        "Üst": 1.26
-    },
-    "DC Utd - NY Red Bulls": {
-        "Alt": 2.49,
-        "Üst": 1.29
-    },
-    "Toronto - Orlando City": {
-        "Alt": 2.92,
-        "Üst": 1.2
-    },
-    "Columbus Cr. - Charlotte": {
-        "Alt": 2.82,
-        "Üst": 1.22
-    },
-    "Montreal I. - Atlanta Utd": {
-        "Alt": 2.15,
-        "Üst": 1.4
-    },
-    "Rhode Island - Loudoun Utd": {
-        "Alt": 2.02,
-        "Üst": 1.37
-    },
-    "Managua - San Marcos": {
-        "Alt": 3.54,
-        "Üst": 2.14
-    },
-    "D. Maldonado - Albion": {
-        "Alt": 1.4,
-        "Üst": 1.97
-    },
-    "Nashville SC - Kansas City": {
-        "Alt": 3.01,
-        "Üst": 1.18
-    },
-    "Dallas - S. Sounders": {
-        "Alt": 2.27,
-        "Üst": 1.36
-    },
-    "Chicago Fire - Phila. Union": {
-        "Alt": 2.62,
-        "Üst": 1.26
-    },
-    "S. Louis City SC - V. Whitecaps": {
-        "Alt": 2.3,
-        "Üst": 1.35
-    },
-    "Fluminense - Palmeiras SP": {
-        "Alt": 1.29,
-        "Üst": 2.5
+    "Tanta - Dayrout": {
+        "Alt": 3.09,
+        "Üst": 3.03
     }
 }
