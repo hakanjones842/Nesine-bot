@@ -1,86 +1,74 @@
 {
-    "El Sekka El Hadid - Ismaily Sc": {
-        "Alt": 4.24,
-        "Üst": 3.26
-    },
-    "Baladiyyat AL M. - Masar": {
-        "Alt": 1.33,
-        "Üst": 2.09
-    },
-    "Farco - Maleyat Kafr El Z.": {
-        "Alt": 5.63,
-        "Üst": 3.32
-    },
-    "EL Terasanah - Mega Sport Belqas": {
-        "Alt": 1.34,
-        "Üst": 2.06
-    },
-    "Proxy SC - Entag Harby": {
-        "Alt": 1.36,
-        "Üst": 2.0
-    },
-    "Fujairah - Palm City": {
-        "Alt": 1.41,
-        "Üst": 3.7
-    },
-    "Al Urooba (Bae) - Dibba AL Hisn SC": {
-        "Alt": 1.6,
-        "Üst": 1.65
-    },
-    "Gulf Utd - Emirates Club": {
-        "Alt": 1.36,
-        "Üst": 3.75
-    },
-    "Banik Ostrava B - Slavia Praha B": {
-        "Alt": 2.92,
-        "Üst": 3.8
-    },
-    "Halaba Ketema - Bahir Dar Kenema": {
-        "Alt": 1.3,
-        "Üst": 3.16
-    },
-    "Grobnican - Uljanik": {
-        "Alt": 2.0,
+    "Çorum FK - Rizespor": {
+        "Alt": 2.2,
         "Üst": 1.36
     },
-    "K. Red Warrior - Imigresen": {
-        "Alt": 2.24,
-        "Üst": 3.38
+    "ZED - Azam": {
+        "Alt": 1.63,
+        "Üst": 1.6
     },
-    "Fountain Gate - Pamba SC": {
-        "Alt": 1.43,
-        "Üst": 1.87
+    "Fortuna Köln - Stuttgart II": {
+        "Alt": 2.17,
+        "Üst": 1.38
     },
-    "AL Dhafra Scc - Dubai Utd": {
-        "Alt": 1.8,
-        "Üst": 1.47
+    "Sandhausen - Offenbacher": {
+        "Alt": 1.79,
+        "Üst": 1.48
     },
-    "AL Qadisiyah - Abha Club": {
-        "Alt": 1.08,
-        "Üst": 1.62
+    "Atlas Delme - Bremer SV 1906": {
+        "Alt": 2.21,
+        "Üst": 3.5
     },
-    "Highbury - Lerumo Lions": {
-        "Alt": 3.71,
-        "Üst": 3.12
+    "Weiss Erfurt - Zwickau": {
+        "Alt": 1.92,
+        "Üst": 3.48
     },
-    "NK Opatija - NK Sesvete": {
-        "Alt": 1.36,
-        "Üst": 2.0
+    "Extension Gunners - Tafic": {
+        "Alt": 1.29,
+        "Üst": 3.28
     },
-    "Dinamo Zagreb II - NK Karlovac 1919": {
-        "Alt": 1.51,
-        "Üst": 1.74
+    "AC Horsens - Randers": {
+        "Alt": 1.85,
+        "Üst": 1.54
     },
-    "NK Ilirija - Tabor Sezana": {
-        "Alt": 1.53,
-        "Üst": 1.74
+    "Aarhus Fremad - Esbjerg": {
+        "Alt": 1.95,
+        "Üst": 1.39
     },
-    "Hyderabad - Mohun Bagan": {
+    "HB Koege - AB Gladsaxe": {
         "Alt": 2.06,
         "Üst": 1.34
     },
-    "Kokand 1912 - FK Neftchi Fargona": {
-        "Alt": 1.66,
-        "Üst": 1.59
+    "Kolding - Vendsyssel": {
+        "Alt": 1.75,
+        "Üst": 1.51
+    },
+    "Naestved - B93 Kopenhag": {
+        "Alt": 1.88,
+        "Üst": 1.42
+    },
+    "Fremad Amager - Nykoebing": {
+        "Alt": 1.98,
+        "Üst": 1.37
+    },
+    "Cartagena - Europa": {
+        "Alt": 1.57,
+        "Üst": 1.67
+    },
+    "Brommapojkarna - Djurgarden": {
+        "Alt": 2.16,
+        "Üst": 1.38
+    },
+    "Vestmannaeyjar - Hafnarfjordur": {
+        "Alt": 2.34,
+        "Üst": 1.24
+    },
+    "Grindavik Njarovik (K) - IBV Vestmannaeyjar (K)": {
+        "Alt": 3.25,
+        "Üst": 3.76
+    },
+    "Shooting Stars - Ranchers Bees": {
+        "Alt": 1.32,
+        "Üst": 2.12
     }
 }
