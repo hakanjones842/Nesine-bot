@@ -1,42 +1,14 @@
 {
-    "CD Cuenca - CD Tecnico Uni.": {
-        "Alt": 1.38,
-        "Üst": 1.96
-    },
-    "CD Los Chankas - A. Deportiva Tarma": {
-        "Alt": 1.69,
-        "Üst": 1.56
-    },
-    "Atlanta Utd 2 - Connecticut Utd": {
-        "Alt": 3.38,
-        "Üst": 3.85
-    },
-    "Def. Justicia - Instituto": {
-        "Alt": 1.41,
-        "Üst": 2.11
-    },
-    "Boca Juniors (Kol) - Atletico": {
-        "Alt": 1.53,
-        "Üst": 1.74
-    },
-    "Carapegua - Resistencia": {
-        "Alt": 1.69,
-        "Üst": 1.55
-    },
-    "Ca Cerro - Cerro Largo": {
-        "Alt": 1.35,
-        "Üst": 2.03
-    },
     "Ponte Preta - Atl Goianiense": {
-        "Alt": 1.81,
-        "Üst": 1.47
+        "Alt": 1.91,
+        "Üst": 1.41
     },
     "Mirassol SP - Internacional": {
         "Alt": 1.76,
         "Üst": 1.61
     },
     "Supra Du Quebec - York Utd": {
-        "Alt": 2.48,
+        "Alt": 2.49,
         "Üst": 1.21
     },
     "Recife - Fortaleza CE": {
@@ -44,8 +16,8 @@
         "Üst": 1.82
     },
     "Atletico De Rafaela - Quilmes": {
-        "Alt": 4.5,
-        "Üst": 3.28
+        "Alt": 3.72,
+        "Üst": 3.05
     },
     "Miramar Rangers - Auckland City": {
         "Alt": 1.4,
@@ -53,22 +25,54 @@
     },
     "Boca Juniors - Talleres": {
         "Alt": 1.54,
-        "Üst": 1.85
+        "Üst": 1.86
     },
     "Gimnasia Y. Tiro - CA Atlanta": {
-        "Alt": 4.44,
-        "Üst": 3.15
+        "Alt": 4.65,
+        "Üst": 3.19
     },
     "Fundacion F. Un Atleta - Municipal L.": {
         "Alt": 1.58,
         "Üst": 1.67
     },
     "Necaxa - Atlas": {
-        "Alt": 1.8,
-        "Üst": 1.47
+        "Alt": 1.87,
+        "Üst": 1.44
     },
     "Correcaminos - CSD D. Sinaloa": {
-        "Alt": 2.35,
+        "Alt": 2.28,
         "Üst": 3.47
+    },
+    "Ventura County - Minnesota Utd 2": {
+        "Alt": 3.7,
+        "Üst": 3.94
+    },
+    "Portland Timbers II - Saint Louis City SC 2": {
+        "Alt": 1.94,
+        "Üst": 1.39
+    },
+    "Vancouver Langley - Hfx Wan.": {
+        "Alt": 1.93,
+        "Üst": 1.41
+    },
+    "Wellington Oly. - Eastern Suburbs": {
+        "Alt": 1.3,
+        "Üst": 3.87
+    },
+    "Atlante - Pumas Unam": {
+        "Alt": 1.74,
+        "Üst": 1.52
+    },
+    "Club Tijuana - Puebla": {
+        "Alt": 1.74,
+        "Üst": 1.52
+    },
+    "Atl La Paz - Tlaxcala": {
+        "Alt": 1.87,
+        "Üst": 3.59
+    },
+    "Auckland - Melbourne City": {
+        "Alt": 1.64,
+        "Üst": 1.73
     }
 }
