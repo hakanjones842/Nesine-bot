@@ -1,32 +1,4 @@
 {
-    "Estudiantes - Flamengo": {
-        "Alt": 1.29,
-        "Üst": 2.5
-    },
-    "Angel Firpo - CD Inca": {
-        "Alt": 1.98,
-        "Üst": 1.39
-    },
-    "CD Suchitepequez - Dep. San Pedro": {
-        "Alt": 1.57,
-        "Üst": 1.72
-    },
-    "Deportes Quindio - R. Cartagena": {
-        "Alt": 1.42,
-        "Üst": 1.93
-    },
-    "Real Esteli - ART Jalapa": {
-        "Alt": 2.16,
-        "Üst": 3.47
-    },
-    "CD Olimpia - Real CD Espana": {
-        "Alt": 1.79,
-        "Üst": 1.51
-    },
-    "D. Saprissa - Sporting San Jose": {
-        "Alt": 1.73,
-        "Üst": 1.55
-    },
     "Adelaide City - Avondale": {
         "Alt": 1.86,
         "Üst": 1.46
@@ -42,6 +14,10 @@
     "Sydney - W. S. Wanderers": {
         "Alt": 1.94,
         "Üst": 1.51
+    },
+    "Thitsar Arman - Ispe": {
+        "Alt": 2.1,
+        "Üst": 3.5
     },
     "Obolon Kiev - Veres Rivne": {
         "Alt": 1.42,
@@ -60,8 +36,8 @@
         "Üst": 1.67
     },
     "Madura Utd - Bhayangkara": {
-        "Alt": 1.69,
-        "Üst": 1.58
+        "Alt": 1.72,
+        "Üst": 1.57
     },
     "Persijap Jepara - Farmel": {
         "Alt": 1.8,
@@ -74,5 +50,37 @@
     "Ethiopia Electricity - Negelle Arsi": {
         "Alt": 1.21,
         "Üst": 3.46
+    },
+    "Ayutthaya Utd - Lamphun Warrior": {
+        "Alt": 1.74,
+        "Üst": 1.54
+    },
+    "El Sekka El Hadid - Ismaily Sc": {
+        "Alt": 1.32,
+        "Üst": 2.15
+    },
+    "Baladiyyat AL M. - Masar": {
+        "Alt": 1.31,
+        "Üst": 2.16
+    },
+    "Farco - Maleyat Kafr El Z.": {
+        "Alt": 4.44,
+        "Üst": 3.11
+    },
+    "EL Terasanah - Mega Sport Belqas": {
+        "Alt": 3.82,
+        "Üst": 3.11
+    },
+    "Proxy SC - Entag Harby": {
+        "Alt": 1.37,
+        "Üst": 2.01
+    },
+    "Fujairah - Palm City": {
+        "Alt": 1.81,
+        "Üst": 1.49
+    },
+    "Al Urooba (Bae) - Dibba AL Hisn SC": {
+        "Alt": 1.61,
+        "Üst": 1.66
     }
 }
