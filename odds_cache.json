@@ -4,83 +4,95 @@
         "Üst": 1.46
     },
     "Oakleigh C. - Sydney Oly.": {
-        "Alt": 2.2,
-        "Üst": 1.3
+        "Alt": 2.24,
+        "Üst": 1.29
     },
     "Psim Yogyakarta - PSM Makassar": {
-        "Alt": 1.65,
-        "Üst": 1.63
+        "Alt": 1.61,
+        "Üst": 1.66
     },
     "Sydney - W. S. Wanderers": {
-        "Alt": 1.94,
-        "Üst": 1.51
+        "Alt": 2.0,
+        "Üst": 1.47
     },
     "Thitsar Arman - Ispe": {
-        "Alt": 2.1,
-        "Üst": 3.5
+        "Alt": 1.07,
+        "Üst": 1.06
     },
     "Obolon Kiev - Veres Rivne": {
-        "Alt": 1.42,
-        "Üst": 1.93
+        "Alt": 1.31,
+        "Üst": 2.17
     },
     "Shamakhi FK - Safa": {
-        "Alt": 1.62,
-        "Üst": 1.65
+        "Alt": 1.55,
+        "Üst": 1.73
     },
     "Tanjong Pagar - Hougang Utd": {
         "Alt": 1.63,
         "Üst": 3.62
     },
     "Henan Songs. - Tianjin Jin.": {
-        "Alt": 1.6,
-        "Üst": 1.67
+        "Alt": 1.62,
+        "Üst": 1.65
     },
     "Madura Utd - Bhayangkara": {
         "Alt": 1.72,
         "Üst": 1.57
     },
     "Persijap Jepara - Farmel": {
-        "Alt": 1.8,
-        "Üst": 1.5
+        "Alt": 1.75,
+        "Üst": 1.54
     },
     "Malut Utd - Bali Utd": {
-        "Alt": 2.0,
-        "Üst": 1.38
+        "Alt": 1.52,
+        "Üst": 3.58
     },
     "Ethiopia Electricity - Negelle Arsi": {
         "Alt": 1.21,
         "Üst": 3.46
     },
     "Ayutthaya Utd - Lamphun Warrior": {
-        "Alt": 1.74,
-        "Üst": 1.54
+        "Alt": 1.78,
+        "Üst": 1.51
     },
     "El Sekka El Hadid - Ismaily Sc": {
         "Alt": 1.32,
-        "Üst": 2.15
+        "Üst": 2.14
     },
     "Baladiyyat AL M. - Masar": {
         "Alt": 1.31,
         "Üst": 2.16
     },
     "Farco - Maleyat Kafr El Z.": {
-        "Alt": 4.44,
-        "Üst": 3.11
+        "Alt": 5.21,
+        "Üst": 3.3
     },
     "EL Terasanah - Mega Sport Belqas": {
-        "Alt": 3.82,
-        "Üst": 3.11
+        "Alt": 3.57,
+        "Üst": 3.0
     },
     "Proxy SC - Entag Harby": {
         "Alt": 1.37,
         "Üst": 2.01
     },
     "Fujairah - Palm City": {
-        "Alt": 1.81,
-        "Üst": 1.49
+        "Alt": 1.9,
+        "Üst": 1.44
     },
     "Al Urooba (Bae) - Dibba AL Hisn SC": {
         "Alt": 1.61,
         "Üst": 1.66
+    },
+    "Gulf Utd - Emirates Club": {
+        "Alt": 2.02,
+        "Üst": 1.37
+    },
+    "Banik Ostrava B - Slavia Praha B": {
+        "Alt": 2.77,
+        "Üst": 3.68
+    },
+    "Halaba Ketema - Bahir Dar Kenema": {
+        "Alt": 1.31,
+        "Üst": 3.19
     }
 }
