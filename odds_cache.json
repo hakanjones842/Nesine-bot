@@ -1,82 +1,94 @@
 {
-    "Boca Juniors - Talleres": {
-        "Alt": 1.52,
-        "Üst": 1.89
+    "Seongnam - Suwon City": {
+        "Alt": 1.8,
+        "Üst": 1.47
     },
-    "Gimnasia Y. Tiro - CA Atlanta": {
-        "Alt": 4.66,
-        "Üst": 3.19
-    },
-    "Fundacion F. Un Atleta - Municipal L.": {
-        "Alt": 1.61,
-        "Üst": 1.63
-    },
-    "Necaxa - Atlas": {
-        "Alt": 1.87,
-        "Üst": 1.44
-    },
-    "Correcaminos - CSD D. Sinaloa": {
-        "Alt": 2.27,
-        "Üst": 3.49
-    },
-    "Ventura County - Minnesota Utd 2": {
-        "Alt": 3.7,
-        "Üst": 3.94
-    },
-    "Portland Timbers II - Saint Louis City SC 2": {
+    "Daegu - Chungbuk Cheongju": {
         "Alt": 1.94,
         "Üst": 1.39
     },
-    "Vancouver Langley - Hfx Wan.": {
-        "Alt": 1.89,
-        "Üst": 1.42
-    },
-    "Wellington Oly. - Eastern Suburbs": {
-        "Alt": 1.3,
-        "Üst": 3.87
-    },
-    "Atlante - Pumas Unam": {
-        "Alt": 1.71,
-        "Üst": 1.54
-    },
-    "Club Tijuana - Puebla": {
-        "Alt": 1.74,
-        "Üst": 1.52
-    },
-    "Atl La Paz - Tlaxcala": {
-        "Alt": 1.87,
-        "Üst": 3.59
-    },
-    "Auckland - Melbourne City": {
+    "JEF Utd - Yokohama M.": {
         "Alt": 1.67,
         "Üst": 1.7
     },
-    "Newcastle Jets (K) - Perth Glory (K)": {
+    "Tokyo Verdy - Tokyo": {
+        "Alt": 1.55,
+        "Üst": 1.84
+    },
+    "S. Hiroshima - Kyoto Sanga": {
+        "Alt": 2.1,
+        "Üst": 1.41
+    },
+    "Imabari - V. Hachinohe": {
+        "Alt": 1.54,
+        "Üst": 1.7
+    },
+    "Oita Trinata - Niigata": {
+        "Alt": 1.41,
+        "Üst": 1.9
+    },
+    "Sendai - T. Vortis": {
+        "Alt": 1.61,
+        "Üst": 1.62
+    },
+    "Fujieda Myfc - M. Yamagata": {
+        "Alt": 1.57,
+        "Üst": 1.68
+    },
+    "Sagan Tosu - Omiya Ardija": {
+        "Alt": 1.82,
+        "Üst": 1.47
+    },
+    "Tochigi City - Yokohama": {
+        "Alt": 2.11,
+        "Üst": 1.32
+    },
+    "Sapporo - B. Akita": {
+        "Alt": 1.51,
+        "Üst": 1.75
+    },
+    "Gainare Tottori - Thespakusatsu G.": {
+        "Alt": 1.79,
+        "Üst": 1.48
+    },
+    "Gifu - Fukushima Utd": {
+        "Alt": 2.39,
+        "Üst": 3.44
+    },
+    "G. Kitakyushu - Osaka": {
         "Alt": 1.81,
         "Üst": 1.47
     },
-    "Western S. W. (K) - Melbourne V. (K)": {
-        "Alt": 1.65,
-        "Üst": 1.6
+    "Macarthur - Perth Glory": {
+        "Alt": 1.94,
+        "Üst": 1.49
     },
-    "Sutherland S. - South Melbourne": {
-        "Alt": 1.71,
-        "Üst": 1.54
+    "Brisbane R. (K) - C. Coast Marin. (K)": {
+        "Alt": 1.86,
+        "Üst": 1.44
     },
-    "Broad. Magic - Apia Leic.": {
-        "Alt": 2.15,
-        "Üst": 1.3
+    "Cerezo Osaka - Kawasaki Frontale": {
+        "Alt": 2.1,
+        "Üst": 1.41
     },
-    "Shimizu - Gamba Osaka": {
-        "Alt": 1.69,
-        "Üst": 1.67
+    "Kashima - V Varen": {
+        "Alt": 1.91,
+        "Üst": 1.5
     },
-    "Tokyo Musashino City - Briobecca Urayasu": {
-        "Alt": 1.41,
-        "Üst": 1.91
+    "Changchun D. Z. (K) - Guangxi Dening (K)": {
+        "Alt": 1.38,
+        "Üst": 1.97
     },
-    "Yscc Yokohama - Reinmeer Aomori": {
-        "Alt": 1.66,
-        "Üst": 1.59
+    "Yanbian L. - Foshan Nanshi": {
+        "Alt": 1.74,
+        "Üst": 1.52
+    },
+    "Xi An Ronghai - Shenzhen 2028": {
+        "Alt": 1.49,
+        "Üst": 1.78
+    },
+    "Longyuan Athletic - G. Dandelion Alpha": {
+        "Alt": 3.6,
+        "Üst": 3.02
     }
 }
