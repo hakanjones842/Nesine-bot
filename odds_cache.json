@@ -1,70 +1,82 @@
 {
-    "Cracovia - L. Varşova": {
-        "Alt": 1.63,
-        "Üst": 1.61
+    "Botafogo RJ - Chapecoense": {
+        "Alt": 2.53,
+        "Üst": 1.26
     },
-    "Phila. Union - Charlotte": {
-        "Alt": 3.09,
-        "Üst": 1.16
+    "Colon - Almir. Brown": {
+        "Alt": 2.33,
+        "Üst": 2.68
     },
-    "Hannover 96 - St. Pauli": {
-        "Alt": 2.06,
-        "Üst": 1.43
-    },
-    "Rangers - Ordino": {
-        "Alt": 1.34,
-        "Üst": 2.16
-    },
-    "San Miguel - Ciudad de Bolivar": {
-        "Alt": 4.71,
-        "Üst": 3.18
-    },
-    "Acassuso - Dep. Madryn": {
-        "Alt": 1.31,
-        "Üst": 2.13
-    },
-    "Villarreal B - CD Teruel": {
-        "Alt": 1.68,
+    "C.D. Cacahuatique - Alianza": {
+        "Alt": 1.67,
         "Üst": 1.57
     },
-    "Real Madrid (K) - RCD Espanyol (K)": {
-        "Alt": 3.43,
-        "Üst": 1.9
+    "Platense - Motagua": {
+        "Alt": 1.74,
+        "Üst": 1.52
     },
-    "Rapid 1923 - CS Corvinul 1921 H.": {
-        "Alt": 1.71,
-        "Üst": 1.54
+    "U. de Vinto - S. A. Bulo Bulo": {
+        "Alt": 2.34,
+        "Üst": 3.46
     },
-    "AS Roma - Genoa": {
-        "Alt": 1.62,
-        "Üst": 1.76
+    "Atl Mineiro - Coritiba": {
+        "Alt": 1.8,
+        "Üst": 1.58
     },
-    "Lille - Brest": {
-        "Alt": 1.87,
-        "Üst": 1.54
+    "America MG - Operario": {
+        "Alt": 1.61,
+        "Üst": 1.63
     },
-    "Troyes - RC Lens": {
-        "Alt": 1.98,
-        "Üst": 1.47
+    "SD Aucas - LDU Quito": {
+        "Alt": 1.37,
+        "Üst": 1.99
     },
-    "Excelsior V. - KRC Genk": {
+    "Richmond - Corpus Chri": {
+        "Alt": 1.9,
+        "Üst": 1.41
+    },
+    "Forward M. - P. Hearts of Pine": {
+        "Alt": 2.0,
+        "Üst": 3.39
+    },
+    "Real Pilar - Ituzaingo": {
+        "Alt": 1.45,
+        "Üst": 1.84
+    },
+    "Csd Merlo - Talleres de": {
+        "Alt": 1.48,
+        "Üst": 3.01
+    },
+    "Paranaense - Palmeiras SP": {
+        "Alt": 1.66,
+        "Üst": 1.72
+    },
+    "Carabobo - Dep. Tachira": {
+        "Alt": 1.59,
+        "Üst": 1.66
+    },
+    "Louisville - Indy Eleven": {
+        "Alt": 2.0,
+        "Üst": 1.36
+    },
+    "Hartford Ath - Brooklyn": {
+        "Alt": 1.97,
+        "Üst": 1.38
+    },
+    "Miami - Charleston": {
         "Alt": 2.05,
         "Üst": 1.34
     },
-    "Sligo Rovers - Dundalk": {
-        "Alt": 2.01,
-        "Üst": 1.35
+    "Greenville T. - Charlotte Ind.": {
+        "Alt": 1.3,
+        "Üst": 4.0
     },
-    "Valencia - Ath Bilbao": {
-        "Alt": 1.53,
-        "Üst": 1.88
+    "Westchester SC - Union Omaha SC": {
+        "Alt": 1.64,
+        "Üst": 3.49
     },
-    "S. Rotterdam - Willem II": {
-        "Alt": 2.35,
-        "Üst": 1.31
-    },
-    "Columbus Crew 2 - New England R. II": {
-        "Alt": 3.37,
-        "Üst": 3.83
+    "Atl Tucuman - Rosario C.": {
+        "Alt": 1.34,
+        "Üst": 2.25
     }
 }
