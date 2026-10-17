@@ -1,82 +1,70 @@
 {
-    "Fenerbahçe - Alanyaspor": {
-        "Alt": 2.36,
+    "Cracovia - L. Varşova": {
+        "Alt": 1.63,
+        "Üst": 1.61
+    },
+    "Phila. Union - Charlotte": {
+        "Alt": 3.09,
+        "Üst": 1.16
+    },
+    "Hannover 96 - St. Pauli": {
+        "Alt": 2.06,
+        "Üst": 1.43
+    },
+    "Rangers - Ordino": {
+        "Alt": 1.34,
+        "Üst": 2.16
+    },
+    "San Miguel - Ciudad de Bolivar": {
+        "Alt": 4.71,
+        "Üst": 3.18
+    },
+    "Acassuso - Dep. Madryn": {
+        "Alt": 1.31,
+        "Üst": 2.13
+    },
+    "Villarreal B - CD Teruel": {
+        "Alt": 1.68,
+        "Üst": 1.57
+    },
+    "Real Madrid (K) - RCD Espanyol (K)": {
+        "Alt": 3.43,
+        "Üst": 1.9
+    },
+    "Rapid 1923 - CS Corvinul 1921 H.": {
+        "Alt": 1.71,
+        "Üst": 1.54
+    },
+    "AS Roma - Genoa": {
+        "Alt": 1.62,
+        "Üst": 1.76
+    },
+    "Lille - Brest": {
+        "Alt": 1.87,
+        "Üst": 1.54
+    },
+    "Troyes - RC Lens": {
+        "Alt": 1.98,
+        "Üst": 1.47
+    },
+    "Excelsior V. - KRC Genk": {
+        "Alt": 2.05,
+        "Üst": 1.34
+    },
+    "Sligo Rovers - Dundalk": {
+        "Alt": 2.01,
+        "Üst": 1.35
+    },
+    "Valencia - Ath Bilbao": {
+        "Alt": 1.53,
+        "Üst": 1.88
+    },
+    "S. Rotterdam - Willem II": {
+        "Alt": 2.35,
         "Üst": 1.31
     },
-    "Bodrum FK - Bandırmaspor": {
-        "Alt": 1.52,
-        "Üst": 1.78
-    },
-    "Bologna - Inter": {
-        "Alt": 2.13,
-        "Üst": 1.4
-    },
-    "AFAD Djekanou - Club Sportif Sfaxien": {
-        "Alt": 4.4,
-        "Üst": 3.25
-    },
-    "Rayon Sports - Black Bulls": {
-        "Alt": 3.57,
-        "Üst": 2.92
-    },
-    "Kickers Emden - Phonix Lubeck": {
-        "Alt": 1.76,
-        "Üst": 3.63
-    },
-    "Atl Camioneros - Argentino De Merlo": {
-        "Alt": 1.34,
-        "Üst": 2.04
-    },
-    "AL Rifaa - East Riffa": {
-        "Alt": 1.87,
-        "Üst": 1.44
-    },
-    "Al Najma - AL Hidd": {
-        "Alt": 1.49,
-        "Üst": 1.78
-    },
-    "CS Constantine - Js El Biar": {
-        "Alt": 1.34,
-        "Üst": 2.06
-    },
-    "Sigma Olomouc - Slovan Liberec": {
-        "Alt": 1.62,
-        "Üst": 1.62
-    },
-    "CODM Meknes - UTS U. Touarga": {
-        "Alt": 1.23,
-        "Üst": 2.37
-    },
-    "RC Lens (K) - RC Strasbourg (K)": {
-        "Alt": 1.69,
-        "Üst": 1.56
-    },
-    "Montpellier (K) - Le Havre (K)": {
-        "Alt": 1.67,
-        "Üst": 1.58
-    },
-    "Sekhukhune Utd - Marumo Gallants": {
-        "Alt": 1.33,
-        "Üst": 2.09
-    },
-    "Osijek - HNK Gorica": {
-        "Alt": 1.67,
-        "Üst": 1.59
-    },
-    "HNK Cibalia Vinkovci - NK Segesta": {
-        "Alt": 1.54,
-        "Üst": 1.72
-    },
-    "Torre Del Mar - Torredonjimeno": {
-        "Alt": 1.42,
-        "Üst": 1.87
-    },
-    "CD Acero - CD Eldense B": {
-        "Alt": 1.47,
-        "Üst": 1.81
-    },
-    "Manchego Ciudad R. - Toledo": {
-        "Alt": 1.3,
-        "Üst": 2.15
+    "Columbus Crew 2 - New England R. II": {
+        "Alt": 3.37,
+        "Üst": 3.83
     }
 }
