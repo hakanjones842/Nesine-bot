@@ -1,66 +1,90 @@
 {
-    "SC Freiburg U19 - Augsburg U19": {
-        "Alt": 2.34,
-        "Üst": 3.43
+    "Aubagne - Le Puy Foot 43": {
+        "Alt": 1.55,
+        "Üst": 1.7
     },
-    "Jiangsu LFC (K) - Shanghai Shengli (K)": {
-        "Alt": 1.39,
+    "US Concarneau - SC Bastia": {
+        "Alt": 1.4,
         "Üst": 1.94
     },
-    "W. Three Towns B - Taian Tiankuang": {
-        "Alt": 1.3,
-        "Üst": 2.15
+    "Bourg En Bresse - Fleury 91": {
+        "Alt": 1.53,
+        "Üst": 1.74
     },
-    "Lecce U20 - Cesena U20": {
-        "Alt": 1.87,
-        "Üst": 1.43
+    "Valenciennes - Amiens": {
+        "Alt": 1.47,
+        "Üst": 1.8
     },
-    "Veertien Mie - Azul Claro N.": {
+    "Villefranche - Cannes": {
+        "Alt": 1.58,
+        "Üst": 1.67
+    },
+    "Thionville Lusitanos - Versailles 78": {
+        "Alt": 1.6,
+        "Üst": 1.64
+    },
+    "US Quevilly - Orleans": {
         "Alt": 1.46,
         "Üst": 1.83
     },
-    "Kat. Toyama - S. Bellmare": {
+    "Paris 13 Atl - Rouen": {
+        "Alt": 1.44,
+        "Üst": 1.85
+    },
+    "Motor Lublin - Slask Wroclaw": {
+        "Alt": 1.85,
+        "Üst": 1.44
+    },
+    "Gençlerbirliği - Galatasaray": {
+        "Alt": 2.26,
+        "Üst": 1.34
+    },
+    "Amed Sportif - Konyaspor": {
+        "Alt": 1.54,
+        "Üst": 1.86
+    },
+    "Sivasspor - Sarıyer": {
+        "Alt": 1.59,
+        "Üst": 1.68
+    },
+    "Venezia - Napoli": {
         "Alt": 1.92,
-        "Üst": 1.41
+        "Üst": 1.5
     },
-    "Kagoshima Utd - Ehime": {
-        "Alt": 1.72,
-        "Üst": 1.54
+    "African Stars - Orlando Pirates": {
+        "Alt": 1.4,
+        "Üst": 1.93
     },
-    "Z. Kanazawa - Nara Club": {
-        "Alt": 3.12,
-        "Üst": 3.62
+    "Airtel Kitara - El Ahly (Mıs)": {
+        "Alt": 1.3,
+        "Üst": 2.15
     },
-    "Ryukyu - Tochigi": {
-        "Alt": 1.63,
-        "Üst": 1.6
+    "Red Arrows - Kaizer Chiefs": {
+        "Alt": 1.37,
+        "Üst": 1.98
     },
-    "N. Sembilan - Sabah": {
-        "Alt": 1.8,
-        "Üst": 1.47
+    "SSV Jeddeloh II - W. Bremen II": {
+        "Alt": 3.44,
+        "Üst": 4.09
     },
-    "Parnu JK Vaprus II - V. Tulevik": {
-        "Alt": 1.92,
-        "Üst": 4.1
+    "AL Dhaid - AL Jazira AL Hamra": {
+        "Alt": 1.87,
+        "Üst": 3.4
     },
-    "Scm Ramnicu V. - Politehn Tim": {
-        "Alt": 1.71,
-        "Üst": 1.54
+    "Slavia Prag - H. Kralove": {
+        "Alt": 2.09,
+        "Üst": 1.33
     },
-    "Köln (K) - Hamburger SV (K)": {
-        "Alt": 1.95,
-        "Üst": 1.39
+    "Mlada Boleslav - Teplice": {
+        "Alt": 2.08,
+        "Üst": 1.33
     },
-    "Isloch - Minsk": {
-        "Alt": 1.47,
-        "Üst": 1.81
+    "FK Pardubice - Fastav Zlin": {
+        "Alt": 1.75,
+        "Üst": 1.51
     },
-    "AD Alcorcon U19 - Trival U19": {
-        "Alt": 1.89,
-        "Üst": 1.41
-    },
-    "Acodetti U19 - CD Union Sur Yaiza Youth U19": {
-        "Alt": 1.77,
-        "Üst": 1.49
+    "ASA Aarhus - Sundby BK": {
+        "Alt": 1.93,
+        "Üst": 1.4
     }
 }
