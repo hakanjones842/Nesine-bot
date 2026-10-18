@@ -1,82 +1,70 @@
 {
-    "Real Madrid - Sevilla": {
-        "Alt": 2.79,
-        "Üst": 1.21
+    "Strongest - Always Ready": {
+        "Alt": 1.29,
+        "Üst": 3.9
     },
-    "Fluminense - Santos SP": {
-        "Alt": 1.91,
-        "Üst": 1.51
-    },
-    "Gremio P. - Cruzeiro MG": {
-        "Alt": 1.9,
-        "Üst": 1.51
-    },
-    "Ferro Carril Oeste - Racing de Cordoba": {
-        "Alt": 1.38,
-        "Üst": 1.97
-    },
-    "Nacional Potosi - Club Bolivar": {
-        "Alt": 1.68,
-        "Üst": 3.5
-    },
-    "Avai SC - Athletic Club MG": {
-        "Alt": 1.35,
-        "Üst": 2.03
-    },
-    "Sao Bernardo FC - Criciuma": {
-        "Alt": 1.41,
-        "Üst": 1.92
-    },
-    "Crb Al - Botafogo": {
-        "Alt": 1.67,
-        "Üst": 1.58
-    },
-    "Club Leones D. N. - CS Emelec": {
-        "Alt": 1.34,
-        "Üst": 2.06
-    },
-    "Burgos - CE Sabadell": {
-        "Alt": 1.21,
-        "Üst": 2.72
-    },
-    "R. Aguilas - CD Tolima": {
-        "Alt": 1.48,
-        "Üst": 1.8
-    },
-    "Rayo Zuliano - Caracas": {
-        "Alt": 1.83,
+    "Bahia BA - Flamengo": {
+        "Alt": 2.0,
         "Üst": 1.46
     },
-    "Ucv - Portuguesa": {
-        "Alt": 1.56,
-        "Üst": 1.68
+    "Tucuman - F. Midland": {
+        "Alt": 3.81,
+        "Üst": 3.04
     },
-    "Estudiante Merida - Metropolitan": {
-        "Alt": 1.71,
+    "Barcelona (Ekv) - Uni. Catolica": {
+        "Alt": 1.58,
+        "Üst": 1.67
+    },
+    "Liverpool M. - Penarol": {
+        "Alt": 1.45,
+        "Üst": 1.85
+    },
+    "M. Per. Zeledon - CS Herediano": {
+        "Alt": 1.62,
+        "Üst": 1.62
+    },
+    "Clube do Remo - Bragantino": {
+        "Alt": 1.85,
         "Üst": 1.54
     },
-    "A. Puerto C. - Monagas SC": {
-        "Alt": 1.67,
-        "Üst": 1.57
+    "Houston Dynamo 2 - Los Angeles 2": {
+        "Alt": 2.02,
+        "Üst": 1.35
     },
-    "CA Guemes - Almagro": {
-        "Alt": 1.31,
-        "Üst": 2.13
+    "Crown Legacy - New York Red B. II": {
+        "Alt": 3.03,
+        "Üst": 3.93
     },
-    "Chaco For Ever - Central N. Salta": {
-        "Alt": 3.65,
-        "Üst": 2.92
+    "Atl San Luis (K) - Juarez (K)": {
+        "Alt": 1.79,
+        "Üst": 1.48
     },
-    "Wydad - U. Sp. Amal Tiznit": {
-        "Alt": 1.38,
-        "Üst": 1.96
+    "Walter Ferretti - Real Esteli": {
+        "Alt": 1.88,
+        "Üst": 1.42
     },
-    "Montego Bay Utd - Arnett Gardens": {
-        "Alt": 1.98,
-        "Üst": 1.37
+    "Llaneros - I. Santa Fe": {
+        "Alt": 1.41,
+        "Üst": 1.91
     },
-    "Tivoli Gardens - Dunbeholden": {
-        "Alt": 1.8,
-        "Üst": 1.47
+    "Belgrano - River Plate": {
+        "Alt": 1.35,
+        "Üst": 2.24
+    },
+    "Guabira M. - O. Petrolero": {
+        "Alt": 3.54,
+        "Üst": 3.87
+    },
+    "CD Fas - Platense M.": {
+        "Alt": 1.77,
+        "Üst": 1.5
+    },
+    "CS Cienciano - Cajamarca": {
+        "Alt": 2.12,
+        "Üst": 3.48
+    },
+    "Municipal - Dep. Guastatoya": {
+        "Alt": 1.6,
+        "Üst": 1.65
     }
 }
