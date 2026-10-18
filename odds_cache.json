@@ -1,82 +1,86 @@
 {
-    "Fagiano - Vissel Kobe": {
-        "Alt": 1.49,
-        "Üst": 1.93
+    "Nomme Kalju U21 - Elva": {
+        "Alt": 1.62,
+        "Üst": 3.7
     },
-    "Jeonbuk - Jeju Utd": {
-        "Alt": 1.63,
-        "Üst": 1.74
+    "Tartu - Nomme Utd U21": {
+        "Alt": 2.36,
+        "Üst": 3.92
     },
-    "Daejeon Citizen - Gwangju": {
-        "Alt": 2.13,
-        "Üst": 1.39
+    "FA Tartu Kalev - Phoenix Johvi": {
+        "Alt": 2.8,
+        "Üst": 3.94
     },
-    "Seoul E Land - Gimhae": {
-        "Alt": 1.87,
+    "3 Sing - Kui Tan SC": {
+        "Alt": 2.08,
+        "Üst": 3.71
+    },
+    "RC Alcobendas - CD Leganes B": {
+        "Alt": 1.6,
+        "Üst": 1.65
+    },
+    "T. Valderas Alcorcon - AD Cala Pozuelo": {
+        "Alt": 1.55,
+        "Üst": 1.7
+    },
+    "Gran Pena - Celtiga": {
+        "Alt": 1.59,
+        "Üst": 1.65
+    },
+    "AD Torrejon - Cp Parla Escuela": {
+        "Alt": 1.54,
+        "Üst": 1.7
+    },
+    "Real Valladolid B - Real Avila": {
+        "Alt": 1.85,
         "Üst": 1.44
     },
-    "S. S. Bluewings - Hwaseong": {
-        "Alt": 1.83,
-        "Üst": 1.46
-    },
-    "Kamatamare S. - R. Kumamoto": {
-        "Alt": 1.63,
-        "Üst": 1.61
-    },
-    "MIO Biwako Shiga - SC Sagamihara": {
-        "Alt": 1.78,
-        "Üst": 1.49
-    },
-    "Renofa Y. - Kochi Utd SC": {
-        "Alt": 1.67,
-        "Üst": 1.58
-    },
-    "Cerezo Osaka S. (K) - Kanagawa (K)": {
-        "Alt": 1.47,
-        "Üst": 1.8
-    },
-    "Mynavi S. (K) - INAC Kobe L. (K)": {
-        "Alt": 1.47,
-        "Üst": 1.8
-    },
-    "S. Hiroshima (K) - Tokyo Verdy B. (K)": {
-        "Alt": 1.38,
-        "Üst": 1.97
-    },
-    "SKA Khabarovsk - Volga Ulyan.": {
+    "Pena Deportiva - Ucam Murcia": {
         "Alt": 1.52,
         "Üst": 1.74
     },
-    "Sydney (K) - Adelaide Utd (K)": {
-        "Alt": 1.62,
-        "Üst": 1.62
+    "Getafe B - Albacete Balompie B": {
+        "Alt": 1.61,
+        "Üst": 1.63
     },
-    "South China - Lucky Mile": {
-        "Alt": 3.64,
-        "Üst": 2.45
+    "Maharlika Manila - Davao Aguilas": {
+        "Alt": 3.37,
+        "Üst": 3.73
     },
-    "Wofoo SE - Citizen AA": {
-        "Alt": 2.23,
-        "Üst": 3.76
+    "Mostoles Urjc - Galapagar": {
+        "Alt": 1.74,
+        "Üst": 1.53
     },
-    "AC N. Parceiro - Matsumoto Y.": {
-        "Alt": 1.5,
-        "Üst": 1.76
+    "UE Tona - CE Europa B": {
+        "Alt": 1.49,
+        "Üst": 1.77
     },
-    "Queensland L. - South Hobart": {
-        "Alt": 1.08,
-        "Üst": 2.32
+    "Bochum U19 - B. Leverkusen U19": {
+        "Alt": 1.98,
+        "Üst": 3.68
     },
-    "Changchun Xidu - Hubei Chufen": {
-        "Alt": 1.41,
-        "Üst": 1.91
+    "Wuhan T. T. - Shanghai S.": {
+        "Alt": 2.78,
+        "Üst": 1.15
     },
-    "Tuloy - DH Cebu": {
-        "Alt": 4.04,
-        "Üst": 1.98
+    "NK Croatia Zmijavci - Mladost Zdralovi": {
+        "Alt": 1.4,
+        "Üst": 1.93
     },
-    "Sham Shui Po SA - Yuen Long": {
-        "Alt": 1.69,
-        "Üst": 1.06
+    "G. de Torrelavega U19 - Victoria U19": {
+        "Alt": 1.63,
+        "Üst": 1.61
+    },
+    "Antiguoko Ke U19 - Santutxu U19": {
+        "Alt": 2.51,
+        "Üst": 1.2
+    },
+    "UD Logrones P. U19 - SD Leioa U19": {
+        "Alt": 3.11,
+        "Üst": 3.81
+    },
+    "Club Bansander U19 - R. Santander U19": {
+        "Alt": 1.57,
+        "Üst": 3.57
     }
 }
