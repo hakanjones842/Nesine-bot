@@ -1,52 +1,4 @@
 {
-    "Strongest - Always Ready": {
-        "Alt": 1.29,
-        "Üst": 3.9
-    },
-    "Bahia BA - Flamengo": {
-        "Alt": 2.0,
-        "Üst": 1.46
-    },
-    "Tucuman - F. Midland": {
-        "Alt": 3.81,
-        "Üst": 3.04
-    },
-    "Barcelona (Ekv) - Uni. Catolica": {
-        "Alt": 1.58,
-        "Üst": 1.67
-    },
-    "Liverpool M. - Penarol": {
-        "Alt": 1.45,
-        "Üst": 1.85
-    },
-    "M. Per. Zeledon - CS Herediano": {
-        "Alt": 1.62,
-        "Üst": 1.62
-    },
-    "Clube do Remo - Bragantino": {
-        "Alt": 1.85,
-        "Üst": 1.54
-    },
-    "Houston Dynamo 2 - Los Angeles 2": {
-        "Alt": 2.02,
-        "Üst": 1.35
-    },
-    "Crown Legacy - New York Red B. II": {
-        "Alt": 3.03,
-        "Üst": 3.93
-    },
-    "Atl San Luis (K) - Juarez (K)": {
-        "Alt": 1.79,
-        "Üst": 1.48
-    },
-    "Walter Ferretti - Real Esteli": {
-        "Alt": 1.88,
-        "Üst": 1.42
-    },
-    "Llaneros - I. Santa Fe": {
-        "Alt": 1.41,
-        "Üst": 1.91
-    },
     "Belgrano - River Plate": {
         "Alt": 1.35,
         "Üst": 2.24
@@ -60,11 +12,59 @@
         "Üst": 1.5
     },
     "CS Cienciano - Cajamarca": {
-        "Alt": 2.12,
-        "Üst": 3.48
+        "Alt": 2.14,
+        "Üst": 3.54
     },
     "Municipal - Dep. Guastatoya": {
         "Alt": 1.6,
         "Üst": 1.65
+    },
+    "Austin II - San Jose Earthquakes II": {
+        "Alt": 1.79,
+        "Üst": 1.48
+    },
+    "Monterrey - Pachuca": {
+        "Alt": 2.0,
+        "Üst": 1.36
+    },
+    "America (K) - Pachuca (K)": {
+        "Alt": 2.39,
+        "Üst": 3.7
+    },
+    "Rancho Santana - Diriangen": {
+        "Alt": 1.64,
+        "Üst": 3.6
+    },
+    "Deport Cali - Atl Junior": {
+        "Alt": 1.58,
+        "Üst": 1.67
+    },
+    "CD Marquense - CD Suchitepequez": {
+        "Alt": 1.66,
+        "Üst": 1.59
+    },
+    "Wofoo Tai PO - Southern District": {
+        "Alt": 2.61,
+        "Üst": 3.4
+    },
+    "Santa Clara U23 - Braga U23": {
+        "Alt": 1.84,
+        "Üst": 1.45
+    },
+    "Metalist 1925 - Levy Bereg Kiev": {
+        "Alt": 1.64,
+        "Üst": 1.6
+    },
+    "Lee Man Warriors - Kitchee SC": {
+        "Alt": 1.92,
+        "Üst": 1.41
+    },
+    "Mara Sugar - Mombasa Elite": {
+        "Alt": 1.36,
+        "Üst": 2.01
+    },
+    "TP HO Chi Minh - CLB Viettel": {
+        "Alt": 1.47,
+        "Üst": 1.8
     }
 }
