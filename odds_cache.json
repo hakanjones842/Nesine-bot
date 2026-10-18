@@ -1,86 +1,82 @@
 {
-    "Kansas City - Real Salt Lake": {
-        "Alt": 2.33,
-        "Üst": 1.32
+    "Fagiano - Vissel Kobe": {
+        "Alt": 1.49,
+        "Üst": 1.93
     },
-    "Austin - V. Whitecaps": {
-        "Alt": 2.46,
-        "Üst": 1.28
+    "Jeonbuk - Jeju Utd": {
+        "Alt": 1.63,
+        "Üst": 1.74
     },
-    "Houston Dyn. - Dallas": {
-        "Alt": 1.85,
-        "Üst": 1.54
+    "Daejeon Citizen - Gwangju": {
+        "Alt": 2.13,
+        "Üst": 1.39
     },
-    "San Antonio - New Mexico": {
-        "Alt": 1.69,
-        "Üst": 1.55
+    "Seoul E Land - Gimhae": {
+        "Alt": 1.87,
+        "Üst": 1.44
     },
-    "El Paso Loc. - Sacramento R.": {
-        "Alt": 1.62,
-        "Üst": 1.62
-    },
-    "Spokane Velocity - C. Red Wolves SC": {
-        "Alt": 1.72,
-        "Üst": 1.54
-    },
-    "AC Boise - Av Alta": {
-        "Alt": 1.77,
-        "Üst": 3.37
-    },
-    "Metapan - Fuerte San Francisco": {
-        "Alt": 1.7,
-        "Üst": 1.55
-    },
-    "Club Leon - America": {
-        "Alt": 1.8,
-        "Üst": 1.47
-    },
-    "D. Toluca - Atl San Luis": {
-        "Alt": 2.46,
-        "Üst": 1.21
-    },
-    "Piratas Veracruz - Tepatitlan": {
-        "Alt": 3.57,
-        "Üst": 2.11
-    },
-    "Cancun - Venados": {
-        "Alt": 1.96,
-        "Üst": 1.38
-    },
-    "Atl Morelia - Jaiba Brava": {
-        "Alt": 1.93,
-        "Üst": 1.4
-    },
-    "Monterrey (K) - Cruz Azul (K)": {
-        "Alt": 2.32,
-        "Üst": 3.57
-    },
-    "Managua - Indigenas de Matagalpa": {
-        "Alt": 3.41,
-        "Üst": 2.07
-    },
-    "Cashmere Technical - Auckland": {
-        "Alt": 1.96,
-        "Üst": 3.87
-    },
-    "I. Medellin - Once Caldas": {
-        "Alt": 1.59,
-        "Üst": 1.66
-    },
-    "CA Independiente S. - Lobos Upnfm": {
-        "Alt": 1.64,
-        "Üst": 1.6
-    },
-    "Alianza Lima - Atl Grau": {
+    "S. S. Bluewings - Hwaseong": {
         "Alt": 1.83,
         "Üst": 1.46
     },
-    "Monterey Bay - Colorado Spr.": {
-        "Alt": 1.88,
-        "Üst": 1.42
+    "Kamatamare S. - R. Kumamoto": {
+        "Alt": 1.63,
+        "Üst": 1.61
     },
-    "Orange Count - Phoenix Rising": {
-        "Alt": 1.86,
-        "Üst": 1.44
+    "MIO Biwako Shiga - SC Sagamihara": {
+        "Alt": 1.78,
+        "Üst": 1.49
+    },
+    "Renofa Y. - Kochi Utd SC": {
+        "Alt": 1.67,
+        "Üst": 1.58
+    },
+    "Cerezo Osaka S. (K) - Kanagawa (K)": {
+        "Alt": 1.47,
+        "Üst": 1.8
+    },
+    "Mynavi S. (K) - INAC Kobe L. (K)": {
+        "Alt": 1.47,
+        "Üst": 1.8
+    },
+    "S. Hiroshima (K) - Tokyo Verdy B. (K)": {
+        "Alt": 1.38,
+        "Üst": 1.97
+    },
+    "SKA Khabarovsk - Volga Ulyan.": {
+        "Alt": 1.52,
+        "Üst": 1.74
+    },
+    "Sydney (K) - Adelaide Utd (K)": {
+        "Alt": 1.62,
+        "Üst": 1.62
+    },
+    "South China - Lucky Mile": {
+        "Alt": 3.64,
+        "Üst": 2.45
+    },
+    "Wofoo SE - Citizen AA": {
+        "Alt": 2.23,
+        "Üst": 3.76
+    },
+    "AC N. Parceiro - Matsumoto Y.": {
+        "Alt": 1.5,
+        "Üst": 1.76
+    },
+    "Queensland L. - South Hobart": {
+        "Alt": 1.08,
+        "Üst": 2.32
+    },
+    "Changchun Xidu - Hubei Chufen": {
+        "Alt": 1.41,
+        "Üst": 1.91
+    },
+    "Tuloy - DH Cebu": {
+        "Alt": 4.04,
+        "Üst": 1.98
+    },
+    "Sham Shui Po SA - Yuen Long": {
+        "Alt": 1.69,
+        "Üst": 1.06
     }
 }
