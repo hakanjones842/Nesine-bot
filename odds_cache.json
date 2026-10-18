@@ -1,70 +1,74 @@
 {
-    "B. Leverkusen - Freiburg": {
+    "Temouchent - ASO Chlef": {
+        "Alt": 1.29,
+        "Üst": 2.19
+    },
+    "MB Rouisset - JS Saoura": {
+        "Alt": 1.2,
+        "Üst": 2.52
+    },
+    "Erbil SC - AL Mosul SC": {
+        "Alt": 1.57,
+        "Üst": 1.67
+    },
+    "AL Gharrafa - AL Rayyan": {
+        "Alt": 2.23,
+        "Üst": 1.28
+    },
+    "Al Nasr SC - AL Tadhamon": {
+        "Alt": 1.84,
+        "Üst": 1.45
+    },
+    "Teungueth - Colombe": {
+        "Alt": 6.12,
+        "Üst": 3.25
+    },
+    "M. Rogachev - Neman Grodno": {
+        "Alt": 1.42,
+        "Üst": 1.89
+    },
+    "JS Kabylie - US Biskra": {
+        "Alt": 1.38,
+        "Üst": 1.96
+    },
+    "OCS de Safi - IZK Itihad Z Khemisset": {
+        "Alt": 1.46,
+        "Üst": 1.83
+    },
+    "CD Xerez - Ciudad De Lucena": {
+        "Alt": 1.4,
+        "Üst": 1.93
+    },
+    "CS Cartagines - D. Saprissa": {
+        "Alt": 1.54,
+        "Üst": 1.71
+    },
+    "AE Kifisia - Aris": {
+        "Alt": 1.62,
+        "Üst": 1.62
+    },
+    "Tromso - Kfum Oslo": {
+        "Alt": 1.92,
+        "Üst": 1.5
+    },
+    "Meppen - TSV Havelse": {
         "Alt": 2.52,
         "Üst": 1.27
     },
-    "SK Kladno - Arsenal Ceska L.": {
-        "Alt": 1.99,
-        "Üst": 1.37
+    "Aurora - Dep. San Pedro": {
+        "Alt": 1.47,
+        "Üst": 1.8
     },
-    "Siwelele - Polokwane": {
-        "Alt": 1.24,
-        "Üst": 2.34
+    "AL Shorta - AL Karkh": {
+        "Alt": 1.71,
+        "Üst": 1.54
     },
-    "Man. City (K) - Brighton (K)": {
-        "Alt": 2.47,
-        "Üst": 3.71
+    "Sampdoria - SS Arezzo": {
+        "Alt": 1.58,
+        "Üst": 1.8
     },
-    "Malavan Bandar A. - TS Tabriz": {
-        "Alt": 1.7,
-        "Üst": 1.13
-    },
-    "Kheybar K. - Esteghlal K.": {
-        "Alt": 1.11,
-        "Üst": 3.0
-    },
-    "Debrecen - Zalaegerszeg": {
-        "Alt": 2.06,
-        "Üst": 1.34
-    },
-    "Hibernians - Birzebbuga St. Peters": {
-        "Alt": 1.74,
-        "Üst": 1.52
-    },
-    "Michalovce - FK Kosice": {
-        "Alt": 2.16,
-        "Üst": 1.3
-    },
-    "Dukla BB - Z. Podbrezova": {
-        "Alt": 1.98,
-        "Üst": 1.37
-    },
-    "NK Dren Vrhnika - ND Beltinci": {
-        "Alt": 1.79,
-        "Üst": 1.48
-    },
-    "US Monastir - A Sakiet Edayer": {
-        "Alt": 1.18,
-        "Üst": 2.6
-    },
-    "Olympique B. - Etoile Sahel": {
-        "Alt": 1.3,
-        "Üst": 2.15
-    },
-    "CS Hammam - Js Omrane": {
-        "Alt": 1.17,
-        "Üst": 2.61
-    },
-    "AS Marsa - ES Metlaoui": {
-        "Alt": 1.19,
-        "Üst": 2.55
-    },
-    "Werder Bremen (K) - Hoffenheim (K)": {
-        "Alt": 3.17,
-        "Üst": 3.7
-    },
-    "Matebele - Township Rollers": {
-        "Alt": 1.33,
-        "Üst": 2.09
+    "Sandecja - Zawisza Bydgoszcz": {
+        "Alt": 2.0,
+        "Üst": 1.36
     }
 }
