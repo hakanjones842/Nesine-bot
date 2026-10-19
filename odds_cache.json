@@ -1,51 +1,15 @@
 {
-    "Belgrano - River Plate": {
-        "Alt": 1.35,
-        "Üst": 2.24
-    },
-    "Guabira M. - O. Petrolero": {
-        "Alt": 3.54,
-        "Üst": 3.87
-    },
-    "CD Fas - Platense M.": {
-        "Alt": 1.77,
-        "Üst": 1.5
-    },
-    "CS Cienciano - Cajamarca": {
-        "Alt": 2.14,
-        "Üst": 3.54
-    },
-    "Municipal - Dep. Guastatoya": {
-        "Alt": 1.6,
-        "Üst": 1.65
-    },
-    "Austin II - San Jose Earthquakes II": {
-        "Alt": 1.79,
-        "Üst": 1.48
-    },
-    "Monterrey - Pachuca": {
-        "Alt": 2.0,
-        "Üst": 1.36
-    },
-    "America (K) - Pachuca (K)": {
-        "Alt": 2.39,
-        "Üst": 3.7
-    },
-    "Rancho Santana - Diriangen": {
-        "Alt": 1.64,
-        "Üst": 3.6
-    },
     "Deport Cali - Atl Junior": {
-        "Alt": 1.58,
-        "Üst": 1.67
+        "Alt": 1.63,
+        "Üst": 1.61
     },
     "CD Marquense - CD Suchitepequez": {
-        "Alt": 1.66,
-        "Üst": 1.59
+        "Alt": 1.6,
+        "Üst": 1.63
     },
     "Wofoo Tai PO - Southern District": {
-        "Alt": 2.61,
-        "Üst": 3.4
+        "Alt": 2.78,
+        "Üst": 3.5
     },
     "Santa Clara U23 - Braga U23": {
         "Alt": 1.84,
@@ -66,5 +30,41 @@
     "TP HO Chi Minh - CLB Viettel": {
         "Alt": 1.47,
         "Üst": 1.8
+    },
+    "Mes Shahr e B. - Persepolis": {
+        "Alt": 1.41,
+        "Üst": 1.92
+    },
+    "Ballkani - Prishtina": {
+        "Alt": 1.65,
+        "Üst": 1.6
+    },
+    "FK Arsimi 1973 - GFK Tikvesh 1930": {
+        "Alt": 1.8,
+        "Üst": 1.47
+    },
+    "Belshina - Slavia Mozyr": {
+        "Alt": 1.46,
+        "Üst": 1.82
+    },
+    "OFK Petrovac - FK Otrant Olympic U.": {
+        "Alt": 1.36,
+        "Üst": 2.01
+    },
+    "AL Nahda - Sur SC": {
+        "Alt": 1.79,
+        "Üst": 1.48
+    },
+    "Fajr Sepasi - Paykan": {
+        "Alt": 1.34,
+        "Üst": 2.05
+    },
+    "Bandari - 3K": {
+        "Alt": 1.36,
+        "Üst": 2.01
+    },
+    "Naft Gachsaran - Fard": {
+        "Alt": 1.18,
+        "Üst": 2.6
     }
 }
