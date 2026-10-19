@@ -1,78 +1,74 @@
 {
-    "Deportivo Santani - 3 de Noviembre": {
-        "Alt": 1.85,
-        "Üst": 1.44
+    "Corinthians - Vitoria BA": {
+        "Alt": 1.54,
+        "Üst": 1.87
     },
-    "12 de Junio de Villa Hayes - Guairena": {
+    "R. Cartagena - Boyaca Patr.": {
+        "Alt": 1.78,
+        "Üst": 1.48
+    },
+    "Sporting San Jose - AD San Carlos": {
         "Alt": 1.6,
-        "Üst": 1.65
+        "Üst": 1.63
     },
-    "Encarnacion - Club General C.": {
-        "Alt": 2.0,
-        "Üst": 1.36
+    "Libertad (K) - Universidad de Chile (K)": {
+        "Alt": 1.69,
+        "Üst": 1.56
     },
-    "Deportivo Cali (K) - N. Montevideo (K)": {
+    "LDU Quito (K) - Club Olimpia (K)": {
         "Alt": 1.68,
-        "Üst": 1.57
+        "Üst": 1.56
     },
-    "Mushuc Runa - Orense SC": {
-        "Alt": 1.55,
-        "Üst": 1.7
+    "Dep. Toluca (K) - C. Santos Laguna (K)": {
+        "Alt": 2.15,
+        "Üst": 3.65
     },
-    "Internacional Palmira - U. Magdalena": {
+    "Dep. Riestra - Union De Santa Fe": {
+        "Alt": 1.34,
+        "Üst": 2.26
+    },
+    "Antigua - Xelaju": {
+        "Alt": 1.67,
+        "Üst": 1.58
+    },
+    "Racing Utd - Waterhouse": {
         "Alt": 1.51,
         "Üst": 1.75
     },
-    "New Old Boys - C. Cordoba": {
+    "Deportivo Pasto - Alianza Valledupar": {
         "Alt": 1.46,
-        "Üst": 2.0
+        "Üst": 1.83
     },
-    "CA Sarmiento - Barracas": {
-        "Alt": 1.31,
-        "Üst": 2.37
+    "Club Leon (K) - Atlante (K)": {
+        "Alt": 1.66,
+        "Üst": 3.35
     },
-    "Orsomarso SC - Bogota": {
-        "Alt": 1.43,
-        "Üst": 1.87
+    "CD Esc. Belen - Puntarenas": {
+        "Alt": 1.62,
+        "Üst": 1.62
     },
-    "Molynes - Cavalier": {
-        "Alt": 1.88,
-        "Üst": 1.42
+    "Farmel - Malut Utd": {
+        "Alt": 1.92,
+        "Üst": 1.41
     },
-    "Goias GO - Nautico PE": {
-        "Alt": 1.74,
-        "Üst": 1.52
+    "Porto U19 - PSV U19": {
+        "Alt": 2.76,
+        "Üst": 1.15
     },
-    "Corinthians - Vitoria BA": {
-        "Alt": 1.51,
-        "Üst": 1.9
+    "Dewa Utd - Persijap Jepara": {
+        "Alt": 1.36,
+        "Üst": 2.19
     },
-    "R. Cartagena - Boyaca Patr.": {
-        "Alt": 1.57,
-        "Üst": 1.67
+    "Bhayangkara - Psim Yogyakarta": {
+        "Alt": 1.86,
+        "Üst": 1.44
     },
-    "Nacional - D. Maldonado": {
-        "Alt": 1.57,
-        "Üst": 1.67
+    "Ethiopia Electricity - Sheger Ketema": {
+        "Alt": 1.28,
+        "Üst": 3.23
     },
-    "Sporting San Jose - AD San Carlos": {
-        "Alt": 1.58,
-        "Üst": 1.67
-    },
-    "Libertad (K) - Universidad de Chile (K)": {
-        "Alt": 1.94,
-        "Üst": 1.39
-    },
-    "LDU Quito (K) - Club Olimpia (K)": {
-        "Alt": 1.72,
-        "Üst": 1.54
-    },
-    "Dep. Toluca (K) - C. Santos Laguna (K)": {
-        "Alt": 2.16,
-        "Üst": 3.64
-    },
-    "Dep. Riestra - Union Santa Fe": {
-        "Alt": 1.31,
-        "Üst": 2.37
+    "Fleetwood T. U21 - Barnsley U21": {
+        "Alt": 1.32,
+        "Üst": 4.01
     }
 }
