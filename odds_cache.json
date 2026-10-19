@@ -1,12 +1,4 @@
 {
-    "Deport Cali - Atl Junior": {
-        "Alt": 1.63,
-        "Üst": 1.61
-    },
-    "CD Marquense - CD Suchitepequez": {
-        "Alt": 1.6,
-        "Üst": 1.63
-    },
     "Wofoo Tai PO - Southern District": {
         "Alt": 2.78,
         "Üst": 3.5
@@ -22,6 +14,10 @@
     "Lee Man Warriors - Kitchee SC": {
         "Alt": 1.92,
         "Üst": 1.41
+    },
+    "Zhejiang H. (K) - Beijing BG P. (K)": {
+        "Alt": 1.5,
+        "Üst": 1.77
     },
     "Mara Sugar - Mombasa Elite": {
         "Alt": 1.36,
@@ -66,5 +62,17 @@
     "Naft Gachsaran - Fard": {
         "Alt": 1.18,
         "Üst": 2.6
+    },
+    "Manisa FK - Muğlaspor": {
+        "Alt": 1.67,
+        "Üst": 1.6
+    },
+    "F. Karagümrük - A. Keçiörengücü": {
+        "Alt": 1.75,
+        "Üst": 1.54
+    },
+    "GC Mascara - USM EL Harrach": {
+        "Alt": 1.22,
+        "Üst": 3.5
     }
 }
