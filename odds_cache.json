@@ -1,51 +1,23 @@
 {
-    "Independiente Yumbo - Boca Juniors (Kol)": {
-        "Alt": 1.4,
-        "Üst": 1.93
-    },
-    "Atletico - Deportes Quindio": {
-        "Alt": 1.5,
-        "Üst": 1.77
-    },
-    "Dep. Pereira - Boyaca Chico": {
-        "Alt": 1.4,
-        "Üst": 1.93
-    },
-    "T. Asuncion - Independiente": {
-        "Alt": 1.36,
-        "Üst": 2.0
-    },
-    "Paraguari AC - Fernando Mora": {
-        "Alt": 1.35,
-        "Üst": 2.01
-    },
-    "Londrina PR - Cuiaba": {
-        "Alt": 1.41,
-        "Üst": 1.91
-    },
     "Independiente P. - Club Aurora": {
-        "Alt": 1.93,
-        "Üst": 1.41
-    },
-    "D. Union La Calera - Coquimbo U.": {
-        "Alt": 1.58,
-        "Üst": 1.67
+        "Alt": 3.74,
+        "Üst": 3.96
     },
     "Inter Bogota - Fortaleza": {
         "Alt": 1.53,
         "Üst": 1.74
     },
     "Cucuta D. - Atl. Nacional Medellin": {
-        "Alt": 1.8,
-        "Üst": 1.47
+        "Alt": 1.83,
+        "Üst": 1.45
     },
     "CD Guadalajara - Necaxa": {
-        "Alt": 2.51,
-        "Üst": 1.2
+        "Alt": 2.73,
+        "Üst": 1.15
     },
     "Vasco Da G. - Boca Juniors": {
-        "Alt": 1.28,
-        "Üst": 2.46
+        "Alt": 1.29,
+        "Üst": 2.4
     },
     "Atl San Luis - Queretaro": {
         "Alt": 1.74,
@@ -56,16 +28,12 @@
         "Üst": 1.52
     },
     "Millonarios - Once Caldas": {
-        "Alt": 1.58,
-        "Üst": 1.67
+        "Alt": 1.56,
+        "Üst": 1.68
     },
     "Malacateco - Comunicacion": {
         "Alt": 1.36,
         "Üst": 2.0
-    },
-    "Marathon - Alianza": {
-        "Alt": 1.47,
-        "Üst": 1.8
     },
     "INAC Kobe L. (K) - JEF Utd Ichihara (K)": {
         "Alt": 1.81,
@@ -74,5 +42,37 @@
     "Tigres - Club Leon": {
         "Alt": 1.67,
         "Üst": 1.57
+    },
+    "M. Yamagata - Sapporo": {
+        "Alt": 1.64,
+        "Üst": 1.6
+    },
+    "AC N. Parceiro - Ryukyu": {
+        "Alt": 1.73,
+        "Üst": 1.53
+    },
+    "Fukushima Utd - G. Kitakyushu": {
+        "Alt": 3.11,
+        "Üst": 3.63
+    },
+    "Tochigi - MIO Biwako Shiga": {
+        "Alt": 1.74,
+        "Üst": 1.53
+    },
+    "Saitama (K) - Mynavi S. (K)": {
+        "Alt": 1.46,
+        "Üst": 1.83
+    },
+    "Bali Utd - Garuda Yaksa": {
+        "Alt": 1.89,
+        "Üst": 3.36
+    },
+    "Kanagawa (K) - Albirex Niigata (K)": {
+        "Alt": 1.52,
+        "Üst": 1.74
+    },
+    "V Varen - S. Hiroshima": {
+        "Alt": 2.06,
+        "Üst": 1.43
     }
 }
