@@ -1,90 +1,70 @@
 {
-    "Dewa Utd - Persijap Jepara": {
-        "Alt": 3.37,
-        "Üst": 2.18
+    "ISA Town - Um Alhassam": {
+        "Alt": 1.67,
+        "Üst": 1.58
     },
-    "Bhayangkara - Psim Yogyakarta": {
-        "Alt": 1.95,
-        "Üst": 1.39
+    "NK Karlovac 1919 - Rijeka": {
+        "Alt": 3.41,
+        "Üst": 1.9
     },
-    "Ethiopia Electricity - Sheger Ketema": {
-        "Alt": 1.27,
-        "Üst": 3.17
-    },
-    "Fleetwood T. U21 - Barnsley U21": {
-        "Alt": 1.54,
-        "Üst": 3.73
-    },
-    "Wigan Ath U21 - Bolton Wanderers U21": {
-        "Alt": 1.84,
-        "Üst": 3.91
-    },
-    "Administration Police - AFC Leopards": {
-        "Alt": 5.01,
-        "Üst": 3.39
-    },
-    "PSG U19 - Barcelona U19": {
-        "Alt": 2.53,
-        "Üst": 1.2
-    },
-    "SSC Napoli U20 - Bodo Glimt U19": {
-        "Alt": 3.97,
-        "Üst": 1.91
-    },
-    "Roma U20 - Slovan Bratislava U19": {
-        "Alt": 1.12,
-        "Üst": 1.98
-    },
-    "Halaba Ketema - Fasil Kenema": {
-        "Alt": 1.27,
-        "Üst": 3.21
-    },
-    "Coventry City U21 - Swansea U21": {
-        "Alt": 1.35,
-        "Üst": 4.15
-    },
-    "Stuttgart U19 - Atl Madrid U19": {
+    "Fenerbahçe - Slavia Prag": {
         "Alt": 2.52,
-        "Üst": 1.2
+        "Üst": 1.27
     },
-    "Maroons - Kataka": {
-        "Alt": 1.58,
-        "Üst": 1.67
+    "Sabah - B. Dortmund": {
+        "Alt": 2.55,
+        "Üst": 1.26
     },
-    "Ario Eslamshahr - Palayesh Naft B. A.": {
-        "Alt": 1.12,
-        "Üst": 2.93
-    },
-    "Asyut Petroleum - Zamalek": {
-        "Alt": 1.54,
-        "Üst": 1.71
-    },
-    "ZED - Modern Sport Club": {
-        "Alt": 1.21,
-        "Üst": 2.46
-    },
-    "Academico V. U23 - Penafiel U23": {
-        "Alt": 1.93,
-        "Üst": 1.4
-    },
-    "Estrela A. U23 - Farense U23": {
-        "Alt": 1.74,
+    "AL Akhdood - AL Adalh": {
+        "Alt": 1.73,
         "Üst": 1.53
     },
-    "Rio Ave U23 - Portimonense U23": {
-        "Alt": 1.87,
-        "Üst": 1.43
+    "Levante B - Crevillente Deportivo": {
+        "Alt": 1.55,
+        "Üst": 1.7
     },
-    "UD Leiria U23 - Torreense U23": {
-        "Alt": 1.74,
-        "Üst": 1.52
+    "Norrköping - Orebro SK": {
+        "Alt": 2.06,
+        "Üst": 1.34
     },
-    "CS Maritimo U23 - Famalicao U23": {
-        "Alt": 1.96,
-        "Üst": 1.38
+    "Wadi Degla - N. Bank Egypt": {
+        "Alt": 1.24,
+        "Üst": 2.35
     },
-    "Man. City U19 - AEK U19": {
-        "Alt": 1.11,
-        "Üst": 1.74
+    "Talaea Gaish - Pyramids": {
+        "Alt": 1.48,
+        "Üst": 1.79
+    },
+    "Millwall U21 - Sheffield Utd U21": {
+        "Alt": 1.47,
+        "Üst": 3.6
+    },
+    "Boreham Wood - Middlesbrough U21": {
+        "Alt": 2.58,
+        "Üst": 3.62
+    },
+    "Wealdstone - Nottingham F. U21": {
+        "Alt": 3.04,
+        "Üst": 3.59
+    },
+    "AL Nassr - Neom SC": {
+        "Alt": 2.06,
+        "Üst": 1.34
+    },
+    "AL Ettifaq - AL Ittihad": {
+        "Alt": 2.32,
+        "Üst": 1.25
+    },
+    "Wimborne - Gosport": {
+        "Alt": 1.83,
+        "Üst": 1.45
+    },
+    "Utd Of Manch. - Altrincham": {
+        "Alt": 1.52,
+        "Üst": 3.52
+    },
+    "Tadley Calleva - Aldershot": {
+        "Alt": 2.05,
+        "Üst": 1.34
     }
 }
