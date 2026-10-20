@@ -1,48 +1,4 @@
 {
-    "Corinthians - Vitoria BA": {
-        "Alt": 1.54,
-        "Üst": 1.87
-    },
-    "R. Cartagena - Boyaca Patr.": {
-        "Alt": 1.78,
-        "Üst": 1.48
-    },
-    "Sporting San Jose - AD San Carlos": {
-        "Alt": 1.6,
-        "Üst": 1.63
-    },
-    "Libertad (K) - Universidad de Chile (K)": {
-        "Alt": 1.69,
-        "Üst": 1.56
-    },
-    "LDU Quito (K) - Club Olimpia (K)": {
-        "Alt": 1.68,
-        "Üst": 1.56
-    },
-    "Dep. Toluca (K) - C. Santos Laguna (K)": {
-        "Alt": 2.15,
-        "Üst": 3.65
-    },
-    "Dep. Riestra - Union De Santa Fe": {
-        "Alt": 1.34,
-        "Üst": 2.26
-    },
-    "Antigua - Xelaju": {
-        "Alt": 1.67,
-        "Üst": 1.58
-    },
-    "Racing Utd - Waterhouse": {
-        "Alt": 1.51,
-        "Üst": 1.75
-    },
-    "Deportivo Pasto - Alianza Valledupar": {
-        "Alt": 1.46,
-        "Üst": 1.83
-    },
-    "Club Leon (K) - Atlante (K)": {
-        "Alt": 1.66,
-        "Üst": 3.35
-    },
     "CD Esc. Belen - Puntarenas": {
         "Alt": 1.62,
         "Üst": 1.62
@@ -52,23 +8,67 @@
         "Üst": 1.41
     },
     "Porto U19 - PSV U19": {
-        "Alt": 2.76,
+        "Alt": 2.74,
         "Üst": 1.15
     },
     "Dewa Utd - Persijap Jepara": {
-        "Alt": 1.36,
-        "Üst": 2.19
+        "Alt": 1.35,
+        "Üst": 2.21
     },
     "Bhayangkara - Psim Yogyakarta": {
         "Alt": 1.86,
         "Üst": 1.44
     },
     "Ethiopia Electricity - Sheger Ketema": {
-        "Alt": 1.28,
+        "Alt": 1.27,
         "Üst": 3.23
     },
     "Fleetwood T. U21 - Barnsley U21": {
         "Alt": 1.32,
-        "Üst": 4.01
+        "Üst": 4.03
+    },
+    "Wigan Ath U21 - Bolton Wanderers U21": {
+        "Alt": 1.4,
+        "Üst": 4.14
+    },
+    "Administration Police - AFC Leopards": {
+        "Alt": 4.67,
+        "Üst": 3.27
+    },
+    "PSG U19 - Barcelona U19": {
+        "Alt": 2.41,
+        "Üst": 1.22
+    },
+    "Roma U20 - Slovan Bratislava U19": {
+        "Alt": 1.12,
+        "Üst": 1.85
+    },
+    "Coventry City U21 - Swansea U21": {
+        "Alt": 1.35,
+        "Üst": 4.15
+    },
+    "Stuttgart U19 - Atl Madrid U19": {
+        "Alt": 2.48,
+        "Üst": 1.21
+    },
+    "Maroons - Kataka": {
+        "Alt": 1.59,
+        "Üst": 1.67
+    },
+    "Ario Eslamshahr - Palayesh Naft B. A.": {
+        "Alt": 1.17,
+        "Üst": 1.23
+    },
+    "Asyut Petroleum - Zamalek": {
+        "Alt": 1.39,
+        "Üst": 1.96
+    },
+    "ZED - Modern Sport Club": {
+        "Alt": 1.25,
+        "Üst": 2.3
+    },
+    "Academico V. U23 - Penafiel U23": {
+        "Alt": 1.97,
+        "Üst": 1.38
     }
 }
