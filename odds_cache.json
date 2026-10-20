@@ -1,19 +1,15 @@
 {
-    "CD Esc. Belen - Puntarenas": {
-        "Alt": 1.62,
-        "Üst": 1.62
-    },
     "Farmel - Malut Utd": {
-        "Alt": 1.92,
-        "Üst": 1.41
+        "Alt": 1.98,
+        "Üst": 1.37
     },
     "Porto U19 - PSV U19": {
-        "Alt": 2.74,
-        "Üst": 1.15
+        "Alt": 2.82,
+        "Üst": 1.14
     },
     "Dewa Utd - Persijap Jepara": {
-        "Alt": 1.35,
-        "Üst": 2.21
+        "Alt": 3.32,
+        "Üst": 1.97
     },
     "Bhayangkara - Psim Yogyakarta": {
         "Alt": 1.86,
@@ -21,27 +17,35 @@
     },
     "Ethiopia Electricity - Sheger Ketema": {
         "Alt": 1.27,
-        "Üst": 3.23
+        "Üst": 3.19
     },
     "Fleetwood T. U21 - Barnsley U21": {
         "Alt": 1.32,
-        "Üst": 4.03
+        "Üst": 3.99
     },
     "Wigan Ath U21 - Bolton Wanderers U21": {
-        "Alt": 1.4,
-        "Üst": 4.14
+        "Alt": 1.34,
+        "Üst": 4.22
     },
     "Administration Police - AFC Leopards": {
         "Alt": 4.67,
         "Üst": 3.27
     },
     "PSG U19 - Barcelona U19": {
-        "Alt": 2.41,
-        "Üst": 1.22
+        "Alt": 2.38,
+        "Üst": 1.23
+    },
+    "SSC Napoli U20 - Bodo Glimt U19": {
+        "Alt": 3.88,
+        "Üst": 1.97
     },
     "Roma U20 - Slovan Bratislava U19": {
-        "Alt": 1.12,
+        "Alt": 1.1,
         "Üst": 1.85
+    },
+    "Halaba Ketema - Fasil Kenema": {
+        "Alt": 1.26,
+        "Üst": 3.3
     },
     "Coventry City U21 - Swansea U21": {
         "Alt": 1.35,
@@ -61,14 +65,34 @@
     },
     "Asyut Petroleum - Zamalek": {
         "Alt": 1.39,
-        "Üst": 1.96
+        "Üst": 1.95
     },
     "ZED - Modern Sport Club": {
-        "Alt": 1.25,
-        "Üst": 2.3
+        "Alt": 1.23,
+        "Üst": 2.36
     },
     "Academico V. U23 - Penafiel U23": {
+        "Alt": 1.93,
+        "Üst": 1.4
+    },
+    "Estrela A. U23 - Farense U23": {
+        "Alt": 1.6,
+        "Üst": 1.63
+    },
+    "Rio Ave U23 - Portimonense U23": {
+        "Alt": 1.87,
+        "Üst": 1.43
+    },
+    "UD Leiria U23 - Torreense U23": {
+        "Alt": 1.74,
+        "Üst": 1.52
+    },
+    "CS Maritimo U23 - Famalicao U23": {
         "Alt": 1.97,
         "Üst": 1.38
+    },
+    "Man. City U19 - AEK U19": {
+        "Alt": 1.11,
+        "Üst": 1.65
     }
 }
