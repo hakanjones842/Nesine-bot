@@ -1,70 +1,78 @@
 {
-    "ISA Town - Um Alhassam": {
-        "Alt": 1.67,
-        "Üst": 1.58
+    "Independiente Yumbo - Boca Juniors (Kol)": {
+        "Alt": 1.4,
+        "Üst": 1.93
     },
-    "NK Karlovac 1919 - Rijeka": {
-        "Alt": 3.41,
-        "Üst": 1.9
+    "Atletico - Deportes Quindio": {
+        "Alt": 1.5,
+        "Üst": 1.77
     },
-    "Fenerbahçe - Slavia Prag": {
-        "Alt": 2.52,
-        "Üst": 1.27
+    "Dep. Pereira - Boyaca Chico": {
+        "Alt": 1.4,
+        "Üst": 1.93
     },
-    "Sabah - B. Dortmund": {
-        "Alt": 2.55,
-        "Üst": 1.26
+    "T. Asuncion - Independiente": {
+        "Alt": 1.36,
+        "Üst": 2.0
     },
-    "AL Akhdood - AL Adalh": {
-        "Alt": 1.73,
+    "Paraguari AC - Fernando Mora": {
+        "Alt": 1.35,
+        "Üst": 2.01
+    },
+    "Londrina PR - Cuiaba": {
+        "Alt": 1.41,
+        "Üst": 1.91
+    },
+    "Independiente P. - Club Aurora": {
+        "Alt": 1.93,
+        "Üst": 1.41
+    },
+    "D. Union La Calera - Coquimbo U.": {
+        "Alt": 1.58,
+        "Üst": 1.67
+    },
+    "Inter Bogota - Fortaleza": {
+        "Alt": 1.53,
+        "Üst": 1.74
+    },
+    "Cucuta D. - Atl. Nacional Medellin": {
+        "Alt": 1.8,
+        "Üst": 1.47
+    },
+    "CD Guadalajara - Necaxa": {
+        "Alt": 2.51,
+        "Üst": 1.2
+    },
+    "Vasco Da G. - Boca Juniors": {
+        "Alt": 1.28,
+        "Üst": 2.46
+    },
+    "Atl San Luis - Queretaro": {
+        "Alt": 1.74,
         "Üst": 1.53
     },
-    "Levante B - Crevillente Deportivo": {
-        "Alt": 1.55,
-        "Üst": 1.7
+    "Juarez - Atlante": {
+        "Alt": 1.74,
+        "Üst": 1.52
     },
-    "Norrköping - Orebro SK": {
-        "Alt": 2.06,
-        "Üst": 1.34
+    "Millonarios - Once Caldas": {
+        "Alt": 1.58,
+        "Üst": 1.67
     },
-    "Wadi Degla - N. Bank Egypt": {
-        "Alt": 1.24,
-        "Üst": 2.35
+    "Malacateco - Comunicacion": {
+        "Alt": 1.36,
+        "Üst": 2.0
     },
-    "Talaea Gaish - Pyramids": {
-        "Alt": 1.48,
-        "Üst": 1.79
-    },
-    "Millwall U21 - Sheffield Utd U21": {
+    "Marathon - Alianza": {
         "Alt": 1.47,
-        "Üst": 3.6
+        "Üst": 1.8
     },
-    "Boreham Wood - Middlesbrough U21": {
-        "Alt": 2.58,
-        "Üst": 3.62
+    "INAC Kobe L. (K) - JEF Utd Ichihara (K)": {
+        "Alt": 1.81,
+        "Üst": 1.47
     },
-    "Wealdstone - Nottingham F. U21": {
-        "Alt": 3.04,
-        "Üst": 3.59
-    },
-    "AL Nassr - Neom SC": {
-        "Alt": 2.06,
-        "Üst": 1.34
-    },
-    "AL Ettifaq - AL Ittihad": {
-        "Alt": 2.32,
-        "Üst": 1.25
-    },
-    "Wimborne - Gosport": {
-        "Alt": 1.83,
-        "Üst": 1.45
-    },
-    "Utd Of Manch. - Altrincham": {
-        "Alt": 1.52,
-        "Üst": 3.52
-    },
-    "Tadley Calleva - Aldershot": {
-        "Alt": 2.05,
-        "Üst": 1.34
+    "Tigres - Club Leon": {
+        "Alt": 1.67,
+        "Üst": 1.57
     }
 }
