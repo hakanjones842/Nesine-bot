@@ -1,82 +1,110 @@
 {
-    "Atl San Luis - Queretaro": {
-        "Alt": 1.76,
-        "Üst": 1.5
-    },
-    "Juarez - Atlante": {
-        "Alt": 1.74,
-        "Üst": 1.52
-    },
-    "Millonarios - Once Caldas": {
-        "Alt": 1.56,
-        "Üst": 1.68
-    },
-    "Malacateco - Comunicacion": {
-        "Alt": 1.36,
-        "Üst": 2.0
-    },
-    "Marathon - Alianza": {
-        "Alt": 1.57,
-        "Üst": 1.67
-    },
-    "INAC Kobe L. (K) - JEF Utd Ichihara (K)": {
-        "Alt": 1.81,
-        "Üst": 1.47
-    },
-    "Tigres - Club Leon": {
-        "Alt": 1.67,
-        "Üst": 1.57
-    },
-    "M. Yamagata - Sapporo": {
-        "Alt": 1.64,
-        "Üst": 1.6
-    },
-    "AC N. Parceiro - Ryukyu": {
-        "Alt": 1.73,
-        "Üst": 1.53
-    },
-    "Fukushima Utd - G. Kitakyushu": {
-        "Alt": 3.11,
-        "Üst": 3.63
-    },
-    "Tochigi - MIO Biwako Shiga": {
-        "Alt": 1.74,
-        "Üst": 1.53
-    },
-    "Saitama (K) - Mynavi S. (K)": {
-        "Alt": 1.46,
-        "Üst": 1.83
-    },
     "Bali Utd - Garuda Yaksa": {
-        "Alt": 1.89,
-        "Üst": 3.36
+        "Alt": 1.94,
+        "Üst": 3.34
     },
     "Kanagawa (K) - Albirex Niigata (K)": {
         "Alt": 1.52,
         "Üst": 1.74
     },
     "V Varen - S. Hiroshima": {
-        "Alt": 2.06,
-        "Üst": 1.43
+        "Alt": 1.98,
+        "Üst": 1.47
     },
     "Shimizu - Machida Zelvia": {
-        "Alt": 1.51,
-        "Üst": 1.91
+        "Alt": 1.48,
+        "Üst": 1.95
     },
     "Nagoya - Cerezo Osaka": {
         "Alt": 1.94,
         "Üst": 1.49
     },
     "Kyoto Sanga - Kashima": {
-        "Alt": 1.79,
-        "Üst": 1.6
+        "Alt": 1.76,
+        "Üst": 1.61
     },
     "Yokohama M. - Tokyo Verdy": {
-        "Alt": 1.51,
-        "Üst": 1.91
+        "Alt": 1.47,
+        "Üst": 1.98
     },
     "Fukuoka - Gamba Osaka": {
-        "Alt": 1.6,
-        "Üst": 1.79
+        "Alt": 1.57,
+        "Üst": 1.81
+    },
+    "Fagiano - M. Hollyhock": {
+        "Alt": 1.55,
+        "Üst": 1.84
+    },
+    "Kawasaki Frontale - Vissel Kobe": {
+        "Alt": 1.97,
+        "Üst": 1.47
+    },
+    "Tokyo - Kashiwa": {
+        "Alt": 1.8,
+        "Üst": 1.59
+    },
+    "S. Bellmare - Iwaki": {
+        "Alt": 1.54,
+        "Üst": 1.71
+    },
+    "Tegevajaro Mi. - B. Akita": {
+        "Alt": 1.38,
+        "Üst": 1.97
+    },
+    "Iwata Jubilo - Oita Trinata": {
+        "Alt": 1.48,
+        "Üst": 1.78
+    },
+    "Omiya Ardija - Kat. Toyama": {
+        "Alt": 2.27,
+        "Üst": 1.26
+    },
+    "Tochigi City - Fujieda Myfc": {
+        "Alt": 1.81,
+        "Üst": 1.47
+    },
+    "Ventforet - Yokohama": {
+        "Alt": 1.61,
+        "Üst": 1.63
+    },
+    "Niigata - Sagan Tosu": {
+        "Alt": 1.43,
+        "Üst": 1.87
+    },
+    "Sendai - Imabari": {
+        "Alt": 1.87,
+        "Üst": 1.43
+    },
+    "T. Vortis - V. Hachinohe": {
+        "Alt": 1.5,
+        "Üst": 1.76
+    },
+    "Gifu - SC Sagamihara": {
+        "Alt": 1.75,
+        "Üst": 1.51
+    },
+    "Matsumoto Y. - Thespakusatsu G.": {
+        "Alt": 1.73,
+        "Üst": 1.53
+    },
+    "Kagoshima Utd - Kochi Utd SC": {
+        "Alt": 1.69,
+        "Üst": 1.56
+    },
+    "Ehime - Renofa Y.": {
+        "Alt": 1.77,
+        "Üst": 1.49
+    },
+    "Kamatamare S. - Z. Kanazawa": {
+        "Alt": 1.78,
+        "Üst": 1.49
+    },
+    "Osaka - Nara Club": {
+        "Alt": 1.9,
+        "Üst": 1.41
+    },
+    "R. Kumamoto - Gainare Tottori": {
+        "Alt": 1.8,
+        "Üst": 1.47
     }
 }
