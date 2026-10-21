@@ -1,27 +1,7 @@
 {
-    "Independiente P. - Club Aurora": {
-        "Alt": 3.74,
-        "Üst": 3.96
-    },
-    "Inter Bogota - Fortaleza": {
-        "Alt": 1.53,
-        "Üst": 1.74
-    },
-    "Cucuta D. - Atl. Nacional Medellin": {
-        "Alt": 1.83,
-        "Üst": 1.45
-    },
-    "CD Guadalajara - Necaxa": {
-        "Alt": 2.73,
-        "Üst": 1.15
-    },
-    "Vasco Da G. - Boca Juniors": {
-        "Alt": 1.29,
-        "Üst": 2.4
-    },
     "Atl San Luis - Queretaro": {
-        "Alt": 1.74,
-        "Üst": 1.53
+        "Alt": 1.76,
+        "Üst": 1.5
     },
     "Juarez - Atlante": {
         "Alt": 1.74,
@@ -34,6 +14,10 @@
     "Malacateco - Comunicacion": {
         "Alt": 1.36,
         "Üst": 2.0
+    },
+    "Marathon - Alianza": {
+        "Alt": 1.57,
+        "Üst": 1.67
     },
     "INAC Kobe L. (K) - JEF Utd Ichihara (K)": {
         "Alt": 1.81,
@@ -74,5 +58,25 @@
     "V Varen - S. Hiroshima": {
         "Alt": 2.06,
         "Üst": 1.43
+    },
+    "Shimizu - Machida Zelvia": {
+        "Alt": 1.51,
+        "Üst": 1.91
+    },
+    "Nagoya - Cerezo Osaka": {
+        "Alt": 1.94,
+        "Üst": 1.49
+    },
+    "Kyoto Sanga - Kashima": {
+        "Alt": 1.79,
+        "Üst": 1.6
+    },
+    "Yokohama M. - Tokyo Verdy": {
+        "Alt": 1.51,
+        "Üst": 1.91
+    },
+    "Fukuoka - Gamba Osaka": {
+        "Alt": 1.6,
+        "Üst": 1.79
     }
 }
