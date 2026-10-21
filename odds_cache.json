@@ -1,110 +1,78 @@
 {
-    "Bali Utd - Garuda Yaksa": {
-        "Alt": 1.94,
-        "Üst": 3.34
+    "Como 1907 U20 - Man. Utd U19": {
+        "Alt": 2.86,
+        "Üst": 1.13
     },
-    "Kanagawa (K) - Albirex Niigata (K)": {
-        "Alt": 1.52,
-        "Üst": 1.74
-    },
-    "V Varen - S. Hiroshima": {
-        "Alt": 1.98,
-        "Üst": 1.47
-    },
-    "Shimizu - Machida Zelvia": {
-        "Alt": 1.48,
-        "Üst": 1.95
-    },
-    "Nagoya - Cerezo Osaka": {
-        "Alt": 1.94,
-        "Üst": 1.49
-    },
-    "Kyoto Sanga - Kashima": {
-        "Alt": 1.76,
-        "Üst": 1.61
-    },
-    "Yokohama M. - Tokyo Verdy": {
-        "Alt": 1.47,
-        "Üst": 1.98
-    },
-    "Fukuoka - Gamba Osaka": {
-        "Alt": 1.57,
-        "Üst": 1.81
-    },
-    "Fagiano - M. Hollyhock": {
-        "Alt": 1.55,
-        "Üst": 1.84
-    },
-    "Kawasaki Frontale - Vissel Kobe": {
-        "Alt": 1.97,
-        "Üst": 1.47
-    },
-    "Tokyo - Kashiwa": {
-        "Alt": 1.8,
-        "Üst": 1.59
-    },
-    "S. Bellmare - Iwaki": {
-        "Alt": 1.54,
-        "Üst": 1.71
-    },
-    "Tegevajaro Mi. - B. Akita": {
-        "Alt": 1.38,
-        "Üst": 1.97
-    },
-    "Iwata Jubilo - Oita Trinata": {
-        "Alt": 1.48,
-        "Üst": 1.78
-    },
-    "Omiya Ardija - Kat. Toyama": {
-        "Alt": 2.27,
-        "Üst": 1.26
-    },
-    "Tochigi City - Fujieda Myfc": {
-        "Alt": 1.81,
-        "Üst": 1.47
-    },
-    "Ventforet - Yokohama": {
-        "Alt": 1.61,
-        "Üst": 1.63
-    },
-    "Niigata - Sagan Tosu": {
-        "Alt": 1.43,
-        "Üst": 1.87
-    },
-    "Sendai - Imabari": {
-        "Alt": 1.87,
-        "Üst": 1.43
-    },
-    "T. Vortis - V. Hachinohe": {
-        "Alt": 1.5,
-        "Üst": 1.76
-    },
-    "Gifu - SC Sagamihara": {
-        "Alt": 1.75,
-        "Üst": 1.51
-    },
-    "Matsumoto Y. - Thespakusatsu G.": {
-        "Alt": 1.73,
-        "Üst": 1.53
-    },
-    "Kagoshima Utd - Kochi Utd SC": {
-        "Alt": 1.69,
-        "Üst": 1.56
-    },
-    "Ehime - Renofa Y.": {
-        "Alt": 1.77,
-        "Üst": 1.49
-    },
-    "Kamatamare S. - Z. Kanazawa": {
-        "Alt": 1.78,
-        "Üst": 1.49
-    },
-    "Osaka - Nara Club": {
-        "Alt": 1.9,
+    "Lion C. Sailors - Tampines Rov.": {
+        "Alt": 1.92,
         "Üst": 1.41
     },
-    "R. Kumamoto - Gainare Tottori": {
-        "Alt": 1.8,
-        "Üst": 1.47
+    "15 de Agosto Guinea - Simba SC": {
+        "Alt": 1.36,
+        "Üst": 2.2
+    },
+    "Persija Jakarta - Arema": {
+        "Alt": 2.58,
+        "Üst": 3.53
+    },
+    "Ethiopian Coffee SC - Negelle Arsi": {
+        "Alt": 5.39,
+        "Üst": 3.31
+    },
+    "Peterborough Utd U21 - S. Wednesday U21": {
+        "Alt": 2.27,
+        "Üst": 3.7
+    },
+    "Gasogi Utd - Gorilla": {
+        "Alt": 1.21,
+        "Üst": 3.51
+    },
+    "Real Betis U19 - Feyenoord U19": {
+        "Alt": 2.78,
+        "Üst": 1.15
+    },
+    "Club Brugge U19 - RC Lens U19": {
+        "Alt": 2.77,
+        "Üst": 1.15
+    },
+    "Aston Villa U19 - Viking FK U19": {
+        "Alt": 1.92,
+        "Üst": 3.9
+    },
+    "S. Lizbon U19 - LASK Linz U19": {
+        "Alt": 2.24,
+        "Üst": 3.87
+    },
+    "Lugazi Municipal - Express": {
+        "Alt": 5.31,
+        "Üst": 3.51
+    },
+    "Bul - NEC": {
+        "Alt": 3.96,
+        "Üst": 3.18
+    },
+    "Ghazl El Mahallah - AL Ittihad": {
+        "Alt": 1.14,
+        "Üst": 2.82
+    },
+    "Aalesun FK 2 - Nardo": {
+        "Alt": 2.85,
+        "Üst": 4.35
+    },
+    "Real Madrid U19 - RB Leipzig U19": {
+        "Alt": 3.77,
+        "Üst": 2.21
+    },
+    "B. Münih U19 - Arsenal U19": {
+        "Alt": 3.22,
+        "Üst": 1.08
+    },
+    "İnter U20 - S. Donetsk U19": {
+        "Alt": 2.26,
+        "Üst": 1.27
+    },
+    "AL Jeel - AL Jandal": {
+        "Alt": 1.44,
+        "Üst": 1.86
     }
 }
