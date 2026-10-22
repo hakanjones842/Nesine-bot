@@ -1,98 +1,78 @@
 {
-    "Al Ahli Dubai - AL Ain": {
-        "Alt": 1.68,
-        "Üst": 1.56
+    "Cumbaya - El Nacional": {
+        "Alt": 2.02,
+        "Üst": 1.35
     },
-    "Al Najma - Aali": {
-        "Alt": 1.47,
-        "Üst": 1.81
+    "Libertad (K) - N. Montevideo (K)": {
+        "Alt": 1.4,
+        "Üst": 1.94
     },
-    "Sitra Club - AL Rifaa": {
-        "Alt": 1.6,
-        "Üst": 1.65
+    "Universidad de Chile (K) - Deportivo Cali (K)": {
+        "Alt": 1.33,
+        "Üst": 2.07
     },
-    "T. Flora U21 - Nomme Utd U21": {
-        "Alt": 1.97,
-        "Üst": 4.0
+    "Ucv - Club Atletico Barinas": {
+        "Alt": 1.91,
+        "Üst": 1.41
     },
-    "Al Garaf - AL Naft": {
-        "Alt": 1.34,
-        "Üst": 3.23
+    "Always Ready - Strongest": {
+        "Alt": 2.23,
+        "Üst": 3.4
     },
-    "Buducnost - FK Arsenal Tivat": {
-        "Alt": 1.5,
-        "Üst": 1.76
+    "LDU Quito (K) - Boliviar": {
+        "Alt": 2.58,
+        "Üst": 3.61
     },
-    "Birkirkara - Floriana": {
-        "Alt": 1.55,
-        "Üst": 1.69
+    "Club Olimpia (K) - Cruzeiro EC (K)": {
+        "Alt": 1.75,
+        "Üst": 1.51
     },
-    "Kampala C. - Updf": {
-        "Alt": 1.67,
-        "Üst": 1.59
+    "Flamengo - Estudiantes": {
+        "Alt": 1.52,
+        "Üst": 1.89
     },
-    "Ararat - AZ Alkmaar": {
-        "Alt": 2.28,
-        "Üst": 1.34
+    "Atl. Nacional Medellin - Deportivo Pasto": {
+        "Alt": 1.8,
+        "Üst": 1.48
     },
-    "Lech Poznan - Sunderland": {
-        "Alt": 1.93,
-        "Üst": 1.5
+    "A. Oaxaca - Cruz Azul Hidalgo": {
+        "Alt": 1.87,
+        "Üst": 1.44
     },
-    "D. Zagreb - NEC Nijmegen": {
-        "Alt": 2.28,
-        "Üst": 1.34
+    "Motagua - Alajuelense": {
+        "Alt": 1.39,
+        "Üst": 1.94
     },
-    "Ferencvaros - Torreense": {
-        "Alt": 2.15,
+    "Atlas (K) - Club Leon (K)": {
+        "Alt": 1.98,
         "Üst": 1.38
     },
-    "U. S. Gilloise - HB Sheva": {
-        "Alt": 2.2,
-        "Üst": 1.36
+    "Ferrymead Bays - Cashmere Technical": {
+        "Alt": 2.34,
+        "Üst": 3.54
     },
-    "Ofi Crete - B. Leverkusen": {
-        "Alt": 1.19,
-        "Üst": 2.17
+    "Shanghai Port B - Hangzhou Linping": {
+        "Alt": 1.67,
+        "Üst": 1.57
     },
-    "Juventus - Rennes": {
-        "Alt": 2.07,
-        "Üst": 1.42
+    "Adelaide City - Apia Leic.": {
+        "Alt": 1.94,
+        "Üst": 1.39
     },
-    "Sturm Graz - Marsilya": {
-        "Alt": 2.28,
-        "Üst": 1.34
-    },
-    "Zalgiris Kaunas - Brann": {
+    "South Melbourne - Sydney Utd 58": {
         "Alt": 1.79,
-        "Üst": 1.59
+        "Üst": 1.48
     },
-    "Iberia 1999 - Mjallby": {
-        "Alt": 1.53,
-        "Üst": 1.87
-    },
-    "Inter Escaldes - Un. Craiova": {
+    "Brisbane Roar - Perth Glory": {
         "Alt": 1.76,
         "Üst": 1.61
     },
-    "Jablonec - Brighton": {
-        "Alt": 1.19,
-        "Üst": 2.23
+    "Dinamo Kiev - Kudrivka": {
+        "Alt": 3.46,
+        "Üst": 2.2
     },
-    "Kızıl Yıldız - Kopenhag": {
-        "Alt": 1.8,
-        "Üst": 1.59
-    },
-    "Nordsjælland - CSKA Sofya": {
-        "Alt": 2.27,
-        "Üst": 1.34
-    },
-    "Pafos - Riga": {
-        "Alt": 1.85,
-        "Üst": 1.54
-    },
-    "Trabzonspor - Hearts": {
-        "Alt": 2.81,
-        "Üst": 1.21
+    "Hoang Anh - Song Lam": {
+        "Alt": 1.57,
+        "Üst": 1.67
     }
 }
