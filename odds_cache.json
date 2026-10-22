@@ -1,94 +1,98 @@
 {
-    "Madura Utd - Persib Bandung": {
-        "Alt": 1.72,
-        "Üst": 1.54
+    "Al Ahli Dubai - AL Ain": {
+        "Alt": 1.68,
+        "Üst": 1.56
     },
-    "Hawassa Kenema SC - Ethiopia Nigd Bank": {
-        "Alt": 1.21,
-        "Üst": 3.43
+    "Al Najma - Aali": {
+        "Alt": 1.47,
+        "Üst": 1.81
     },
-    "Saint George SC - Adama City": {
-        "Alt": 4.9,
-        "Üst": 3.27
-    },
-    "FK Tukums 2000 Tss 2 - SK Super Nova II": {
-        "Alt": 2.67,
-        "Üst": 3.64
-    },
-    "AL Sarhan - Amman": {
-        "Alt": 1.48,
-        "Üst": 1.79
-    },
-    "Cong An Nhan Dan - Thanh Hoa": {
-        "Alt": 2.26,
-        "Üst": 3.43
-    },
-    "Mega Sport Belqas - Tanta": {
-        "Alt": 1.31,
-        "Üst": 2.13
-    },
-    "Maleyat Kafr El Z. - Kahrabaa Ismailia": {
-        "Alt": 1.21,
-        "Üst": 3.56
-    },
-    "Dayrout - El Sekka El Hadid": {
+    "Sitra Club - AL Rifaa": {
         "Alt": 1.6,
-        "Üst": 2.93
+        "Üst": 1.65
     },
-    "AL Nasr Cairo - El Daklyeh": {
-        "Alt": 1.46,
-        "Üst": 1.83
+    "T. Flora U21 - Nomme Utd U21": {
+        "Alt": 1.97,
+        "Üst": 4.0
     },
-    "Telecom Egypt - Baladiyyat AL M.": {
-        "Alt": 3.76,
-        "Üst": 3.02
-    },
-    "Al Wasl - AL Ittihad K.": {
-        "Alt": 2.33,
-        "Üst": 1.24
-    },
-    "AL Jazira (Bae) - Ajman Club": {
-        "Alt": 2.07,
-        "Üst": 1.33
-    },
-    "Wolaita Dicha SC - Bahir Dar Kenema": {
-        "Alt": 6.03,
-        "Üst": 3.44
-    },
-    "FK Mornar Bar - Mladost DG": {
-        "Alt": 1.63,
-        "Üst": 1.61
-    },
-    "Bihor Oradea - CSM Resita": {
-        "Alt": 1.74,
-        "Üst": 1.52
-    },
-    "SC Villa - Mbarara": {
-        "Alt": 1.86,
-        "Üst": 1.44
-    },
-    "Kigezi Homeoyz - Gaddafi": {
+    "Al Garaf - AL Naft": {
         "Alt": 1.34,
-        "Üst": 2.06
+        "Üst": 3.23
     },
-    "TS Tabriz - SN Abadan": {
-        "Alt": 1.66,
+    "Buducnost - FK Arsenal Tivat": {
+        "Alt": 1.5,
+        "Üst": 1.76
+    },
+    "Birkirkara - Floriana": {
+        "Alt": 1.55,
+        "Üst": 1.69
+    },
+    "Kampala C. - Updf": {
+        "Alt": 1.67,
         "Üst": 1.59
     },
-    "Bunyodkor - Mashal Mubarek": {
-        "Alt": 1.84,
-        "Üst": 1.45
+    "Ararat - AZ Alkmaar": {
+        "Alt": 2.28,
+        "Üst": 1.34
     },
-    "AL Hazem - AL Fayha": {
-        "Alt": 1.64,
-        "Üst": 1.6
+    "Lech Poznan - Sunderland": {
+        "Alt": 1.93,
+        "Üst": 1.5
     },
-    "Zakho - Erbil SC": {
-        "Alt": 1.41,
-        "Üst": 1.91
+    "D. Zagreb - NEC Nijmegen": {
+        "Alt": 2.28,
+        "Üst": 1.34
     },
-    "K. Almaty - Panathinaikos": {
-        "Alt": 1.75,
-        "Üst": 1.62
+    "Ferencvaros - Torreense": {
+        "Alt": 2.15,
+        "Üst": 1.38
+    },
+    "U. S. Gilloise - HB Sheva": {
+        "Alt": 2.2,
+        "Üst": 1.36
+    },
+    "Ofi Crete - B. Leverkusen": {
+        "Alt": 1.19,
+        "Üst": 2.17
+    },
+    "Juventus - Rennes": {
+        "Alt": 2.07,
+        "Üst": 1.42
+    },
+    "Sturm Graz - Marsilya": {
+        "Alt": 2.28,
+        "Üst": 1.34
+    },
+    "Zalgiris Kaunas - Brann": {
+        "Alt": 1.79,
+        "Üst": 1.59
+    },
+    "Iberia 1999 - Mjallby": {
+        "Alt": 1.53,
+        "Üst": 1.87
+    },
+    "Inter Escaldes - Un. Craiova": {
+        "Alt": 1.76,
+        "Üst": 1.61
+    },
+    "Jablonec - Brighton": {
+        "Alt": 1.19,
+        "Üst": 2.23
+    },
+    "Kızıl Yıldız - Kopenhag": {
+        "Alt": 1.8,
+        "Üst": 1.59
+    },
+    "Nordsjælland - CSKA Sofya": {
+        "Alt": 2.27,
+        "Üst": 1.34
+    },
+    "Pafos - Riga": {
+        "Alt": 1.85,
+        "Üst": 1.54
+    },
+    "Trabzonspor - Hearts": {
+        "Alt": 2.81,
+        "Üst": 1.21
     }
 }
