@@ -1,55 +1,19 @@
 {
-    "Guairena - Carapegua": {
-        "Alt": 1.72,
-        "Üst": 1.54
-    },
-    "P. Ferreira - Leca": {
-        "Alt": 1.61,
-        "Üst": 1.63
-    },
-    "V. Guimaraes - Maritimo": {
-        "Alt": 1.75,
-        "Üst": 1.62
-    },
-    "R. Casablanca - El Kanemi": {
-        "Alt": 1.37,
-        "Üst": 1.88
-    },
-    "Atl Grau - A. Deportiva Tarma": {
-        "Alt": 1.63,
-        "Üst": 1.61
-    },
-    "Independiente D. - Uni. Catolica": {
-        "Alt": 1.77,
-        "Üst": 1.49
-    },
-    "Gimnasia - CA Sarmiento": {
-        "Alt": 1.74,
-        "Üst": 1.64
-    },
-    "Gimnasia Y. - CA Platense": {
-        "Alt": 1.4,
-        "Üst": 2.12
-    },
-    "Independiente - Paraguari AC": {
-        "Alt": 1.58,
-        "Üst": 1.67
-    },
     "Operario - Athletic Club MG": {
-        "Alt": 1.46,
-        "Üst": 1.83
+        "Alt": 1.44,
+        "Üst": 1.87
     },
     "Cruzeiro MG - Clube do Remo": {
-        "Alt": 2.62,
-        "Üst": 1.24
+        "Alt": 2.71,
+        "Üst": 1.22
     },
     "Boyaca Chico - CA Bucaramanga": {
         "Alt": 1.37,
         "Üst": 2.0
     },
     "Audax Ital. - Huachipato": {
-        "Alt": 1.66,
-        "Üst": 1.59
+        "Alt": 1.8,
+        "Üst": 1.47
     },
     "CA Juventud De Las Piedras - Penarol": {
         "Alt": 1.47,
@@ -60,8 +24,8 @@
         "Üst": 1.75
     },
     "CD Inca - Fundacion F. Un Atleta": {
-        "Alt": 1.84,
-        "Üst": 1.45
+        "Alt": 1.78,
+        "Üst": 1.49
     },
     "CA Tigre - Atl Tucuman": {
         "Alt": 1.34,
@@ -70,5 +34,41 @@
     "Olancho - CD Estrella Roja": {
         "Alt": 1.86,
         "Üst": 1.44
+    },
+    "Necaxa - Juarez": {
+        "Alt": 1.81,
+        "Üst": 1.47
+    },
+    "Tepatitlan - Cancun": {
+        "Alt": 1.88,
+        "Üst": 3.34
+    },
+    "Auckland City - Auckland Utd": {
+        "Alt": 1.95,
+        "Üst": 1.39
+    },
+    "Atl Junior - R. Aguilas": {
+        "Alt": 1.54,
+        "Üst": 1.7
+    },
+    "CD Esc. Belen - Sporting San Jose": {
+        "Alt": 1.75,
+        "Üst": 1.51
+    },
+    "Tokyo Verdy B. (K) - Saitama (K)": {
+        "Alt": 1.95,
+        "Üst": 1.39
+    },
+    "Atlante - Atl San Luis": {
+        "Alt": 1.7,
+        "Üst": 1.55
+    },
+    "Club Tijuana (K) - Pumas Unam (K)": {
+        "Alt": 1.69,
+        "Üst": 3.46
+    },
+    "Western S. W. (K) - Brisbane R. (K)": {
+        "Alt": 1.64,
+        "Üst": 1.6
     }
 }
