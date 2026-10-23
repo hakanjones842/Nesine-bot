@@ -1,86 +1,74 @@
 {
-    "Araz Nakhchivan PFK - Kabala": {
-        "Alt": 1.53,
-        "Üst": 1.73
+    "Usti Nad Labem - Karvina": {
+        "Alt": 1.32,
+        "Üst": 3.83
     },
-    "Ipswich Town U21 - Birmingham City U21": {
-        "Alt": 1.87,
-        "Üst": 3.7
+    "Triglav - Nafta": {
+        "Alt": 1.83,
+        "Üst": 1.46
     },
-    "Simba SC - Mbeya City": {
-        "Alt": 1.41,
-        "Üst": 1.94
-    },
-    "Dodoma - Young Africans SC": {
-        "Alt": 1.68,
+    "Tabor Sezana - Koper": {
+        "Alt": 1.67,
         "Üst": 1.57
     },
-    "Azam - Mashujaa": {
+    "AL Ittihad - AL Draih": {
+        "Alt": 2.19,
+        "Üst": 1.28
+    },
+    "Kaizer Chiefs - Red Arrows": {
+        "Alt": 1.54,
+        "Üst": 1.71
+    },
+    "Al Nasr Dubai - Baniyas": {
+        "Alt": 1.84,
+        "Üst": 1.45
+    },
+    "AL Khalidiyah - AL Ittifaq": {
+        "Alt": 1.73,
+        "Üst": 1.53
+    },
+    "CSKA 1948 Sofia - Botev Plovdiv": {
         "Alt": 1.69,
         "Üst": 1.56
     },
-    "Inter Kashi - SC East Bengal": {
-        "Alt": 2.16,
-        "Üst": 1.29
+    "Opava - Banik Ostrava B": {
+        "Alt": 1.97,
+        "Üst": 1.38
     },
-    "FK Sileks K. - KF Shkendija Haracine": {
-        "Alt": 1.71,
-        "Üst": 1.54
-    },
-    "Tripoli AC - AL Tadamon Sour": {
-        "Alt": 1.55,
-        "Üst": 1.69
-    },
-    "Brunei Dpmm - Johor Darul": {
-        "Alt": 3.51,
-        "Üst": 1.71
-    },
-    "CLB Viettel - Bac Ninh": {
-        "Alt": 1.44,
-        "Üst": 1.86
-    },
-    "Charlton Ath U21 - Cardiff City U21": {
-        "Alt": 1.34,
-        "Üst": 4.05
-    },
-    "Aluminium A. - Zob Ahan": {
-        "Alt": 1.17,
-        "Üst": 2.63
-    },
-    "GOL Gohar - Kheybar K.": {
-        "Alt": 1.36,
-        "Üst": 2.01
-    },
-    "Haras Hodood - Proxy SC": {
-        "Alt": 1.37,
-        "Üst": 1.99
-    },
-    "Ismaily Sc - La Viena": {
-        "Alt": 3.32,
-        "Üst": 2.98
-    },
-    "Team Cairo - EL Terasanah": {
-        "Alt": 1.47,
-        "Üst": 3.1
-    },
-    "Masar - Farco": {
-        "Alt": 3.43,
-        "Üst": 2.97
-    },
-    "Entag Harby - El Mansurah": {
-        "Alt": 1.41,
-        "Üst": 1.92
-    },
-    "Sokol Kleczew - Slask W. II": {
+    "Dukla Prag - SK Kladno": {
         "Alt": 2.11,
-        "Üst": 1.32
+        "Üst": 3.35
     },
-    "AL Shabab - Samail SC": {
-        "Alt": 1.7,
-        "Üst": 1.55
+    "Jihlava - S B Vlasim": {
+        "Alt": 1.93,
+        "Üst": 1.4
     },
-    "Fujairah - AL Wahda": {
-        "Alt": 2.09,
-        "Üst": 1.33
+    "Taborsko - Trinec": {
+        "Alt": 1.8,
+        "Üst": 1.47
+    },
+    "Hobro - Vendsyssel": {
+        "Alt": 1.66,
+        "Üst": 1.59
+    },
+    "Tartu - Tallinna Kal.": {
+        "Alt": 1.8,
+        "Üst": 3.77
+    },
+    "Rustvai - Dinamo Tiflis": {
+        "Alt": 1.51,
+        "Üst": 1.75
+    },
+    "FK Jezero Plav - OFK Petrovac": {
+        "Alt": 1.43,
+        "Üst": 1.87
+    },
+    "SC Gjilani - KF Llapi": {
+        "Alt": 1.65,
+        "Üst": 1.6
+    },
+    "Bodo Glimt (K) - Haugesund (K)": {
+        "Alt": 1.9,
+        "Üst": 3.52
     }
 }
