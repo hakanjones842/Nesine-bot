@@ -1,31 +1,19 @@
 {
-    "Atl. Nacional Medellin - Deportivo Pasto": {
-        "Alt": 1.86,
-        "Üst": 1.44
-    },
-    "A. Oaxaca - Cruz Azul Hidalgo": {
-        "Alt": 1.93,
-        "Üst": 1.4
-    },
-    "Atlas (K) - Club Leon (K)": {
-        "Alt": 2.02,
-        "Üst": 1.35
-    },
     "Ferrymead Bays - Cashmere Technical": {
         "Alt": 2.4,
-        "Üst": 3.58
+        "Üst": 3.41
     },
     "Shanghai Port B - Hangzhou Linping": {
         "Alt": 1.56,
         "Üst": 1.69
     },
     "Adelaide City - Apia Leic.": {
-        "Alt": 1.94,
-        "Üst": 1.39
+        "Alt": 1.91,
+        "Üst": 1.41
     },
     "South Melbourne - Sydney Utd 58": {
-        "Alt": 1.79,
-        "Üst": 1.48
+        "Alt": 1.77,
+        "Üst": 1.49
     },
     "Brisbane Roar - Perth Glory": {
         "Alt": 1.76,
@@ -37,11 +25,11 @@
     },
     "Polissya Zhytomyr - Obolon Kiev": {
         "Alt": 1.53,
-        "Üst": 2.47
+        "Üst": 2.44
     },
     "Veres Rivne - Kolos Kovalivka": {
-        "Alt": 1.52,
-        "Üst": 1.74
+        "Alt": 1.49,
+        "Üst": 1.77
     },
     "Hoang Anh - Song Lam": {
         "Alt": 1.6,
@@ -56,8 +44,8 @@
         "Üst": 3.65
     },
     "Simba SC - Mbeya City": {
-        "Alt": 3.31,
-        "Üst": 2.32
+        "Alt": 1.37,
+        "Üst": 1.87
     },
     "Dodoma - Young Africans SC": {
         "Alt": 1.71,
@@ -72,11 +60,35 @@
         "Üst": 1.35
     },
     "FK Sileks K. - KF Shkendija Haracine": {
-        "Alt": 1.65,
-        "Üst": 1.6
+        "Alt": 1.68,
+        "Üst": 1.56
     },
     "Tripoli AC - AL Tadamon Sour": {
-        "Alt": 1.63,
-        "Üst": 1.61
+        "Alt": 1.58,
+        "Üst": 1.67
+    },
+    "Brunei Dpmm - Johor Darul": {
+        "Alt": 3.31,
+        "Üst": 1.75
+    },
+    "CLB Viettel - Bac Ninh": {
+        "Alt": 1.45,
+        "Üst": 1.83
+    },
+    "Charlton Ath U21 - Cardiff City U21": {
+        "Alt": 1.34,
+        "Üst": 4.03
+    },
+    "Aluminium A. - Zob Ahan": {
+        "Alt": 1.17,
+        "Üst": 2.63
+    },
+    "GOL Gohar - Kheybar K.": {
+        "Alt": 1.36,
+        "Üst": 2.01
+    },
+    "Haras Hodood - Proxy SC": {
+        "Alt": 1.31,
+        "Üst": 2.13
     }
 }
