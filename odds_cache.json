@@ -1,82 +1,90 @@
 {
-    "Olancho - CD Estrella Roja": {
+    "W. S. Wanderers - Auckland": {
+        "Alt": 1.77,
+        "Üst": 1.6
+    },
+    "Adelaide Utd (K) - Perth Glory (K)": {
+        "Alt": 1.72,
+        "Üst": 1.54
+    },
+    "Canberra - Sutherland S.": {
+        "Alt": 1.99,
+        "Üst": 1.37
+    },
+    "Vissel Kobe - Machida Zelvia": {
+        "Alt": 1.54,
+        "Üst": 1.87
+    },
+    "Kashima - Kashiwa": {
+        "Alt": 1.83,
+        "Üst": 1.56
+    },
+    "Tokyo Verdy - Fukuoka": {
+        "Alt": 1.28,
+        "Üst": 2.45
+    },
+    "Dalian Kuncheng C. - Guangxi Hengchen": {
+        "Alt": 1.8,
+        "Üst": 1.47
+    },
+    "Gamba Osaka - Kyoto Sanga": {
+        "Alt": 1.93,
+        "Üst": 1.5
+    },
+    "Tianjin Jin. - Shanghai Port": {
         "Alt": 1.77,
         "Üst": 1.49
     },
-    "Necaxa - Juarez": {
-        "Alt": 1.85,
-        "Üst": 1.44
+    "Wuhan T. T. - Shandong Taishan": {
+        "Alt": 2.64,
+        "Üst": 1.17
     },
-    "Tepatitlan - Cancun": {
-        "Alt": 2.04,
-        "Üst": 3.41
-    },
-    "Auckland City - Auckland Utd": {
-        "Alt": 1.88,
-        "Üst": 1.42
-    },
-    "Atl Junior - R. Aguilas": {
-        "Alt": 1.57,
-        "Üst": 1.67
-    },
-    "CD Esc. Belen - Sporting San Jose": {
-        "Alt": 1.75,
-        "Üst": 1.51
-    },
-    "Tokyo Verdy B. (K) - Saitama (K)": {
-        "Alt": 1.95,
-        "Üst": 1.39
-    },
-    "Atlante - Atl San Luis": {
-        "Alt": 1.7,
-        "Üst": 1.55
-    },
-    "Club Tijuana (K) - Pumas Unam (K)": {
-        "Alt": 1.69,
-        "Üst": 3.45
-    },
-    "Western S. W. (K) - Brisbane R. (K)": {
-        "Alt": 1.64,
-        "Üst": 1.6
-    },
-    "Newcastle Utd Jets - Macarthur": {
-        "Alt": 2.39,
+    "Qingdao Yth. Is. - Yunnan Yukun": {
+        "Alt": 2.16,
         "Üst": 1.3
     },
-    "C. Coast Marin. (K) - Canberra Utd (K)": {
-        "Alt": 1.86,
-        "Üst": 1.44
+    "Chengdu Ron. - Dalian Yingbo": {
+        "Alt": 2.01,
+        "Üst": 1.35
     },
-    "Avondale - Broad. Magic": {
-        "Alt": 1.15,
-        "Üst": 2.01
+    "Chongqing T. - Qingdao Jonoon": {
+        "Alt": 1.8,
+        "Üst": 1.47
     },
-    "Marconi Stal - Oakleigh C.": {
-        "Alt": 1.66,
-        "Üst": 1.59
+    "Henan Songs. - Beijing Guoan": {
+        "Alt": 2.21,
+        "Üst": 1.28
     },
-    "Reinmeer Aomori - Verspah Oita": {
-        "Alt": 1.45,
-        "Üst": 1.84
+    "Sh. Peng City - Shanghai S.": {
+        "Alt": 2.46,
+        "Üst": 1.21
     },
-    "Maruyasu Okazaki - Briobecca Urayasu": {
+    "Liaoning S. - Zhejiang": {
+        "Alt": 3.16,
+        "Üst": 1.09
+    },
+    "Changchun Yatai - Meizhou Hakka": {
+        "Alt": 1.9,
+        "Üst": 1.41
+    },
+    "S. Taishan B - Jiangxi Beidamen": {
+        "Alt": 1.41,
+        "Üst": 1.92
+    },
+    "Qingdao Red - Ganzhou Ruishi": {
+        "Alt": 1.49,
+        "Üst": 2.3
+    },
+    "Beijing Tech - Xiamen Feilu": {
+        "Alt": 1.8,
+        "Üst": 1.48
+    },
+    "Gimpo Citizen - Gimhae": {
+        "Alt": 1.59,
+        "Üst": 1.66
+    },
+    "Shanghai Shengli (K) - Liaoning (K)": {
         "Alt": 1.47,
-        "Üst": 1.8
-    },
-    "Criacao Shinjuku - Honda Lock": {
-        "Alt": 1.57,
-        "Üst": 1.68
-    },
-    "J Lease - Veertien Mie": {
-        "Alt": 1.32,
-        "Üst": 2.09
-    },
-    "Albirex Niigata (K) - JEF Utd Ichihara (K)": {
-        "Alt": 1.54,
-        "Üst": 1.71
-    },
-    "Bucheon - Gwangju": {
-        "Alt": 1.7,
-        "Üst": 1.67
+        "Üst": 1.81
     }
 }
