@@ -1,90 +1,74 @@
 {
-    "W. S. Wanderers - Auckland": {
-        "Alt": 1.77,
-        "Üst": 1.6
+    "JK Tabasalu - FA Tartu Kalev": {
+        "Alt": 1.48,
+        "Üst": 3.95
     },
-    "Adelaide Utd (K) - Perth Glory (K)": {
-        "Alt": 1.72,
-        "Üst": 1.54
+    "Akron Tolyatti - D. Moskova": {
+        "Alt": 1.81,
+        "Üst": 1.58
     },
-    "Canberra - Sutherland S.": {
-        "Alt": 1.99,
-        "Üst": 1.37
+    "Wolfsburg (K) - Köln (K)": {
+        "Alt": 2.21,
+        "Üst": 3.6
     },
-    "Vissel Kobe - Machida Zelvia": {
-        "Alt": 1.54,
+    "Gomel - D. Minsk": {
+        "Alt": 1.43,
         "Üst": 1.87
     },
-    "Kashima - Kashiwa": {
-        "Alt": 1.83,
-        "Üst": 1.56
-    },
-    "Tokyo Verdy - Fukuoka": {
-        "Alt": 1.28,
-        "Üst": 2.45
-    },
-    "Dalian Kuncheng C. - Guangxi Hengchen": {
-        "Alt": 1.8,
-        "Üst": 1.47
-    },
-    "Gamba Osaka - Kyoto Sanga": {
-        "Alt": 1.93,
-        "Üst": 1.5
-    },
-    "Tianjin Jin. - Shanghai Port": {
-        "Alt": 1.77,
-        "Üst": 1.49
-    },
-    "Wuhan T. T. - Shandong Taishan": {
-        "Alt": 2.64,
-        "Üst": 1.17
-    },
-    "Qingdao Yth. Is. - Yunnan Yukun": {
-        "Alt": 2.16,
-        "Üst": 1.3
-    },
-    "Chengdu Ron. - Dalian Yingbo": {
-        "Alt": 2.01,
-        "Üst": 1.35
-    },
-    "Chongqing T. - Qingdao Jonoon": {
-        "Alt": 1.8,
-        "Üst": 1.47
-    },
-    "Henan Songs. - Beijing Guoan": {
-        "Alt": 2.21,
-        "Üst": 1.28
-    },
-    "Sh. Peng City - Shanghai S.": {
-        "Alt": 2.46,
-        "Üst": 1.21
-    },
-    "Liaoning S. - Zhejiang": {
-        "Alt": 3.16,
-        "Üst": 1.09
-    },
-    "Changchun Yatai - Meizhou Hakka": {
-        "Alt": 1.9,
+    "Arucas U19 - Acodetti U19": {
+        "Alt": 1.89,
         "Üst": 1.41
     },
-    "S. Taishan B - Jiangxi Beidamen": {
+    "Estrella - Real Union de Tenerife": {
         "Alt": 1.41,
-        "Üst": 1.92
+        "Üst": 1.91
     },
-    "Qingdao Red - Ganzhou Ruishi": {
-        "Alt": 1.49,
-        "Üst": 2.3
+    "Ath Bilbao (K) - Sevilla (K)": {
+        "Alt": 1.54,
+        "Üst": 1.72
     },
-    "Beijing Tech - Xiamen Feilu": {
-        "Alt": 1.8,
-        "Üst": 1.48
+    "Real Sociedad (K) - RCD Espanyol (K)": {
+        "Alt": 1.7,
+        "Üst": 1.55
     },
-    "Gimpo Citizen - Gimhae": {
-        "Alt": 1.59,
-        "Üst": 1.66
+    "SD Eibar B - Bergantinos": {
+        "Alt": 1.52,
+        "Üst": 1.74
     },
-    "Shanghai Shengli (K) - Liaoning (K)": {
-        "Alt": 1.47,
-        "Üst": 1.81
+    "Okzhetpes K - FK Kaspyi Aktau": {
+        "Alt": 1.98,
+        "Üst": 1.38
+    },
+    "Zhetysu - Tobol": {
+        "Alt": 1.66,
+        "Üst": 1.59
+    },
+    "Struga Trim - FK Skopje": {
+        "Alt": 1.34,
+        "Üst": 1.97
+    },
+    "FK Liepaja - FK Tukums 2000 Tss": {
+        "Alt": 1.78,
+        "Üst": 3.37
+    },
+    "FS METTA LU - Saldus SS Leevon": {
+        "Alt": 3.73,
+        "Üst": 2.0
+    },
+    "Rekord Bielsko Biala - Resovia": {
+        "Alt": 1.85,
+        "Üst": 1.44
+    },
+    "Sporting Lisbon B - Portimonense": {
+        "Alt": 1.44,
+        "Üst": 1.86
+    },
+    "Academica - Leixoes": {
+        "Alt": 1.57,
+        "Üst": 1.67
+    },
+    "Politehn Tim - ACS Fotbal Club Bacau 2023": {
+        "Alt": 1.63,
+        "Üst": 1.61
     }
 }
