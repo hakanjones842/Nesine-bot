@@ -1,55 +1,23 @@
 {
-    "Operario - Athletic Club MG": {
-        "Alt": 1.44,
-        "Üst": 1.87
-    },
-    "Cruzeiro MG - Clube do Remo": {
-        "Alt": 2.71,
-        "Üst": 1.22
-    },
-    "Boyaca Chico - CA Bucaramanga": {
-        "Alt": 1.37,
-        "Üst": 2.0
-    },
-    "Audax Ital. - Huachipato": {
-        "Alt": 1.8,
-        "Üst": 1.47
-    },
-    "CA Juventud De Las Piedras - Penarol": {
-        "Alt": 1.47,
-        "Üst": 1.8
-    },
-    "Recife - Criciuma": {
-        "Alt": 1.51,
-        "Üst": 1.75
-    },
-    "CD Inca - Fundacion F. Un Atleta": {
-        "Alt": 1.78,
+    "Olancho - CD Estrella Roja": {
+        "Alt": 1.77,
         "Üst": 1.49
     },
-    "CA Tigre - Atl Tucuman": {
-        "Alt": 1.34,
-        "Üst": 2.26
-    },
-    "Olancho - CD Estrella Roja": {
-        "Alt": 1.86,
+    "Necaxa - Juarez": {
+        "Alt": 1.85,
         "Üst": 1.44
     },
-    "Necaxa - Juarez": {
-        "Alt": 1.81,
-        "Üst": 1.47
-    },
     "Tepatitlan - Cancun": {
-        "Alt": 1.88,
-        "Üst": 3.34
+        "Alt": 2.04,
+        "Üst": 3.41
     },
     "Auckland City - Auckland Utd": {
-        "Alt": 1.95,
-        "Üst": 1.39
+        "Alt": 1.88,
+        "Üst": 1.42
     },
     "Atl Junior - R. Aguilas": {
-        "Alt": 1.54,
-        "Üst": 1.7
+        "Alt": 1.57,
+        "Üst": 1.67
     },
     "CD Esc. Belen - Sporting San Jose": {
         "Alt": 1.75,
@@ -65,10 +33,50 @@
     },
     "Club Tijuana (K) - Pumas Unam (K)": {
         "Alt": 1.69,
-        "Üst": 3.46
+        "Üst": 3.45
     },
     "Western S. W. (K) - Brisbane R. (K)": {
         "Alt": 1.64,
         "Üst": 1.6
+    },
+    "Newcastle Utd Jets - Macarthur": {
+        "Alt": 2.39,
+        "Üst": 1.3
+    },
+    "C. Coast Marin. (K) - Canberra Utd (K)": {
+        "Alt": 1.86,
+        "Üst": 1.44
+    },
+    "Avondale - Broad. Magic": {
+        "Alt": 1.15,
+        "Üst": 2.01
+    },
+    "Marconi Stal - Oakleigh C.": {
+        "Alt": 1.66,
+        "Üst": 1.59
+    },
+    "Reinmeer Aomori - Verspah Oita": {
+        "Alt": 1.45,
+        "Üst": 1.84
+    },
+    "Maruyasu Okazaki - Briobecca Urayasu": {
+        "Alt": 1.47,
+        "Üst": 1.8
+    },
+    "Criacao Shinjuku - Honda Lock": {
+        "Alt": 1.57,
+        "Üst": 1.68
+    },
+    "J Lease - Veertien Mie": {
+        "Alt": 1.32,
+        "Üst": 2.09
+    },
+    "Albirex Niigata (K) - JEF Utd Ichihara (K)": {
+        "Alt": 1.54,
+        "Üst": 1.71
+    },
+    "Bucheon - Gwangju": {
+        "Alt": 1.7,
+        "Üst": 1.67
     }
 }
