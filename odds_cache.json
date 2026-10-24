@@ -1,74 +1,94 @@
 {
-    "JK Tabasalu - FA Tartu Kalev": {
-        "Alt": 1.48,
-        "Üst": 3.95
+    "Augsburg - Union Berlin": {
+        "Alt": 2.41,
+        "Üst": 1.29
     },
-    "Akron Tolyatti - D. Moskova": {
-        "Alt": 1.81,
-        "Üst": 1.58
-    },
-    "Wolfsburg (K) - Köln (K)": {
-        "Alt": 2.21,
-        "Üst": 3.6
-    },
-    "Gomel - D. Minsk": {
-        "Alt": 1.43,
-        "Üst": 1.87
-    },
-    "Arucas U19 - Acodetti U19": {
-        "Alt": 1.89,
-        "Üst": 1.41
-    },
-    "Estrella - Real Union de Tenerife": {
-        "Alt": 1.41,
-        "Üst": 1.91
-    },
-    "Ath Bilbao (K) - Sevilla (K)": {
-        "Alt": 1.54,
-        "Üst": 1.72
-    },
-    "Real Sociedad (K) - RCD Espanyol (K)": {
-        "Alt": 1.7,
-        "Üst": 1.55
-    },
-    "SD Eibar B - Bergantinos": {
-        "Alt": 1.52,
-        "Üst": 1.74
-    },
-    "Okzhetpes K - FK Kaspyi Aktau": {
-        "Alt": 1.98,
+    "Paderborn - Hamburg": {
+        "Alt": 2.16,
         "Üst": 1.38
     },
-    "Zhetysu - Tobol": {
-        "Alt": 1.66,
-        "Üst": 1.59
+    "Köln - Schalke 04": {
+        "Alt": 1.94,
+        "Üst": 1.49
     },
-    "Struga Trim - FK Skopje": {
+    "Mainz - Werder Bremen": {
+        "Alt": 2.3,
+        "Üst": 1.33
+    },
+    "Leipzig - Elversberg": {
+        "Alt": 3.14,
+        "Üst": 1.15
+    },
+    "Admira Wacker - Wacker Inns.": {
+        "Alt": 1.87,
+        "Üst": 1.43
+    },
+    "Liefering - Schwarz Weiss B.": {
+        "Alt": 2.23,
+        "Üst": 1.28
+    },
+    "Soligorsk - Smorgon": {
+        "Alt": 2.87,
+        "Üst": 3.49
+    },
+    "Loko Sofya - Botev Vratsa": {
+        "Alt": 1.64,
+        "Üst": 1.6
+    },
+    "Swansea U. - Treowen Stars": {
+        "Alt": 1.77,
+        "Üst": 3.49
+    },
+    "Baglan Dragons - Aberystwyth": {
+        "Alt": 1.71,
+        "Üst": 1.54
+    },
+    "Llanuwchllyn - Bala Town": {
+        "Alt": 1.75,
+        "Üst": 3.44
+    },
+    "Caersws - Guilsfield": {
+        "Alt": 2.99,
+        "Üst": 3.56
+    },
+    "Rhyl - Newtown": {
+        "Alt": 2.0,
+        "Üst": 1.36
+    },
+    "Buckley Town - Holyhead Hotspur": {
+        "Alt": 2.24,
+        "Üst": 3.58
+    },
+    "Porthmadog - Brickfield Rangers": {
+        "Alt": 1.88,
+        "Üst": 1.42
+    },
+    "Bangor 1876 - Ruthin Town": {
+        "Alt": 1.64,
+        "Üst": 3.54
+    },
+    "Magesi - Gomora Utd": {
         "Alt": 1.34,
-        "Üst": 1.97
+        "Üst": 2.06
     },
-    "FK Liepaja - FK Tukums 2000 Tss": {
-        "Alt": 1.78,
-        "Üst": 3.37
+    "Leicesterford City - Lerumo Lions": {
+        "Alt": 1.31,
+        "Üst": 2.12
     },
-    "FS METTA LU - Saldus SS Leevon": {
-        "Alt": 3.73,
-        "Üst": 2.0
+    "North West Uni. - Uni. Pretoria": {
+        "Alt": 5.16,
+        "Üst": 3.54
     },
-    "Rekord Bielsko Biala - Resovia": {
-        "Alt": 1.85,
-        "Üst": 1.44
+    "Newroz SC - Diyala": {
+        "Alt": 1.5,
+        "Üst": 1.76
     },
-    "Sporting Lisbon B - Portimonense": {
-        "Alt": 1.44,
-        "Üst": 1.86
+    "Jwaaya - Shabab AL Sahel": {
+        "Alt": 1.61,
+        "Üst": 1.63
     },
-    "Academica - Leixoes": {
-        "Alt": 1.57,
-        "Üst": 1.67
-    },
-    "Politehn Tim - ACS Fotbal Club Bacau 2023": {
-        "Alt": 1.63,
-        "Üst": 1.61
+    "Marsaxlokk - Sliema Wanderers": {
+        "Alt": 1.51,
+        "Üst": 1.74
     }
 }
