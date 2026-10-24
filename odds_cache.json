@@ -1,94 +1,78 @@
 {
-    "Augsburg - Union Berlin": {
-        "Alt": 2.41,
-        "Üst": 1.29
+    "Al Sahel - Al Nasr SC": {
+        "Alt": 1.58,
+        "Üst": 1.67
     },
-    "Paderborn - Hamburg": {
-        "Alt": 2.16,
-        "Üst": 1.38
-    },
-    "Köln - Schalke 04": {
-        "Alt": 1.94,
-        "Üst": 1.49
-    },
-    "Mainz - Werder Bremen": {
-        "Alt": 2.3,
-        "Üst": 1.33
-    },
-    "Leipzig - Elversberg": {
-        "Alt": 3.14,
-        "Üst": 1.15
-    },
-    "Admira Wacker - Wacker Inns.": {
-        "Alt": 1.87,
-        "Üst": 1.43
-    },
-    "Liefering - Schwarz Weiss B.": {
-        "Alt": 2.23,
-        "Üst": 1.28
-    },
-    "Soligorsk - Smorgon": {
-        "Alt": 2.87,
-        "Üst": 3.49
-    },
-    "Loko Sofya - Botev Vratsa": {
+    "Alverca - Arouca": {
         "Alt": 1.64,
-        "Üst": 1.6
+        "Üst": 1.73
     },
-    "Swansea U. - Treowen Stars": {
-        "Alt": 1.77,
-        "Üst": 3.49
+    "Zamalek - Apr": {
+        "Alt": 1.68,
+        "Üst": 1.56
     },
-    "Baglan Dragons - Aberystwyth": {
-        "Alt": 1.71,
+    "Al Merrikh (Sdn) - Horoya AC": {
+        "Alt": 1.32,
+        "Üst": 2.11
+    },
+    "Pyramids - Al Merriekh Bentiu": {
+        "Alt": 3.68,
+        "Üst": 2.08
+    },
+    "Black Bulls - Rayon Sports": {
+        "Alt": 1.36,
+        "Üst": 2.01
+    },
+    "Club Sportif Sfaxien - AFAD Djekanou": {
+        "Alt": 1.4,
+        "Üst": 1.93
+    },
+    "JS Saoura - Ben Aknoun": {
+        "Alt": 1.28,
+        "Üst": 2.21
+    },
+    "SD Atletico Albericia - CD Elemental Atl M.": {
+        "Alt": 1.76,
+        "Üst": 1.51
+    },
+    "AD Cala Pozuelo - UD Sanse": {
+        "Alt": 1.68,
+        "Üst": 1.56
+    },
+    "CD Estepona - Ciudad De Lucena": {
+        "Alt": 1.47,
+        "Üst": 1.8
+    },
+    "Bangor - Larne": {
+        "Alt": 1.7,
+        "Üst": 1.55
+    },
+    "Gyirmot Gyor - Soroksar": {
+        "Alt": 1.79,
+        "Üst": 1.48
+    },
+    "Tatabanya - Dorogi": {
+        "Alt": 1.72,
         "Üst": 1.54
     },
-    "Llanuwchllyn - Bala Town": {
-        "Alt": 1.75,
-        "Üst": 3.44
-    },
-    "Caersws - Guilsfield": {
-        "Alt": 2.99,
-        "Üst": 3.56
-    },
-    "Rhyl - Newtown": {
-        "Alt": 2.0,
-        "Üst": 1.36
-    },
-    "Buckley Town - Holyhead Hotspur": {
-        "Alt": 2.24,
-        "Üst": 3.58
-    },
-    "Porthmadog - Brickfield Rangers": {
-        "Alt": 1.88,
-        "Üst": 1.42
-    },
-    "Bangor 1876 - Ruthin Town": {
-        "Alt": 1.64,
-        "Üst": 3.54
-    },
-    "Magesi - Gomora Utd": {
-        "Alt": 1.34,
-        "Üst": 2.06
-    },
-    "Leicesterford City - Lerumo Lions": {
-        "Alt": 1.31,
-        "Üst": 2.12
-    },
-    "North West Uni. - Uni. Pretoria": {
-        "Alt": 5.16,
-        "Üst": 3.54
-    },
-    "Newroz SC - Diyala": {
-        "Alt": 1.5,
-        "Üst": 1.76
-    },
-    "Jwaaya - Shabab AL Sahel": {
-        "Alt": 1.61,
-        "Üst": 1.63
-    },
-    "Marsaxlokk - Sliema Wanderers": {
+    "S. Farense - Penafiel": {
         "Alt": 1.51,
-        "Üst": 1.74
+        "Üst": 1.75
+    },
+    "ASC Diambars - Hlm": {
+        "Alt": 4.76,
+        "Üst": 3.26
+    },
+    "Dunajska S. - Ruzomberok": {
+        "Alt": 2.6,
+        "Üst": 1.18
+    },
+    "AEK Athens - Paneitolikos": {
+        "Alt": 1.21,
+        "Üst": 1.71
+    },
+    "Montreal I. - Nashville SC": {
+        "Alt": 2.2,
+        "Üst": 1.36
     }
 }
