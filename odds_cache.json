@@ -1,78 +1,74 @@
 {
-    "AZ Alkmaar - Twente": {
-        "Alt": 2.29,
-        "Üst": 1.34
-    },
-    "AS Far Rabat - Korhogo": {
+    "SD Aucas - Barcelona (Ekv)": {
         "Alt": 1.41,
-        "Üst": 2.19
+        "Üst": 1.9
     },
-    "Santa Coloma - Inter Escaldes": {
-        "Alt": 1.61,
-        "Üst": 1.63
+    "Portuguesa - Carabobo": {
+        "Alt": 1.57,
+        "Üst": 1.67
     },
-    "Gimnasia Jujuy - CA Atlanta": {
-        "Alt": 1.44,
-        "Üst": 1.86
+    "AD San Carlos - D. Saprissa": {
+        "Alt": 1.57,
+        "Üst": 1.67
     },
-    "Patronato - Agropecuario A.": {
-        "Alt": 2.82,
-        "Üst": 2.88
-    },
-    "CA Temperley - Chac. Juniors": {
-        "Alt": 4.07,
-        "Üst": 3.09
-    },
-    "Racing de Cordoba - All Boys": {
-        "Alt": 1.29,
-        "Üst": 3.19
-    },
-    "Always Ready - Cdt Real Oruro": {
-        "Alt": 4.03,
-        "Üst": 1.72
-    },
-    "Velez Mostar - FK BSK Banja Luka": {
-        "Alt": 1.53,
-        "Üst": 1.73
-    },
-    "CS Emelec - Guayaquil": {
-        "Alt": 1.46,
-        "Üst": 1.83
-    },
-    "CSD Imperial - CD Marquense": {
-        "Alt": 1.66,
-        "Üst": 1.59
-    },
-    "Fortaleza - Deport Cali": {
-        "Alt": 1.41,
-        "Üst": 1.89
-    },
-    "Cerro Largo - Boston River": {
-        "Alt": 1.38,
-        "Üst": 1.97
-    },
-    "Club General C. - 12 de Junio de Villa Hayes": {
-        "Alt": 1.64,
-        "Üst": 1.6
-    },
-    "Fernando Mora - Deportivo Santani": {
-        "Alt": 1.54,
-        "Üst": 1.7
-    },
-    "Udinese - AC Milan": {
+    "River Plate - Racing Club": {
         "Alt": 1.69,
         "Üst": 1.67
     },
-    "Barcelona - Real Madrid": {
-        "Alt": 4.24,
-        "Üst": 2.0
+    "Nacional - Liverpool M.": {
+        "Alt": 1.57,
+        "Üst": 1.68
     },
-    "Independiente - Boca Juniors": {
-        "Alt": 1.34,
-        "Üst": 2.26
+    "Crown Legacy - Columbus Crew 2": {
+        "Alt": 2.4,
+        "Üst": 3.6
     },
-    "Central N. Salta - Acassuso": {
-        "Alt": 3.22,
-        "Üst": 2.91
+    "Waterhouse - Dunbeholden": {
+        "Alt": 1.71,
+        "Üst": 1.54
+    },
+    "Atlas - Puebla": {
+        "Alt": 1.75,
+        "Üst": 1.51
+    },
+    "CD Tapatio - Atl Morelia": {
+        "Alt": 1.43,
+        "Üst": 3.65
+    },
+    "Diriangen - Sebaco": {
+        "Alt": 2.02,
+        "Üst": 1.35
+    },
+    "Deportivo Garcilaso - CD Los Chankas": {
+        "Alt": 1.79,
+        "Üst": 1.48
+    },
+    "U. Concepcion - Deportes Limache": {
+        "Alt": 1.92,
+        "Üst": 1.41
+    },
+    "Atl. Nacional Medellin - I. Medellin": {
+        "Alt": 1.77,
+        "Üst": 1.5
+    },
+    "Lobos Upnfm - CD Olimpia": {
+        "Alt": 1.54,
+        "Üst": 1.7
+    },
+    "O. Petrolero - Strongest": {
+        "Alt": 2.75,
+        "Üst": 3.5
+    },
+    "CD Suchitepequez - Aurora": {
+        "Alt": 1.61,
+        "Üst": 1.63
+    },
+    "Dep. La Gua. - Metropolitan": {
+        "Alt": 1.58,
+        "Üst": 1.67
+    },
+    "Alajuelense - M. Per. Zeledon": {
+        "Alt": 2.04,
+        "Üst": 1.34
     }
 }
