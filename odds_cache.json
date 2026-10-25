@@ -1,82 +1,74 @@
 {
-    "Beijing BG P. (K) - Jiangsu LFC (K)": {
+    "Banga Gargzdai - Siauliai": {
+        "Alt": 1.94,
+        "Üst": 1.39
+    },
+    "Vasas - Paksi": {
+        "Alt": 2.51,
+        "Üst": 1.2
+    },
+    "KRC Genk - Standard Liege": {
+        "Alt": 2.06,
+        "Üst": 1.42
+    },
+    "Holstein Kiel - D. Dresden": {
+        "Alt": 2.13,
+        "Üst": 1.39
+    },
+    "Osnabrück - G. Furth": {
+        "Alt": 1.96,
+        "Üst": 1.47
+    },
+    "Braunschweig - Hannover 96": {
+        "Alt": 2.09,
+        "Üst": 1.41
+    },
+    "TSV Havelse - Saarbrucken": {
+        "Alt": 2.52,
+        "Üst": 1.27
+    },
+    "Nomme Kalju - Flora T.": {
+        "Alt": 1.98,
+        "Üst": 1.38
+    },
+    "Tuloy - Mendiola": {
+        "Alt": 1.41,
+        "Üst": 4.31
+    },
+    "Middlesbrough U21 - Tottenham U21": {
+        "Alt": 3.43,
+        "Üst": 4.04
+    },
+    "Paykan - Malavan Bandar A.": {
+        "Alt": 1.18,
+        "Üst": 2.59
+    },
+    "Kjelsas - Trygg Lade": {
+        "Alt": 3.76,
+        "Üst": 2.32
+    },
+    "Konyaspor - Gençlerbirliği": {
+        "Alt": 1.61,
+        "Üst": 1.76
+    },
+    "Antalyaspor - Bodrum FK": {
         "Alt": 1.59,
         "Üst": 1.66
     },
-    "Tokyo - M. Hollyhock": {
-        "Alt": 1.85,
-        "Üst": 1.54
-    },
-    "Kawasaki Frontale - Fagiano": {
-        "Alt": 1.92,
-        "Üst": 1.5
-    },
-    "Ehime - Fukushima Utd": {
-        "Alt": 2.62,
-        "Üst": 3.57
-    },
-    "Cheonan City - Ansan Greene": {
-        "Alt": 1.69,
-        "Üst": 1.56
-    },
-    "Chungbuk Cheongju - Yongin": {
+    "Ath Bilbao - Getafe": {
         "Alt": 1.56,
-        "Üst": 1.69
+        "Üst": 1.83
     },
-    "Paju Citizen - Hwaseong": {
-        "Alt": 1.67,
-        "Üst": 1.58
+    "CSKA Moskova - S. Moskova": {
+        "Alt": 1.99,
+        "Üst": 1.47
     },
-    "Tung Sing - Citizen AA": {
-        "Alt": 2.64,
-        "Üst": 3.65
-    },
-    "Metro Gallery - Supreme": {
-        "Alt": 3.24,
-        "Üst": 3.76
-    },
-    "Hoi King - Wofoo SE": {
-        "Alt": 2.3,
-        "Üst": 3.58
-    },
-    "Taiwan Power C. - Taipei Tatung": {
-        "Alt": 1.61,
-        "Üst": 1.63
-    },
-    "Shanghai Shengli (K) - Liaoning (K)": {
+    "Bremer SV 1906 - Hamburg II": {
         "Alt": 1.47,
-        "Üst": 1.81
+        "Üst": 3.6
     },
-    "Persita Tangerang - Bali Utd": {
-        "Alt": 1.73,
-        "Üst": 1.53
-    },
-    "Arema - Dewa Utd": {
+    "St. Pauli II - W. Flensburg": {
         "Alt": 1.87,
-        "Üst": 1.43
-    },
-    "Lucky Mile - 3 Sing": {
-        "Alt": 1.36,
-        "Üst": 3.99
-    },
-    "Hubei Chufen - Shanghai Segenda": {
-        "Alt": 1.47,
-        "Üst": 1.8
-    },
-    "S. Bellmare - Tochigi City": {
-        "Alt": 2.01,
-        "Üst": 1.36
-    },
-    "Dagon - Thitsar Arman": {
-        "Alt": 1.92,
-        "Üst": 3.5
-    },
-    "Chinland - Myawady": {
-        "Alt": 1.88,
-        "Üst": 1.42
-    },
-    "Hantharwady - Yangon Utd": {
-        "Alt": 1.78,
-        "Üst": 3.44
+        "Üst": 3.54
     }
 }
