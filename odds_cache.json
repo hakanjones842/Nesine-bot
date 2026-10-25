@@ -1,74 +1,70 @@
 {
-    "SD Aucas - Barcelona (Ekv)": {
-        "Alt": 1.41,
-        "Üst": 1.9
-    },
-    "Portuguesa - Carabobo": {
-        "Alt": 1.57,
-        "Üst": 1.67
-    },
-    "AD San Carlos - D. Saprissa": {
-        "Alt": 1.57,
-        "Üst": 1.67
-    },
-    "River Plate - Racing Club": {
-        "Alt": 1.69,
-        "Üst": 1.67
-    },
-    "Nacional - Liverpool M.": {
-        "Alt": 1.57,
-        "Üst": 1.68
-    },
-    "Crown Legacy - Columbus Crew 2": {
-        "Alt": 2.4,
-        "Üst": 3.6
-    },
-    "Waterhouse - Dunbeholden": {
-        "Alt": 1.71,
-        "Üst": 1.54
-    },
-    "Atlas - Puebla": {
-        "Alt": 1.75,
-        "Üst": 1.51
-    },
-    "CD Tapatio - Atl Morelia": {
-        "Alt": 1.43,
-        "Üst": 3.65
-    },
-    "Diriangen - Sebaco": {
-        "Alt": 2.02,
-        "Üst": 1.35
-    },
-    "Deportivo Garcilaso - CD Los Chankas": {
-        "Alt": 1.79,
-        "Üst": 1.48
-    },
-    "U. Concepcion - Deportes Limache": {
-        "Alt": 1.92,
-        "Üst": 1.41
-    },
-    "Atl. Nacional Medellin - I. Medellin": {
-        "Alt": 1.77,
-        "Üst": 1.5
-    },
-    "Lobos Upnfm - CD Olimpia": {
-        "Alt": 1.54,
-        "Üst": 1.7
-    },
     "O. Petrolero - Strongest": {
-        "Alt": 2.75,
-        "Üst": 3.5
+        "Alt": 3.11,
+        "Üst": 3.62
     },
     "CD Suchitepequez - Aurora": {
         "Alt": 1.61,
         "Üst": 1.63
     },
     "Dep. La Gua. - Metropolitan": {
-        "Alt": 1.58,
-        "Üst": 1.67
+        "Alt": 1.6,
+        "Üst": 1.64
     },
     "Alajuelense - M. Per. Zeledon": {
-        "Alt": 2.04,
-        "Üst": 1.34
+        "Alt": 2.0,
+        "Üst": 1.36
+    },
+    "Cruzeiro EC (K) - Libertad (K)": {
+        "Alt": 1.93,
+        "Üst": 1.4
+    },
+    "Tigres UANL (K) - Monterrey (K)": {
+        "Alt": 3.11,
+        "Üst": 3.62
+    },
+    "C. Cordoba - V. Sarsfield": {
+        "Alt": 1.56,
+        "Üst": 1.83
+    },
+    "Barracas - Estudiantes Río C.": {
+        "Alt": 1.25,
+        "Üst": 2.57
+    },
+    "Los Angeles - LA Galaxy": {
+        "Alt": 2.49,
+        "Üst": 1.28
+    },
+    "Queretaro - Cruz Azul": {
+        "Alt": 1.87,
+        "Üst": 1.43
+    },
+    "America - Pachuca": {
+        "Alt": 1.95,
+        "Üst": 1.39
+    },
+    "Real Esteli - Managua": {
+        "Alt": 1.65,
+        "Üst": 1.6
+    },
+    "CD Tolima - Deportivo Pasto": {
+        "Alt": 1.57,
+        "Üst": 1.67
+    },
+    "Club Tijuana - Santos Laguna": {
+        "Alt": 1.95,
+        "Üst": 1.39
+    },
+    "S. Taishan B - Jiangxi Beidamen": {
+        "Alt": 1.43,
+        "Üst": 1.87
+    },
+    "Fard - Havadar SC": {
+        "Alt": 1.19,
+        "Üst": 2.56
+    },
+    "Mes Kerman - Shahin Bandar Ameri": {
+        "Alt": 1.17,
+        "Üst": 2.64
     }
 }
