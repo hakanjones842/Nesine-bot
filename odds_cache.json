@@ -1,63 +1,11 @@
 {
-    "O. Petrolero - Strongest": {
-        "Alt": 3.11,
-        "Üst": 3.62
-    },
-    "CD Suchitepequez - Aurora": {
-        "Alt": 1.61,
-        "Üst": 1.63
-    },
-    "Dep. La Gua. - Metropolitan": {
-        "Alt": 1.6,
-        "Üst": 1.64
-    },
-    "Alajuelense - M. Per. Zeledon": {
-        "Alt": 2.0,
-        "Üst": 1.36
-    },
-    "Cruzeiro EC (K) - Libertad (K)": {
-        "Alt": 1.93,
-        "Üst": 1.4
-    },
-    "Tigres UANL (K) - Monterrey (K)": {
-        "Alt": 3.11,
-        "Üst": 3.62
-    },
-    "C. Cordoba - V. Sarsfield": {
-        "Alt": 1.56,
-        "Üst": 1.83
-    },
-    "Barracas - Estudiantes Río C.": {
-        "Alt": 1.25,
-        "Üst": 2.57
-    },
-    "Los Angeles - LA Galaxy": {
-        "Alt": 2.49,
-        "Üst": 1.28
-    },
-    "Queretaro - Cruz Azul": {
-        "Alt": 1.87,
-        "Üst": 1.43
-    },
-    "America - Pachuca": {
-        "Alt": 1.95,
-        "Üst": 1.39
-    },
-    "Real Esteli - Managua": {
-        "Alt": 1.65,
-        "Üst": 1.6
-    },
-    "CD Tolima - Deportivo Pasto": {
-        "Alt": 1.57,
-        "Üst": 1.67
-    },
     "Club Tijuana - Santos Laguna": {
         "Alt": 1.95,
         "Üst": 1.39
     },
     "S. Taishan B - Jiangxi Beidamen": {
-        "Alt": 1.43,
-        "Üst": 1.87
+        "Alt": 1.45,
+        "Üst": 1.84
     },
     "Fard - Havadar SC": {
         "Alt": 1.19,
@@ -66,5 +14,45 @@
     "Mes Kerman - Shahin Bandar Ameri": {
         "Alt": 1.17,
         "Üst": 2.64
+    },
+    "Geylang - Hougang Utd": {
+        "Alt": 2.15,
+        "Üst": 3.43
+    },
+    "Bhayangkara - PSM Makassar": {
+        "Alt": 1.72,
+        "Üst": 1.54
+    },
+    "Persebaya - Madura Utd": {
+        "Alt": 1.89,
+        "Üst": 1.42
+    },
+    "Persija Jakarta - Persik Kediri": {
+        "Alt": 2.26,
+        "Üst": 3.55
+    },
+    "N. Zamini Tehran - S Sazi Qeshm": {
+        "Alt": 1.18,
+        "Üst": 2.6
+    },
+    "Muang Thong Utd - Police Tero": {
+        "Alt": 1.65,
+        "Üst": 1.6
+    },
+    "Mladost Zdralovi - NK Jadran LP": {
+        "Alt": 1.58,
+        "Üst": 1.67
+    },
+    "Swansea U21 - Charlton Ath U21": {
+        "Alt": 2.17,
+        "Üst": 3.78
+    },
+    "Barnsley U21 - Peterborough Utd U21": {
+        "Alt": 3.29,
+        "Üst": 4.04
+    },
+    "Xorazm Fk Urganch - N. Namangan": {
+        "Alt": 1.54,
+        "Üst": 1.7
     }
 }
