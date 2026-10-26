@@ -1,11 +1,7 @@
 {
-    "Club Tijuana - Santos Laguna": {
-        "Alt": 1.95,
-        "Üst": 1.39
-    },
     "S. Taishan B - Jiangxi Beidamen": {
-        "Alt": 1.45,
-        "Üst": 1.84
+        "Alt": 1.41,
+        "Üst": 1.91
     },
     "Fard - Havadar SC": {
         "Alt": 1.19,
@@ -16,8 +12,8 @@
         "Üst": 2.64
     },
     "Geylang - Hougang Utd": {
-        "Alt": 2.15,
-        "Üst": 3.43
+        "Alt": 2.09,
+        "Üst": 3.41
     },
     "Bhayangkara - PSM Makassar": {
         "Alt": 1.72,
@@ -25,10 +21,10 @@
     },
     "Persebaya - Madura Utd": {
         "Alt": 1.89,
-        "Üst": 1.42
+        "Üst": 1.41
     },
     "Persija Jakarta - Persik Kediri": {
-        "Alt": 2.26,
+        "Alt": 2.39,
         "Üst": 3.55
     },
     "N. Zamini Tehran - S Sazi Qeshm": {
@@ -54,5 +50,25 @@
     "Xorazm Fk Urganch - N. Namangan": {
         "Alt": 1.54,
         "Üst": 1.7
+    },
+    "FK Neftchi Fargona - AL Ittihad": {
+        "Alt": 1.93,
+        "Üst": 1.4
+    },
+    "Mohun Bagan - Chennaiyin": {
+        "Alt": 1.84,
+        "Üst": 1.45
+    },
+    "Sheffield Utd U21 - Fleetwood T. U21": {
+        "Alt": 1.71,
+        "Üst": 3.57
+    },
+    "Loko Plovdiv - Slavya Sofya": {
+        "Alt": 4.29,
+        "Üst": 3.25
+    },
+    "Iberia 1999 - Torpedo": {
+        "Alt": 1.74,
+        "Üst": 1.53
     }
 }
