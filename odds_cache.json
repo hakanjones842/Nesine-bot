@@ -1,74 +1,86 @@
 {
-    "US Boulogne - Reims": {
-        "Alt": 1.52,
+    "Juventude - Nautico PE": {
+        "Alt": 1.57,
+        "Üst": 1.68
+    },
+    "Club Bolivar - U. de Vinto": {
+        "Alt": 3.93,
+        "Üst": 1.62
+    },
+    "Instituto - Dep. Riestra": {
+        "Alt": 1.28,
+        "Üst": 2.49
+    },
+    "Mount Pleasant - Montego Bay Utd": {
+        "Alt": 1.42,
         "Üst": 1.89
     },
-    "Montpellier - Red Star": {
-        "Alt": 1.77,
-        "Üst": 1.61
+    "I. Santa Fe - CA Bucaramanga": {
+        "Alt": 1.47,
+        "Üst": 1.8
     },
-    "Sevilla - Osasuna": {
-        "Alt": 1.51,
-        "Üst": 1.91
+    "C. Santos Laguna (K) - Club Leon (K)": {
+        "Alt": 1.61,
+        "Üst": 3.44
     },
-    "Walsall - Salford City": {
+    "PSS Sleman - Pusamania Borneo": {
         "Alt": 1.78,
         "Üst": 1.49
     },
-    "CD Tecnico Uni. - Mushuc Runa": {
-        "Alt": 1.42,
-        "Üst": 1.88
-    },
-    "Torreense - Amarante": {
-        "Alt": 1.48,
-        "Üst": 1.8
-    },
-    "U. Chile - Everton DV": {
-        "Alt": 2.21,
-        "Üst": 3.37
-    },
-    "Deportivo Capiata - T. Asuncion": {
-        "Alt": 1.54,
-        "Üst": 1.72
-    },
-    "Atlante (K) - Guadalajara (K)": {
-        "Alt": 1.98,
+    "Shanghai Port - Cong An Nhan Dan": {
+        "Alt": 2.0,
         "Üst": 1.37
     },
-    "Union De Santa Fe - Estudiantes": {
-        "Alt": 1.47,
-        "Üst": 1.97
+    "Daejeon Citizen - Vissel Kobe": {
+        "Alt": 1.58,
+        "Üst": 1.67
     },
-    "CA Brown Adrogue - Unidos": {
-        "Alt": 4.55,
-        "Üst": 3.27
+    "Kyoto Sanga - Newcastle Utd Jets": {
+        "Alt": 2.37,
+        "Üst": 1.23
     },
-    "Nacional Potosi - Guabira M.": {
-        "Alt": 2.54,
-        "Üst": 3.64
+    "Johor Darul - Port": {
+        "Alt": 1.18,
+        "Üst": 1.96
     },
-    "Arnett Gardens - Molynes": {
-        "Alt": 3.68,
-        "Üst": 2.12
+    "Portimonense U23 - CS Maritimo U23": {
+        "Alt": 1.79,
+        "Üst": 1.48
     },
-    "Coritiba - Gremio P.": {
-        "Alt": 1.66,
-        "Üst": 1.72
+    "Estoril Praia U23 - Santa Clara U23": {
+        "Alt": 1.82,
+        "Üst": 1.46
     },
-    "America MG - Cuiaba": {
-        "Alt": 1.45,
-        "Üst": 1.83
+    "Farense U23 - Academico V. U23": {
+        "Alt": 1.72,
+        "Üst": 1.54
     },
-    "Flamengo - Atl Mineiro": {
-        "Alt": 2.18,
-        "Üst": 1.37
+    "Olimpia - Nieciecza": {
+        "Alt": 1.79,
+        "Üst": 1.48
     },
-    "J. De Cordoba - Llaneros": {
-        "Alt": 1.55,
-        "Üst": 1.7
+    "G. Leczna - Katowice": {
+        "Alt": 1.93,
+        "Üst": 1.4
     },
-    "Atlas (K) - Puebla (K)": {
-        "Alt": 1.7,
-        "Üst": 3.39
+    "Ethiopian Insurance - Defence Force": {
+        "Alt": 1.29,
+        "Üst": 3.25
+    },
+    "Ratchaburi - Kashiwa": {
+        "Alt": 2.29,
+        "Üst": 1.26
+    },
+    "Beijing Guoan - Jeonbuk": {
+        "Alt": 1.88,
+        "Üst": 1.42
+    },
+    "Levante U19 - CD San Francisco U19": {
+        "Alt": 1.67,
+        "Üst": 3.44
+    },
+    "AL Qala - AL Batin": {
+        "Alt": 1.34,
+        "Üst": 2.05
     }
 }
