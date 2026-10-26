@@ -1,74 +1,74 @@
 {
-    "FK Neftchi Fargona - AL Ittihad": {
-        "Alt": 1.93,
-        "Üst": 1.4
+    "US Boulogne - Reims": {
+        "Alt": 1.52,
+        "Üst": 1.89
     },
-    "Mohun Bagan - Chennaiyin": {
-        "Alt": 1.8,
-        "Üst": 1.47
-    },
-    "Sheffield Utd U21 - Fleetwood T. U21": {
-        "Alt": 1.61,
-        "Üst": 3.7
-    },
-    "Loko Plovdiv - Slavya Sofya": {
-        "Alt": 1.34,
-        "Üst": 2.07
-    },
-    "Wolaita Dicha SC - Halaba Ketema": {
-        "Alt": 4.49,
-        "Üst": 3.24
-    },
-    "Iberia 1999 - Torpedo": {
+    "Montpellier - Red Star": {
         "Alt": 1.77,
-        "Üst": 1.5
+        "Üst": 1.61
     },
-    "Metaloglobus - Scm Ramnicu V.": {
-        "Alt": 1.73,
-        "Üst": 1.53
+    "Sevilla - Osasuna": {
+        "Alt": 1.51,
+        "Üst": 1.91
     },
-    "AL Bukayriyah - Hajer Al Hasa": {
-        "Alt": 1.46,
-        "Üst": 1.83
+    "Walsall - Salford City": {
+        "Alt": 1.78,
+        "Üst": 1.49
     },
-    "Beşiktaş - Başakşehir": {
-        "Alt": 2.55,
-        "Üst": 1.26
+    "CD Tecnico Uni. - Mushuc Runa": {
+        "Alt": 1.42,
+        "Üst": 1.88
     },
-    "Rizespor - Trabzonspor": {
-        "Alt": 2.17,
-        "Üst": 1.38
+    "Torreense - Amarante": {
+        "Alt": 1.48,
+        "Üst": 1.8
     },
-    "AL Ain - TS Tabriz": {
-        "Alt": 1.99,
+    "U. Chile - Everton DV": {
+        "Alt": 2.21,
+        "Üst": 3.37
+    },
+    "Deportivo Capiata - T. Asuncion": {
+        "Alt": 1.54,
+        "Üst": 1.72
+    },
+    "Atlante (K) - Guadalajara (K)": {
+        "Alt": 1.98,
         "Üst": 1.37
     },
-    "Ahli Saudi - AL Gharraf SC": {
-        "Alt": 2.85,
-        "Üst": 1.14
+    "Union De Santa Fe - Estudiantes": {
+        "Alt": 1.47,
+        "Üst": 1.97
     },
-    "Nueva Chicago - S. Martin SJ": {
-        "Alt": 4.42,
-        "Üst": 3.23
+    "CA Brown Adrogue - Unidos": {
+        "Alt": 4.55,
+        "Üst": 3.27
     },
-    "Busaiteen Club - Bouri": {
-        "Alt": 1.71,
-        "Üst": 1.54
+    "Nacional Potosi - Guabira M.": {
+        "Alt": 2.54,
+        "Üst": 3.64
     },
-    "Um Alhassam - AL Budaiya": {
-        "Alt": 1.54,
+    "Arnett Gardens - Molynes": {
+        "Alt": 3.68,
+        "Üst": 2.12
+    },
+    "Coritiba - Gremio P.": {
+        "Alt": 1.66,
+        "Üst": 1.72
+    },
+    "America MG - Cuiaba": {
+        "Alt": 1.45,
+        "Üst": 1.83
+    },
+    "Flamengo - Atl Mineiro": {
+        "Alt": 2.18,
+        "Üst": 1.37
+    },
+    "J. De Cordoba - Llaneros": {
+        "Alt": 1.55,
         "Üst": 1.7
     },
-    "AL Shabbab - ISA Town": {
-        "Alt": 1.47,
-        "Üst": 1.81
-    },
-    "Grobinas SC - Riga": {
-        "Alt": 3.4,
-        "Üst": 2.11
-    },
-    "FK Transinvest B - FA Siauliai B": {
-        "Alt": 2.57,
-        "Üst": 3.76
+    "Atlas (K) - Puebla (K)": {
+        "Alt": 1.7,
+        "Üst": 3.39
     }
 }
