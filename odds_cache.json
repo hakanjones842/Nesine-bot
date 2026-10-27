@@ -1,98 +1,74 @@
 {
-    "PSS Sleman - Pusamania Borneo": {
-        "Alt": 1.7,
-        "Üst": 1.55
+    "AL Tai - Jeddah Club": {
+        "Alt": 1.59,
+        "Üst": 1.66
     },
-    "Shanghai Port - Cong An Nhan Dan": {
-        "Alt": 2.04,
-        "Üst": 1.34
+    "Prisons Xi Gaborone - Matebele": {
+        "Alt": 1.36,
+        "Üst": 2.01
     },
-    "Daejeon Citizen - Vissel Kobe": {
-        "Alt": 1.6,
-        "Üst": 1.64
+    "US Biskra - MC Alger": {
+        "Alt": 1.21,
+        "Üst": 2.46
     },
-    "Kyoto Sanga - Newcastle Utd Jets": {
-        "Alt": 2.32,
-        "Üst": 1.25
+    "Palayesh Naft B. A. - Mes Rafsanjan": {
+        "Alt": 1.24,
+        "Üst": 2.34
     },
-    "Johor Darul - Port": {
-        "Alt": 1.12,
-        "Üst": 1.93
+    "Panseraikos - Niki Volou": {
+        "Alt": 1.34,
+        "Üst": 2.06
     },
-    "Etimesgut SK - Gaziantep FK": {
-        "Alt": 1.8,
-        "Üst": 3.69
+    "Pars Jonoubi - Ario Eslamshahr": {
+        "Alt": 1.23,
+        "Üst": 2.39
     },
-    "Portimonense U23 - CS Maritimo U23": {
-        "Alt": 1.79,
-        "Üst": 1.48
+    "Kocaelispor - Mazıdağı Fosfat Spor": {
+        "Alt": 3.79,
+        "Üst": 2.16
     },
-    "Estoril Praia U23 - Santa Clara U23": {
-        "Alt": 1.86,
-        "Üst": 1.44
+    "Cherno More - FK Septemvri Sofia": {
+        "Alt": 1.44,
+        "Üst": 1.85
     },
-    "Farense U23 - Academico V. U23": {
-        "Alt": 1.67,
-        "Üst": 1.58
-    },
-    "Olimpia - Nieciecza": {
-        "Alt": 1.79,
-        "Üst": 1.48
-    },
-    "G. Leczna - Katowice": {
-        "Alt": 1.93,
-        "Üst": 1.4
-    },
-    "Orduspor 1967 - Vanspor FK": {
-        "Alt": 1.3,
-        "Üst": 3.83
-    },
-    "Sarıyer - Ayvalıkgücü Bld": {
+    "Penafiel U23 - Vizela U23": {
         "Alt": 1.76,
-        "Üst": 3.5
+        "Üst": 1.5
     },
-    "Ethiopian Insurance - Defence Force": {
-        "Alt": 1.29,
-        "Üst": 3.25
+    "Famalicao U23 - UD Leiria U23": {
+        "Alt": 1.76,
+        "Üst": 1.5
     },
-    "Ratchaburi - Kashiwa": {
-        "Alt": 2.3,
-        "Üst": 1.25
+    "Rio Ave U23 - Sporting U23": {
+        "Alt": 1.84,
+        "Üst": 1.45
     },
-    "Beijing Guoan - Jeonbuk": {
-        "Alt": 1.85,
-        "Üst": 1.44
+    "AFC Progresul 1944 Spartac - Petrolul Ploiesti": {
+        "Alt": 3.54,
+        "Üst": 1.69
     },
-    "Levante U19 - CD San Francisco U19": {
-        "Alt": 1.75,
-        "Üst": 3.4
+    "Fakel - Akhmat Grozny": {
+        "Alt": 1.52,
+        "Üst": 1.74
     },
-    "AL Qala - AL Batin": {
+    "AL Wehda - AL Saqer": {
+        "Alt": 1.88,
+        "Üst": 3.31
+    },
+    "Asteras T. - AE Kifisia": {
         "Alt": 1.49,
-        "Üst": 1.78
+        "Üst": 1.77
     },
-    "Abha Club - AL Faisaly (Sar)": {
-        "Alt": 1.56,
-        "Üst": 1.68
+    "Al Ahli Dubai - Esteghlal": {
+        "Alt": 1.58,
+        "Üst": 1.67
     },
-    "Bolton Wanderers U21 - Huddersfield T. U21": {
-        "Alt": 3.0,
-        "Üst": 3.99
+    "Al Seeb - SC East Bengal": {
+        "Alt": 1.62,
+        "Üst": 1.62
     },
-    "Bristol City U21 - Millwall U21": {
-        "Alt": 2.08,
-        "Üst": 3.68
-    },
-    "Moreirense U23 - Gil Vicente U23": {
-        "Alt": 1.93,
-        "Üst": 1.4
-    },
-    "Csikszereda M. C. - Bihor Oradea": {
-        "Alt": 1.67,
-        "Üst": 1.57
-    },
-    "NK Ilirija - NK Bilje": {
-        "Alt": 1.81,
-        "Üst": 1.47
+    "Ludogorets Razgrad II - Dobrudzha Dobrich": {
+        "Alt": 1.72,
+        "Üst": 1.54
     }
 }
