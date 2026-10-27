@@ -1,28 +1,4 @@
 {
-    "Juventude - Nautico PE": {
-        "Alt": 1.57,
-        "Üst": 1.68
-    },
-    "Club Bolivar - U. de Vinto": {
-        "Alt": 3.93,
-        "Üst": 1.62
-    },
-    "Instituto - Dep. Riestra": {
-        "Alt": 1.28,
-        "Üst": 2.49
-    },
-    "Mount Pleasant - Montego Bay Utd": {
-        "Alt": 1.42,
-        "Üst": 1.89
-    },
-    "I. Santa Fe - CA Bucaramanga": {
-        "Alt": 1.47,
-        "Üst": 1.8
-    },
-    "C. Santos Laguna (K) - Club Leon (K)": {
-        "Alt": 1.61,
-        "Üst": 3.44
-    },
     "PSS Sleman - Pusamania Borneo": {
         "Alt": 1.78,
         "Üst": 1.49
@@ -40,8 +16,8 @@
         "Üst": 1.23
     },
     "Johor Darul - Port": {
-        "Alt": 1.18,
-        "Üst": 1.96
+        "Alt": 1.16,
+        "Üst": 1.95
     },
     "Portimonense U23 - CS Maritimo U23": {
         "Alt": 1.79,
@@ -76,11 +52,39 @@
         "Üst": 1.42
     },
     "Levante U19 - CD San Francisco U19": {
-        "Alt": 1.67,
-        "Üst": 3.44
+        "Alt": 1.75,
+        "Üst": 3.4
     },
     "AL Qala - AL Batin": {
         "Alt": 1.34,
         "Üst": 2.05
+    },
+    "Abha Club - AL Faisaly (Sar)": {
+        "Alt": 1.6,
+        "Üst": 1.65
+    },
+    "Bolton Wanderers U21 - Huddersfield T. U21": {
+        "Alt": 2.84,
+        "Üst": 3.93
+    },
+    "Bristol City U21 - Millwall U21": {
+        "Alt": 2.0,
+        "Üst": 3.65
+    },
+    "Moreirense U23 - Gil Vicente U23": {
+        "Alt": 1.93,
+        "Üst": 1.4
+    },
+    "Csikszereda M. C. - Bihor Oradea": {
+        "Alt": 1.67,
+        "Üst": 1.57
+    },
+    "Bugesera - Apr": {
+        "Alt": 1.31,
+        "Üst": 2.13
+    },
+    "NK Ilirija - NK Bilje": {
+        "Alt": 1.81,
+        "Üst": 1.47
     }
 }
