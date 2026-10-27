@@ -1,106 +1,78 @@
 {
-    "Rijnsburgse Boys - Den Bosch": {
-        "Alt": 1.64,
-        "Üst": 3.62
-    },
-    "Roda - Graafschap": {
-        "Alt": 2.0,
-        "Üst": 1.37
-    },
-    "BVV Barendrecht - Waalwijk": {
-        "Alt": 2.02,
-        "Üst": 3.38
-    },
-    "Helmond - Willem II": {
-        "Alt": 1.51,
-        "Üst": 3.61
-    },
-    "VV Kloetinge - SC Cambuur": {
-        "Alt": 1.68,
-        "Üst": 3.75
-    },
-    "Eindhoven - Volendam": {
-        "Alt": 2.02,
-        "Üst": 1.35
-    },
-    "Telstar - Almere City": {
-        "Alt": 2.64,
-        "Üst": 3.7
-    },
-    "Gimnastica S. - Cultural Leonesa": {
-        "Alt": 1.74,
-        "Üst": 1.52
-    },
-    "Atl Tordesillas - Mirandes": {
-        "Alt": 1.59,
-        "Üst": 1.66
-    },
-    "Ciudad De Lucena - Rayo Majadah": {
+    "Ceara CE - Goias GO": {
         "Alt": 1.62,
-        "Üst": 1.62
-    },
-    "UD Llanera - SD Ponferradina": {
-        "Alt": 1.63,
         "Üst": 1.61
     },
-    "RSD Alcala - Las Palmas": {
+    "Cucuta D. - R. Aguilas": {
+        "Alt": 1.28,
+        "Üst": 3.53
+    },
+    "Dep. Tachira - Monagas SC": {
+        "Alt": 1.93,
+        "Üst": 1.4
+    },
+    "Boyaca Chico - Atl Junior": {
+        "Alt": 1.47,
+        "Üst": 1.8
+    },
+    "Alianza - Marathon": {
+        "Alt": 1.47,
+        "Üst": 1.8
+    },
+    "Tokyo Verdy B. (K) - Cerezo Osaka S. (K)": {
+        "Alt": 1.97,
+        "Üst": 3.32
+    },
+    "Gamba Osaka - Buriram Utd": {
         "Alt": 1.84,
         "Üst": 1.45
     },
-    "Shrewsbury - Everton U21": {
-        "Alt": 2.39,
-        "Üst": 1.22
+    "Kashima - Pohang S.": {
+        "Alt": 2.32,
+        "Üst": 1.24
     },
-    "Blackpool - Aston Villa U21": {
-        "Alt": 1.08,
-        "Üst": 1.89
+    "Sagan Tosu - Kawasaki Frontale": {
+        "Alt": 1.75,
+        "Üst": 1.51
     },
-    "Port Vale - Man. City U21": {
-        "Alt": 2.83,
-        "Üst": 1.14
+    "Nagoya - Urawa Red": {
+        "Alt": 1.8,
+        "Üst": 1.47
     },
-    "Cardiff City U21 - Coventry City U21": {
-        "Alt": 2.77,
-        "Üst": 3.89
-    },
-    "V. Entella - AS Avellino 1912": {
-        "Alt": 1.49,
-        "Üst": 1.94
-    },
-    "LR Vicenza V. - Modena": {
-        "Alt": 1.83,
-        "Üst": 1.56
-    },
-    "Padova - Sudtirol": {
-        "Alt": 1.49,
-        "Üst": 1.93
-    },
-    "Mantova 1911 - Cremonese": {
-        "Alt": 1.62,
-        "Üst": 1.75
-    },
-    "AC Cesena - Empoli": {
-        "Alt": 1.68,
-        "Üst": 1.68
-    },
-    "Ascoli - Sampdoria": {
-        "Alt": 1.67,
-        "Üst": 1.69
-    },
-    "Manresa - UE Sant Andreu": {
+    "M. Hollyhock - Cerezo Osaka": {
         "Alt": 1.67,
         "Üst": 1.58
     },
-    "Don Benito - CD Extremadura": {
-        "Alt": 1.6,
-        "Üst": 1.63
+    "Yokohama M. - S. Hiroshima": {
+        "Alt": 1.87,
+        "Üst": 1.43
     },
-    "Altamura - AS Gubbio 1910": {
+    "Nagano P. (K) - Omiya (K)": {
+        "Alt": 1.56,
+        "Üst": 1.69
+    },
+    "Urawa Red (K) - S. Hiroshima (K)": {
         "Alt": 1.46,
-        "Üst": 1.82
+        "Üst": 1.83
     },
-    "Potenza C. - SSC Bari": {
-        "Alt": 1.58,
-        "Üst": 1.67
+    "Belshina - D. Minsk": {
+        "Alt": 1.84,
+        "Üst": 1.45
+    },
+    "Bandari - Posta Ranger": {
+        "Alt": 3.96,
+        "Üst": 3.11
+    },
+    "Kakamega Homeboyz - Gor Mahia": {
+        "Alt": 1.39,
+        "Üst": 3.16
+    },
+    "SK Prostej - H. Kralove": {
+        "Alt": 1.68,
+        "Üst": 1.56
+    },
+    "Sokol Kleczew - Podhale Nowy Targ": {
+        "Alt": 1.43,
+        "Üst": 3.66
     }
 }
