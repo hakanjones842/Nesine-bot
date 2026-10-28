@@ -1,27 +1,15 @@
 {
-    "Ceara CE - Goias GO": {
-        "Alt": 1.62,
-        "Üst": 1.61
-    },
-    "Cucuta D. - R. Aguilas": {
-        "Alt": 1.28,
-        "Üst": 3.53
-    },
-    "Dep. Tachira - Monagas SC": {
-        "Alt": 1.93,
-        "Üst": 1.4
-    },
-    "Boyaca Chico - Atl Junior": {
-        "Alt": 1.47,
-        "Üst": 1.8
-    },
     "Alianza - Marathon": {
-        "Alt": 1.47,
-        "Üst": 1.8
+        "Alt": 1.55,
+        "Üst": 1.7
     },
     "Tokyo Verdy B. (K) - Cerezo Osaka S. (K)": {
-        "Alt": 1.97,
-        "Üst": 3.32
+        "Alt": 1.9,
+        "Üst": 1.41
+    },
+    "Chernigiv - Epicentr Dunaivtsi": {
+        "Alt": 1.74,
+        "Üst": 1.53
     },
     "Gamba Osaka - Buriram Utd": {
         "Alt": 1.84,
@@ -48,8 +36,8 @@
         "Üst": 1.43
     },
     "Nagano P. (K) - Omiya (K)": {
-        "Alt": 1.56,
-        "Üst": 1.69
+        "Alt": 1.6,
+        "Üst": 1.64
     },
     "Urawa Red (K) - S. Hiroshima (K)": {
         "Alt": 1.46,
@@ -67,6 +55,10 @@
         "Alt": 1.39,
         "Üst": 3.16
     },
+    "LNZ Cherkasy - Metalist Kharkiv": {
+        "Alt": 1.59,
+        "Üst": 1.65
+    },
     "SK Prostej - H. Kralove": {
         "Alt": 1.68,
         "Üst": 1.56
@@ -74,5 +66,25 @@
     "Sokol Kleczew - Podhale Nowy Targ": {
         "Alt": 1.43,
         "Üst": 3.66
+    },
+    "Siarka Tarnobrzeg - Lech Poznan": {
+        "Alt": 3.31,
+        "Üst": 1.96
+    },
+    "Isloch - M. Rogachev": {
+        "Alt": 1.44,
+        "Üst": 1.85
+    },
+    "FK Arsenal Tivat - FK Bokelj Kotor": {
+        "Alt": 1.33,
+        "Üst": 2.07
+    },
+    "KCB Nairobi - Mombasa Elite": {
+        "Alt": 3.34,
+        "Üst": 2.9
+    },
+    "Muranga Seal - Nairobi Utd": {
+        "Alt": 1.35,
+        "Üst": 2.02
     }
 }
