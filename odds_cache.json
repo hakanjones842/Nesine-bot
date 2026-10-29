@@ -1,78 +1,78 @@
 {
-    "Umm Salal SC - AL Bidda SC": {
-        "Alt": 1.89,
-        "Üst": 1.41
+    "San Marcos - Rancho Santana": {
+        "Alt": 2.12,
+        "Üst": 3.44
     },
-    "C. Glogow - Polonia Bytom": {
-        "Alt": 1.72,
-        "Üst": 1.54
+    "Atl Mineiro - Cruzeiro MG": {
+        "Alt": 1.96,
+        "Üst": 1.47
     },
-    "Polonia Warszawa - Korona Kielce": {
-        "Alt": 1.51,
-        "Üst": 1.74
+    "Vasco Da G. - Flamengo": {
+        "Alt": 1.74,
+        "Üst": 1.63
     },
-    "CSKA Moskova - L. Moskova": {
-        "Alt": 1.92,
-        "Üst": 1.41
+    "America De Cali - Fortaleza": {
+        "Alt": 1.61,
+        "Üst": 1.63
     },
-    "NK Brinje Grosuplje - NK Bravo": {
-        "Alt": 1.53,
-        "Üst": 1.73
+    "CA Wanderers Durazno - Danubio": {
+        "Alt": 1.47,
+        "Üst": 1.8
     },
-    "AL Rawdhah - AL Lewaa Club": {
-        "Alt": 1.92,
-        "Üst": 1.41
+    "Uni. Catolica - LDU Quito": {
+        "Alt": 1.35,
+        "Üst": 2.03
     },
-    "Pena Sport - Huesca": {
-        "Alt": 1.64,
+    "Antigua - Dep. San Pedro": {
+        "Alt": 1.65,
         "Üst": 1.6
     },
-    "Numancia - Real Oviedo": {
-        "Alt": 1.43,
-        "Üst": 1.87
+    "Gremio P. - Paranaense": {
+        "Alt": 1.71,
+        "Üst": 1.66
     },
-    "Werder Bremen (K) - Hoffenheim (K)": {
-        "Alt": 1.95,
-        "Üst": 1.39
+    "Melgar - Comerciantes Uni.": {
+        "Alt": 1.92,
+        "Üst": 1.41
     },
-    "Aus. Lustenau - Sturm Graz": {
+    "A. Oaxaca - M.D. Zacatecas": {
+        "Alt": 2.0,
+        "Üst": 1.36
+    },
+    "Unan Managua - Walter Ferretti": {
+        "Alt": 1.51,
+        "Üst": 3.64
+    },
+    "Atl. Nacional Medellin - I. Santa Fe": {
+        "Alt": 1.93,
+        "Üst": 3.31
+    },
+    "Alajuelense - Motagua": {
+        "Alt": 1.48,
+        "Üst": 1.8
+    },
+    "CD Marquense - Dep. Guastatoya": {
+        "Alt": 1.31,
+        "Üst": 2.12
+    },
+    "Brunei Dpmm - N. Sembilan": {
+        "Alt": 1.96,
+        "Üst": 1.38
+    },
+    "Broad. Magic - Adelaide City": {
+        "Alt": 2.04,
+        "Üst": 1.34
+    },
+    "Sydney Oly. - Marconi Stal": {
         "Alt": 2.1,
         "Üst": 1.32
     },
-    "Township Rollers - Tonota": {
-        "Alt": 1.28,
-        "Üst": 3.37
-    },
-    "Tallinna Kal. - Nomme Kalju U21": {
-        "Alt": 2.31,
-        "Üst": 3.88
-    },
-    "Mas Maghrib A Fes - RSB Berkane": {
-        "Alt": 1.23,
-        "Üst": 2.38
-    },
-    "Kuopion - Gnistan": {
-        "Alt": 2.08,
-        "Üst": 1.41
-    },
-    "Deportivo Mixco - Xelaju": {
-        "Alt": 1.62,
-        "Üst": 1.61
-    },
-    "Pyramids - Wadi Degla": {
-        "Alt": 1.6,
-        "Üst": 1.64
-    },
-    "Voluntari - Un. Craiova": {
-        "Alt": 1.85,
+    "Malut Utd - Bhayangkara": {
+        "Alt": 1.84,
         "Üst": 1.45
     },
-    "AL Kawkab - AL Jabil": {
-        "Alt": 1.48,
-        "Üst": 1.79
-    },
-    "Eskişehirspor - Iğdır FK": {
-        "Alt": 2.03,
-        "Üst": 1.34
+    "Brisbane Roar - Auckland": {
+        "Alt": 1.63,
+        "Üst": 1.74
     }
 }
