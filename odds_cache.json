@@ -1,90 +1,78 @@
 {
-    "Gangwon - Kuching FA": {
+    "Umm Salal SC - AL Bidda SC": {
+        "Alt": 1.89,
+        "Üst": 1.41
+    },
+    "C. Glogow - Polonia Bytom": {
+        "Alt": 1.72,
+        "Üst": 1.54
+    },
+    "Polonia Warszawa - Korona Kielce": {
+        "Alt": 1.51,
+        "Üst": 1.74
+    },
+    "CSKA Moskova - L. Moskova": {
         "Alt": 1.92,
         "Üst": 1.41
     },
-    "Tampines Rov. - Preah Khan R. S.": {
-        "Alt": 2.18,
-        "Üst": 1.29
+    "NK Brinje Grosuplje - NK Bravo": {
+        "Alt": 1.53,
+        "Üst": 1.73
     },
-    "Bitlis 1916 Futbol SK - Kayserispor": {
-        "Alt": 1.82,
-        "Üst": 1.46
+    "AL Rawdhah - AL Lewaa Club": {
+        "Alt": 1.92,
+        "Üst": 1.41
     },
-    "Shabana - Migori Youth": {
-        "Alt": 4.29,
-        "Üst": 3.2
+    "Pena Sport - Huesca": {
+        "Alt": 1.64,
+        "Üst": 1.6
     },
-    "Pamba SC - Black Star": {
-        "Alt": 1.55,
-        "Üst": 1.69
-    },
-    "Zorya Luhansk - Kryvbas K. R.": {
-        "Alt": 1.82,
-        "Üst": 1.46
-    },
-    "Avia Swidnik - Radomiak Radom": {
-        "Alt": 1.88,
-        "Üst": 1.42
-    },
-    "Mathare Utd - Tusker": {
-        "Alt": 1.31,
-        "Üst": 3.18
-    },
-    "AL Sharq (Sar) - Najran SC": {
+    "Numancia - Real Oviedo": {
         "Alt": 1.43,
         "Üst": 1.87
     },
-    "AL Shoulla - AL Washm FC": {
-        "Alt": 1.58,
-        "Üst": 1.67
+    "Werder Bremen (K) - Hoffenheim (K)": {
+        "Alt": 1.95,
+        "Üst": 1.39
     },
-    "Phnom Penh Crown - Kitchee SC": {
-        "Alt": 1.99,
-        "Üst": 1.37
+    "Aus. Lustenau - Sturm Graz": {
+        "Alt": 2.1,
+        "Üst": 1.32
     },
-    "Wofoo Tai PO - BG Pathum Utd": {
-        "Alt": 1.85,
-        "Üst": 1.44
-    },
-    "Shanghai S. - Machida Zelvia": {
-        "Alt": 1.68,
-        "Üst": 1.57
-    },
-    "Gençlerbirliği - Karaköprü Bld": {
-        "Alt": 2.27,
-        "Üst": 1.46
-    },
-    "KF Tirana - D. Tirana": {
-        "Alt": 1.38,
-        "Üst": 1.96
-    },
-    "Aarhus Fremad - Kopenhag": {
-        "Alt": 2.37,
-        "Üst": 1.23
-    },
-    "La Viena - Dayrout": {
-        "Alt": 1.31,
-        "Üst": 2.12
-    },
-    "Team Cairo - Mega Sport Belqas": {
-        "Alt": 1.34,
-        "Üst": 2.05
-    },
-    "El Mansurah - Haras Hodood": {
+    "Township Rollers - Tonota": {
         "Alt": 1.28,
-        "Üst": 3.3
+        "Üst": 3.37
     },
-    "Jubbah Club - AL Arabi (Sar)": {
-        "Alt": 1.43,
-        "Üst": 1.87
+    "Tallinna Kal. - Nomme Kalju U21": {
+        "Alt": 2.31,
+        "Üst": 3.88
     },
-    "Jerash Club - AL Qous Club": {
-        "Alt": 1.51,
-        "Üst": 1.75
+    "Mas Maghrib A Fes - RSB Berkane": {
+        "Alt": 1.23,
+        "Üst": 2.38
     },
-    "AL Mosul SC - AL Julan": {
-        "Alt": 1.34,
-        "Üst": 2.06
+    "Kuopion - Gnistan": {
+        "Alt": 2.08,
+        "Üst": 1.41
+    },
+    "Deportivo Mixco - Xelaju": {
+        "Alt": 1.62,
+        "Üst": 1.61
+    },
+    "Pyramids - Wadi Degla": {
+        "Alt": 1.6,
+        "Üst": 1.64
+    },
+    "Voluntari - Un. Craiova": {
+        "Alt": 1.85,
+        "Üst": 1.45
+    },
+    "AL Kawkab - AL Jabil": {
+        "Alt": 1.48,
+        "Üst": 1.79
+    },
+    "Eskişehirspor - Iğdır FK": {
+        "Alt": 2.03,
+        "Üst": 1.34
     }
 }
