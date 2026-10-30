@@ -1,78 +1,94 @@
 {
-    "GC Mascara - NA Hussein Dey": {
-        "Alt": 1.34,
-        "Üst": 2.05
+    "RFC Seraing - RFC Liege": {
+        "Alt": 1.76,
+        "Üst": 1.5
     },
-    "USM Blida - Wa Mostaganem": {
-        "Alt": 1.52,
-        "Üst": 1.74
+    "KAA Gent II - Lierse K.": {
+        "Alt": 1.81,
+        "Üst": 1.47
     },
-    "MC EL Bayadh - ASM Oran": {
-        "Alt": 1.3,
-        "Üst": 2.15
+    "RFC Seraing U21 - R. F. Borains U21": {
+        "Alt": 1.79,
+        "Üst": 3.8
     },
-    "ESM Kolea - USM EL Harrach": {
-        "Alt": 1.46,
-        "Üst": 3.1
+    "K Beerschot VA U21 - KV Waasland Beveren U21": {
+        "Alt": 1.4,
+        "Üst": 3.92
     },
-    "Irb Sidi M Hamed Benali - WA Tlemcen": {
-        "Alt": 1.35,
-        "Üst": 2.03
+    "MC Oran - Olympique Akbou": {
+        "Alt": 1.24,
+        "Üst": 2.33
     },
-    "ES Mostaganem - MC Saida": {
-        "Alt": 3.09,
-        "Üst": 2.96
-    },
-    "Nrb Teleghma - CA Batna": {
-        "Alt": 4.84,
-        "Üst": 3.44
-    },
-    "Northeast Utd - Bengaluru": {
-        "Alt": 1.68,
-        "Üst": 1.56
-    },
-    "AL Karma - Duhok": {
-        "Alt": 1.54,
-        "Üst": 1.71
-    },
-    "Kheybar K. - M. Sepahan": {
-        "Alt": 1.25,
-        "Üst": 2.3
-    },
-    "Niger Tornadoes - Barau": {
-        "Alt": 2.85,
-        "Üst": 2.69
-    },
-    "Kiyovu Sport - AS Kigali": {
-        "Alt": 3.04,
-        "Üst": 2.85
-    },
-    "Ramtha SC - Al Baqaa": {
-        "Alt": 1.36,
-        "Üst": 2.0
-    },
-    "Al Shahaniya - Al Ahli Doha": {
-        "Alt": 2.26,
-        "Üst": 1.27
-    },
-    "Turan Tovuz - Sabah": {
-        "Alt": 1.66,
-        "Üst": 1.59
-    },
-    "F. Khuzestan - Aluminium A.": {
-        "Alt": 1.16,
-        "Üst": 2.7
-    },
-    "Karbalaa - AL Talaba": {
-        "Alt": 1.45,
-        "Üst": 1.84
-    },
-    "AL Draih - Neom SC": {
+    "Nantes - Clermont": {
         "Alt": 1.69,
-        "Üst": 1.55
+        "Üst": 1.67
     },
-    "AL Ittifaq - Malkiya Club": {
-        "Alt": 1.6,
-        "Üst": 1.63
+    "Grenoble - Dijon": {
+        "Alt": 1.57,
+        "Üst": 1.81
+    },
+    "Stade Laval. - US Boulogne": {
+        "Alt": 1.41,
+        "Üst": 2.08
+    },
+    "Rodez AF - Dunkerque": {
+        "Alt": 2.1,
+        "Üst": 1.41
+    },
+    "Metz - Pau": {
+        "Alt": 1.57,
+        "Üst": 1.82
+    },
+    "Roda - Jong AZ Alkmaar": {
+        "Alt": 2.22,
+        "Üst": 1.28
+    },
+    "Waalwijk - Almere City": {
+        "Alt": 2.35,
+        "Üst": 1.24
+    },
+    "Helmond - Eindhoven": {
+        "Alt": 2.05,
+        "Üst": 1.34
+    },
+    "Volendam - Graafschap": {
+        "Alt": 2.95,
+        "Üst": 1.12
+    },
+    "Luton Town U21 - Nottingham F. U21": {
+        "Alt": 2.06,
+        "Üst": 3.63
+    },
+    "W. Ham U21 - Sheffield Utd U21": {
+        "Alt": 2.63,
+        "Üst": 3.62
+    },
+    "Birmingham City U21 - Swansea U21": {
+        "Alt": 1.79,
+        "Üst": 3.73
+    },
+    "Blackburn R. U21 - Southampton U21": {
+        "Alt": 1.9,
+        "Üst": 3.66
+    },
+    "Newcastle U21 - Peterborough Utd U21": {
+        "Alt": 1.87,
+        "Üst": 3.79
+    },
+    "Coventry City U21 - Ipswich Town U21": {
+        "Alt": 1.34,
+        "Üst": 4.09
+    },
+    "Etoile Carouge - Kriens": {
+        "Alt": 2.21,
+        "Üst": 1.28
+    },
+    "N. Xamax - Aarau": {
+        "Alt": 2.18,
+        "Üst": 1.29
+    },
+    "Elversberg - Mainz": {
+        "Alt": 2.24,
+        "Üst": 1.34
     }
 }
