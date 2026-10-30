@@ -1,59 +1,23 @@
 {
-    "San Marcos - Rancho Santana": {
-        "Alt": 2.12,
-        "Üst": 3.44
-    },
-    "Atl Mineiro - Cruzeiro MG": {
-        "Alt": 1.96,
-        "Üst": 1.47
-    },
-    "Vasco Da G. - Flamengo": {
-        "Alt": 1.74,
-        "Üst": 1.63
-    },
-    "America De Cali - Fortaleza": {
-        "Alt": 1.61,
-        "Üst": 1.63
-    },
-    "CA Wanderers Durazno - Danubio": {
-        "Alt": 1.47,
-        "Üst": 1.8
-    },
-    "Uni. Catolica - LDU Quito": {
-        "Alt": 1.35,
-        "Üst": 2.03
-    },
-    "Antigua - Dep. San Pedro": {
-        "Alt": 1.65,
-        "Üst": 1.6
-    },
-    "Gremio P. - Paranaense": {
-        "Alt": 1.71,
-        "Üst": 1.66
-    },
-    "Melgar - Comerciantes Uni.": {
-        "Alt": 1.92,
-        "Üst": 1.41
-    },
     "A. Oaxaca - M.D. Zacatecas": {
         "Alt": 2.0,
         "Üst": 1.36
     },
     "Unan Managua - Walter Ferretti": {
-        "Alt": 1.51,
-        "Üst": 3.64
+        "Alt": 2.01,
+        "Üst": 1.35
     },
     "Atl. Nacional Medellin - I. Santa Fe": {
-        "Alt": 1.93,
-        "Üst": 3.31
+        "Alt": 1.76,
+        "Üst": 3.35
     },
     "Alajuelense - Motagua": {
         "Alt": 1.48,
         "Üst": 1.8
     },
     "CD Marquense - Dep. Guastatoya": {
-        "Alt": 1.31,
-        "Üst": 2.12
+        "Alt": 1.34,
+        "Üst": 2.06
     },
     "Brunei Dpmm - N. Sembilan": {
         "Alt": 1.96,
@@ -72,7 +36,43 @@
         "Üst": 1.45
     },
     "Brisbane Roar - Auckland": {
-        "Alt": 1.63,
-        "Üst": 1.74
+        "Alt": 1.66,
+        "Üst": 1.72
+    },
+    "Ispe - Yadanarbon": {
+        "Alt": 2.02,
+        "Üst": 3.62
+    },
+    "Myawady - Yangon Royals": {
+        "Alt": 3.7,
+        "Üst": 1.64
+    },
+    "Thanh Hoa - Hong Linh": {
+        "Alt": 1.47,
+        "Üst": 1.81
+    },
+    "Bac Ninh - Hoang Anh": {
+        "Alt": 1.53,
+        "Üst": 1.73
+    },
+    "Tanjong Pagar - Albirex Niigata (Sin)": {
+        "Alt": 2.26,
+        "Üst": 3.37
+    },
+    "Persebaya - Persijap Jepara": {
+        "Alt": 2.03,
+        "Üst": 1.35
+    },
+    "Sheger Ketema - Negelle Arsi": {
+        "Alt": 1.29,
+        "Üst": 3.2
+    },
+    "Kowloon City - H. Kong Rangers": {
+        "Alt": 3.58,
+        "Üst": 3.78
+    },
+    "Zob Ahan - Esteghlal K.": {
+        "Alt": 1.24,
+        "Üst": 2.34
     }
 }
