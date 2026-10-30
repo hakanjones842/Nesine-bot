@@ -1,94 +1,78 @@
 {
-    "RFC Seraing - RFC Liege": {
-        "Alt": 1.76,
-        "Üst": 1.5
+    "Corinthians - Mirassol SP": {
+        "Alt": 1.64,
+        "Üst": 1.74
     },
-    "KAA Gent II - Lierse K.": {
-        "Alt": 1.81,
-        "Üst": 1.47
+    "Charleston - Rhode Island": {
+        "Alt": 1.59,
+        "Üst": 1.66
     },
-    "RFC Seraing U21 - R. F. Borains U21": {
-        "Alt": 1.79,
-        "Üst": 3.8
+    "Union Omaha SC - C. Red Wolves SC": {
+        "Alt": 1.86,
+        "Üst": 1.44
     },
-    "K Beerschot VA U21 - KV Waasland Beveren U21": {
-        "Alt": 1.4,
-        "Üst": 3.92
+    "Tampa Bay - Miami": {
+        "Alt": 2.01,
+        "Üst": 1.36
     },
-    "MC Oran - Olympique Akbou": {
-        "Alt": 1.24,
-        "Üst": 2.33
+    "Forward M. - Spokane Velocity": {
+        "Alt": 1.74,
+        "Üst": 1.51
     },
-    "Nantes - Clermont": {
+    "Detroit City - Hartford Ath": {
+        "Alt": 1.36,
+        "Üst": 2.01
+    },
+    "O. Petrolero - Club Aurora": {
+        "Alt": 1.75,
+        "Üst": 1.51
+    },
+    "Inter San Carlos - CD Esc. Belen": {
+        "Alt": 1.98,
+        "Üst": 1.37
+    },
+    "Dep. Toluca (K) - Guadalajara (K)": {
+        "Alt": 1.97,
+        "Üst": 1.38
+    },
+    "CA Sarmiento - Rosario C.": {
         "Alt": 1.69,
         "Üst": 1.67
     },
-    "Grenoble - Dijon": {
-        "Alt": 1.57,
-        "Üst": 1.81
+    "Racing Club - Aldosivi": {
+        "Alt": 1.61,
+        "Üst": 1.76
     },
-    "Stade Laval. - US Boulogne": {
-        "Alt": 1.41,
-        "Üst": 2.08
+    "Wellington P. 2 - Auckland": {
+        "Alt": 1.67,
+        "Üst": 3.64
     },
-    "Rodez AF - Dunkerque": {
-        "Alt": 2.1,
-        "Üst": 1.41
+    "El Paso Loc. - San Antonio": {
+        "Alt": 1.5,
+        "Üst": 1.76
     },
-    "Metz - Pau": {
-        "Alt": 1.57,
-        "Üst": 1.82
+    "Fundacion F. Un Atleta - Platense M.": {
+        "Alt": 1.77,
+        "Üst": 1.5
     },
-    "Roda - Jong AZ Alkmaar": {
-        "Alt": 2.22,
-        "Üst": 1.28
+    "CD Estrella Roja - CA Independiente S.": {
+        "Alt": 1.74,
+        "Üst": 1.53
     },
-    "Waalwijk - Almere City": {
-        "Alt": 2.35,
-        "Üst": 1.24
-    },
-    "Helmond - Eindhoven": {
-        "Alt": 2.05,
-        "Üst": 1.34
-    },
-    "Volendam - Graafschap": {
-        "Alt": 2.95,
-        "Üst": 1.12
-    },
-    "Luton Town U21 - Nottingham F. U21": {
-        "Alt": 2.06,
-        "Üst": 3.63
-    },
-    "W. Ham U21 - Sheffield Utd U21": {
-        "Alt": 2.63,
-        "Üst": 3.62
-    },
-    "Birmingham City U21 - Swansea U21": {
-        "Alt": 1.79,
-        "Üst": 3.73
-    },
-    "Blackburn R. U21 - Southampton U21": {
-        "Alt": 1.9,
-        "Üst": 3.66
-    },
-    "Newcastle U21 - Peterborough Utd U21": {
+    "Atl San Luis - Atlas": {
         "Alt": 1.87,
-        "Üst": 3.79
+        "Üst": 1.43
     },
-    "Coventry City U21 - Ipswich Town U21": {
-        "Alt": 1.34,
-        "Üst": 4.09
+    "Juarez - Queretaro": {
+        "Alt": 1.68,
+        "Üst": 1.56
     },
-    "Etoile Carouge - Kriens": {
-        "Alt": 2.21,
-        "Üst": 1.28
+    "Correcaminos - Venados": {
+        "Alt": 3.57,
+        "Üst": 4.01
     },
-    "N. Xamax - Aarau": {
-        "Alt": 2.18,
-        "Üst": 1.29
-    },
-    "Elversberg - Mainz": {
-        "Alt": 2.24,
-        "Üst": 1.34
+    "Miramar Rangers - Wellington Oly.": {
+        "Alt": 3.76,
+        "Üst": 4.0
     }
 }
