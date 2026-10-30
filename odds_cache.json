@@ -1,78 +1,94 @@
 {
-    "A. Oaxaca - M.D. Zacatecas": {
-        "Alt": 2.0,
-        "Üst": 1.36
-    },
-    "Unan Managua - Walter Ferretti": {
-        "Alt": 2.01,
-        "Üst": 1.35
-    },
-    "Atl. Nacional Medellin - I. Santa Fe": {
-        "Alt": 1.76,
-        "Üst": 3.35
-    },
-    "Alajuelense - Motagua": {
-        "Alt": 1.48,
-        "Üst": 1.8
-    },
-    "CD Marquense - Dep. Guastatoya": {
-        "Alt": 1.34,
-        "Üst": 2.06
-    },
     "Brunei Dpmm - N. Sembilan": {
         "Alt": 1.96,
         "Üst": 1.38
     },
     "Broad. Magic - Adelaide City": {
-        "Alt": 2.04,
-        "Üst": 1.34
+        "Alt": 1.98,
+        "Üst": 1.37
     },
     "Sydney Oly. - Marconi Stal": {
-        "Alt": 2.1,
-        "Üst": 1.32
+        "Alt": 2.02,
+        "Üst": 1.35
     },
     "Malut Utd - Bhayangkara": {
-        "Alt": 1.84,
-        "Üst": 1.45
+        "Alt": 1.93,
+        "Üst": 1.4
     },
     "Brisbane Roar - Auckland": {
-        "Alt": 1.66,
-        "Üst": 1.72
+        "Alt": 1.8,
+        "Üst": 1.59
     },
     "Ispe - Yadanarbon": {
-        "Alt": 2.02,
-        "Üst": 3.62
+        "Alt": 2.1,
+        "Üst": 3.57
     },
     "Myawady - Yangon Royals": {
         "Alt": 3.7,
-        "Üst": 1.64
+        "Üst": 1.63
     },
     "Thanh Hoa - Hong Linh": {
-        "Alt": 1.47,
-        "Üst": 1.81
+        "Alt": 1.39,
+        "Üst": 1.94
     },
     "Bac Ninh - Hoang Anh": {
-        "Alt": 1.53,
-        "Üst": 1.73
+        "Alt": 1.47,
+        "Üst": 1.8
     },
     "Tanjong Pagar - Albirex Niigata (Sin)": {
         "Alt": 2.26,
         "Üst": 3.37
     },
     "Persebaya - Persijap Jepara": {
-        "Alt": 2.03,
-        "Üst": 1.35
+        "Alt": 2.19,
+        "Üst": 3.43
     },
     "Sheger Ketema - Negelle Arsi": {
-        "Alt": 1.29,
-        "Üst": 3.2
+        "Alt": 1.27,
+        "Üst": 3.25
     },
     "Kowloon City - H. Kong Rangers": {
-        "Alt": 3.58,
-        "Üst": 3.78
+        "Alt": 3.46,
+        "Üst": 3.75
     },
     "Zob Ahan - Esteghlal K.": {
         "Alt": 1.24,
         "Üst": 2.34
+    },
+    "Ballkani - KF Drenica Skenderaj": {
+        "Alt": 1.51,
+        "Üst": 1.75
+    },
+    "Gornik Leczna (K) - SMS Lodz (K)": {
+        "Alt": 1.69,
+        "Üst": 3.34
+    },
+    "WKS Slask Wroclaw (K) - GKS Katowice (K)": {
+        "Alt": 1.63,
+        "Üst": 3.67
+    },
+    "Sisaket Utd - Ratchaburi": {
+        "Alt": 1.67,
+        "Üst": 1.57
+    },
+    "Mahasarakham Utd - Chanthaburi": {
+        "Alt": 1.6,
+        "Üst": 1.65
+    },
+    "PFC R. Sp. Samokov - PFC Vihren Sandanski": {
+        "Alt": 1.58,
+        "Üst": 1.67
+    },
+    "Shabab AL Sahel - Al Ahed": {
+        "Alt": 1.6,
+        "Üst": 1.64
+    },
+    "AL Tadamon Sour - Safa SC": {
+        "Alt": 1.6,
+        "Üst": 1.64
+    },
+    "Ha Noi - Phu Dong": {
+        "Alt": 2.01,
+        "Üst": 1.36
     }
 }
