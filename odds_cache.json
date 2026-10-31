@@ -1,82 +1,98 @@
 {
-    "Ventura County - Los Angeles 2": {
-        "Alt": 2.69,
-        "Üst": 3.72
+    "PSM Makassar - Madura Utd": {
+        "Alt": 1.67,
+        "Üst": 1.58
     },
-    "M. Per. Zeledon - Puntarenas": {
-        "Alt": 1.81,
-        "Üst": 1.47
+    "Arema - Bali Utd": {
+        "Alt": 1.48,
+        "Üst": 3.63
     },
-    "Puebla - Pumas Unam": {
+    "Persik Kediri - Persita Tangerang": {
         "Alt": 1.75,
         "Üst": 1.51
     },
-    "Atl La Paz - CSD D. Sinaloa": {
-        "Alt": 2.33,
-        "Üst": 3.78
+    "Macarthur - W. S. Wanderers": {
+        "Alt": 1.99,
+        "Üst": 1.46
     },
-    "Monterrey (K) - Pumas Unam (K)": {
-        "Alt": 2.17,
-        "Üst": 3.36
+    "Kagoshima Utd - R. Kumamoto": {
+        "Alt": 1.62,
+        "Üst": 1.61
     },
-    "Newcastle Utd Jets - Wellington P.": {
-        "Alt": 2.21,
-        "Üst": 1.36
+    "Sabah - Terengganu": {
+        "Alt": 1.68,
+        "Üst": 1.56
     },
-    "Brisbane R. (K) - Sydney (K)": {
-        "Alt": 2.71,
-        "Üst": 3.53
+    "Cetate Suceava - Bihor Oradea": {
+        "Alt": 1.67,
+        "Üst": 1.57
     },
-    "South Hobart - Preston Lions": {
-        "Alt": 2.39,
-        "Üst": 1.22
+    "Dumbravita - Politehn Tim": {
+        "Alt": 1.67,
+        "Üst": 1.58
     },
-    "Woll. Wolves - Queensland L.": {
-        "Alt": 1.95,
-        "Üst": 1.39
+    "Csm Satu Mare - V. Selimbar": {
+        "Alt": 1.55,
+        "Üst": 1.69
     },
-    "Sutherland S. - Sydney Utd 58": {
-        "Alt": 1.87,
-        "Üst": 1.43
+    "SC Popesti Leordeni - AFC Metalul Buzau": {
+        "Alt": 1.65,
+        "Üst": 1.6
     },
-    "Briobecca Urayasu - Honda": {
-        "Alt": 1.47,
-        "Üst": 1.8
+    "Csl Stefanestii de Jos - Chindia": {
+        "Alt": 1.71,
+        "Üst": 3.49
     },
-    "Honda Lock - Vonds Ichihara": {
-        "Alt": 1.57,
+    "Asa Targu Mures - Unirea Slobozia": {
+        "Alt": 1.84,
+        "Üst": 1.45
+    },
+    "Scm Ramnicu V. - CS Afumati": {
+        "Alt": 1.83,
+        "Üst": 1.46
+    },
+    "Malagueno - Melilla": {
+        "Alt": 1.58,
         "Üst": 1.67
     },
-    "Sapporo - S. Bellmare": {
-        "Alt": 1.61,
-        "Üst": 1.63
-    },
-    "JEF Utd Ichihara (K) - Kanagawa (K)": {
-        "Alt": 1.57,
-        "Üst": 1.67
-    },
-    "Auckland Utd - Eastern Suburbs": {
-        "Alt": 2.02,
-        "Üst": 1.35
-    },
-    "Jeonbuk - Daejeon Citizen": {
-        "Alt": 1.91,
-        "Üst": 1.51
-    },
-    "Gyeongnam - Hwaseong": {
+    "Lecce U20 - Bologna U20": {
         "Alt": 1.59,
         "Üst": 1.66
     },
-    "Yongin - Seoul E Land": {
-        "Alt": 1.81,
-        "Üst": 1.47
+    "Lazio U20 - Sassuolo U20": {
+        "Alt": 1.65,
+        "Üst": 1.6
     },
-    "Gangneung City - Yangpyeong": {
-        "Alt": 1.56,
-        "Üst": 1.69
+    "Elimai - Okzhetpes K": {
+        "Alt": 1.95,
+        "Üst": 1.39
     },
-    "Chuncheon - Busan": {
+    "Zhetysu - Astana": {
+        "Alt": 1.61,
+        "Üst": 1.63
+    },
+    "Ulytau - FK Atyrau": {
+        "Alt": 1.48,
+        "Üst": 1.79
+    },
+    "K. Almaty - Altay Vko": {
+        "Alt": 2.14,
+        "Üst": 3.34
+    },
+    "FK Kaspyi Aktau - Kyzyl Zhar SK": {
+        "Alt": 1.75,
+        "Üst": 1.51
+    },
+    "I Pavlodar - Ordabasy": {
+        "Alt": 1.87,
+        "Üst": 1.43
+    },
+    "Tobol - Aktobe Lento": {
         "Alt": 1.86,
         "Üst": 1.44
+    },
+    "Vasas SC II - Szeged II": {
+        "Alt": 1.99,
+        "Üst": 1.37
     }
 }
