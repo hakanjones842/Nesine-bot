@@ -1,98 +1,90 @@
 {
-    "PSM Makassar - Madura Utd": {
-        "Alt": 1.67,
-        "Üst": 1.58
+    "Bologna - AC Monza": {
+        "Alt": 1.72,
+        "Üst": 1.65
     },
-    "Arema - Bali Utd": {
-        "Alt": 1.48,
-        "Üst": 3.63
+    "MC Alger - USM Khenchela": {
+        "Alt": 1.43,
+        "Üst": 1.87
     },
-    "Persik Kediri - Persita Tangerang": {
-        "Alt": 1.75,
-        "Üst": 1.51
+    "MC EL Bayadh - ASM Oran": {
+        "Alt": 1.3,
+        "Üst": 2.15
     },
-    "Macarthur - W. S. Wanderers": {
-        "Alt": 1.99,
-        "Üst": 1.46
-    },
-    "Kagoshima Utd - R. Kumamoto": {
-        "Alt": 1.62,
-        "Üst": 1.61
-    },
-    "Sabah - Terengganu": {
-        "Alt": 1.68,
-        "Üst": 1.56
-    },
-    "Cetate Suceava - Bihor Oradea": {
-        "Alt": 1.67,
-        "Üst": 1.57
-    },
-    "Dumbravita - Politehn Tim": {
-        "Alt": 1.67,
-        "Üst": 1.58
-    },
-    "Csm Satu Mare - V. Selimbar": {
-        "Alt": 1.55,
-        "Üst": 1.69
-    },
-    "SC Popesti Leordeni - AFC Metalul Buzau": {
-        "Alt": 1.65,
-        "Üst": 1.6
-    },
-    "Csl Stefanestii de Jos - Chindia": {
-        "Alt": 1.71,
-        "Üst": 3.49
-    },
-    "Asa Targu Mures - Unirea Slobozia": {
-        "Alt": 1.84,
-        "Üst": 1.45
-    },
-    "Scm Ramnicu V. - CS Afumati": {
-        "Alt": 1.83,
-        "Üst": 1.46
-    },
-    "Malagueno - Melilla": {
+    "MSP Batna - Nrb Nezla": {
         "Alt": 1.58,
         "Üst": 1.67
     },
-    "Lecce U20 - Bologna U20": {
-        "Alt": 1.59,
-        "Üst": 1.66
+    "MC Magra - JS Azazga": {
+        "Alt": 2.96,
+        "Üst": 2.89
     },
-    "Lazio U20 - Sassuolo U20": {
-        "Alt": 1.65,
-        "Üst": 1.6
+    "Slovacko - Teplice": {
+        "Alt": 1.71,
+        "Üst": 1.54
     },
-    "Elimai - Okzhetpes K": {
-        "Alt": 1.95,
-        "Üst": 1.39
+    "FK Pardubice - Slovan Liberec": {
+        "Alt": 1.6,
+        "Üst": 1.64
     },
-    "Zhetysu - Astana": {
-        "Alt": 1.61,
-        "Üst": 1.63
-    },
-    "Ulytau - FK Atyrau": {
-        "Alt": 1.48,
-        "Üst": 1.79
-    },
-    "K. Almaty - Altay Vko": {
-        "Alt": 2.14,
-        "Üst": 3.34
-    },
-    "FK Kaspyi Aktau - Kyzyl Zhar SK": {
+    "SK Artis Brno - Fastav Zlin": {
         "Alt": 1.75,
         "Üst": 1.51
     },
-    "I Pavlodar - Ordabasy": {
+    "Jablonec - Slavia Prag": {
+        "Alt": 1.65,
+        "Üst": 1.6
+    },
+    "Fremad Amager - Middelfart": {
         "Alt": 1.87,
         "Üst": 1.43
     },
-    "Tobol - Aktobe Lento": {
-        "Alt": 1.86,
-        "Üst": 1.44
+    "ASA Aarhus - Bk Frem": {
+        "Alt": 1.78,
+        "Üst": 1.49
     },
-    "Vasas SC II - Szeged II": {
-        "Alt": 1.99,
-        "Üst": 1.37
+    "Tofta Itrottarfelag B68 - Runavik": {
+        "Alt": 1.84,
+        "Üst": 3.7
+    },
+    "Llantwit Major - Newport City": {
+        "Alt": 1.96,
+        "Üst": 1.38
+    },
+    "Ynyshir Albions - Swansea U.": {
+        "Alt": 1.55,
+        "Üst": 3.56
+    },
+    "Pontardawe T. - Carmarthen": {
+        "Alt": 3.23,
+        "Üst": 3.73
+    },
+    "Cardiff Draconians - Afan Lido": {
+        "Alt": 3.81,
+        "Üst": 3.94
+    },
+    "Guilsfield - Porthmadog": {
+        "Alt": 1.96,
+        "Üst": 1.38
+    },
+    "Mold Alexandra - Rhyl": {
+        "Alt": 2.15,
+        "Üst": 3.37
+    },
+    "Llanuwchllyn - Denbigh Town": {
+        "Alt": 1.39,
+        "Üst": 3.83
+    },
+    "Holyhead Hotspur - Penrhyncoch": {
+        "Alt": 1.91,
+        "Üst": 3.33
+    },
+    "Caersws - Bangor 1876": {
+        "Alt": 3.35,
+        "Üst": 3.82
+    },
+    "Brickfield Rangers - Bala Town": {
+        "Alt": 3.2,
+        "Üst": 3.73
     }
 }
