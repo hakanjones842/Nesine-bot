@@ -1,78 +1,82 @@
 {
-    "Corinthians - Mirassol SP": {
-        "Alt": 1.64,
-        "Üst": 1.74
+    "Ventura County - Los Angeles 2": {
+        "Alt": 2.69,
+        "Üst": 3.72
     },
-    "Charleston - Rhode Island": {
-        "Alt": 1.59,
-        "Üst": 1.66
+    "M. Per. Zeledon - Puntarenas": {
+        "Alt": 1.81,
+        "Üst": 1.47
     },
-    "Union Omaha SC - C. Red Wolves SC": {
-        "Alt": 1.86,
-        "Üst": 1.44
-    },
-    "Tampa Bay - Miami": {
-        "Alt": 2.01,
-        "Üst": 1.36
-    },
-    "Forward M. - Spokane Velocity": {
-        "Alt": 1.74,
-        "Üst": 1.51
-    },
-    "Detroit City - Hartford Ath": {
-        "Alt": 1.36,
-        "Üst": 2.01
-    },
-    "O. Petrolero - Club Aurora": {
+    "Puebla - Pumas Unam": {
         "Alt": 1.75,
         "Üst": 1.51
     },
-    "Inter San Carlos - CD Esc. Belen": {
-        "Alt": 1.98,
-        "Üst": 1.37
+    "Atl La Paz - CSD D. Sinaloa": {
+        "Alt": 2.33,
+        "Üst": 3.78
     },
-    "Dep. Toluca (K) - Guadalajara (K)": {
-        "Alt": 1.97,
-        "Üst": 1.38
+    "Monterrey (K) - Pumas Unam (K)": {
+        "Alt": 2.17,
+        "Üst": 3.36
     },
-    "CA Sarmiento - Rosario C.": {
-        "Alt": 1.69,
-        "Üst": 1.67
+    "Newcastle Utd Jets - Wellington P.": {
+        "Alt": 2.21,
+        "Üst": 1.36
     },
-    "Racing Club - Aldosivi": {
-        "Alt": 1.61,
-        "Üst": 1.76
+    "Brisbane R. (K) - Sydney (K)": {
+        "Alt": 2.71,
+        "Üst": 3.53
     },
-    "Wellington P. 2 - Auckland": {
-        "Alt": 1.67,
-        "Üst": 3.64
+    "South Hobart - Preston Lions": {
+        "Alt": 2.39,
+        "Üst": 1.22
     },
-    "El Paso Loc. - San Antonio": {
-        "Alt": 1.5,
-        "Üst": 1.76
+    "Woll. Wolves - Queensland L.": {
+        "Alt": 1.95,
+        "Üst": 1.39
     },
-    "Fundacion F. Un Atleta - Platense M.": {
-        "Alt": 1.77,
-        "Üst": 1.5
-    },
-    "CD Estrella Roja - CA Independiente S.": {
-        "Alt": 1.74,
-        "Üst": 1.53
-    },
-    "Atl San Luis - Atlas": {
+    "Sutherland S. - Sydney Utd 58": {
         "Alt": 1.87,
         "Üst": 1.43
     },
-    "Juarez - Queretaro": {
-        "Alt": 1.68,
-        "Üst": 1.56
+    "Briobecca Urayasu - Honda": {
+        "Alt": 1.47,
+        "Üst": 1.8
     },
-    "Correcaminos - Venados": {
-        "Alt": 3.57,
-        "Üst": 4.01
+    "Honda Lock - Vonds Ichihara": {
+        "Alt": 1.57,
+        "Üst": 1.67
     },
-    "Miramar Rangers - Wellington Oly.": {
-        "Alt": 3.76,
-        "Üst": 4.0
+    "Sapporo - S. Bellmare": {
+        "Alt": 1.61,
+        "Üst": 1.63
+    },
+    "JEF Utd Ichihara (K) - Kanagawa (K)": {
+        "Alt": 1.57,
+        "Üst": 1.67
+    },
+    "Auckland Utd - Eastern Suburbs": {
+        "Alt": 2.02,
+        "Üst": 1.35
+    },
+    "Jeonbuk - Daejeon Citizen": {
+        "Alt": 1.91,
+        "Üst": 1.51
+    },
+    "Gyeongnam - Hwaseong": {
+        "Alt": 1.59,
+        "Üst": 1.66
+    },
+    "Yongin - Seoul E Land": {
+        "Alt": 1.81,
+        "Üst": 1.47
+    },
+    "Gangneung City - Yangpyeong": {
+        "Alt": 1.56,
+        "Üst": 1.69
+    },
+    "Chuncheon - Busan": {
+        "Alt": 1.86,
+        "Üst": 1.44
     }
 }
