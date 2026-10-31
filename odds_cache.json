@@ -1,78 +1,74 @@
 {
-    "Kruger Utd - Richards Bay": {
-        "Alt": 1.35,
-        "Üst": 2.03
-    },
-    "Mamel Sundow - Durban City 2024": {
-        "Alt": 1.7,
-        "Üst": 1.55
-    },
-    "CA Los Andes - Mitre Santia": {
-        "Alt": 2.94,
-        "Üst": 2.91
-    },
-    "LASK - WSG Tirol": {
-        "Alt": 2.76,
-        "Üst": 1.21
-    },
-    "Sampdoria - V. Entella": {
-        "Alt": 1.47,
-        "Üst": 1.99
-    },
-    "ETO Gyor - Vasas": {
-        "Alt": 2.26,
-        "Üst": 1.27
-    },
-    "Coritiba - Vitoria BA": {
-        "Alt": 1.64,
-        "Üst": 1.74
-    },
-    "S. Louis City SC - San Diego": {
-        "Alt": 2.67,
-        "Üst": 1.23
-    },
-    "Kansas City - Dallas": {
-        "Alt": 2.36,
-        "Üst": 1.31
-    },
-    "Csd Merlo - Arsenal Sarandi": {
-        "Alt": 1.42,
-        "Üst": 1.89
-    },
-    "Dep. Moron - Ciudad de Bolivar": {
-        "Alt": 2.73,
-        "Üst": 2.8
-    },
-    "C. Brugge U23 - Sporting Hasselt": {
-        "Alt": 2.42,
-        "Üst": 1.22
-    },
-    "Cdt Real Oruro - Nacional Potosi": {
-        "Alt": 1.28,
-        "Üst": 1.1
-    },
-    "Botafogo - Recife": {
+    "CSD Macara - Barcelona (Ekv)": {
         "Alt": 1.49,
         "Üst": 1.78
     },
-    "CS Emelec - Club Leones D. N.": {
-        "Alt": 1.56,
+    "A. Puerto C. - Dep. Tachira": {
+        "Alt": 1.55,
         "Üst": 1.69
     },
-    "Guingamp - St Etienne": {
+    "Queretaro (K) - Pachuca (K)": {
+        "Alt": 3.56,
+        "Üst": 2.04
+    },
+    "Cruz Azul Hidalgo - Tlaxcala": {
+        "Alt": 1.52,
+        "Üst": 3.55
+    },
+    "ART Jalapa - Diriangen": {
+        "Alt": 1.79,
+        "Üst": 1.48
+    },
+    "V. Sarsfield - San Lorenzo": {
+        "Alt": 1.41,
+        "Üst": 2.1
+    },
+    "Nautico PE - Avai SC": {
+        "Alt": 1.57,
+        "Üst": 1.68
+    },
+    "Llaneros - Atl Junior": {
+        "Alt": 1.77,
+        "Üst": 1.49
+    },
+    "Pachuca - Tigres": {
         "Alt": 1.8,
-        "Üst": 1.59
+        "Üst": 1.47
     },
-    "S. Stalowa - Sokol Kleczew": {
-        "Alt": 2.13,
-        "Üst": 1.31
+    "Caracas - Monagas SC": {
+        "Alt": 1.68,
+        "Üst": 1.56
     },
-    "Katowice - Widzew Lodz": {
-        "Alt": 1.99,
-        "Üst": 1.37
+    "Club Tijuana (K) - Cruz Azul (K)": {
+        "Alt": 1.47,
+        "Üst": 3.59
     },
-    "Karlsruhe - Heidenheim": {
-        "Alt": 2.34,
-        "Üst": 1.32
+    "SC Corinthians SP (K) - Cruzeiro EC (K)": {
+        "Alt": 1.61,
+        "Üst": 1.63
+    },
+    "Estudiantes - Instituto": {
+        "Alt": 1.33,
+        "Üst": 2.3
+    },
+    "Metapan - Municipal L.": {
+        "Alt": 1.59,
+        "Üst": 1.66
+    },
+    "Cancun - Jaiba Brava": {
+        "Alt": 1.7,
+        "Üst": 1.55
+    },
+    "Alac. de Durango - Atl Morelia": {
+        "Alt": 1.55,
+        "Üst": 1.69
+    },
+    "Piratas Veracruz - CD Tapatio": {
+        "Alt": 2.32,
+        "Üst": 3.55
+    },
+    "Real Esteli - Sebaco": {
+        "Alt": 2.02,
+        "Üst": 1.35
     }
 }
