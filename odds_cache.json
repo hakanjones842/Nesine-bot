@@ -1,78 +1,70 @@
 {
-    "Estudiantes - Instituto": {
-        "Alt": 1.3,
-        "Üst": 2.39
+    "Melbourne V. (K) - Newcastle Jets (K)": {
+        "Alt": 1.97,
+        "Üst": 1.38
     },
-    "Metapan - Municipal L.": {
-        "Alt": 1.59,
-        "Üst": 1.66
-    },
-    "Cancun - Jaiba Brava": {
-        "Alt": 1.75,
-        "Üst": 1.51
-    },
-    "Alac. de Durango - Atl Morelia": {
-        "Alt": 1.55,
-        "Üst": 1.69
-    },
-    "Piratas Veracruz - CD Tapatio": {
-        "Alt": 2.11,
-        "Üst": 3.55
-    },
-    "Real Esteli - Sebaco": {
-        "Alt": 2.02,
-        "Üst": 1.35
-    },
-    "Cashmere Technical - Auckland City": {
-        "Alt": 2.92,
-        "Üst": 3.66
-    },
-    "Monterrey - Club Tijuana": {
+    "Bayswater - Oakleigh C.": {
         "Alt": 1.88,
         "Üst": 1.42
     },
-    "CD Guadalajara - Atlante": {
-        "Alt": 2.02,
-        "Üst": 1.35
+    "Machida Zelvia - Gamba Osaka": {
+        "Alt": 1.77,
+        "Üst": 1.6
     },
-    "Colorado R. - Chicago Fire": {
-        "Alt": 2.19,
-        "Üst": 1.37
+    "Anyang - Bucheon": {
+        "Alt": 1.7,
+        "Üst": 1.67
     },
-    "CD Choloma - CD Olimpia": {
-        "Alt": 1.9,
-        "Üst": 1.41
-    },
-    "Sporting San Jose - CS Herediano": {
+    "Seoul - Incheon Utd": {
         "Alt": 1.6,
-        "Üst": 1.64
+        "Üst": 1.79
     },
-    "Birkenhead Utd AFC - Ferrymead Bays": {
-        "Alt": 2.23,
-        "Üst": 3.66
+    "Chungbuk Cheongju - Paju Citizen": {
+        "Alt": 1.57,
+        "Üst": 1.68
     },
-    "America - D. Toluca": {
-        "Alt": 2.08,
-        "Üst": 1.33
+    "Gimhae - Cheonan City": {
+        "Alt": 1.62,
+        "Üst": 1.62
     },
-    "Club Necaxa (K) - C. Santos Laguna (K)": {
-        "Alt": 1.67,
-        "Üst": 3.48
+    "Perth Glory - Adelaide Utd": {
+        "Alt": 2.0,
+        "Üst": 1.45
     },
-    "Melbourne V. - C. C. Mariners": {
-        "Alt": 2.25,
-        "Üst": 1.34
+    "Taipei Tatung - AC Taipei": {
+        "Alt": 1.53,
+        "Üst": 1.74
     },
-    "Canberra Utd (K) - Western S. W. (K)": {
+    "INAC Kobe L. (K) - Bam Khatoon (K)": {
+        "Alt": 3.6,
+        "Üst": 1.75
+    },
+    "Persib Bandung - Farmel": {
+        "Alt": 3.42,
+        "Üst": 2.19
+    },
+    "Psim Yogyakarta - Pusamania Borneo": {
+        "Alt": 1.7,
+        "Üst": 1.55
+    },
+    "Penang FA - Melaka": {
         "Alt": 1.74,
         "Üst": 1.52
     },
-    "Apia Leic. - Avondale": {
-        "Alt": 1.93,
-        "Üst": 1.4
+    "CSM Slatina - Concordia": {
+        "Alt": 1.74,
+        "Üst": 1.53
     },
-    "Veertien Mie - Okinawa SV": {
-        "Alt": 1.62,
-        "Üst": 1.62
+    "Vik. Zizkov - Dukla Prag": {
+        "Alt": 1.83,
+        "Üst": 1.46
+    },
+    "A. Petrzalka - FK R. Povazska Bystrica": {
+        "Alt": 1.92,
+        "Üst": 1.41
+    },
+    "Orenburg - CSKA Moskova": {
+        "Alt": 1.94,
+        "Üst": 1.48
     }
 }
