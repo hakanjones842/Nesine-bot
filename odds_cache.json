@@ -1,70 +1,82 @@
 {
-    "Melbourne V. (K) - Newcastle Jets (K)": {
-        "Alt": 1.97,
+    "Lazio - Cagliari": {
+        "Alt": 1.86,
+        "Üst": 1.54
+    },
+    "Frosinone - Torino": {
+        "Alt": 2.58,
+        "Üst": 1.25
+    },
+    "Strasbourg - Auxerre": {
+        "Alt": 2.16,
         "Üst": 1.38
     },
-    "Bayswater - Oakleigh C.": {
-        "Alt": 1.88,
-        "Üst": 1.42
+    "SSV Jeddeloh II - Bremer SV 1906": {
+        "Alt": 2.53,
+        "Üst": 3.55
     },
-    "Machida Zelvia - Gamba Osaka": {
-        "Alt": 1.77,
-        "Üst": 1.6
-    },
-    "Anyang - Bucheon": {
-        "Alt": 1.7,
+    "Torpedo Belaz Z. - Belshina": {
+        "Alt": 1.58,
         "Üst": 1.67
     },
-    "Seoul - Incheon Utd": {
-        "Alt": 1.6,
-        "Üst": 1.79
+    "FK Sloga Doboj - Velez Mostar": {
+        "Alt": 1.32,
+        "Üst": 2.1
     },
-    "Chungbuk Cheongju - Paju Citizen": {
-        "Alt": 1.57,
-        "Üst": 1.68
+    "Township Rollers - Bdf Xi": {
+        "Alt": 1.42,
+        "Üst": 1.89
     },
-    "Gimhae - Cheonan City": {
-        "Alt": 1.62,
-        "Üst": 1.62
+    "Banik Ostrava - Viktoria Plzen": {
+        "Alt": 1.93,
+        "Üst": 1.4
     },
-    "Perth Glory - Adelaide Utd": {
-        "Alt": 2.0,
-        "Üst": 1.45
+    "SK Prostej - Opava": {
+        "Alt": 1.76,
+        "Üst": 1.5
     },
-    "Taipei Tatung - AC Taipei": {
-        "Alt": 1.53,
-        "Üst": 1.74
-    },
-    "INAC Kobe L. (K) - Bam Khatoon (K)": {
-        "Alt": 3.6,
-        "Üst": 1.75
-    },
-    "Persib Bandung - Farmel": {
-        "Alt": 3.42,
-        "Üst": 2.19
-    },
-    "Psim Yogyakarta - Pusamania Borneo": {
-        "Alt": 1.7,
-        "Üst": 1.55
-    },
-    "Penang FA - Melaka": {
+    "Aarhus Fremad - Hilleroed": {
         "Alt": 1.74,
         "Üst": 1.52
     },
-    "CSM Slatina - Concordia": {
-        "Alt": 1.74,
-        "Üst": 1.53
+    "Rijeka - VSN Varazdin": {
+        "Alt": 1.67,
+        "Üst": 1.58
     },
-    "Vik. Zizkov - Dukla Prag": {
-        "Alt": 1.83,
-        "Üst": 1.46
+    "Inter Kashi - Goa": {
+        "Alt": 1.64,
+        "Üst": 1.6
     },
-    "A. Petrzalka - FK R. Povazska Bystrica": {
-        "Alt": 1.92,
+    "S. Wednesday - Blackpool": {
+        "Alt": 2.03,
+        "Üst": 1.35
+    },
+    "Swindon Town - Bridgwater United Women": {
+        "Alt": 2.4,
+        "Üst": 3.43
+    },
+    "Huddersfield Town (K) - Middlesbrough Lfc (K)": {
+        "Alt": 2.58,
+        "Üst": 3.46
+    },
+    "Birmingham City (K) - Tottenham H. (K)": {
+        "Alt": 2.0,
+        "Üst": 3.54
+    },
+    "Brighton (K) - Crystal Palace (K)": {
+        "Alt": 2.07,
+        "Üst": 3.6
+    },
+    "West Ham Utd (K) - Liverpool (K)": {
+        "Alt": 1.7,
+        "Üst": 1.54
+    },
+    "UD Las Palmas U19 - Tenerife U19": {
+        "Alt": 1.93,
         "Üst": 1.41
     },
-    "Orenburg - CSKA Moskova": {
-        "Alt": 1.94,
-        "Üst": 1.48
+    "CD Utrera U19 - Arenas Armilla CD U19": {
+        "Alt": 1.35,
+        "Üst": 3.76
     }
 }
