@@ -1,78 +1,74 @@
 {
-    "Lexington SC - Colorado Spr.": {
-        "Alt": 1.58,
-        "Üst": 1.67
+    "New Mexico - Phoenix Rising": {
+        "Alt": 1.93,
+        "Üst": 1.4
     },
-    "Rangers - Santa Coloma": {
-        "Alt": 1.75,
-        "Üst": 1.51
+    "Santos Laguna - Necaxa": {
+        "Alt": 2.17,
+        "Üst": 1.29
     },
-    "Strongest - GV San Jose": {
-        "Alt": 2.25,
-        "Üst": 3.63
+    "Rancho Santana - Indigenas de Matagalpa": {
+        "Alt": 1.94,
+        "Üst": 1.4
     },
-    "Palmeiras SP - Vasco Da G.": {
-        "Alt": 1.45,
-        "Üst": 2.01
-    },
-    "Londrina PR - America MG": {
-        "Alt": 1.58,
-        "Üst": 1.67
-    },
-    "UD Sanse - CD Leganes B": {
-        "Alt": 1.73,
-        "Üst": 1.53
-    },
-    "Atl Ottawa - Forge": {
-        "Alt": 1.74,
-        "Üst": 1.52
-    },
-    "R. S. Cundinamarca - Tigres (Kol)": {
-        "Alt": 1.3,
-        "Üst": 2.14
-    },
-    "Hercules - Rayo Majadah": {
-        "Alt": 1.36,
-        "Üst": 2.0
-    },
-    "Danubio - Nacional": {
+    "Liverpool M. - CA Juventud De Las Piedras": {
         "Alt": 1.54,
         "Üst": 1.72
     },
-    "Juventus - Napoli": {
-        "Alt": 1.69,
-        "Üst": 1.67
-    },
-    "Marsilya - Toulouse": {
-        "Alt": 2.31,
-        "Üst": 1.33
-    },
-    "Ath Bilbao - R. Sociedad": {
-        "Alt": 1.8,
-        "Üst": 1.59
-    },
-    "RSB Berkane - R. Casablanca": {
-        "Alt": 1.27,
-        "Üst": 2.25
-    },
-    "CD Extremadura - Unionistas": {
-        "Alt": 1.57,
-        "Üst": 1.68
-    },
-    "Montego Bay Utd - Portmore Utd": {
-        "Alt": 1.5,
-        "Üst": 1.77
-    },
-    "Dunbeholden - Humble Lions": {
-        "Alt": 1.72,
-        "Üst": 1.54
-    },
-    "Tru Juice - Chapelton Maroons": {
+    "I. Medellin - Alianza Valledupar": {
         "Alt": 1.65,
         "Üst": 1.6
     },
-    "Tivoli Gardens - Arnett Gardens": {
-        "Alt": 1.88,
-        "Üst": 1.42
+    "Motagua - Marathon": {
+        "Alt": 1.48,
+        "Üst": 1.79
+    },
+    "U. de Vinto - Always Ready": {
+        "Alt": 1.77,
+        "Üst": 3.43
+    },
+    "Angel Firpo - CD Fas": {
+        "Alt": 1.61,
+        "Üst": 1.63
+    },
+    "Carabobo - Metropolitan": {
+        "Alt": 1.6,
+        "Üst": 1.64
+    },
+    "Dep. La Gua. - Portuguesa": {
+        "Alt": 1.51,
+        "Üst": 1.75
+    },
+    "Lanus - Gimnasia Y.": {
+        "Alt": 1.74,
+        "Üst": 1.63
+    },
+    "N. E. Revolution - Inter Miami": {
+        "Alt": 2.75,
+        "Üst": 1.21
+    },
+    "Charlotte Ind. - Naples": {
+        "Alt": 2.19,
+        "Üst": 3.52
+    },
+    "Dep. Guastatoya - CSD Imperial": {
+        "Alt": 1.5,
+        "Üst": 1.76
+    },
+    "AC Boise - One Knoxville SC": {
+        "Alt": 1.84,
+        "Üst": 1.45
+    },
+    "Managua - Unan Managua": {
+        "Alt": 2.09,
+        "Üst": 3.51
+    },
+    "Cruz Azul - Club Leon": {
+        "Alt": 1.87,
+        "Üst": 1.43
+    },
+    "I. Santa Fe - Once Caldas": {
+        "Alt": 1.61,
+        "Üst": 1.63
     }
 }
