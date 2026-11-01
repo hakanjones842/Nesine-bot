@@ -1,74 +1,78 @@
 {
-    "CSD Macara - Barcelona (Ekv)": {
-        "Alt": 1.49,
-        "Üst": 1.78
-    },
-    "A. Puerto C. - Dep. Tachira": {
-        "Alt": 1.55,
-        "Üst": 1.69
-    },
-    "Queretaro (K) - Pachuca (K)": {
-        "Alt": 3.56,
-        "Üst": 2.04
-    },
-    "Cruz Azul Hidalgo - Tlaxcala": {
-        "Alt": 1.52,
-        "Üst": 3.55
-    },
-    "ART Jalapa - Diriangen": {
-        "Alt": 1.79,
-        "Üst": 1.48
-    },
-    "V. Sarsfield - San Lorenzo": {
-        "Alt": 1.41,
-        "Üst": 2.1
-    },
-    "Nautico PE - Avai SC": {
-        "Alt": 1.57,
-        "Üst": 1.68
-    },
-    "Llaneros - Atl Junior": {
-        "Alt": 1.77,
-        "Üst": 1.49
-    },
-    "Pachuca - Tigres": {
-        "Alt": 1.8,
-        "Üst": 1.47
-    },
-    "Caracas - Monagas SC": {
-        "Alt": 1.68,
-        "Üst": 1.56
-    },
-    "Club Tijuana (K) - Cruz Azul (K)": {
-        "Alt": 1.47,
-        "Üst": 3.59
-    },
-    "SC Corinthians SP (K) - Cruzeiro EC (K)": {
-        "Alt": 1.61,
-        "Üst": 1.63
-    },
     "Estudiantes - Instituto": {
-        "Alt": 1.33,
-        "Üst": 2.3
+        "Alt": 1.3,
+        "Üst": 2.39
     },
     "Metapan - Municipal L.": {
         "Alt": 1.59,
         "Üst": 1.66
     },
     "Cancun - Jaiba Brava": {
-        "Alt": 1.7,
-        "Üst": 1.55
+        "Alt": 1.75,
+        "Üst": 1.51
     },
     "Alac. de Durango - Atl Morelia": {
         "Alt": 1.55,
         "Üst": 1.69
     },
     "Piratas Veracruz - CD Tapatio": {
-        "Alt": 2.32,
+        "Alt": 2.11,
         "Üst": 3.55
     },
     "Real Esteli - Sebaco": {
         "Alt": 2.02,
         "Üst": 1.35
+    },
+    "Cashmere Technical - Auckland City": {
+        "Alt": 2.92,
+        "Üst": 3.66
+    },
+    "Monterrey - Club Tijuana": {
+        "Alt": 1.88,
+        "Üst": 1.42
+    },
+    "CD Guadalajara - Atlante": {
+        "Alt": 2.02,
+        "Üst": 1.35
+    },
+    "Colorado R. - Chicago Fire": {
+        "Alt": 2.19,
+        "Üst": 1.37
+    },
+    "CD Choloma - CD Olimpia": {
+        "Alt": 1.9,
+        "Üst": 1.41
+    },
+    "Sporting San Jose - CS Herediano": {
+        "Alt": 1.6,
+        "Üst": 1.64
+    },
+    "Birkenhead Utd AFC - Ferrymead Bays": {
+        "Alt": 2.23,
+        "Üst": 3.66
+    },
+    "America - D. Toluca": {
+        "Alt": 2.08,
+        "Üst": 1.33
+    },
+    "Club Necaxa (K) - C. Santos Laguna (K)": {
+        "Alt": 1.67,
+        "Üst": 3.48
+    },
+    "Melbourne V. - C. C. Mariners": {
+        "Alt": 2.25,
+        "Üst": 1.34
+    },
+    "Canberra Utd (K) - Western S. W. (K)": {
+        "Alt": 1.74,
+        "Üst": 1.52
+    },
+    "Apia Leic. - Avondale": {
+        "Alt": 1.93,
+        "Üst": 1.4
+    },
+    "Veertien Mie - Okinawa SV": {
+        "Alt": 1.62,
+        "Üst": 1.62
     }
 }
