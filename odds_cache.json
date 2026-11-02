@@ -1,74 +1,78 @@
 {
-    "New Mexico - Phoenix Rising": {
-        "Alt": 1.93,
-        "Üst": 1.4
+    "Sacramento R. - Tulsa Roughnecks": {
+        "Alt": 1.36,
+        "Üst": 2.0
     },
-    "Santos Laguna - Necaxa": {
-        "Alt": 2.17,
-        "Üst": 1.29
+    "Comunicacion - Deportivo Mixco": {
+        "Alt": 1.68,
+        "Üst": 1.56
     },
-    "Rancho Santana - Indigenas de Matagalpa": {
-        "Alt": 1.94,
-        "Üst": 1.4
+    "Portland Tim. - Houston Dyn.": {
+        "Alt": 2.11,
+        "Üst": 1.41
     },
-    "Liverpool M. - CA Juventud De Las Piedras": {
+    "Ulinzi Stars - Mathare Utd": {
+        "Alt": 4.78,
+        "Üst": 3.25
+    },
+    "Tenerife B - Don Benito": {
+        "Alt": 1.68,
+        "Üst": 1.56
+    },
+    "Posta Ranger - 3K": {
+        "Alt": 1.3,
+        "Üst": 2.15
+    },
+    "FK Skopje - FK Sileks K.": {
+        "Alt": 1.63,
+        "Üst": 1.61
+    },
+    "Tabora Utd - Fountain Gate": {
+        "Alt": 1.34,
+        "Üst": 2.04
+    },
+    "Kryvbas K. R. - Dinamo Kiev": {
+        "Alt": 2.42,
+        "Üst": 3.34
+    },
+    "Zorya Luhansk - Epicentr Dunaivtsi": {
+        "Alt": 1.8,
+        "Üst": 1.48
+    },
+    "Besat Kermanshah - Saipa": {
+        "Alt": 1.37,
+        "Üst": 1.17
+    },
+    "AL Safa - Wej Taif SC": {
         "Alt": 1.54,
-        "Üst": 1.72
+        "Üst": 1.71
     },
-    "I. Medellin - Alianza Valledupar": {
-        "Alt": 1.65,
-        "Üst": 1.6
+    "AL Taraji Club - AL Batin": {
+        "Alt": 1.7,
+        "Üst": 1.54
     },
-    "Motagua - Marathon": {
-        "Alt": 1.48,
-        "Üst": 1.79
-    },
-    "U. de Vinto - Always Ready": {
-        "Alt": 1.77,
-        "Üst": 3.43
-    },
-    "Angel Firpo - CD Fas": {
-        "Alt": 1.61,
-        "Üst": 1.63
-    },
-    "Carabobo - Metropolitan": {
-        "Alt": 1.6,
-        "Üst": 1.64
-    },
-    "Dep. La Gua. - Portuguesa": {
+    "AL Sahel SC - AL Qwarah": {
         "Alt": 1.51,
         "Üst": 1.75
     },
-    "Lanus - Gimnasia Y.": {
-        "Alt": 1.74,
-        "Üst": 1.63
+    "Ethiopia Nigd Bank - Ethiopian Insurance": {
+        "Alt": 5.46,
+        "Üst": 3.46
     },
-    "N. E. Revolution - Inter Miami": {
-        "Alt": 2.75,
-        "Üst": 1.21
+    "Ario Eslamshahr - Fard": {
+        "Alt": 1.16,
+        "Üst": 1.24
     },
-    "Charlotte Ind. - Naples": {
-        "Alt": 2.19,
-        "Üst": 3.52
+    "Mladost DG - FK Sutjeska": {
+        "Alt": 1.48,
+        "Üst": 1.8
     },
-    "Dep. Guastatoya - CSD Imperial": {
-        "Alt": 1.5,
-        "Üst": 1.76
+    "Tusker - Mara Sugar": {
+        "Alt": 4.66,
+        "Üst": 3.28
     },
-    "AC Boise - One Knoxville SC": {
-        "Alt": 1.84,
-        "Üst": 1.45
-    },
-    "Managua - Unan Managua": {
-        "Alt": 2.09,
-        "Üst": 3.51
-    },
-    "Cruz Azul - Club Leon": {
-        "Alt": 1.87,
-        "Üst": 1.43
-    },
-    "I. Santa Fe - Once Caldas": {
-        "Alt": 1.61,
-        "Üst": 1.63
+    "Chonburi - BG Pathum Utd": {
+        "Alt": 1.64,
+        "Üst": 1.6
     }
 }
