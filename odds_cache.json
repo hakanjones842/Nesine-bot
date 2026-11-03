@@ -1,90 +1,106 @@
 {
-    "Fortaleza CE - Atl Goianiense": {
-        "Alt": 1.5,
-        "Üst": 1.77
-    },
-    "CR Belouizdad - JS Saoura": {
-        "Alt": 1.44,
-        "Üst": 1.86
-    },
-    "Jong PSV - NAC Breda": {
-        "Alt": 2.35,
-        "Üst": 1.24
-    },
-    "Jong Utrecht - Dordrecht": {
-        "Alt": 2.18,
-        "Üst": 1.29
-    },
-    "Jong Ajax - Vitesse": {
-        "Alt": 2.46,
-        "Üst": 1.21
-    },
-    "Heracles - TOP Oss": {
-        "Alt": 1.12,
-        "Üst": 1.87
-    },
-    "Bolton Wanderers U21 - QPR U21": {
-        "Alt": 2.69,
-        "Üst": 3.71
-    },
-    "Bournemouth U21 - Cardiff City U21": {
-        "Alt": 1.93,
-        "Üst": 3.58
-    },
-    "Preston U21 - Fleetwood T. U21": {
-        "Alt": 2.85,
-        "Üst": 3.58
-    },
-    "Wycombe U21 - Brentford U21": {
+    "CA Bucaramanga - Atl. Nacional Medellin": {
         "Alt": 1.6,
-        "Üst": 3.91
+        "Üst": 1.65
     },
-    "Exeter City U21 - Reading U21": {
-        "Alt": 3.15,
-        "Üst": 3.86
+    "CD Suchitepequez - Malacateco": {
+        "Alt": 1.68,
+        "Üst": 1.56
     },
-    "Independiente Yumbo - Boca Juniors (Kol)": {
+    "Kat. Toyama - Sendai": {
+        "Alt": 1.99,
+        "Üst": 1.37
+    },
+    "Fujieda Myfc - Iwata Jubilo": {
+        "Alt": 1.46,
+        "Üst": 1.83
+    },
+    "Tegevajaro Mi. - Tochigi City": {
+        "Alt": 1.9,
+        "Üst": 1.41
+    },
+    "Ventforet - Niigata": {
         "Alt": 1.47,
-        "Üst": 1.81
+        "Üst": 1.8
     },
-    "Gzira Utd - Marsaxlokk": {
-        "Alt": 1.62,
-        "Üst": 1.62
+    "Oita Trinata - V. Hachinohe": {
+        "Alt": 1.35,
+        "Üst": 2.03
     },
-    "Huesca - Gimnastic": {
+    "Omiya Ardija - Iwaki": {
+        "Alt": 2.08,
+        "Üst": 1.33
+    },
+    "Yokohama - B. Akita": {
+        "Alt": 1.59,
+        "Üst": 1.66
+    },
+    "S. Bellmare - Sagan Tosu": {
+        "Alt": 1.54,
+        "Üst": 1.71
+    },
+    "M. Yamagata - T. Vortis": {
+        "Alt": 1.46,
+        "Üst": 1.83
+    },
+    "Kochi Utd SC - Ehime": {
+        "Alt": 1.83,
+        "Üst": 1.46
+    },
+    "Tochigi - Fukushima Utd": {
+        "Alt": 1.93,
+        "Üst": 1.4
+    },
+    "Z. Kanazawa - AC N. Parceiro": {
+        "Alt": 1.87,
+        "Üst": 1.43
+    },
+    "Renofa Y. - Kagoshima Utd": {
         "Alt": 1.55,
-        "Üst": 1.7
+        "Üst": 1.69
     },
-    "Fiorentina (K) - Juventus (K)": {
+    "Kamatamare S. - Matsumoto Y.": {
+        "Alt": 1.73,
+        "Üst": 1.54
+    },
+    "Gainare Tottori - SC Sagamihara": {
         "Alt": 1.78,
         "Üst": 1.49
     },
-    "Novara Calcio - Desenzano Calvina": {
-        "Alt": 1.47,
-        "Üst": 1.81
+    "Nara Club - Thespakusatsu G.": {
+        "Alt": 1.87,
+        "Üst": 1.43
     },
-    "Juventus U23 - Pro Vercelli": {
-        "Alt": 1.82,
-        "Üst": 1.46
+    "G. Kitakyushu - MIO Biwako Shiga": {
+        "Alt": 3.77,
+        "Üst": 3.84
     },
-    "Casarano - Foggia": {
-        "Alt": 1.6,
-        "Üst": 1.64
+    "Imabari - Sapporo": {
+        "Alt": 1.67,
+        "Üst": 1.58
     },
-    "Rakow C. - Pogon Szczecin": {
-        "Alt": 1.84,
-        "Üst": 1.45
-    },
-    "LKS Lodz - Polonia Warszawa": {
+    "Ryukyu - Gifu": {
         "Alt": 1.73,
         "Üst": 1.53
     },
-    "Stal Rzeszow - Puszcza": {
-        "Alt": 1.81,
+    "Newcastle Utd Jets - Shanghai Port": {
+        "Alt": 2.37,
+        "Üst": 1.23
+    },
+    "Jeonbuk - Johor Darul": {
+        "Alt": 1.8,
         "Üst": 1.47
     },
-    "Atalanta - Parma": {
-        "Alt": 2.41,
-        "Üst": 1.29
+    "Kashiwa - Daejeon Citizen": {
+        "Alt": 1.87,
+        "Üst": 1.42
+    },
+    "Vissel Kobe - Ratchaburi": {
+        "Alt": 1.31,
+        "Üst": 2.16
+    },
+    "Estrela A. U23 - Santa Clara U23": {
+        "Alt": 1.76,
+        "Üst": 1.5
     }
 }
