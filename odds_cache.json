@@ -1,106 +1,94 @@
 {
-    "CA Bucaramanga - Atl. Nacional Medellin": {
-        "Alt": 1.6,
-        "Üst": 1.65
-    },
-    "CD Suchitepequez - Malacateco": {
-        "Alt": 1.68,
-        "Üst": 1.56
-    },
-    "Kat. Toyama - Sendai": {
-        "Alt": 1.99,
-        "Üst": 1.37
-    },
-    "Fujieda Myfc - Iwata Jubilo": {
-        "Alt": 1.46,
-        "Üst": 1.83
-    },
-    "Tegevajaro Mi. - Tochigi City": {
-        "Alt": 1.9,
-        "Üst": 1.41
-    },
-    "Ventforet - Niigata": {
-        "Alt": 1.47,
-        "Üst": 1.8
-    },
-    "Oita Trinata - V. Hachinohe": {
-        "Alt": 1.35,
-        "Üst": 2.03
-    },
-    "Omiya Ardija - Iwaki": {
-        "Alt": 2.08,
-        "Üst": 1.33
-    },
-    "Yokohama - B. Akita": {
-        "Alt": 1.59,
-        "Üst": 1.66
-    },
-    "S. Bellmare - Sagan Tosu": {
-        "Alt": 1.54,
-        "Üst": 1.71
-    },
-    "M. Yamagata - T. Vortis": {
-        "Alt": 1.46,
-        "Üst": 1.83
-    },
-    "Kochi Utd SC - Ehime": {
-        "Alt": 1.83,
-        "Üst": 1.46
-    },
-    "Tochigi - Fukushima Utd": {
-        "Alt": 1.93,
-        "Üst": 1.4
-    },
-    "Z. Kanazawa - AC N. Parceiro": {
-        "Alt": 1.87,
-        "Üst": 1.43
-    },
-    "Renofa Y. - Kagoshima Utd": {
-        "Alt": 1.55,
-        "Üst": 1.69
-    },
-    "Kamatamare S. - Matsumoto Y.": {
-        "Alt": 1.73,
-        "Üst": 1.54
-    },
-    "Gainare Tottori - SC Sagamihara": {
-        "Alt": 1.78,
-        "Üst": 1.49
-    },
-    "Nara Club - Thespakusatsu G.": {
-        "Alt": 1.87,
-        "Üst": 1.43
-    },
-    "G. Kitakyushu - MIO Biwako Shiga": {
-        "Alt": 3.77,
-        "Üst": 3.84
-    },
-    "Imabari - Sapporo": {
-        "Alt": 1.67,
-        "Üst": 1.58
-    },
-    "Ryukyu - Gifu": {
-        "Alt": 1.73,
-        "Üst": 1.53
-    },
-    "Newcastle Utd Jets - Shanghai Port": {
-        "Alt": 2.37,
-        "Üst": 1.23
-    },
     "Jeonbuk - Johor Darul": {
         "Alt": 1.8,
         "Üst": 1.47
     },
     "Kashiwa - Daejeon Citizen": {
-        "Alt": 1.87,
+        "Alt": 1.88,
         "Üst": 1.42
     },
     "Vissel Kobe - Ratchaburi": {
-        "Alt": 1.31,
-        "Üst": 2.16
+        "Alt": 1.28,
+        "Üst": 2.13
+    },
+    "Bodo Glimt U19 - Lille U19": {
+        "Alt": 3.93,
+        "Üst": 2.03
     },
     "Estrela A. U23 - Santa Clara U23": {
         "Alt": 1.76,
         "Üst": 1.5
+    },
+    "Mudhar - Baish": {
+        "Alt": 1.76,
+        "Üst": 1.5
+    },
+    "FK Otrant Olympic U. - FK Arsenal Tivat": {
+        "Alt": 1.57,
+        "Üst": 1.67
+    },
+    "Gornik Leczna (K) - Czarni Sosnowiec (K)": {
+        "Alt": 2.91,
+        "Üst": 3.63
+    },
+    "S. Donetsk U19 - S. Lizbon U19": {
+        "Alt": 2.13,
+        "Üst": 1.31
+    },
+    "Villarreal U19 - PSG U19": {
+        "Alt": 2.26,
+        "Üst": 1.27
+    },
+    "Port - Beijing Guoan": {
+        "Alt": 2.03,
+        "Üst": 1.34
+    },
+    "Cong An Nhan Dan - Kyoto Sanga": {
+        "Alt": 1.76,
+        "Üst": 1.5
+    },
+    "AL Washm - AL Hada": {
+        "Alt": 1.83,
+        "Üst": 1.45
+    },
+    "Najran SC - Jubbah Club": {
+        "Alt": 1.55,
+        "Üst": 1.7
+    },
+    "Damac - AL Akhdood": {
+        "Alt": 1.59,
+        "Üst": 1.66
+    },
+    "Mladost Zdralovi - NK Slaven": {
+        "Alt": 1.67,
+        "Üst": 1.58
+    },
+    "Baia de Pemba - Fer. de Maputo": {
+        "Alt": 5.67,
+        "Üst": 3.37
+    },
+    "Feyenoord U19 - İnter U20": {
+        "Alt": 2.26,
+        "Üst": 1.27
+    },
+    "Man. Utd U19 - Roma U20": {
+        "Alt": 2.26,
+        "Üst": 1.27
+    },
+    "NEC - Updf": {
+        "Alt": 1.53,
+        "Üst": 1.74
+    },
+    "Uganda Police - Airtel Kitara": {
+        "Alt": 1.29,
+        "Üst": 2.16
+    },
+    "Bul - SC Villa": {
+        "Alt": 1.2,
+        "Üst": 3.7
+    },
+    "Stade Tunisien - Club Africain": {
+        "Alt": 1.12,
+        "Üst": 2.91
     }
 }
