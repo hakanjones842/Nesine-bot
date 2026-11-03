@@ -1,66 +1,74 @@
 {
-    "Esteghlal - AL Shamal": {
-        "Alt": 1.51,
+    "Monagas SC - Caracas": {
+        "Alt": 1.8,
+        "Üst": 1.48
+    },
+    "Chapecoense - Mirassol SP": {
+        "Alt": 1.87,
+        "Üst": 1.54
+    },
+    "Club Aurora - Independiente P.": {
+        "Alt": 2.09,
+        "Üst": 3.54
+    },
+    "Deportivo Pasto - J. De Cordoba": {
+        "Alt": 1.53,
         "Üst": 1.74
     },
-    "AL Hussein Irbid - AL Shorta": {
-        "Alt": 1.62,
-        "Üst": 1.62
-    },
-    "NK Istra 61 - NK Neretva Metkovic": {
-        "Alt": 3.9,
-        "Üst": 1.67
-    },
-    "FK Jezero Plav - FK Decic Tuzi": {
-        "Alt": 1.36,
-        "Üst": 2.0
-    },
-    "Extension Gunners - Prisons Xi Gaborone": {
-        "Alt": 1.34,
-        "Üst": 2.06
-    },
-    "Lyngby BK - Randers": {
-        "Alt": 2.07,
-        "Üst": 1.33
-    },
-    "Mamel Sundow - Gold. Arrow": {
-        "Alt": 1.52,
-        "Üst": 1.74
-    },
-    "C. Glogow - Arka Gdynia": {
+    "Dep. Tachira - A. Puerto C.": {
         "Alt": 1.46,
         "Üst": 1.83
     },
-    "Pogon Siedl. - Ruch Chorzow": {
-        "Alt": 1.63,
-        "Üst": 1.61
+    "Internacional - Coritiba": {
+        "Alt": 1.8,
+        "Üst": 1.59
     },
-    "Apr - Gasogi Utd": {
+    "Sporting San Jose - M. Per. Zeledon": {
+        "Alt": 2.04,
+        "Üst": 1.34
+    },
+    "Alianza Lima - CS Cienciano": {
+        "Alt": 1.85,
+        "Üst": 1.44
+    },
+    "R. Cartagena - Deportes Quindio": {
+        "Alt": 1.41,
+        "Üst": 1.9
+    },
+    "J Lease - Tokyo Musashino City": {
+        "Alt": 1.55,
+        "Üst": 1.7
+    },
+    "Osaka - R. Kumamoto": {
+        "Alt": 1.64,
+        "Üst": 1.6
+    },
+    "Philippine Army - Azkals Dev. T.": {
+        "Alt": 2.46,
+        "Üst": 3.57
+    },
+    "Melbourne V. - Persib Bandung": {
+        "Alt": 1.56,
+        "Üst": 1.69
+    },
+    "Mendiola - DH Cebu": {
+        "Alt": 3.39,
+        "Üst": 2.15
+    },
+    "Pohang S. - Gamba Osaka": {
+        "Alt": 1.73,
+        "Üst": 1.53
+    },
+    "Seoul - CLB Viettel": {
+        "Alt": 1.22,
+        "Üst": 2.02
+    },
+    "AEK U19 - Real Madrid U19": {
+        "Alt": 2.28,
+        "Üst": 1.26
+    },
+    "KF Drita - Prishtina": {
         "Alt": 1.51,
         "Üst": 1.75
-    },
-    "Shakhtar D. - Sporting CP": {
-        "Alt": 1.98,
-        "Üst": 1.47
-    },
-    "Galatasaray - Stuttgart": {
-        "Alt": 3.29,
-        "Üst": 1.14
-    },
-    "IK Sirius - Halmstads": {
-        "Alt": 2.47,
-        "Üst": 1.28
-    },
-    "Enppi Club - Asyut Petroleum": {
-        "Alt": 1.33,
-        "Üst": 2.07
-    },
-    "Smouha SC - Pyramids": {
-        "Alt": 1.32,
-        "Üst": 2.11
-    },
-    "Al Hilal - Al Ahli Dubai": {
-        "Alt": 2.14,
-        "Üst": 1.3
     }
 }
