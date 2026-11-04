@@ -1,66 +1,74 @@
 {
-    "AL Wahda - AL Khalidiyah": {
-        "Alt": 1.97,
-        "Üst": 1.38
+    "Nacional Potosi - O. Petrolero": {
+        "Alt": 2.42,
+        "Üst": 3.56
     },
-    "Al Kuveyt SC - Nasaf": {
+    "D. Union La Calera - Coquimbo U.": {
+        "Alt": 1.53,
+        "Üst": 1.73
+    },
+    "Flamengo - Gremio P.": {
+        "Alt": 1.15,
+        "Üst": 1.74
+    },
+    "Paranaense - Vasco Da G.": {
+        "Alt": 1.76,
+        "Üst": 1.62
+    },
+    "Venados - Atl Morelia": {
+        "Alt": 1.8,
+        "Üst": 1.47
+    },
+    "CD Estrella Roja - Motagua": {
+        "Alt": 1.73,
+        "Üst": 1.53
+    },
+    "Cucuta D. - I. Santa Fe": {
+        "Alt": 1.56,
+        "Üst": 1.68
+    },
+    "Metropolitan - Carabobo": {
+        "Alt": 1.67,
+        "Üst": 1.58
+    },
+    "LDU Quito - Uni. Catolica": {
+        "Alt": 1.56,
+        "Üst": 1.68
+    },
+    "Puntarenas - AD San Carlos": {
+        "Alt": 1.68,
+        "Üst": 1.57
+    },
+    "Ferro Carril - Nacional": {
+        "Alt": 3.3,
+        "Üst": 2.0
+    },
+    "Sao Paulo SP - Corinthians": {
+        "Alt": 1.36,
+        "Üst": 2.2
+    },
+    "Botafogo RJ - Atl Mineiro": {
+        "Alt": 1.89,
+        "Üst": 1.52
+    },
+    "Strongest - Always Ready": {
+        "Alt": 3.51,
+        "Üst": 3.85
+    },
+    "Municipal L. - Fuerte San Francisco": {
+        "Alt": 1.67,
+        "Üst": 1.57
+    },
+    "Angel Firpo - Alianza": {
         "Alt": 1.66,
         "Üst": 1.59
     },
-    "AL Rayyan - AL Nahda": {
-        "Alt": 2.08,
-        "Üst": 1.33
+    "Tlaxcala - Atl La Paz": {
+        "Alt": 3.9,
+        "Üst": 3.9
     },
-    "Szeged G. A. - Bvsc Zuglo": {
-        "Alt": 1.4,
-        "Üst": 1.93
-    },
-    "Dukla BB - AS Trencin": {
-        "Alt": 1.69,
-        "Üst": 1.56
-    },
-    "Sheriff Tir. U19 - Farul Constanta U19": {
-        "Alt": 1.98,
-        "Üst": 1.38
-    },
-    "SK Super Nova U19 - Hammarby IF FF U19": {
-        "Alt": 1.91,
-        "Üst": 1.41
-    },
-    "Etihad AL Gharafa - Umm Salal SC": {
-        "Alt": 3.49,
-        "Üst": 1.9
-    },
-    "AL Bidda SC - Muaither SC": {
-        "Alt": 1.88,
-        "Üst": 1.42
-    },
-    "AL Hilal (Sdn) - Rayon Sports": {
-        "Alt": 1.35,
-        "Üst": 2.03
-    },
-    "Gaborone Utd - Enesia": {
-        "Alt": 1.75,
-        "Üst": 1.51
-    },
-    "SK Artis Brno - Bohemians P.": {
-        "Alt": 1.67,
-        "Üst": 1.59
-    },
-    "Penafiel U23 - Famalicao U23": {
-        "Alt": 1.85,
-        "Üst": 1.44
-    },
-    "AEK Athens - Real Madrid": {
-        "Alt": 3.12,
-        "Üst": 1.15
-    },
-    "Fenerbahçe - Liverpool": {
-        "Alt": 3.02,
-        "Üst": 1.17
-    },
-    "Al Masry - Petrojet": {
-        "Alt": 1.28,
-        "Üst": 2.21
+    "Millonarios - America De Cali": {
+        "Alt": 1.48,
+        "Üst": 1.79
     }
 }
