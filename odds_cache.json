@@ -1,78 +1,66 @@
 {
-    "Melbourne V. - Persib Bandung": {
-        "Alt": 1.54,
-        "Üst": 1.71
+    "AL Wahda - AL Khalidiyah": {
+        "Alt": 1.97,
+        "Üst": 1.38
     },
-    "PSS Sleman - PSGC Ciamis": {
-        "Alt": 1.76,
-        "Üst": 1.5
+    "Al Kuveyt SC - Nasaf": {
+        "Alt": 1.66,
+        "Üst": 1.59
     },
-    "Malut Utd - Bekasi City": {
-        "Alt": 1.94,
-        "Üst": 1.39
+    "AL Rayyan - AL Nahda": {
+        "Alt": 2.08,
+        "Üst": 1.33
     },
-    "Persikad Depok - Persiku Kudus": {
-        "Alt": 2.17,
-        "Üst": 3.5
+    "Szeged G. A. - Bvsc Zuglo": {
+        "Alt": 1.4,
+        "Üst": 1.93
     },
-    "Mendiola - DH Cebu": {
-        "Alt": 3.7,
-        "Üst": 1.77
-    },
-    "Pohang S. - Gamba Osaka": {
+    "Dukla BB - AS Trencin": {
         "Alt": 1.69,
-        "Üst": 1.55
+        "Üst": 1.56
     },
-    "Seoul - CLB Viettel": {
-        "Alt": 1.2,
-        "Üst": 1.69
+    "Sheriff Tir. U19 - Farul Constanta U19": {
+        "Alt": 1.98,
+        "Üst": 1.38
     },
-    "AEK U19 - Real Madrid U19": {
-        "Alt": 2.32,
-        "Üst": 1.25
+    "SK Super Nova U19 - Hammarby IF FF U19": {
+        "Alt": 1.91,
+        "Üst": 1.41
     },
-    "Persik Kediri - Persis Solo": {
-        "Alt": 1.99,
-        "Üst": 1.37
+    "Etihad AL Gharafa - Umm Salal SC": {
+        "Alt": 3.49,
+        "Üst": 1.9
     },
-    "KF Drita - Prishtina": {
-        "Alt": 1.51,
-        "Üst": 1.75
+    "AL Bidda SC - Muaither SC": {
+        "Alt": 1.88,
+        "Üst": 1.42
     },
-    "FK Tauras Taurage - Minija 2017": {
-        "Alt": 2.06,
-        "Üst": 1.34
+    "AL Hilal (Sdn) - Rayon Sports": {
+        "Alt": 1.35,
+        "Üst": 2.03
     },
-    "Porto U19 - SSC Napoli U20": {
-        "Alt": 1.15,
-        "Üst": 1.85
+    "Gaborone Utd - Enesia": {
+        "Alt": 1.75,
+        "Üst": 1.51
     },
-    "D. Zagreb U19 - Karabağ U19": {
-        "Alt": 3.61,
-        "Üst": 2.18
+    "SK Artis Brno - Bohemians P.": {
+        "Alt": 1.67,
+        "Üst": 1.59
     },
-    "Viking FK U19 - Sabah Masazir U19": {
-        "Alt": 3.77,
-        "Üst": 2.07
+    "Penafiel U23 - Famalicao U23": {
+        "Alt": 1.85,
+        "Üst": 1.44
     },
-    "Buriram Utd - Kashima": {
-        "Alt": 1.87,
-        "Üst": 1.43
+    "AEK Athens - Real Madrid": {
+        "Alt": 3.12,
+        "Üst": 1.15
     },
-    "UD DO Songo - Ferroviario de L.": {
-        "Alt": 1.49,
-        "Üst": 1.78
+    "Fenerbahçe - Liverpool": {
+        "Alt": 3.02,
+        "Üst": 1.17
     },
-    "D Sofala League - Vilankulo": {
-        "Alt": 4.49,
-        "Üst": 3.26
-    },
-    "Bugesera - Amagaju": {
-        "Alt": 3.87,
-        "Üst": 3.11
-    },
-    "Etoile de Lest - Musanze": {
-        "Alt": 1.27,
-        "Üst": 3.36
+    "Al Masry - Petrojet": {
+        "Alt": 1.28,
+        "Üst": 2.21
     }
 }
