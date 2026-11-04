@@ -1,51 +1,63 @@
 {
-    "R. Cartagena - Deportes Quindio": {
-        "Alt": 1.41,
-        "Üst": 1.9
-    },
-    "J Lease - Tokyo Musashino City": {
-        "Alt": 1.55,
-        "Üst": 1.7
-    },
-    "Osaka - R. Kumamoto": {
-        "Alt": 1.64,
-        "Üst": 1.6
-    },
     "Melbourne V. - Persib Bandung": {
-        "Alt": 1.53,
-        "Üst": 1.73
+        "Alt": 1.54,
+        "Üst": 1.71
+    },
+    "PSS Sleman - PSGC Ciamis": {
+        "Alt": 1.76,
+        "Üst": 1.5
+    },
+    "Malut Utd - Bekasi City": {
+        "Alt": 1.94,
+        "Üst": 1.39
+    },
+    "Persikad Depok - Persiku Kudus": {
+        "Alt": 2.17,
+        "Üst": 3.5
     },
     "Mendiola - DH Cebu": {
-        "Alt": 3.39,
-        "Üst": 2.15
+        "Alt": 3.7,
+        "Üst": 1.77
     },
     "Pohang S. - Gamba Osaka": {
-        "Alt": 1.7,
-        "Üst": 1.54
+        "Alt": 1.69,
+        "Üst": 1.55
     },
     "Seoul - CLB Viettel": {
-        "Alt": 1.23,
-        "Üst": 1.88
+        "Alt": 1.2,
+        "Üst": 1.69
     },
     "AEK U19 - Real Madrid U19": {
-        "Alt": 2.28,
-        "Üst": 1.26
+        "Alt": 2.32,
+        "Üst": 1.25
+    },
+    "Persik Kediri - Persis Solo": {
+        "Alt": 1.99,
+        "Üst": 1.37
     },
     "KF Drita - Prishtina": {
         "Alt": 1.51,
         "Üst": 1.75
     },
+    "FK Tauras Taurage - Minija 2017": {
+        "Alt": 2.06,
+        "Üst": 1.34
+    },
     "Porto U19 - SSC Napoli U20": {
-        "Alt": 2.62,
-        "Üst": 1.17
+        "Alt": 1.15,
+        "Üst": 1.85
+    },
+    "D. Zagreb U19 - Karabağ U19": {
+        "Alt": 3.61,
+        "Üst": 2.18
     },
     "Viking FK U19 - Sabah Masazir U19": {
-        "Alt": 3.24,
-        "Üst": 1.08
+        "Alt": 3.77,
+        "Üst": 2.07
     },
     "Buriram Utd - Kashima": {
-        "Alt": 1.71,
-        "Üst": 1.54
+        "Alt": 1.87,
+        "Üst": 1.43
     },
     "UD DO Songo - Ferroviario de L.": {
         "Alt": 1.49,
@@ -62,13 +74,5 @@
     "Etoile de Lest - Musanze": {
         "Alt": 1.27,
         "Üst": 3.36
-    },
-    "Gorilla - Gicumbi": {
-        "Alt": 4.01,
-        "Üst": 3.07
-    },
-    "Etincelles - Kiyovu Sport": {
-        "Alt": 1.38,
-        "Üst": 3.14
     }
 }
