@@ -1,36 +1,4 @@
 {
-    "Monagas SC - Caracas": {
-        "Alt": 1.8,
-        "Üst": 1.48
-    },
-    "Chapecoense - Mirassol SP": {
-        "Alt": 1.87,
-        "Üst": 1.54
-    },
-    "Club Aurora - Independiente P.": {
-        "Alt": 2.09,
-        "Üst": 3.54
-    },
-    "Deportivo Pasto - J. De Cordoba": {
-        "Alt": 1.53,
-        "Üst": 1.74
-    },
-    "Dep. Tachira - A. Puerto C.": {
-        "Alt": 1.46,
-        "Üst": 1.83
-    },
-    "Internacional - Coritiba": {
-        "Alt": 1.8,
-        "Üst": 1.59
-    },
-    "Sporting San Jose - M. Per. Zeledon": {
-        "Alt": 2.04,
-        "Üst": 1.34
-    },
-    "Alianza Lima - CS Cienciano": {
-        "Alt": 1.85,
-        "Üst": 1.44
-    },
     "R. Cartagena - Deportes Quindio": {
         "Alt": 1.41,
         "Üst": 1.9
@@ -43,25 +11,21 @@
         "Alt": 1.64,
         "Üst": 1.6
     },
-    "Philippine Army - Azkals Dev. T.": {
-        "Alt": 2.46,
-        "Üst": 3.57
-    },
     "Melbourne V. - Persib Bandung": {
-        "Alt": 1.56,
-        "Üst": 1.69
+        "Alt": 1.53,
+        "Üst": 1.73
     },
     "Mendiola - DH Cebu": {
         "Alt": 3.39,
         "Üst": 2.15
     },
     "Pohang S. - Gamba Osaka": {
-        "Alt": 1.73,
-        "Üst": 1.53
+        "Alt": 1.7,
+        "Üst": 1.54
     },
     "Seoul - CLB Viettel": {
-        "Alt": 1.22,
-        "Üst": 2.02
+        "Alt": 1.23,
+        "Üst": 1.88
     },
     "AEK U19 - Real Madrid U19": {
         "Alt": 2.28,
@@ -70,5 +34,41 @@
     "KF Drita - Prishtina": {
         "Alt": 1.51,
         "Üst": 1.75
+    },
+    "Porto U19 - SSC Napoli U20": {
+        "Alt": 2.62,
+        "Üst": 1.17
+    },
+    "Viking FK U19 - Sabah Masazir U19": {
+        "Alt": 3.24,
+        "Üst": 1.08
+    },
+    "Buriram Utd - Kashima": {
+        "Alt": 1.71,
+        "Üst": 1.54
+    },
+    "UD DO Songo - Ferroviario de L.": {
+        "Alt": 1.49,
+        "Üst": 1.78
+    },
+    "D Sofala League - Vilankulo": {
+        "Alt": 4.49,
+        "Üst": 3.26
+    },
+    "Bugesera - Amagaju": {
+        "Alt": 3.87,
+        "Üst": 3.11
+    },
+    "Etoile de Lest - Musanze": {
+        "Alt": 1.27,
+        "Üst": 3.36
+    },
+    "Gorilla - Gicumbi": {
+        "Alt": 4.01,
+        "Üst": 3.07
+    },
+    "Etincelles - Kiyovu Sport": {
+        "Alt": 1.38,
+        "Üst": 3.14
     }
 }
