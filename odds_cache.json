@@ -1,62 +1,90 @@
 {
-    "CD Esc. Belen - Alajuelense": {
-        "Alt": 1.91,
-        "Üst": 1.41
-    },
     "Pakistan - Hindistan": {
-        "Alt": 1.58,
-        "Üst": 1.67
+        "Alt": 1.65,
+        "Üst": 1.6
     },
     "Machida Zelvia - Shanghai S.": {
-        "Alt": 1.9,
-        "Üst": 1.41
+        "Alt": 2.03,
+        "Üst": 1.35
     },
     "Lion C. Sailors - Adelaide Utd": {
-        "Alt": 2.05,
-        "Üst": 1.34
+        "Alt": 2.39,
+        "Üst": 1.22
     },
     "Kitchee SC - Phnom Penh Crown": {
-        "Alt": 2.0,
-        "Üst": 1.36
+        "Alt": 2.08,
+        "Üst": 1.33
     },
     "Churchill B. SC - Northeast Utd": {
         "Alt": 1.76,
         "Üst": 1.5
     },
     "BG Pathum Utd - Wofoo Tai PO": {
-        "Alt": 1.23,
-        "Üst": 2.04
+        "Alt": 1.31,
+        "Üst": 2.08
     },
     "Kuching FA - Gangwon": {
-        "Alt": 1.58,
+        "Alt": 1.57,
         "Üst": 1.67
     },
     "Preah Khan R. S. - Tampines Rov.": {
-        "Alt": 2.22,
+        "Alt": 2.2,
         "Üst": 1.28
     },
     "El Gouna - Ittihad El-Shorta": {
         "Alt": 1.94,
         "Üst": 1.39
     },
+    "Fanja - AL Musannah SC": {
+        "Alt": 4.06,
+        "Üst": 3.12
+    },
     "Social Atl (K) - CA Banfield (K)": {
         "Alt": 1.31,
         "Üst": 2.13
     },
+    "AL Kahraba - Zakho": {
+        "Alt": 1.38,
+        "Üst": 1.96
+    },
     "Shams Azar Qazvin - SN Abadan": {
-        "Alt": 1.34,
-        "Üst": 2.05
+        "Alt": 1.36,
+        "Üst": 2.01
+    },
+    "Sunrise - Al Merrikh (Sdn)": {
+        "Alt": 1.3,
+        "Üst": 2.15
+    },
+    "Marines - Police": {
+        "Alt": 1.32,
+        "Üst": 2.12
     },
     "Ntungasaze - Gaddafi": {
         "Alt": 1.56,
         "Üst": 1.68
     },
     "Hay AL Amir Hassan - AL Sareeh": {
-        "Alt": 1.47,
-        "Üst": 1.8
+        "Alt": 1.46,
+        "Üst": 1.83
     },
     "Napsa Stars - Power Dynamos": {
-        "Alt": 1.43,
-        "Üst": 3.06
+        "Alt": 1.44,
+        "Üst": 3.04
+    },
+    "Chirundu Utd - Green Eagles": {
+        "Alt": 5.28,
+        "Üst": 3.33
+    },
+    "Green Buffaloes - Zesco Utd": {
+        "Alt": 1.31,
+        "Üst": 3.18
+    },
+    "Mutondo Stars - Mufulira Wanderers": {
+        "Alt": 1.34,
+        "Üst": 3.16
+    },
+    "Bunyodkor - Xorazm Fk Urganch": {
+        "Alt": 1.67,
+        "Üst": 1.58
     }
 }
