@@ -1,90 +1,74 @@
 {
-    "Pakistan - Hindistan": {
+    "Palmeiras SP - Clube do Remo": {
+        "Alt": 2.17,
+        "Üst": 1.38
+    },
+    "Botafogo - Londrina PR": {
         "Alt": 1.65,
         "Üst": 1.6
     },
-    "Machida Zelvia - Shanghai S.": {
-        "Alt": 2.03,
+    "Club Bolivar - Real Potosi": {
+        "Alt": 3.47,
+        "Üst": 1.93
+    },
+    "Inter San Carlos - CS Cartagines": {
+        "Alt": 1.62,
+        "Üst": 1.62
+    },
+    "Club Necaxa (K) - Atlas (K)": {
+        "Alt": 3.43,
+        "Üst": 1.99
+    },
+    "CD Choloma - CA Independiente S.": {
+        "Alt": 2.02,
         "Üst": 1.35
     },
-    "Lion C. Sailors - Adelaide Utd": {
-        "Alt": 2.39,
-        "Üst": 1.22
+    "Independiente D. - Delfin": {
+        "Alt": 1.96,
+        "Üst": 1.38
     },
-    "Kitchee SC - Phnom Penh Crown": {
-        "Alt": 2.08,
-        "Üst": 1.33
+    "Arnett Gardens - Mount Pleasant": {
+        "Alt": 1.82,
+        "Üst": 3.39
     },
-    "Churchill B. SC - Northeast Utd": {
-        "Alt": 1.76,
-        "Üst": 1.5
+    "U. Magdalena - Independiente Yumbo": {
+        "Alt": 1.68,
+        "Üst": 1.56
     },
-    "BG Pathum Utd - Wofoo Tai PO": {
-        "Alt": 1.31,
-        "Üst": 2.08
+    "Cruzeiro MG - Bahia BA": {
+        "Alt": 2.12,
+        "Üst": 1.4
     },
-    "Kuching FA - Gangwon": {
-        "Alt": 1.57,
-        "Üst": 1.67
-    },
-    "Preah Khan R. S. - Tampines Rov.": {
-        "Alt": 2.2,
-        "Üst": 1.28
-    },
-    "El Gouna - Ittihad El-Shorta": {
-        "Alt": 1.94,
-        "Üst": 1.39
-    },
-    "Fanja - AL Musannah SC": {
-        "Alt": 4.06,
-        "Üst": 3.12
-    },
-    "Social Atl (K) - CA Banfield (K)": {
-        "Alt": 1.31,
-        "Üst": 2.13
-    },
-    "AL Kahraba - Zakho": {
+    "Cancun - Piratas Veracruz": {
         "Alt": 1.38,
-        "Üst": 1.96
+        "Üst": 1.97
     },
-    "Shams Azar Qazvin - SN Abadan": {
-        "Alt": 1.36,
-        "Üst": 2.01
+    "Queretaro (K) - Dep. Toluca (K)": {
+        "Alt": 2.33,
+        "Üst": 1.32
     },
-    "Sunrise - Al Merrikh (Sdn)": {
-        "Alt": 1.3,
-        "Üst": 2.15
+    "Marathon - Platense": {
+        "Alt": 1.93,
+        "Üst": 1.4
     },
-    "Marines - Police": {
+    "CS Herediano - D. Saprissa": {
+        "Alt": 1.53,
+        "Üst": 1.73
+    },
+    "Alac. de Durango - Leones Negros": {
+        "Alt": 1.53,
+        "Üst": 1.73
+    },
+    "C. Santos Laguna (K) - Club Tijuana (K)": {
         "Alt": 1.32,
-        "Üst": 2.12
+        "Üst": 3.78
     },
-    "Ntungasaze - Gaddafi": {
-        "Alt": 1.56,
-        "Üst": 1.68
+    "Adelaide Utd (K) - Wellington P. (K)": {
+        "Alt": 1.74,
+        "Üst": 1.52
     },
-    "Hay AL Amir Hassan - AL Sareeh": {
-        "Alt": 1.46,
-        "Üst": 1.83
-    },
-    "Napsa Stars - Power Dynamos": {
-        "Alt": 1.44,
-        "Üst": 3.04
-    },
-    "Chirundu Utd - Green Eagles": {
-        "Alt": 5.28,
-        "Üst": 3.33
-    },
-    "Green Buffaloes - Zesco Utd": {
-        "Alt": 1.31,
-        "Üst": 3.18
-    },
-    "Mutondo Stars - Mufulira Wanderers": {
-        "Alt": 1.34,
-        "Üst": 3.16
-    },
-    "Bunyodkor - Xorazm Fk Urganch": {
-        "Alt": 1.67,
-        "Üst": 1.58
+    "Canberra - Sydney Utd 58": {
+        "Alt": 2.31,
+        "Üst": 1.25
     }
 }
