@@ -1,71 +1,55 @@
 {
-    "Alac. de Durango - Leones Negros": {
-        "Alt": 1.47,
-        "Üst": 1.8
+    "Obolon Kiev - Levy Bereg Kiev": {
+        "Alt": 1.36,
+        "Üst": 2.0
     },
-    "C. Santos Laguna (K) - Club Tijuana (K)": {
-        "Alt": 1.47,
-        "Üst": 3.58
-    },
-    "Adelaide Utd (K) - Wellington P. (K)": {
+    "Polissya Zhytomyr - Veres Rivne": {
         "Alt": 1.74,
         "Üst": 1.52
     },
-    "Canberra - Sydney Utd 58": {
-        "Alt": 2.31,
-        "Üst": 1.25
-    },
-    "Psim Yogyakarta - Dewa Utd": {
-        "Alt": 1.74,
-        "Üst": 1.51
-    },
-    "Sydney - C. C. Mariners": {
-        "Alt": 2.04,
-        "Üst": 1.43
-    },
-    "Obolon Kiev - Levy Bereg Kiev": {
-        "Alt": 1.38,
-        "Üst": 1.97
-    },
-    "Polissya Zhytomyr - Veres Rivne": {
-        "Alt": 2.0,
-        "Üst": 1.36
-    },
     "Hong Linh - Nam Dinh": {
-        "Alt": 1.43,
-        "Üst": 1.87
+        "Alt": 1.46,
+        "Üst": 1.83
     },
     "Binh Phuoc - SHB Da Nang": {
-        "Alt": 1.52,
-        "Üst": 1.74
+        "Alt": 1.47,
+        "Üst": 1.8
     },
     "Madura Utd - Arema": {
-        "Alt": 1.84,
-        "Üst": 1.45
+        "Alt": 1.94,
+        "Üst": 1.39
     },
     "M. Sepahan - Malavan Bandar A.": {
         "Alt": 1.43,
         "Üst": 1.87
     },
+    "Aluminium A. - Mes Shahr e B.": {
+        "Alt": 1.15,
+        "Üst": 2.72
+    },
     "GFK Tikvesh 1930 - FK Skopje": {
-        "Alt": 3.38,
-        "Üst": 2.09
+        "Alt": 2.02,
+        "Üst": 1.35
     },
     "SC Sopron - Mosonmagyar.": {
-        "Alt": 1.66,
-        "Üst": 1.59
+        "Alt": 1.7,
+        "Üst": 1.55
     },
     "Lamphun Warrior - Sukhothai": {
-        "Alt": 1.96,
-        "Üst": 1.39
+        "Alt": 1.93,
+        "Üst": 1.41
+    },
+    "Reyady Abaseya - Al Hikma": {
+        "Alt": 1.62,
+        "Üst": 1.62
     },
     "Smouha SC - Minya SC": {
         "Alt": 1.67,
         "Üst": 1.58
     },
     "AL Qala - Afief": {
-        "Alt": 1.38,
-        "Üst": 1.96
+        "Alt": 1.41,
+        "Üst": 1.92
     },
     "Dibba - Al Hamriyah": {
         "Alt": 1.87,
@@ -74,5 +58,25 @@
     "AL Dhaid - Emirates Club": {
         "Alt": 1.91,
         "Üst": 1.41
+    },
+    "Dubai City - Gulf": {
+        "Alt": 1.99,
+        "Üst": 1.37
+    },
+    "Schalke 04 II - B. M. Gladbach II": {
+        "Alt": 1.42,
+        "Üst": 3.78
+    },
+    "Uljanik - NK Inker Zapresic": {
+        "Alt": 1.97,
+        "Üst": 1.38
+    },
+    "NK Sesvete - NK Bsk Bijelo Brdo": {
+        "Alt": 3.8,
+        "Üst": 3.11
+    },
+    "NK Kustosija - HNK Orijent 1919": {
+        "Alt": 1.52,
+        "Üst": 1.74
     }
 }
