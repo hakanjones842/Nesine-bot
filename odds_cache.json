@@ -1,86 +1,82 @@
 {
-    "Botev Plovdiv - Dunav 2010": {
+    "Independiente - Dep. Riestra": {
+        "Alt": 1.24,
+        "Üst": 2.61
+    },
+    "Union De Santa Fe - V. Sarsfield": {
+        "Alt": 1.59,
+        "Üst": 1.8
+    },
+    "San Lorenzo - CA Platense": {
+        "Alt": 1.31,
+        "Üst": 2.36
+    },
+    "Operario - Recife": {
+        "Alt": 1.53,
+        "Üst": 1.74
+    },
+    "Vitoria BA - Fluminense": {
+        "Alt": 1.41,
+        "Üst": 2.08
+    },
+    "Boyaca Chico - Inter Bogota": {
+        "Alt": 1.45,
+        "Üst": 1.84
+    },
+    "Pumas Unam (K) - Atl San Luis (K)": {
+        "Alt": 1.8,
+        "Üst": 3.44
+    },
+    "CD Inca - Metapan": {
+        "Alt": 1.56,
+        "Üst": 1.69
+    },
+    "CA Tigre - CA Sarmiento": {
+        "Alt": 1.44,
+        "Üst": 2.02
+    },
+    "Banfield - Atl Tucuman": {
+        "Alt": 1.47,
+        "Üst": 1.99
+    },
+    "Fortaleza - I. Medellin": {
+        "Alt": 1.44,
+        "Üst": 1.86
+    },
+    "Atl San Luis - Juarez": {
         "Alt": 1.82,
         "Üst": 1.46
     },
-    "D. Dresden - G. Furth": {
-        "Alt": 1.95,
-        "Üst": 1.48
+    "Necaxa - Club Tijuana": {
+        "Alt": 1.69,
+        "Üst": 1.55
     },
-    "Braunschweig - E. Cottbus": {
-        "Alt": 2.4,
-        "Üst": 1.3
+    "Wellington Oly. - Auckland Utd": {
+        "Alt": 3.07,
+        "Üst": 3.8
     },
-    "B. Münih (K) - Werder Bremen (K)": {
-        "Alt": 3.57,
-        "Üst": 2.12
+    "Auckland City - Birkenhead Utd AFC": {
+        "Alt": 1.92,
+        "Üst": 1.41
     },
-    "E. Frankfurt (K) - Wolfsburg (K)": {
-        "Alt": 1.58,
-        "Üst": 3.62
+    "Guadalajara (K) - America (K)": {
+        "Alt": 2.0,
+        "Üst": 3.37
     },
-    "Liefering - SV Austria Salzburg": {
-        "Alt": 2.37,
-        "Üst": 1.23
+    "Cruz Azul (K) - Club Leon (K)": {
+        "Alt": 3.31,
+        "Üst": 3.71
     },
-    "Austria Wien II - First Vienna": {
-        "Alt": 1.62,
-        "Üst": 1.61
+    "Dep. Guastatoya - CD Suchitepequez": {
+        "Alt": 1.35,
+        "Üst": 2.02
     },
-    "Amstetten - Wacker Inns.": {
-        "Alt": 1.84,
-        "Üst": 1.45
-    },
-    "Viktoria Köln - Saarbrucken": {
-        "Alt": 2.44,
-        "Üst": 1.28
-    },
-    "Illertissen - Ansbach": {
-        "Alt": 1.93,
-        "Üst": 3.34
-    },
-    "Kickers Emden - Lubeck": {
-        "Alt": 2.42,
-        "Üst": 3.52
-    },
-    "Chem Leipzig - Weiss Erfurt": {
-        "Alt": 1.82,
-        "Üst": 3.42
-    },
-    "Barracas - Racing Club": {
-        "Alt": 1.43,
-        "Üst": 2.04
-    },
-    "Belgrano de C. (K) - Newells Old Boys (K)": {
-        "Alt": 1.54,
-        "Üst": 2.39
-    },
-    "San Luis (K) - Ferro Carril (K)": {
-        "Alt": 1.4,
-        "Üst": 1.93
-    },
-    "CA River Plate (K) - Gimnasia La Plata (K)": {
-        "Alt": 1.54,
-        "Üst": 1.71
-    },
-    "Silkeborg - Lyngby BK": {
-        "Alt": 2.05,
-        "Üst": 1.43
-    },
-    "AB Gladsaxe - Vendsyssel": {
-        "Alt": 1.86,
-        "Üst": 1.44
-    },
-    "HB Koege - Aalborg BK": {
+    "Atlante - Santos Laguna": {
         "Alt": 1.98,
         "Üst": 1.37
     },
-    "Thisted - Fremad Amager": {
-        "Alt": 1.71,
-        "Üst": 1.54
-    },
-    "B93 Kopenhag - Skive IK": {
-        "Alt": 1.89,
-        "Üst": 1.42
+    "Ferrymead Bays - Wellington P. 2": {
+        "Alt": 2.05,
+        "Üst": 3.58
     }
 }
