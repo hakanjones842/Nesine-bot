@@ -1,82 +1,86 @@
 {
-    "Obolon Kiev - Levy Bereg Kiev": {
-        "Alt": 1.36,
-        "Üst": 2.0
+    "Botev Plovdiv - Dunav 2010": {
+        "Alt": 1.82,
+        "Üst": 1.46
     },
-    "Polissya Zhytomyr - Veres Rivne": {
-        "Alt": 1.74,
-        "Üst": 1.52
+    "D. Dresden - G. Furth": {
+        "Alt": 1.95,
+        "Üst": 1.48
     },
-    "Hong Linh - Nam Dinh": {
-        "Alt": 1.46,
-        "Üst": 1.83
+    "Braunschweig - E. Cottbus": {
+        "Alt": 2.4,
+        "Üst": 1.3
     },
-    "Binh Phuoc - SHB Da Nang": {
-        "Alt": 1.47,
-        "Üst": 1.8
+    "B. Münih (K) - Werder Bremen (K)": {
+        "Alt": 3.57,
+        "Üst": 2.12
     },
-    "Madura Utd - Arema": {
-        "Alt": 1.94,
-        "Üst": 1.39
+    "E. Frankfurt (K) - Wolfsburg (K)": {
+        "Alt": 1.58,
+        "Üst": 3.62
     },
-    "M. Sepahan - Malavan Bandar A.": {
-        "Alt": 1.43,
-        "Üst": 1.87
+    "Liefering - SV Austria Salzburg": {
+        "Alt": 2.37,
+        "Üst": 1.23
     },
-    "Aluminium A. - Mes Shahr e B.": {
-        "Alt": 1.15,
-        "Üst": 2.72
-    },
-    "GFK Tikvesh 1930 - FK Skopje": {
-        "Alt": 2.02,
-        "Üst": 1.35
-    },
-    "SC Sopron - Mosonmagyar.": {
-        "Alt": 1.7,
-        "Üst": 1.55
-    },
-    "Lamphun Warrior - Sukhothai": {
-        "Alt": 1.93,
-        "Üst": 1.41
-    },
-    "Reyady Abaseya - Al Hikma": {
+    "Austria Wien II - First Vienna": {
         "Alt": 1.62,
-        "Üst": 1.62
+        "Üst": 1.61
     },
-    "Smouha SC - Minya SC": {
-        "Alt": 1.67,
-        "Üst": 1.58
+    "Amstetten - Wacker Inns.": {
+        "Alt": 1.84,
+        "Üst": 1.45
     },
-    "AL Qala - Afief": {
-        "Alt": 1.41,
-        "Üst": 1.92
+    "Viktoria Köln - Saarbrucken": {
+        "Alt": 2.44,
+        "Üst": 1.28
     },
-    "Dibba - Al Hamriyah": {
-        "Alt": 1.87,
+    "Illertissen - Ansbach": {
+        "Alt": 1.93,
+        "Üst": 3.34
+    },
+    "Kickers Emden - Lubeck": {
+        "Alt": 2.42,
+        "Üst": 3.52
+    },
+    "Chem Leipzig - Weiss Erfurt": {
+        "Alt": 1.82,
+        "Üst": 3.42
+    },
+    "Barracas - Racing Club": {
+        "Alt": 1.43,
+        "Üst": 2.04
+    },
+    "Belgrano de C. (K) - Newells Old Boys (K)": {
+        "Alt": 1.54,
+        "Üst": 2.39
+    },
+    "San Luis (K) - Ferro Carril (K)": {
+        "Alt": 1.4,
+        "Üst": 1.93
+    },
+    "CA River Plate (K) - Gimnasia La Plata (K)": {
+        "Alt": 1.54,
+        "Üst": 1.71
+    },
+    "Silkeborg - Lyngby BK": {
+        "Alt": 2.05,
         "Üst": 1.43
     },
-    "AL Dhaid - Emirates Club": {
-        "Alt": 1.91,
-        "Üst": 1.41
+    "AB Gladsaxe - Vendsyssel": {
+        "Alt": 1.86,
+        "Üst": 1.44
     },
-    "Dubai City - Gulf": {
-        "Alt": 1.99,
+    "HB Koege - Aalborg BK": {
+        "Alt": 1.98,
         "Üst": 1.37
     },
-    "Schalke 04 II - B. M. Gladbach II": {
-        "Alt": 1.42,
-        "Üst": 3.78
+    "Thisted - Fremad Amager": {
+        "Alt": 1.71,
+        "Üst": 1.54
     },
-    "Uljanik - NK Inker Zapresic": {
-        "Alt": 1.97,
-        "Üst": 1.38
-    },
-    "NK Sesvete - NK Bsk Bijelo Brdo": {
-        "Alt": 3.8,
-        "Üst": 3.11
-    },
-    "NK Kustosija - HNK Orijent 1919": {
-        "Alt": 1.52,
-        "Üst": 1.74
+    "B93 Kopenhag - Skive IK": {
+        "Alt": 1.89,
+        "Üst": 1.42
     }
 }
