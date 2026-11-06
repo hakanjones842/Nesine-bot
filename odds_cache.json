@@ -1,67 +1,11 @@
 {
-    "Palmeiras SP - Clube do Remo": {
-        "Alt": 2.17,
-        "Üst": 1.38
-    },
-    "Botafogo - Londrina PR": {
-        "Alt": 1.65,
-        "Üst": 1.6
-    },
-    "Club Bolivar - Real Potosi": {
-        "Alt": 3.47,
-        "Üst": 1.93
-    },
-    "Inter San Carlos - CS Cartagines": {
-        "Alt": 1.62,
-        "Üst": 1.62
-    },
-    "Club Necaxa (K) - Atlas (K)": {
-        "Alt": 3.43,
-        "Üst": 1.99
-    },
-    "CD Choloma - CA Independiente S.": {
-        "Alt": 2.02,
-        "Üst": 1.35
-    },
-    "Independiente D. - Delfin": {
-        "Alt": 1.96,
-        "Üst": 1.38
-    },
-    "Arnett Gardens - Mount Pleasant": {
-        "Alt": 1.82,
-        "Üst": 3.39
-    },
-    "U. Magdalena - Independiente Yumbo": {
-        "Alt": 1.68,
-        "Üst": 1.56
-    },
-    "Cruzeiro MG - Bahia BA": {
-        "Alt": 2.12,
-        "Üst": 1.4
-    },
-    "Cancun - Piratas Veracruz": {
-        "Alt": 1.38,
-        "Üst": 1.97
-    },
-    "Queretaro (K) - Dep. Toluca (K)": {
-        "Alt": 2.33,
-        "Üst": 1.32
-    },
-    "Marathon - Platense": {
-        "Alt": 1.93,
-        "Üst": 1.4
-    },
-    "CS Herediano - D. Saprissa": {
-        "Alt": 1.53,
-        "Üst": 1.73
-    },
     "Alac. de Durango - Leones Negros": {
-        "Alt": 1.53,
-        "Üst": 1.73
+        "Alt": 1.47,
+        "Üst": 1.8
     },
     "C. Santos Laguna (K) - Club Tijuana (K)": {
-        "Alt": 1.32,
-        "Üst": 3.78
+        "Alt": 1.47,
+        "Üst": 3.58
     },
     "Adelaide Utd (K) - Wellington P. (K)": {
         "Alt": 1.74,
@@ -70,5 +14,65 @@
     "Canberra - Sydney Utd 58": {
         "Alt": 2.31,
         "Üst": 1.25
+    },
+    "Psim Yogyakarta - Dewa Utd": {
+        "Alt": 1.74,
+        "Üst": 1.51
+    },
+    "Sydney - C. C. Mariners": {
+        "Alt": 2.04,
+        "Üst": 1.43
+    },
+    "Obolon Kiev - Levy Bereg Kiev": {
+        "Alt": 1.38,
+        "Üst": 1.97
+    },
+    "Polissya Zhytomyr - Veres Rivne": {
+        "Alt": 2.0,
+        "Üst": 1.36
+    },
+    "Hong Linh - Nam Dinh": {
+        "Alt": 1.43,
+        "Üst": 1.87
+    },
+    "Binh Phuoc - SHB Da Nang": {
+        "Alt": 1.52,
+        "Üst": 1.74
+    },
+    "Madura Utd - Arema": {
+        "Alt": 1.84,
+        "Üst": 1.45
+    },
+    "M. Sepahan - Malavan Bandar A.": {
+        "Alt": 1.43,
+        "Üst": 1.87
+    },
+    "GFK Tikvesh 1930 - FK Skopje": {
+        "Alt": 3.38,
+        "Üst": 2.09
+    },
+    "SC Sopron - Mosonmagyar.": {
+        "Alt": 1.66,
+        "Üst": 1.59
+    },
+    "Lamphun Warrior - Sukhothai": {
+        "Alt": 1.96,
+        "Üst": 1.39
+    },
+    "Smouha SC - Minya SC": {
+        "Alt": 1.67,
+        "Üst": 1.58
+    },
+    "AL Qala - Afief": {
+        "Alt": 1.38,
+        "Üst": 1.96
+    },
+    "Dibba - Al Hamriyah": {
+        "Alt": 1.87,
+        "Üst": 1.43
+    },
+    "AL Dhaid - Emirates Club": {
+        "Alt": 1.91,
+        "Üst": 1.41
     }
 }
