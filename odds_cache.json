@@ -1,82 +1,82 @@
 {
-    "Perth Glory (K) - Canberra Utd (K)": {
-        "Alt": 1.67,
-        "Üst": 1.58
+    "Leipzig - Augsburg": {
+        "Alt": 3.88,
+        "Üst": 1.08
     },
-    "Naegohyang (K) - INAC Kobe L. (K)": {
-        "Alt": 1.69,
-        "Üst": 1.56
+    "B. Dortmund - Elversberg": {
+        "Alt": 2.88,
+        "Üst": 1.19
     },
-    "Hwacheon Ksp (K) - Ho Chi Minh (K)": {
-        "Alt": 4.12,
-        "Üst": 2.2
+    "Mainz - Bayern Münih": {
+        "Alt": 3.7,
+        "Üst": 1.09
     },
-    "South Melbourne - Sutherland S.": {
-        "Alt": 1.98,
-        "Üst": 1.37
+    "Paderborn - E. Frankfurt": {
+        "Alt": 2.36,
+        "Üst": 1.31
     },
-    "Pusamania Borneo - PSM Makassar": {
-        "Alt": 1.65,
-        "Üst": 1.6
+    "Schwarz Weiss B. - R. Wien (Amt)": {
+        "Alt": 2.0,
+        "Üst": 1.36
     },
-    "Melbourne City - W. S. Wanderers": {
-        "Alt": 1.96,
-        "Üst": 1.47
-    },
-    "Unirea Slobozia - Csm Satu Mare": {
-        "Alt": 1.54,
-        "Üst": 1.72
-    },
-    "CS Afumati - ACS Fotbal Club Bacau 2023": {
-        "Alt": 1.68,
-        "Üst": 1.56
-    },
-    "Concordia - Asa Targu Mures": {
-        "Alt": 1.89,
+    "Wsc Hertha - Sturm Graz (Amt.)": {
+        "Alt": 1.91,
         "Üst": 1.41
     },
-    "ACS Gloria - Cetate Suceava": {
-        "Alt": 1.67,
-        "Üst": 1.58
+    "Zira - Kabala": {
+        "Alt": 1.53,
+        "Üst": 1.73
     },
-    "Metaloglobus - Dumbravita": {
-        "Alt": 1.78,
-        "Üst": 1.49
+    "Trethomas Bluebirds - Llantwit Major": {
+        "Alt": 2.62,
+        "Üst": 3.58
     },
-    "V. Selimbar - Csl Stefanestii de Jos": {
+    "Porthmadog - Llanuwchllyn": {
         "Alt": 1.74,
-        "Üst": 1.53
-    },
-    "Karlsruher SC U19 - Hoffenheim U19": {
-        "Alt": 2.14,
-        "Üst": 3.5
-    },
-    "B.M'gladbach U19 - Alemannia A. U19": {
-        "Alt": 2.27,
-        "Üst": 3.9
-    },
-    "Naftan Novopolotsk - M. Rogachev": {
-        "Alt": 1.14,
-        "Üst": 2.33
-    },
-    "Lee Man Warriors - Southern District": {
-        "Alt": 1.8,
         "Üst": 3.52
     },
-    "Godolloi SK - Kisvarda II": {
+    "Basel II - Schaffhausen": {
+        "Alt": 1.63,
+        "Üst": 3.66
+    },
+    "Safa SC - Tripoli AC": {
+        "Alt": 1.6,
+        "Üst": 1.65
+    },
+    "Nieciecza - C. Glogow": {
         "Alt": 1.73,
         "Üst": 1.53
     },
-    "OFK Malzenice - Samorin": {
-        "Alt": 1.94,
-        "Üst": 1.39
+    "Arka Gdynia - P. Bielsko": {
+        "Alt": 1.52,
+        "Üst": 1.74
     },
-    "Hoang Anh - Ha Noi": {
-        "Alt": 1.74,
-        "Üst": 1.53
+    "Warta Poznan - Polonia Warszawa": {
+        "Alt": 1.75,
+        "Üst": 1.51
     },
-    "Eyüpspor - Kocaelispor": {
-        "Alt": 1.45,
+    "Skalica - MSK Zilina": {
+        "Alt": 2.0,
+        "Üst": 1.36
+    },
+    "Dukla BB - S. Trnava": {
+        "Alt": 1.77,
+        "Üst": 1.5
+    },
+    "S. Bratislava - AS Trencin": {
+        "Alt": 1.19,
         "Üst": 2.0
+    },
+    "CD Guarnizo - CD Revilla": {
+        "Alt": 1.58,
+        "Üst": 1.67
+    },
+    "CD Egues - CD Avance Ezcabarte": {
+        "Alt": 1.67,
+        "Üst": 1.58
+    },
+    "Club Deportivo Aoiz - Beti Kozkor KE": {
+        "Alt": 1.47,
+        "Üst": 1.8
     }
 }
