@@ -1,82 +1,78 @@
 {
-    "Leipzig - Augsburg": {
-        "Alt": 3.88,
-        "Üst": 1.08
-    },
-    "B. Dortmund - Elversberg": {
-        "Alt": 2.88,
-        "Üst": 1.19
-    },
-    "Mainz - Bayern Münih": {
-        "Alt": 3.7,
-        "Üst": 1.09
-    },
-    "Paderborn - E. Frankfurt": {
-        "Alt": 2.36,
-        "Üst": 1.31
-    },
-    "Schwarz Weiss B. - R. Wien (Amt)": {
-        "Alt": 2.0,
-        "Üst": 1.36
-    },
-    "Wsc Hertha - Sturm Graz (Amt.)": {
-        "Alt": 1.91,
+    "Excelsior V. - Beerschot": {
+        "Alt": 1.89,
         "Üst": 1.41
     },
-    "Zira - Kabala": {
-        "Alt": 1.53,
-        "Üst": 1.73
+    "GV San Jose - Cdt Real Oruro": {
+        "Alt": 1.47,
+        "Üst": 3.76
     },
-    "Trethomas Bluebirds - Llantwit Major": {
-        "Alt": 2.62,
-        "Üst": 3.58
+    "Avai SC - Sao Bernardo FC": {
+        "Alt": 1.54,
+        "Üst": 1.72
     },
-    "Porthmadog - Llanuwchllyn": {
-        "Alt": 1.74,
-        "Üst": 3.52
+    "Libertad Loja - CS Emelec": {
+        "Alt": 1.82,
+        "Üst": 1.46
     },
-    "Basel II - Schaffhausen": {
-        "Alt": 1.63,
-        "Üst": 3.66
-    },
-    "Safa SC - Tripoli AC": {
-        "Alt": 1.6,
-        "Üst": 1.65
-    },
-    "Nieciecza - C. Glogow": {
-        "Alt": 1.73,
-        "Üst": 1.53
-    },
-    "Arka Gdynia - P. Bielsko": {
-        "Alt": 1.52,
-        "Üst": 1.74
-    },
-    "Warta Poznan - Polonia Warszawa": {
-        "Alt": 1.75,
-        "Üst": 1.51
-    },
-    "Skalica - MSK Zilina": {
+    "St Etienne - Stade Laval.": {
         "Alt": 2.0,
-        "Üst": 1.36
+        "Üst": 1.46
     },
-    "Dukla BB - S. Trnava": {
-        "Alt": 1.77,
-        "Üst": 1.5
+    "Pau - Nantes": {
+        "Alt": 1.47,
+        "Üst": 1.98
     },
-    "S. Bratislava - AS Trencin": {
-        "Alt": 1.19,
-        "Üst": 2.0
+    "Tigres (Kol) - Deportes Quindio": {
+        "Alt": 1.24,
+        "Üst": 3.41
     },
-    "CD Guarnizo - CD Revilla": {
-        "Alt": 1.58,
-        "Üst": 1.67
+    "Gremio Novo - Fortaleza CE": {
+        "Alt": 1.43,
+        "Üst": 1.87
     },
-    "CD Egues - CD Avance Ezcabarte": {
+    "Widzew Lodz - Pogon Szczecin": {
         "Alt": 1.67,
         "Üst": 1.58
     },
-    "Club Deportivo Aoiz - Beti Kozkor KE": {
-        "Alt": 1.47,
-        "Üst": 1.8
+    "Hertha Berlin - Wolfsburg": {
+        "Alt": 2.78,
+        "Üst": 1.21
+    },
+    "CE Casa de Portugal - Esperanca D. Andorra": {
+        "Alt": 1.93,
+        "Üst": 1.4
+    },
+    "Grasshoppers - Lausanne": {
+        "Alt": 1.93,
+        "Üst": 1.5
+    },
+    "AS Roma - Sassuolo": {
+        "Alt": 2.73,
+        "Üst": 1.21
+    },
+    "Antwerp - Lommel SK": {
+        "Alt": 2.15,
+        "Üst": 1.39
+    },
+    "RAAL La Louviere - Cercle Brugge": {
+        "Alt": 1.71,
+        "Üst": 1.67
+    },
+    "Carmarthen - Aberystwyth": {
+        "Alt": 1.86,
+        "Üst": 3.4
+    },
+    "Valencia - Real Madrid": {
+        "Alt": 2.38,
+        "Üst": 1.3
+    },
+    "Excelsior - Go Ahead Eagles": {
+        "Alt": 2.12,
+        "Üst": 1.4
+    },
+    "Peterborough - Reading": {
+        "Alt": 2.0,
+        "Üst": 1.36
     }
 }
