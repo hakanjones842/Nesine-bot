@@ -1,78 +1,86 @@
 {
-    "Excelsior V. - Beerschot": {
-        "Alt": 1.89,
+    "Cuiaba - Juventude": {
+        "Alt": 1.2,
+        "Üst": 2.52
+    },
+    "Vila Nova - Criciuma": {
+        "Alt": 1.38,
+        "Üst": 1.96
+    },
+    "Atlas - Pachuca": {
+        "Alt": 1.91,
         "Üst": 1.41
     },
-    "GV San Jose - Cdt Real Oruro": {
+    "Melgar - Juan Pablo II": {
+        "Alt": 2.34,
+        "Üst": 3.47
+    },
+    "Caracas - A. Puerto C.": {
         "Alt": 1.47,
-        "Üst": 3.76
+        "Üst": 1.81
     },
-    "Avai SC - Sao Bernardo FC": {
-        "Alt": 1.54,
-        "Üst": 1.72
-    },
-    "Libertad Loja - CS Emelec": {
-        "Alt": 1.82,
-        "Üst": 1.46
-    },
-    "St Etienne - Stade Laval.": {
-        "Alt": 2.0,
-        "Üst": 1.46
-    },
-    "Pau - Nantes": {
-        "Alt": 1.47,
-        "Üst": 1.98
-    },
-    "Tigres (Kol) - Deportes Quindio": {
-        "Alt": 1.24,
-        "Üst": 3.41
-    },
-    "Gremio Novo - Fortaleza CE": {
-        "Alt": 1.43,
-        "Üst": 1.87
-    },
-    "Widzew Lodz - Pogon Szczecin": {
-        "Alt": 1.67,
-        "Üst": 1.58
-    },
-    "Hertha Berlin - Wolfsburg": {
-        "Alt": 2.78,
-        "Üst": 1.21
-    },
-    "CE Casa de Portugal - Esperanca D. Andorra": {
-        "Alt": 1.93,
-        "Üst": 1.4
-    },
-    "Grasshoppers - Lausanne": {
-        "Alt": 1.93,
-        "Üst": 1.5
-    },
-    "AS Roma - Sassuolo": {
-        "Alt": 2.73,
-        "Üst": 1.21
-    },
-    "Antwerp - Lommel SK": {
-        "Alt": 2.15,
+    "Monagas SC - Dep. Tachira": {
+        "Alt": 1.94,
         "Üst": 1.39
     },
-    "RAAL La Louviere - Cercle Brugge": {
-        "Alt": 1.71,
-        "Üst": 1.67
+    "Atl. Nacional Medellin - Dep. Pereira": {
+        "Alt": 3.34,
+        "Üst": 2.0
     },
-    "Carmarthen - Aberystwyth": {
+    "R. Cartagena - R. S. Cundinamarca": {
+        "Alt": 1.63,
+        "Üst": 1.61
+    },
+    "Lobos Upnfm - Motagua": {
+        "Alt": 1.67,
+        "Üst": 1.57
+    },
+    "Guabira M. - S. A. Bulo Bulo": {
+        "Alt": 2.56,
+        "Üst": 3.56
+    },
+    "Minnesota Utd - San Jose E.": {
+        "Alt": 2.67,
+        "Üst": 1.23
+    },
+    "Dallas - Colorado R.": {
+        "Alt": 1.94,
+        "Üst": 1.48
+    },
+    "Real Salt Lake - LA Galaxy": {
+        "Alt": 2.6,
+        "Üst": 1.25
+    },
+    "S. Sounders - Los Angeles": {
+        "Alt": 2.24,
+        "Üst": 1.35
+    },
+    "Austin - Portland Tim.": {
+        "Alt": 2.98,
+        "Üst": 1.17
+    },
+    "Houston Dyn. - S. Louis City SC": {
+        "Alt": 1.8,
+        "Üst": 1.59
+    },
+    "San Diego - Kansas City": {
+        "Alt": 3.27,
+        "Üst": 1.14
+    },
+    "Louisville - Miami": {
         "Alt": 1.86,
-        "Üst": 3.4
+        "Üst": 1.44
     },
-    "Valencia - Real Madrid": {
-        "Alt": 2.38,
-        "Üst": 1.3
+    "Fundacion F. Un Atleta - Angel Firpo": {
+        "Alt": 1.6,
+        "Üst": 1.64
     },
-    "Excelsior - Go Ahead Eagles": {
-        "Alt": 2.12,
-        "Üst": 1.4
+    "AD San Carlos - M. Per. Zeledon": {
+        "Alt": 1.76,
+        "Üst": 1.5
     },
-    "Peterborough - Reading": {
-        "Alt": 2.0,
-        "Üst": 1.36
+    "Charleston - Hartford Ath": {
+        "Alt": 1.69,
+        "Üst": 1.55
     }
 }
