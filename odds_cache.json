@@ -1,70 +1,82 @@
 {
-    "JEF Utd - M. Hollyhock": {
-        "Alt": 1.51,
-        "Üst": 1.9
+    "KAA Gent - Kortrijk": {
+        "Alt": 1.88,
+        "Üst": 1.53
     },
-    "PSS Sleman - Bhayangkara": {
-        "Alt": 1.83,
-        "Üst": 1.46
+    "Wimborne - Crawley Town": {
+        "Alt": 1.98,
+        "Üst": 1.37
     },
-    "Bali Utd - Persik Kediri": {
-        "Alt": 2.0,
-        "Üst": 3.37
-    },
-    "Hong Kong - Eastern Sports": {
-        "Alt": 2.28,
+    "Mainz 05 (K) - VfB Stuttgart (K)": {
+        "Alt": 1.65,
         "Üst": 3.45
     },
-    "Ural - Volga Ulyan.": {
-        "Alt": 1.67,
+    "D. Tirana - KF Skenderbeu Korce": {
+        "Alt": 1.46,
+        "Üst": 1.83
+    },
+    "Lierse K. - Eupen": {
+        "Alt": 1.96,
+        "Üst": 1.38
+    },
+    "Levski Sofya - CSKA Sofya": {
+        "Alt": 1.46,
+        "Üst": 1.82
+    },
+    "Randers - Nordsjælland": {
+        "Alt": 2.34,
+        "Üst": 1.31
+    },
+    "JS Massira - WAF Widad Fes": {
+        "Alt": 1.35,
+        "Üst": 2.02
+    },
+    "C. Atlas Khenifra - CRS Salmi": {
+        "Alt": 3.99,
+        "Üst": 3.07
+    },
+    "Dreams - Debibi Utd": {
+        "Alt": 1.37,
+        "Üst": 1.99
+    },
+    "Bechem Utd - Samartex": {
+        "Alt": 3.32,
+        "Üst": 3.02
+    },
+    "Medeama SC - Swedru All Blacks": {
+        "Alt": 1.45,
+        "Üst": 1.84
+    },
+    "Hearts of Oak - Heart of Lions": {
+        "Alt": 1.34,
+        "Üst": 2.05
+    },
+    "Dila Gori - Dinamo Tiflis": {
+        "Alt": 1.74,
+        "Üst": 1.53
+    },
+    "Waterford - Derry City": {
+        "Alt": 1.81,
+        "Üst": 1.47
+    },
+    "Hearts - Falkirk": {
+        "Alt": 1.93,
+        "Üst": 1.5
+    },
+    "Villarreal U19 - Patacona U19": {
+        "Alt": 3.81,
         "Üst": 1.58
     },
-    "Slavia Praha B - SK Kladno": {
-        "Alt": 2.96,
-        "Üst": 3.77
+    "CD Cantolagua - CD Cortes Navarre": {
+        "Alt": 1.53,
+        "Üst": 1.73
     },
-    "ASK Voitsberg - Kapfenberger": {
-        "Alt": 2.29,
-        "Üst": 1.26
+    "Santomera - Mazarron": {
+        "Alt": 1.68,
+        "Üst": 1.56
     },
-    "Maldivler - Pakistan": {
-        "Alt": 1.66,
-        "Üst": 1.59
-    },
-    "A. Petrzalka - MSK Zilina B": {
-        "Alt": 2.0,
-        "Üst": 1.36
-    },
-    "Penya d`Andorra - Rangers": {
-        "Alt": 1.64,
-        "Üst": 1.6
-    },
-    "Slavia Mozyr - Baranovich": {
-        "Alt": 1.55,
-        "Üst": 1.69
-    },
-    "Paris U19 - Annecy U19": {
-        "Alt": 1.91,
-        "Üst": 1.41
-    },
-    "Ucam Murcia B - CD Bala Azul": {
+    "CD Belchite 97 - Robres CD": {
         "Alt": 1.54,
         "Üst": 1.72
-    },
-    "CD Castellon B - Pena Deportiva": {
-        "Alt": 1.74,
-        "Üst": 3.46
-    },
-    "Diosgyori Vtk II - Tarpa SC": {
-        "Alt": 2.13,
-        "Üst": 3.36
-    },
-    "Puskas Akademia II - 1908 Szac Budapest": {
-        "Alt": 3.88,
-        "Üst": 1.8
-    },
-    "Vasas SC II - Dabas": {
-        "Alt": 1.97,
-        "Üst": 3.56
     }
 }
