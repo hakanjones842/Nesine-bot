@@ -1,82 +1,70 @@
 {
-    "America De Cali - Deport Cali": {
-        "Alt": 1.41,
-        "Üst": 1.92
+    "JEF Utd - M. Hollyhock": {
+        "Alt": 1.51,
+        "Üst": 1.9
     },
-    "AC Boise - C. Red Wolves SC": {
-        "Alt": 2.03,
-        "Üst": 1.35
+    "PSS Sleman - Bhayangkara": {
+        "Alt": 1.83,
+        "Üst": 1.46
     },
-    "Alianza - CD Aguila": {
-        "Alt": 1.74,
-        "Üst": 1.53
+    "Bali Utd - Persik Kediri": {
+        "Alt": 2.0,
+        "Üst": 3.37
     },
-    "CD Marquense - Comunicacion": {
-        "Alt": 1.44,
-        "Üst": 1.85
+    "Hong Kong - Eastern Sports": {
+        "Alt": 2.28,
+        "Üst": 3.45
     },
-    "Alajuelense - Sporting San Jose": {
-        "Alt": 1.74,
-        "Üst": 1.52
+    "Ural - Volga Ulyan.": {
+        "Alt": 1.67,
+        "Üst": 1.58
     },
-    "New Mexico - Colorado Spr.": {
-        "Alt": 1.71,
-        "Üst": 1.54
+    "Slavia Praha B - SK Kladno": {
+        "Alt": 2.96,
+        "Üst": 3.77
     },
-    "Sacramento R. - El Paso Loc.": {
-        "Alt": 1.58,
-        "Üst": 1.67
-    },
-    "Eastern Suburbs - Cashmere Technical": {
-        "Alt": 1.47,
-        "Üst": 3.74
-    },
-    "Atl La Paz - Tlaxcala": {
-        "Alt": 2.05,
-        "Üst": 3.52
-    },
-    "Pumas Unam - America": {
-        "Alt": 1.9,
-        "Üst": 1.41
-    },
-    "JEF Utd Ichihara (K) - Omiya (K)": {
-        "Alt": 1.43,
-        "Üst": 1.87
-    },
-    "Macarthur - Brisbane Roar": {
-        "Alt": 1.87,
-        "Üst": 1.54
-    },
-    "Avondale - Adelaide City": {
-        "Alt": 2.26,
+    "ASK Voitsberg - Kapfenberger": {
+        "Alt": 2.29,
         "Üst": 1.26
     },
-    "South Hobart - Queensland L.": {
-        "Alt": 2.65,
-        "Üst": 1.17
+    "Maldivler - Pakistan": {
+        "Alt": 1.66,
+        "Üst": 1.59
     },
-    "Tiamo Hirakata - Criacao Shinjuku": {
-        "Alt": 1.62,
-        "Üst": 1.61
+    "A. Petrzalka - MSK Zilina B": {
+        "Alt": 2.0,
+        "Üst": 1.36
     },
-    "J Lease - Azul Claro N.": {
-        "Alt": 1.52,
-        "Üst": 1.74
+    "Penya d`Andorra - Rangers": {
+        "Alt": 1.64,
+        "Üst": 1.6
     },
-    "Reinmeer Aomori - Briobecca Urayasu": {
-        "Alt": 1.49,
-        "Üst": 1.78
+    "Slavia Mozyr - Baranovich": {
+        "Alt": 1.55,
+        "Üst": 1.69
     },
-    "Tokyo Musashino City - Honda Lock": {
+    "Paris U19 - Annecy U19": {
+        "Alt": 1.91,
+        "Üst": 1.41
+    },
+    "Ucam Murcia B - CD Bala Azul": {
         "Alt": 1.54,
-        "Üst": 1.71
+        "Üst": 1.72
     },
-    "V. Hachinohe - Sapporo": {
-        "Alt": 1.51,
-        "Üst": 1.75
+    "CD Castellon B - Pena Deportiva": {
+        "Alt": 1.74,
+        "Üst": 3.46
     },
-    "R. Kumamoto - Renofa Y.": {
-        "Alt": 1.69,
-        "Üst": 1.55
+    "Diosgyori Vtk II - Tarpa SC": {
+        "Alt": 2.13,
+        "Üst": 3.36
+    },
+    "Puskas Akademia II - 1908 Szac Budapest": {
+        "Alt": 3.88,
+        "Üst": 1.8
+    },
+    "Vasas SC II - Dabas": {
+        "Alt": 1.97,
+        "Üst": 3.56
     }
 }
