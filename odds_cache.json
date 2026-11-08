@@ -1,85 +1,81 @@
 {
-    "Cuiaba - Juventude": {
-        "Alt": 1.2,
-        "Üst": 2.52
+    "America De Cali - Deport Cali": {
+        "Alt": 1.41,
+        "Üst": 1.92
     },
-    "Vila Nova - Criciuma": {
-        "Alt": 1.38,
-        "Üst": 1.96
-    },
-    "Atlas - Pachuca": {
-        "Alt": 1.91,
-        "Üst": 1.41
-    },
-    "Melgar - Juan Pablo II": {
-        "Alt": 2.34,
-        "Üst": 3.47
-    },
-    "Caracas - A. Puerto C.": {
-        "Alt": 1.47,
-        "Üst": 1.81
-    },
-    "Monagas SC - Dep. Tachira": {
-        "Alt": 1.94,
-        "Üst": 1.39
-    },
-    "Atl. Nacional Medellin - Dep. Pereira": {
-        "Alt": 3.34,
-        "Üst": 2.0
-    },
-    "R. Cartagena - R. S. Cundinamarca": {
-        "Alt": 1.63,
-        "Üst": 1.61
-    },
-    "Lobos Upnfm - Motagua": {
-        "Alt": 1.67,
-        "Üst": 1.57
-    },
-    "Guabira M. - S. A. Bulo Bulo": {
-        "Alt": 2.56,
-        "Üst": 3.56
-    },
-    "Minnesota Utd - San Jose E.": {
-        "Alt": 2.67,
-        "Üst": 1.23
-    },
-    "Dallas - Colorado R.": {
-        "Alt": 1.94,
-        "Üst": 1.48
-    },
-    "Real Salt Lake - LA Galaxy": {
-        "Alt": 2.6,
-        "Üst": 1.25
-    },
-    "S. Sounders - Los Angeles": {
-        "Alt": 2.24,
+    "AC Boise - C. Red Wolves SC": {
+        "Alt": 2.03,
         "Üst": 1.35
     },
-    "Austin - Portland Tim.": {
-        "Alt": 2.98,
+    "Alianza - CD Aguila": {
+        "Alt": 1.74,
+        "Üst": 1.53
+    },
+    "CD Marquense - Comunicacion": {
+        "Alt": 1.44,
+        "Üst": 1.85
+    },
+    "Alajuelense - Sporting San Jose": {
+        "Alt": 1.74,
+        "Üst": 1.52
+    },
+    "New Mexico - Colorado Spr.": {
+        "Alt": 1.71,
+        "Üst": 1.54
+    },
+    "Sacramento R. - El Paso Loc.": {
+        "Alt": 1.58,
+        "Üst": 1.67
+    },
+    "Eastern Suburbs - Cashmere Technical": {
+        "Alt": 1.47,
+        "Üst": 3.74
+    },
+    "Atl La Paz - Tlaxcala": {
+        "Alt": 2.05,
+        "Üst": 3.52
+    },
+    "Pumas Unam - America": {
+        "Alt": 1.9,
+        "Üst": 1.41
+    },
+    "JEF Utd Ichihara (K) - Omiya (K)": {
+        "Alt": 1.43,
+        "Üst": 1.87
+    },
+    "Macarthur - Brisbane Roar": {
+        "Alt": 1.87,
+        "Üst": 1.54
+    },
+    "Avondale - Adelaide City": {
+        "Alt": 2.26,
+        "Üst": 1.26
+    },
+    "South Hobart - Queensland L.": {
+        "Alt": 2.65,
         "Üst": 1.17
     },
-    "Houston Dyn. - S. Louis City SC": {
-        "Alt": 1.8,
-        "Üst": 1.59
+    "Tiamo Hirakata - Criacao Shinjuku": {
+        "Alt": 1.62,
+        "Üst": 1.61
     },
-    "San Diego - Kansas City": {
-        "Alt": 3.27,
-        "Üst": 1.14
+    "J Lease - Azul Claro N.": {
+        "Alt": 1.52,
+        "Üst": 1.74
     },
-    "Louisville - Miami": {
-        "Alt": 1.86,
-        "Üst": 1.44
+    "Reinmeer Aomori - Briobecca Urayasu": {
+        "Alt": 1.49,
+        "Üst": 1.78
     },
-    "Fundacion F. Un Atleta - Angel Firpo": {
-        "Alt": 1.6,
-        "Üst": 1.64
+    "Tokyo Musashino City - Honda Lock": {
+        "Alt": 1.54,
+        "Üst": 1.71
     },
-    "AD San Carlos - M. Per. Zeledon": {
-        "Alt": 1.76,
-        "Üst": 1.5
+    "V. Hachinohe - Sapporo": {
+        "Alt": 1.51,
+        "Üst": 1.75
     },
-    "Charleston - Hartford Ath": {
+    "R. Kumamoto - Renofa Y.": {
         "Alt": 1.69,
         "Üst": 1.55
     }
