@@ -1,82 +1,70 @@
 {
-    "Lech Poznan - Zaglebie Lubin": {
-        "Alt": 2.01,
-        "Üst": 1.36
-    },
-    "Stal Mielec - Ruch Chorzow": {
-        "Alt": 1.86,
-        "Üst": 1.44
-    },
-    "Murcia - Algeciras": {
-        "Alt": 1.43,
-        "Üst": 1.87
-    },
-    "Fiorentina - Juventus": {
-        "Alt": 1.73,
-        "Üst": 1.64
-    },
-    "RC Lens - Marsilya": {
+    "Chattanooga - Los Angeles 2": {
         "Alt": 2.02,
-        "Üst": 1.45
+        "Üst": 1.35
     },
-    "Atl Madrid - Barcelona": {
-        "Alt": 2.99,
-        "Üst": 1.17
-    },
-    "Vasco Da G. - Palmeiras SP": {
-        "Alt": 1.52,
-        "Üst": 1.89
-    },
-    "R. Casablanca - I. Tanger": {
-        "Alt": 1.37,
-        "Üst": 2.0
-    },
-    "Humble Lions - Cavalier": {
-        "Alt": 2.0,
-        "Üst": 1.36
-    },
-    "Montego Bay Utd - Molynes": {
-        "Alt": 3.58,
-        "Üst": 2.14
-    },
-    "Mount Pleasant - Tivoli Gardens": {
-        "Alt": 1.85,
-        "Üst": 1.45
-    },
-    "Portmore Utd - Tru Juice": {
-        "Alt": 1.7,
-        "Üst": 1.55
-    },
-    "P. Ferreira - CD Trofense": {
-        "Alt": 1.45,
-        "Üst": 1.84
-    },
-    "Rio Ave - Braga": {
-        "Alt": 1.96,
-        "Üst": 1.47
-    },
-    "Estrela - Benfica": {
-        "Alt": 1.19,
-        "Üst": 2.12
-    },
-    "Sport Boys - Cajamarca": {
-        "Alt": 1.74,
-        "Üst": 1.52
-    },
-    "D. Union La Calera - Huachipato": {
-        "Alt": 1.65,
-        "Üst": 1.6
-    },
-    "CSD Imperial - Xelaju": {
-        "Alt": 1.5,
-        "Üst": 1.76
-    },
-    "Platense - Genesis PN": {
+    "Municipal L. - Atletico Balboa": {
         "Alt": 1.6,
         "Üst": 1.65
     },
-    "Portuguesa - Metropolitan": {
-        "Alt": 1.72,
-        "Üst": 1.54
+    "Deportivo Garcilaso - Comerciantes Uni.": {
+        "Alt": 2.06,
+        "Üst": 2.97
+    },
+    "U. Concepcion - O'Higgins": {
+        "Alt": 1.67,
+        "Üst": 1.58
+    },
+    "CD Tolima - Millonarios": {
+        "Alt": 1.47,
+        "Üst": 1.82
+    },
+    "CA Independiente S. - Real CD Espana": {
+        "Alt": 1.86,
+        "Üst": 1.44
+    },
+    "Blooming - O. Petrolero": {
+        "Alt": 1.93,
+        "Üst": 1.4
+    },
+    "Charlotte Ind. - Forward M.": {
+        "Alt": 2.99,
+        "Üst": 3.58
+    },
+    "Antigua - Malacateco": {
+        "Alt": 1.65,
+        "Üst": 1.6
+    },
+    "Queretaro - Puebla": {
+        "Alt": 1.78,
+        "Üst": 1.49
+    },
+    "CS Herediano - Inter San Carlos": {
+        "Alt": 2.0,
+        "Üst": 1.36
+    },
+    "CD Fas - Fuerte San Francisco": {
+        "Alt": 2.02,
+        "Üst": 1.35
+    },
+    "Piratas Veracruz - Cancun": {
+        "Alt": 1.78,
+        "Üst": 1.49
+    },
+    "Alianza Valledupar - Llaneros": {
+        "Alt": 1.43,
+        "Üst": 1.87
+    },
+    "U. Deportes - CD Moquegua": {
+        "Alt": 1.94,
+        "Üst": 1.39
+    },
+    "Club Leon - CD Guadalajara": {
+        "Alt": 1.84,
+        "Üst": 1.45
+    },
+    "Najran SC - AL Nojoom": {
+        "Alt": 1.42,
+        "Üst": 1.89
     }
 }
