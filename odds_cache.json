@@ -1,82 +1,82 @@
 {
-    "KAA Gent - Kortrijk": {
-        "Alt": 1.88,
-        "Üst": 1.53
+    "Lech Poznan - Zaglebie Lubin": {
+        "Alt": 2.01,
+        "Üst": 1.36
     },
-    "Wimborne - Crawley Town": {
-        "Alt": 1.98,
-        "Üst": 1.37
+    "Stal Mielec - Ruch Chorzow": {
+        "Alt": 1.86,
+        "Üst": 1.44
     },
-    "Mainz 05 (K) - VfB Stuttgart (K)": {
-        "Alt": 1.65,
-        "Üst": 3.45
+    "Murcia - Algeciras": {
+        "Alt": 1.43,
+        "Üst": 1.87
     },
-    "D. Tirana - KF Skenderbeu Korce": {
-        "Alt": 1.46,
-        "Üst": 1.83
+    "Fiorentina - Juventus": {
+        "Alt": 1.73,
+        "Üst": 1.64
     },
-    "Lierse K. - Eupen": {
-        "Alt": 1.96,
-        "Üst": 1.38
+    "RC Lens - Marsilya": {
+        "Alt": 2.02,
+        "Üst": 1.45
     },
-    "Levski Sofya - CSKA Sofya": {
-        "Alt": 1.46,
-        "Üst": 1.82
+    "Atl Madrid - Barcelona": {
+        "Alt": 2.99,
+        "Üst": 1.17
     },
-    "Randers - Nordsjælland": {
-        "Alt": 2.34,
-        "Üst": 1.31
+    "Vasco Da G. - Palmeiras SP": {
+        "Alt": 1.52,
+        "Üst": 1.89
     },
-    "JS Massira - WAF Widad Fes": {
-        "Alt": 1.35,
-        "Üst": 2.02
-    },
-    "C. Atlas Khenifra - CRS Salmi": {
-        "Alt": 3.99,
-        "Üst": 3.07
-    },
-    "Dreams - Debibi Utd": {
+    "R. Casablanca - I. Tanger": {
         "Alt": 1.37,
-        "Üst": 1.99
+        "Üst": 2.0
     },
-    "Bechem Utd - Samartex": {
-        "Alt": 3.32,
-        "Üst": 3.02
+    "Humble Lions - Cavalier": {
+        "Alt": 2.0,
+        "Üst": 1.36
     },
-    "Medeama SC - Swedru All Blacks": {
+    "Montego Bay Utd - Molynes": {
+        "Alt": 3.58,
+        "Üst": 2.14
+    },
+    "Mount Pleasant - Tivoli Gardens": {
+        "Alt": 1.85,
+        "Üst": 1.45
+    },
+    "Portmore Utd - Tru Juice": {
+        "Alt": 1.7,
+        "Üst": 1.55
+    },
+    "P. Ferreira - CD Trofense": {
         "Alt": 1.45,
         "Üst": 1.84
     },
-    "Hearts of Oak - Heart of Lions": {
-        "Alt": 1.34,
-        "Üst": 2.05
-    },
-    "Dila Gori - Dinamo Tiflis": {
-        "Alt": 1.74,
-        "Üst": 1.53
-    },
-    "Waterford - Derry City": {
-        "Alt": 1.81,
+    "Rio Ave - Braga": {
+        "Alt": 1.96,
         "Üst": 1.47
     },
-    "Hearts - Falkirk": {
-        "Alt": 1.93,
-        "Üst": 1.5
+    "Estrela - Benfica": {
+        "Alt": 1.19,
+        "Üst": 2.12
     },
-    "Villarreal U19 - Patacona U19": {
-        "Alt": 3.81,
-        "Üst": 1.58
+    "Sport Boys - Cajamarca": {
+        "Alt": 1.74,
+        "Üst": 1.52
     },
-    "CD Cantolagua - CD Cortes Navarre": {
-        "Alt": 1.53,
-        "Üst": 1.73
+    "D. Union La Calera - Huachipato": {
+        "Alt": 1.65,
+        "Üst": 1.6
     },
-    "Santomera - Mazarron": {
-        "Alt": 1.68,
-        "Üst": 1.56
+    "CSD Imperial - Xelaju": {
+        "Alt": 1.5,
+        "Üst": 1.76
     },
-    "CD Belchite 97 - Robres CD": {
-        "Alt": 1.54,
-        "Üst": 1.72
+    "Platense - Genesis PN": {
+        "Alt": 1.6,
+        "Üst": 1.65
+    },
+    "Portuguesa - Metropolitan": {
+        "Alt": 1.72,
+        "Üst": 1.54
     }
 }
