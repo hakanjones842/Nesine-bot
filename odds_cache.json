@@ -1,74 +1,86 @@
 {
     "Najran SC - AL Nojoom": {
-        "Alt": 1.42,
-        "Üst": 1.89
+        "Alt": 1.41,
+        "Üst": 1.92
     },
     "Chernomorets Burgas - Yantra Gabrovo": {
-        "Alt": 1.47,
-        "Üst": 1.8
+        "Alt": 1.48,
+        "Üst": 1.79
     },
     "CSKA Sofia II - PFC R. Sp. Samokov": {
-        "Alt": 1.57,
+        "Alt": 1.58,
         "Üst": 1.67
     },
     "Wadi Degla - Kahrabaa Ismailia": {
-        "Alt": 1.38,
-        "Üst": 1.97
+        "Alt": 1.36,
+        "Üst": 2.0
     },
     "Politehn Tim - CSM Resita": {
-        "Alt": 1.64,
-        "Üst": 1.6
+        "Alt": 1.58,
+        "Üst": 1.67
     },
     "Coventry City U21 - QPR U21": {
-        "Alt": 2.15,
-        "Üst": 3.78
+        "Alt": 2.11,
+        "Üst": 3.76
+    },
+    "Pars Jonoubi - Palayesh Naft B. A.": {
+        "Alt": 1.06,
+        "Üst": 2.2
     },
     "EV Tarnova - Montana 1921": {
-        "Alt": 2.69,
-        "Üst": 3.49
+        "Alt": 1.98,
+        "Üst": 1.37
     },
     "ZED - M S Minyat Samanod": {
-        "Alt": 3.32,
-        "Üst": 2.31
+        "Alt": 3.3,
+        "Üst": 2.21
     },
     "Ikorodu City - Inter Lagos": {
-        "Alt": 1.85,
-        "Üst": 1.44
+        "Alt": 1.88,
+        "Üst": 1.42
     },
     "CS D. Bucuresti - Scm Ramnicu V.": {
-        "Alt": 2.01,
-        "Üst": 1.35
+        "Alt": 2.12,
+        "Üst": 3.46
     },
     "Fratria Varna - PFK Sportist Svoge": {
-        "Alt": 1.71,
-        "Üst": 1.54
+        "Alt": 1.73,
+        "Üst": 1.53
     },
     "Iberia 1999 - Gagra": {
-        "Alt": 1.8,
-        "Üst": 1.47
-    },
-    "Liptovsky Mikulas - MFK Bytca": {
-        "Alt": 3.5,
-        "Üst": 2.1
-    },
-    "Veles Mos. - Kamaz Chelny": {
-        "Alt": 1.39,
-        "Üst": 1.96
-    },
-    "Köln (K) - RB Leipzig (K)": {
-        "Alt": 1.95,
-        "Üst": 1.39
-    },
-    "Hvidovre - Aarhus Fremad": {
         "Alt": 1.74,
         "Üst": 1.52
     },
+    "Liptovsky Mikulas - MFK Bytca": {
+        "Alt": 3.51,
+        "Üst": 2.08
+    },
+    "Veles Mos. - Kamaz Chelny": {
+        "Alt": 1.44,
+        "Üst": 1.86
+    },
+    "Köln (K) - RB Leipzig (K)": {
+        "Alt": 1.92,
+        "Üst": 1.41
+    },
+    "Hvidovre - Aarhus Fremad": {
+        "Alt": 1.83,
+        "Üst": 1.46
+    },
     "Mushuc Runa - Delfin": {
-        "Alt": 1.51,
-        "Üst": 1.75
+        "Alt": 1.41,
+        "Üst": 1.92
     },
     "Atl Madrid (K) - L. Las Planas (K)": {
-        "Alt": 2.01,
-        "Üst": 1.35
+        "Alt": 1.66,
+        "Üst": 3.32
+    },
+    "Kristiansund - Valerenga": {
+        "Alt": 2.72,
+        "Üst": 1.21
+    },
+    "Botosani - Otelul Galati": {
+        "Alt": 1.6,
+        "Üst": 1.63
     }
 }
