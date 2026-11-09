@@ -1,70 +1,74 @@
 {
-    "Chattanooga - Los Angeles 2": {
-        "Alt": 2.02,
-        "Üst": 1.35
-    },
-    "Municipal L. - Atletico Balboa": {
-        "Alt": 1.6,
-        "Üst": 1.65
-    },
-    "Deportivo Garcilaso - Comerciantes Uni.": {
-        "Alt": 2.06,
-        "Üst": 2.97
-    },
-    "U. Concepcion - O'Higgins": {
-        "Alt": 1.67,
-        "Üst": 1.58
-    },
-    "CD Tolima - Millonarios": {
-        "Alt": 1.47,
-        "Üst": 1.82
-    },
-    "CA Independiente S. - Real CD Espana": {
-        "Alt": 1.86,
-        "Üst": 1.44
-    },
-    "Blooming - O. Petrolero": {
-        "Alt": 1.93,
-        "Üst": 1.4
-    },
-    "Charlotte Ind. - Forward M.": {
-        "Alt": 2.99,
-        "Üst": 3.58
-    },
-    "Antigua - Malacateco": {
-        "Alt": 1.65,
-        "Üst": 1.6
-    },
-    "Queretaro - Puebla": {
-        "Alt": 1.78,
-        "Üst": 1.49
-    },
-    "CS Herediano - Inter San Carlos": {
-        "Alt": 2.0,
-        "Üst": 1.36
-    },
-    "CD Fas - Fuerte San Francisco": {
-        "Alt": 2.02,
-        "Üst": 1.35
-    },
-    "Piratas Veracruz - Cancun": {
-        "Alt": 1.78,
-        "Üst": 1.49
-    },
-    "Alianza Valledupar - Llaneros": {
-        "Alt": 1.43,
-        "Üst": 1.87
-    },
-    "U. Deportes - CD Moquegua": {
-        "Alt": 1.94,
-        "Üst": 1.39
-    },
-    "Club Leon - CD Guadalajara": {
-        "Alt": 1.84,
-        "Üst": 1.45
-    },
     "Najran SC - AL Nojoom": {
         "Alt": 1.42,
         "Üst": 1.89
+    },
+    "Chernomorets Burgas - Yantra Gabrovo": {
+        "Alt": 1.47,
+        "Üst": 1.8
+    },
+    "CSKA Sofia II - PFC R. Sp. Samokov": {
+        "Alt": 1.57,
+        "Üst": 1.67
+    },
+    "Wadi Degla - Kahrabaa Ismailia": {
+        "Alt": 1.38,
+        "Üst": 1.97
+    },
+    "Politehn Tim - CSM Resita": {
+        "Alt": 1.64,
+        "Üst": 1.6
+    },
+    "Coventry City U21 - QPR U21": {
+        "Alt": 2.15,
+        "Üst": 3.78
+    },
+    "EV Tarnova - Montana 1921": {
+        "Alt": 2.69,
+        "Üst": 3.49
+    },
+    "ZED - M S Minyat Samanod": {
+        "Alt": 3.32,
+        "Üst": 2.31
+    },
+    "Ikorodu City - Inter Lagos": {
+        "Alt": 1.85,
+        "Üst": 1.44
+    },
+    "CS D. Bucuresti - Scm Ramnicu V.": {
+        "Alt": 2.01,
+        "Üst": 1.35
+    },
+    "Fratria Varna - PFK Sportist Svoge": {
+        "Alt": 1.71,
+        "Üst": 1.54
+    },
+    "Iberia 1999 - Gagra": {
+        "Alt": 1.8,
+        "Üst": 1.47
+    },
+    "Liptovsky Mikulas - MFK Bytca": {
+        "Alt": 3.5,
+        "Üst": 2.1
+    },
+    "Veles Mos. - Kamaz Chelny": {
+        "Alt": 1.39,
+        "Üst": 1.96
+    },
+    "Köln (K) - RB Leipzig (K)": {
+        "Alt": 1.95,
+        "Üst": 1.39
+    },
+    "Hvidovre - Aarhus Fremad": {
+        "Alt": 1.74,
+        "Üst": 1.52
+    },
+    "Mushuc Runa - Delfin": {
+        "Alt": 1.51,
+        "Üst": 1.75
+    },
+    "Atl Madrid (K) - L. Las Planas (K)": {
+        "Alt": 2.01,
+        "Üst": 1.35
     }
 }
