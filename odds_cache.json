@@ -1,94 +1,90 @@
 {
-    "Santa Clara U23 - Torreense U23": {
-        "Alt": 1.95,
-        "Üst": 1.39
-    },
-    "Vietnam U23 - Tayland U23": {
-        "Alt": 1.54,
-        "Üst": 1.72
-    },
-    "Hull City U21 - Fleetwood T. U21": {
-        "Alt": 2.0,
-        "Üst": 3.66
-    },
-    "WA Tlemcen - RC Arbaa": {
-        "Alt": 1.36,
-        "Üst": 2.0
-    },
-    "Paradou AC - JSM Skikda": {
-        "Alt": 1.44,
-        "Üst": 1.87
-    },
-    "JS Djidjel - CR Beni Thour": {
-        "Alt": 1.3,
-        "Üst": 2.14
-    },
-    "MO Bejaia - Nrb Nezla": {
-        "Alt": 1.58,
-        "Üst": 1.67
-    },
-    "Colchester Utd U21 - Charlton Ath U21": {
-        "Alt": 1.88,
-        "Üst": 3.87
-    },
-    "Al Mokawloon - Telecom Egypt": {
-        "Alt": 1.41,
-        "Üst": 1.9
-    },
-    "AFC Metalul Buzau - CSA Steaua Bucuresti": {
-        "Alt": 1.67,
-        "Üst": 1.57
-    },
-    "Real Madrid (K) - Paris (K)": {
-        "Alt": 2.14,
-        "Üst": 1.31
-    },
-    "Hacken (K) - Chelsea (K)": {
-        "Alt": 1.26,
-        "Üst": 1.89
-    },
     "Mijas Las Lagunas - Real Jaen": {
         "Alt": 1.59,
         "Üst": 1.66
     },
     "Amorebieta - Logrones": {
         "Alt": 1.67,
-        "Üst": 1.57
+        "Üst": 1.58
     },
     "Northampton - Gillingham": {
         "Alt": 1.68,
-        "Üst": 1.57
+        "Üst": 1.56
     },
     "Plymouth - Swindon Town": {
-        "Alt": 2.52,
-        "Üst": 1.2
-    },
-    "Bristol Rovers - Reading": {
-        "Alt": 2.16,
-        "Üst": 1.3
-    },
-    "Leicester City - Walsall": {
-        "Alt": 3.17,
-        "Üst": 1.09
-    },
-    "Oxford - Cheltenham": {
-        "Alt": 2.59,
+        "Alt": 2.58,
         "Üst": 1.18
     },
+    "Bristol Rovers - Reading": {
+        "Alt": 2.34,
+        "Üst": 1.24
+    },
+    "Leicester City - Walsall": {
+        "Alt": 2.0,
+        "Üst": 3.81
+    },
+    "Oxford - Cheltenham": {
+        "Alt": 2.69,
+        "Üst": 1.16
+    },
     "Stevenage - Fulham U21": {
-        "Alt": 2.9,
-        "Üst": 1.13
+        "Alt": 3.29,
+        "Üst": 1.08
     },
     "Barnet - Leyton Orient": {
-        "Alt": 2.23,
-        "Üst": 1.28
+        "Alt": 2.27,
+        "Üst": 1.26
     },
     "Huddersfield - Liverpool U21": {
-        "Alt": 2.16,
-        "Üst": 3.96
+        "Alt": 2.24,
+        "Üst": 3.91
     },
     "Crewe Alexandra - Wigan Ath": {
-        "Alt": 1.77,
-        "Üst": 1.5
+        "Alt": 1.83,
+        "Üst": 1.45
+    },
+    "Burton Albion - Notts County": {
+        "Alt": 2.1,
+        "Üst": 1.32
+    },
+    "Mansfield - Chesterfield": {
+        "Alt": 2.39,
+        "Üst": 1.22
+    },
+    "Stockport - Tranmere": {
+        "Alt": 2.62,
+        "Üst": 1.17
+    },
+    "Millwall U21 - Brighton U21": {
+        "Alt": 1.49,
+        "Üst": 3.63
+    },
+    "Bromley - MK Dons": {
+        "Alt": 2.21,
+        "Üst": 1.28
+    },
+    "Crawley Town - Brentford U21": {
+        "Alt": 3.12,
+        "Üst": 1.09
+    },
+    "Bradford - York City": {
+        "Alt": 2.3,
+        "Üst": 1.25
+    },
+    "Wimborne - Poole Town": {
+        "Alt": 1.46,
+        "Üst": 1.82
+    },
+    "Boston River - Torque": {
+        "Alt": 1.49,
+        "Üst": 1.78
+    },
+    "Colchester - Ipswich Town U21": {
+        "Alt": 2.98,
+        "Üst": 1.11
+    },
+    "Gloucester - Malvern Town": {
+        "Alt": 1.87,
+        "Üst": 3.38
     }
 }
