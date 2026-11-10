@@ -1,90 +1,86 @@
 {
-    "Mijas Las Lagunas - Real Jaen": {
-        "Alt": 1.59,
-        "Üst": 1.66
+    "Inter Bogota - America De Cali": {
+        "Alt": 1.36,
+        "Üst": 2.01
     },
-    "Amorebieta - Logrones": {
-        "Alt": 1.67,
-        "Üst": 1.58
+    "Liverpool M. - CA Juventud De Las Piedras": {
+        "Alt": 3.48,
+        "Üst": 4.11
     },
-    "Northampton - Gillingham": {
+    "Metapan - Platense M.": {
+        "Alt": 1.7,
+        "Üst": 1.55
+    },
+    "Once Caldas - Atl. Nacional Medellin": {
+        "Alt": 1.44,
+        "Üst": 1.85
+    },
+    "Hindistan - Maldivler": {
+        "Alt": 1.9,
+        "Üst": 1.41
+    },
+    "Yokohama M. - Kashima": {
+        "Alt": 1.7,
+        "Üst": 1.55
+    },
+    "Vissel Kobe - Machida Zelvia": {
+        "Alt": 1.55,
+        "Üst": 1.7
+    },
+    "Kawasaki Frontale - Kashiwa": {
+        "Alt": 2.17,
+        "Üst": 1.29
+    },
+    "Urawa Red - Cerezo Osaka": {
+        "Alt": 2.01,
+        "Üst": 1.36
+    },
+    "Vietnam - Tayvan": {
+        "Alt": 3.63,
+        "Üst": 2.41
+    },
+    "FK Nove Zamky - Michalovce": {
+        "Alt": 1.66,
+        "Üst": 3.57
+    },
+    "Newells Old Boys (K) - CA Huracan (K)": {
+        "Alt": 1.35,
+        "Üst": 2.01
+    },
+    "Bangladeş - Sri Lanka": {
+        "Alt": 1.53,
+        "Üst": 1.74
+    },
+    "Ibiza Islas P. - UD Arenal": {
+        "Alt": 3.68,
+        "Üst": 1.59
+    },
+    "Z. Podbrezova - VZ Moravce": {
+        "Alt": 2.22,
+        "Üst": 3.52
+    },
+    "Fleury (K) - Toulouse (K)": {
+        "Alt": 2.0,
+        "Üst": 3.33
+    },
+    "Manacor - Inter Ibiza CD": {
+        "Alt": 1.42,
+        "Üst": 2.17
+    },
+    "SK Artis Brno - Jablonec": {
         "Alt": 1.68,
         "Üst": 1.56
     },
-    "Plymouth - Swindon Town": {
-        "Alt": 2.58,
-        "Üst": 1.18
+    "UD Castellonense - La Nucia": {
+        "Alt": 1.51,
+        "Üst": 1.74
     },
-    "Bristol Rovers - Reading": {
-        "Alt": 2.34,
-        "Üst": 1.24
+    "OH Leuven (K) - HB Koege (K)": {
+        "Alt": 2.03,
+        "Üst": 1.35
     },
-    "Leicester City - Walsall": {
-        "Alt": 2.0,
-        "Üst": 3.81
-    },
-    "Oxford - Cheltenham": {
-        "Alt": 2.69,
-        "Üst": 1.16
-    },
-    "Stevenage - Fulham U21": {
-        "Alt": 3.29,
-        "Üst": 1.08
-    },
-    "Barnet - Leyton Orient": {
-        "Alt": 2.27,
-        "Üst": 1.26
-    },
-    "Huddersfield - Liverpool U21": {
-        "Alt": 2.24,
-        "Üst": 3.91
-    },
-    "Crewe Alexandra - Wigan Ath": {
-        "Alt": 1.83,
-        "Üst": 1.45
-    },
-    "Burton Albion - Notts County": {
-        "Alt": 2.1,
-        "Üst": 1.32
-    },
-    "Mansfield - Chesterfield": {
-        "Alt": 2.39,
-        "Üst": 1.22
-    },
-    "Stockport - Tranmere": {
-        "Alt": 2.62,
-        "Üst": 1.17
-    },
-    "Millwall U21 - Brighton U21": {
-        "Alt": 1.49,
-        "Üst": 3.63
-    },
-    "Bromley - MK Dons": {
-        "Alt": 2.21,
-        "Üst": 1.28
-    },
-    "Crawley Town - Brentford U21": {
-        "Alt": 3.12,
-        "Üst": 1.09
-    },
-    "Bradford - York City": {
-        "Alt": 2.3,
-        "Üst": 1.25
-    },
-    "Wimborne - Poole Town": {
-        "Alt": 1.46,
-        "Üst": 1.82
-    },
-    "Boston River - Torque": {
-        "Alt": 1.49,
-        "Üst": 1.78
-    },
-    "Colchester - Ipswich Town U21": {
-        "Alt": 2.98,
-        "Üst": 1.11
-    },
-    "Gloucester - Malvern Town": {
-        "Alt": 1.87,
-        "Üst": 3.38
+    "CD Castellon B - C. Dep. Minera": {
+        "Alt": 2.02,
+        "Üst": 1.35
     }
 }
