@@ -1,67 +1,31 @@
 {
-    "Torreense - Uniao Leiria": {
-        "Alt": 1.81,
-        "Üst": 1.47
-    },
-    "CD Tecnico Uni. - Manta": {
-        "Alt": 1.8,
-        "Üst": 3.31
-    },
-    "Independiente Yumbo - U. Magdalena": {
-        "Alt": 1.36,
-        "Üst": 2.0
-    },
-    "Chapelton Maroons - Racing Utd": {
-        "Alt": 1.6,
-        "Üst": 1.64
-    },
-    "Atl Junior - Cucuta D.": {
-        "Alt": 1.81,
-        "Üst": 1.47
-    },
-    "D. Maldonado - Nacional": {
-        "Alt": 1.7,
-        "Üst": 1.55
-    },
-    "Club Aurora - U. de Vinto": {
-        "Alt": 2.02,
-        "Üst": 1.35
-    },
-    "Arnett Gardens - Waterhouse": {
-        "Alt": 1.85,
-        "Üst": 1.44
-    },
     "Katar U23 - Singapur U23": {
-        "Alt": 2.08,
-        "Üst": 1.33
+        "Alt": 1.77,
+        "Üst": 1.5
     },
     "Santa Clara U23 - Torreense U23": {
-        "Alt": 1.87,
-        "Üst": 1.43
+        "Alt": 1.91,
+        "Üst": 1.41
     },
     "Hull City U21 - Fleetwood T. U21": {
-        "Alt": 2.63,
-        "Üst": 3.69
+        "Alt": 2.61,
+        "Üst": 3.73
     },
     "WA Tlemcen - RC Arbaa": {
-        "Alt": 1.34,
-        "Üst": 2.06
+        "Alt": 1.32,
+        "Üst": 2.1
     },
     "Paradou AC - JSM Skikda": {
-        "Alt": 1.4,
-        "Üst": 1.93
+        "Alt": 1.44,
+        "Üst": 1.86
     },
     "JS Djidjel - CR Beni Thour": {
-        "Alt": 1.36,
-        "Üst": 2.01
-    },
-    "MO Bejaia - Nrb Nezla": {
-        "Alt": 1.51,
-        "Üst": 1.75
+        "Alt": 1.47,
+        "Üst": 1.8
     },
     "Colchester Utd U21 - Charlton Ath U21": {
-        "Alt": 1.46,
-        "Üst": 4.05
+        "Alt": 1.56,
+        "Üst": 3.95
     },
     "Al Mokawloon - Telecom Egypt": {
         "Alt": 1.41,
@@ -70,5 +34,57 @@
     "AFC Metalul Buzau - CSA Steaua Bucuresti": {
         "Alt": 1.65,
         "Üst": 1.6
+    },
+    "Real Madrid (K) - Paris (K)": {
+        "Alt": 2.24,
+        "Üst": 1.28
+    },
+    "Hacken (K) - Chelsea (K)": {
+        "Alt": 1.25,
+        "Üst": 1.87
+    },
+    "Mijas Las Lagunas - Real Jaen": {
+        "Alt": 1.59,
+        "Üst": 1.66
+    },
+    "Amorebieta - Logrones": {
+        "Alt": 1.67,
+        "Üst": 1.57
+    },
+    "Northampton - Gillingham": {
+        "Alt": 1.79,
+        "Üst": 1.48
+    },
+    "Plymouth - Swindon Town": {
+        "Alt": 2.51,
+        "Üst": 1.2
+    },
+    "Bristol Rovers - Reading": {
+        "Alt": 2.09,
+        "Üst": 1.33
+    },
+    "Leicester City - Walsall": {
+        "Alt": 2.67,
+        "Üst": 1.16
+    },
+    "Oxford - Cheltenham": {
+        "Alt": 1.2,
+        "Üst": 2.06
+    },
+    "Stevenage - Fulham U21": {
+        "Alt": 2.85,
+        "Üst": 1.14
+    },
+    "Barnet - Leyton Orient": {
+        "Alt": 2.33,
+        "Üst": 1.24
+    },
+    "Huddersfield - Liverpool U21": {
+        "Alt": 3.04,
+        "Üst": 1.1
+    },
+    "Crewe Alexandra - Wigan Ath": {
+        "Alt": 1.81,
+        "Üst": 1.47
     }
 }
