@@ -1,90 +1,74 @@
 {
-    "Yokohama M. - Kashima": {
-        "Alt": 1.88,
-        "Üst": 1.42
-    },
-    "Vissel Kobe - Machida Zelvia": {
-        "Alt": 1.26,
-        "Üst": 2.28
-    },
-    "Kawasaki Frontale - Kashiwa": {
-        "Alt": 2.06,
-        "Üst": 1.34
-    },
-    "Urawa Red - Cerezo Osaka": {
-        "Alt": 1.94,
-        "Üst": 1.39
-    },
-    "Vietnam - Tayvan": {
-        "Alt": 3.89,
-        "Üst": 1.6
-    },
-    "FK Nove Zamky - Michalovce": {
-        "Alt": 1.66,
-        "Üst": 3.54
-    },
-    "Newells Old Boys (K) - CA Huracan (K)": {
-        "Alt": 1.35,
-        "Üst": 2.01
-    },
-    "Bangladeş - Sri Lanka": {
-        "Alt": 1.48,
-        "Üst": 1.79
-    },
-    "Ibiza Islas P. - UD Arenal": {
-        "Alt": 3.66,
-        "Üst": 1.82
-    },
-    "Z. Podbrezova - VZ Moravce": {
-        "Alt": 2.16,
-        "Üst": 3.53
-    },
-    "Fleury (K) - Toulouse (K)": {
-        "Alt": 1.9,
-        "Üst": 3.35
-    },
-    "Manacor - Inter Ibiza CD": {
-        "Alt": 1.36,
-        "Üst": 2.07
-    },
-    "SK Artis Brno - Jablonec": {
-        "Alt": 1.66,
-        "Üst": 1.59
-    },
     "UD Castellonense - La Nucia": {
-        "Alt": 1.47,
-        "Üst": 1.8
+        "Alt": 1.45,
+        "Üst": 1.84
     },
     "OH Leuven (K) - HB Koege (K)": {
-        "Alt": 1.77,
-        "Üst": 1.49
+        "Alt": 1.9,
+        "Üst": 1.41
     },
     "CD Castellon B - C. Dep. Minera": {
-        "Alt": 1.94,
-        "Üst": 1.39
+        "Alt": 2.0,
+        "Üst": 1.36
     },
     "CD Alcoyano - Elche B": {
         "Alt": 1.82,
         "Üst": 1.47
     },
     "S. Wednesday - Accrington": {
-        "Alt": 2.45,
-        "Üst": 1.21
+        "Alt": 2.39,
+        "Üst": 1.22
     },
     "Barnsley - Oldham": {
-        "Alt": 3.09,
-        "Üst": 1.1
+        "Alt": 3.3,
+        "Üst": 1.08
     },
     "Ontinyent - CD Utiel": {
-        "Alt": 1.57,
-        "Üst": 1.68
+        "Alt": 1.65,
+        "Üst": 1.59
+    },
+    "Galler U19 - Finlandiya U19": {
+        "Alt": 1.81,
+        "Üst": 1.47
     },
     "CD Cieza - Valencia M.": {
         "Alt": 1.67,
         "Üst": 1.58
     },
     "Avro - Whitby Town": {
+        "Alt": 1.79,
+        "Üst": 3.38
+    },
+    "Juventus (K) - O. Lyon (K)": {
+        "Alt": 1.08,
+        "Üst": 2.46
+    },
+    "Fuerte San Francisco - Alianza": {
+        "Alt": 1.64,
+        "Üst": 1.6
+    },
+    "Independiente P. - Always Ready": {
         "Alt": 1.74,
-        "Üst": 3.4
+        "Üst": 3.43
+    },
+    "Londrina PR - Nautico PE": {
+        "Alt": 1.67,
+        "Üst": 1.57
+    },
+    "R. S. Cundinamarca - R. Cartagena": {
+        "Alt": 1.47,
+        "Üst": 1.81
+    },
+    "CD Fas - Fundacion F. Un Atleta": {
+        "Alt": 1.57,
+        "Üst": 1.67
+    },
+    "America (K) - Dep. Toluca (K)": {
+        "Alt": 4.08,
+        "Üst": 1.57
+    },
+    "Deportes Quindio - Tigres (Kol)": {
+        "Alt": 3.31,
+        "Üst": 2.95
     }
 }
