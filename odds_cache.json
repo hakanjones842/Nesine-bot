@@ -1,78 +1,90 @@
 {
-    "Hindistan - Maldivler": {
-        "Alt": 1.54,
-        "Üst": 2.44
-    },
     "Yokohama M. - Kashima": {
-        "Alt": 1.74,
-        "Üst": 1.53
+        "Alt": 1.88,
+        "Üst": 1.42
     },
     "Vissel Kobe - Machida Zelvia": {
-        "Alt": 1.58,
-        "Üst": 1.67
+        "Alt": 1.26,
+        "Üst": 2.28
     },
     "Kawasaki Frontale - Kashiwa": {
-        "Alt": 2.17,
-        "Üst": 1.29
+        "Alt": 2.06,
+        "Üst": 1.34
     },
     "Urawa Red - Cerezo Osaka": {
-        "Alt": 2.01,
-        "Üst": 1.36
+        "Alt": 1.94,
+        "Üst": 1.39
     },
     "Vietnam - Tayvan": {
-        "Alt": 3.63,
-        "Üst": 2.44
+        "Alt": 3.89,
+        "Üst": 1.6
     },
     "FK Nove Zamky - Michalovce": {
         "Alt": 1.66,
-        "Üst": 3.57
+        "Üst": 3.54
     },
     "Newells Old Boys (K) - CA Huracan (K)": {
         "Alt": 1.35,
         "Üst": 2.01
     },
     "Bangladeş - Sri Lanka": {
-        "Alt": 1.53,
-        "Üst": 1.74
+        "Alt": 1.48,
+        "Üst": 1.79
     },
     "Ibiza Islas P. - UD Arenal": {
-        "Alt": 3.68,
-        "Üst": 1.59
+        "Alt": 3.66,
+        "Üst": 1.82
     },
     "Z. Podbrezova - VZ Moravce": {
-        "Alt": 2.22,
-        "Üst": 3.52
+        "Alt": 2.16,
+        "Üst": 3.53
     },
     "Fleury (K) - Toulouse (K)": {
-        "Alt": 2.0,
-        "Üst": 3.33
+        "Alt": 1.9,
+        "Üst": 3.35
     },
     "Manacor - Inter Ibiza CD": {
-        "Alt": 1.43,
-        "Üst": 2.08
+        "Alt": 1.36,
+        "Üst": 2.07
     },
     "SK Artis Brno - Jablonec": {
-        "Alt": 1.68,
-        "Üst": 1.56
+        "Alt": 1.66,
+        "Üst": 1.59
     },
     "UD Castellonense - La Nucia": {
-        "Alt": 1.49,
-        "Üst": 1.78
+        "Alt": 1.47,
+        "Üst": 1.8
     },
     "OH Leuven (K) - HB Koege (K)": {
-        "Alt": 2.03,
-        "Üst": 1.35
+        "Alt": 1.77,
+        "Üst": 1.49
     },
     "CD Castellon B - C. Dep. Minera": {
-        "Alt": 1.98,
-        "Üst": 1.37
+        "Alt": 1.94,
+        "Üst": 1.39
     },
     "CD Alcoyano - Elche B": {
         "Alt": 1.82,
         "Üst": 1.47
     },
     "S. Wednesday - Accrington": {
-        "Alt": 2.53,
-        "Üst": 1.19
+        "Alt": 2.45,
+        "Üst": 1.21
+    },
+    "Barnsley - Oldham": {
+        "Alt": 3.09,
+        "Üst": 1.1
+    },
+    "Ontinyent - CD Utiel": {
+        "Alt": 1.57,
+        "Üst": 1.68
+    },
+    "CD Cieza - Valencia M.": {
+        "Alt": 1.67,
+        "Üst": 1.58
+    },
+    "Avro - Whitby Town": {
+        "Alt": 1.74,
+        "Üst": 3.4
     }
 }
