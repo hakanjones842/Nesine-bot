@@ -1,31 +1,15 @@
 {
-    "Inter Bogota - America De Cali": {
-        "Alt": 1.36,
-        "Üst": 2.01
-    },
-    "Liverpool M. - CA Juventud De Las Piedras": {
-        "Alt": 3.48,
-        "Üst": 4.11
-    },
-    "Metapan - Platense M.": {
-        "Alt": 1.7,
-        "Üst": 1.55
-    },
-    "Once Caldas - Atl. Nacional Medellin": {
-        "Alt": 1.44,
-        "Üst": 1.85
-    },
     "Hindistan - Maldivler": {
-        "Alt": 1.9,
-        "Üst": 1.41
+        "Alt": 1.54,
+        "Üst": 2.44
     },
     "Yokohama M. - Kashima": {
-        "Alt": 1.7,
-        "Üst": 1.55
+        "Alt": 1.74,
+        "Üst": 1.53
     },
     "Vissel Kobe - Machida Zelvia": {
-        "Alt": 1.55,
-        "Üst": 1.7
+        "Alt": 1.58,
+        "Üst": 1.67
     },
     "Kawasaki Frontale - Kashiwa": {
         "Alt": 2.17,
@@ -37,7 +21,7 @@
     },
     "Vietnam - Tayvan": {
         "Alt": 3.63,
-        "Üst": 2.41
+        "Üst": 2.44
     },
     "FK Nove Zamky - Michalovce": {
         "Alt": 1.66,
@@ -64,23 +48,31 @@
         "Üst": 3.33
     },
     "Manacor - Inter Ibiza CD": {
-        "Alt": 1.42,
-        "Üst": 2.17
+        "Alt": 1.43,
+        "Üst": 2.08
     },
     "SK Artis Brno - Jablonec": {
         "Alt": 1.68,
         "Üst": 1.56
     },
     "UD Castellonense - La Nucia": {
-        "Alt": 1.51,
-        "Üst": 1.74
+        "Alt": 1.49,
+        "Üst": 1.78
     },
     "OH Leuven (K) - HB Koege (K)": {
         "Alt": 2.03,
         "Üst": 1.35
     },
     "CD Castellon B - C. Dep. Minera": {
-        "Alt": 2.02,
-        "Üst": 1.35
+        "Alt": 1.98,
+        "Üst": 1.37
+    },
+    "CD Alcoyano - Elche B": {
+        "Alt": 1.82,
+        "Üst": 1.47
+    },
+    "S. Wednesday - Accrington": {
+        "Alt": 2.53,
+        "Üst": 1.19
     }
 }
