@@ -1,74 +1,82 @@
 {
-    "UD Castellonense - La Nucia": {
-        "Alt": 1.45,
-        "Üst": 1.84
+    "CD Fas - Fundacion F. Un Atleta": {
+        "Alt": 1.6,
+        "Üst": 1.65
     },
-    "OH Leuven (K) - HB Koege (K)": {
-        "Alt": 1.9,
-        "Üst": 1.41
+    "America (K) - Dep. Toluca (K)": {
+        "Alt": 3.87,
+        "Üst": 2.39
     },
-    "CD Castellon B - C. Dep. Minera": {
+    "Deportes Quindio - Tigres (Kol)": {
+        "Alt": 3.14,
+        "Üst": 2.91
+    },
+    "Piratas Veracruz - Atl La Paz": {
+        "Alt": 1.85,
+        "Üst": 1.44
+    },
+    "Pachuca (K) - Monterrey (K)": {
         "Alt": 2.0,
         "Üst": 1.36
     },
-    "CD Alcoyano - Elche B": {
-        "Alt": 1.82,
-        "Üst": 1.47
+    "Yeni Zelanda - Hindistan": {
+        "Alt": 2.04,
+        "Üst": 1.34
     },
-    "S. Wednesday - Accrington": {
-        "Alt": 2.39,
+    "Apia Leic. - Adelaide City": {
+        "Alt": 2.41,
         "Üst": 1.22
     },
-    "Barnsley - Oldham": {
-        "Alt": 3.3,
-        "Üst": 1.08
+    "Entag Harby - Baladiyyat AL M.": {
+        "Alt": 1.3,
+        "Üst": 2.16
     },
-    "Ontinyent - CD Utiel": {
+    "Masar - EL Terasanah": {
+        "Alt": 1.34,
+        "Üst": 2.06
+    },
+    "Dayrout - Proxy SC": {
+        "Alt": 1.32,
+        "Üst": 2.11
+    },
+    "Mega Sport Belqas - El Sekka El Hadid": {
+        "Alt": 1.38,
+        "Üst": 1.97
+    },
+    "AL Nasr Cairo - Farco": {
+        "Alt": 1.32,
+        "Üst": 2.11
+    },
+    "Kigezi Homeoyz - Vipers SC": {
+        "Alt": 1.35,
+        "Üst": 2.03
+    },
+    "Almanya U19 - İsveç U19": {
+        "Alt": 1.96,
+        "Üst": 3.31
+    },
+    "İzlanda U21 - Yunanistan U21": {
         "Alt": 1.65,
-        "Üst": 1.59
-    },
-    "Galler U19 - Finlandiya U19": {
-        "Alt": 1.81,
-        "Üst": 1.47
-    },
-    "CD Cieza - Valencia M.": {
-        "Alt": 1.67,
-        "Üst": 1.58
-    },
-    "Avro - Whitby Town": {
-        "Alt": 1.79,
-        "Üst": 3.38
-    },
-    "Juventus (K) - O. Lyon (K)": {
-        "Alt": 1.08,
-        "Üst": 2.46
-    },
-    "Fuerte San Francisco - Alianza": {
-        "Alt": 1.64,
         "Üst": 1.6
     },
-    "Independiente P. - Always Ready": {
-        "Alt": 1.74,
-        "Üst": 3.43
+    "İskoçya U21 - Ukrayna U21": {
+        "Alt": 1.79,
+        "Üst": 1.48
     },
-    "Londrina PR - Nautico PE": {
-        "Alt": 1.67,
-        "Üst": 1.57
+    "Sırbistan U21 - K. Makedonya U21": {
+        "Alt": 2.03,
+        "Üst": 1.35
     },
-    "R. S. Cundinamarca - R. Cartagena": {
-        "Alt": 1.47,
-        "Üst": 1.81
+    "Maan - Al Yarmouk": {
+        "Alt": 1.41,
+        "Üst": 1.91
     },
-    "CD Fas - Fundacion F. Un Atleta": {
-        "Alt": 1.57,
-        "Üst": 1.67
+    "Boca Juniors (K) - Social Atl (K)": {
+        "Alt": 1.49,
+        "Üst": 1.78
     },
-    "America (K) - Dep. Toluca (K)": {
-        "Alt": 4.08,
-        "Üst": 1.57
-    },
-    "Deportes Quindio - Tigres (Kol)": {
-        "Alt": 3.31,
-        "Üst": 2.95
+    "Gana - Somali": {
+        "Alt": 1.25,
+        "Üst": 2.55
     }
 }
