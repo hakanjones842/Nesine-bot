@@ -1,82 +1,78 @@
 {
-    "SC Paderborn 07 II - VfL Bochum II": {
-        "Alt": 3.04,
-        "Üst": 1.1
+    "CD Aguila - Municipal L.": {
+        "Alt": 1.78,
+        "Üst": 1.48
     },
-    "Kigezi Homeoyz - Vipers SC": {
-        "Alt": 1.4,
-        "Üst": 1.93
+    "Atletico Balboa - CD Inca": {
+        "Alt": 1.96,
+        "Üst": 1.38
     },
-    "Almanya U19 - İsveç U19": {
-        "Alt": 1.91,
-        "Üst": 3.34
+    "Ponte Preta - Operario": {
+        "Alt": 1.76,
+        "Üst": 1.5
     },
-    "İzlanda U21 - Yunanistan U21": {
-        "Alt": 1.68,
-        "Üst": 1.57
+    "Aruba - Martinik": {
+        "Alt": 2.11,
+        "Üst": 1.32
     },
-    "İskoçya U21 - Ukrayna U21": {
-        "Alt": 1.75,
-        "Üst": 1.51
+    "Aurora - Deportivo Mixco": {
+        "Alt": 1.62,
+        "Üst": 1.62
     },
-    "Sırbistan U21 - K. Makedonya U21": {
-        "Alt": 2.35,
-        "Üst": 3.43
+    "A. Puerto C. - Monagas SC": {
+        "Alt": 1.7,
+        "Üst": 1.54
     },
-    "Maan - Al Yarmouk": {
-        "Alt": 1.47,
+    "Estudiantes - Ind. Mendoza": {
+        "Alt": 1.17,
+        "Üst": 2.98
+    },
+    "Real Potosi - Nacional Potosi": {
+        "Alt": 1.74,
+        "Üst": 1.52
+    },
+    "Sao Bernardo FC - Athletic Club MG": {
+        "Alt": 1.52,
+        "Üst": 1.74
+    },
+    "Antigua & Bar. - Trinidad & T.": {
+        "Alt": 2.01,
+        "Üst": 1.36
+    },
+    "Deportivo Pasto - Atl Junior": {
+        "Alt": 3.58,
         "Üst": 1.8
     },
-    "Boca Juniors (K) - Social Atl (K)": {
-        "Alt": 1.49,
-        "Üst": 1.78
-    },
-    "Gana - Somali": {
-        "Alt": 1.25,
-        "Üst": 2.55
-    },
-    "Özbekistan - Rusya": {
-        "Alt": 1.46,
-        "Üst": 1.83
-    },
-    "Portekiz U19 - Litvanya U19": {
-        "Alt": 3.75,
-        "Üst": 2.07
-    },
-    "AL Aqaba - Hay AL Amir Hassan": {
-        "Alt": 1.61,
-        "Üst": 1.63
-    },
-    "Al Ahli (Ürd) - Amman": {
+    "Cerro Largo - CA Progreso": {
         "Alt": 1.41,
         "Üst": 1.91
     },
-    "Madagaskar - Gine Bissau": {
-        "Alt": 1.32,
-        "Üst": 2.1
+    "Llaneros - Boyaca Chico": {
+        "Alt": 1.57,
+        "Üst": 1.67
     },
-    "Gine - Eritre": {
-        "Alt": 1.8,
-        "Üst": 1.48
+    "Curaçao - Panama": {
+        "Alt": 1.48,
+        "Üst": 1.79
     },
-    "D. Kongo Cum. - Sierra Leone": {
-        "Alt": 1.61,
-        "Üst": 2.4
+    "Atl Morelia - Leones Negros": {
+        "Alt": 1.58,
+        "Üst": 1.67
     },
-    "Ekvator Ginesi - Zimbabve": {
-        "Alt": 1.28,
-        "Üst": 2.24
+    "Preston Lions - Queensland L.": {
+        "Alt": 1.88,
+        "Üst": 1.42
     },
-    "İtalya U20 - Portekiz U20": {
-        "Alt": 1.66,
-        "Üst": 1.59
+    "Oakleigh C. - Marconi Stal": {
+        "Alt": 1.93,
+        "Üst": 1.4
     },
-    "Türkiye - Belçika": {
-        "Alt": 2.33,
-        "Üst": 1.32
+    "Nairea - AL Sahel SC": {
+        "Alt": 1.78,
+        "Üst": 1.49
     },
-    "Ermenistan - G. Kıbrıs": {
-        "Alt": 1.41,
-        "Üst": 2.1
+    "Singapur - Paraguay": {
+        "Alt": 3.67,
+        "Üst": 2.29
     }
 }
