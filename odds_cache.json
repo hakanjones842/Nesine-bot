@@ -1,35 +1,19 @@
 {
-    "CD Fas - Fundacion F. Un Atleta": {
-        "Alt": 1.6,
-        "Üst": 1.65
-    },
-    "America (K) - Dep. Toluca (K)": {
-        "Alt": 3.87,
-        "Üst": 2.39
-    },
-    "Deportes Quindio - Tigres (Kol)": {
-        "Alt": 3.14,
-        "Üst": 2.91
-    },
-    "Piratas Veracruz - Atl La Paz": {
-        "Alt": 1.85,
-        "Üst": 1.44
-    },
-    "Pachuca (K) - Monterrey (K)": {
-        "Alt": 2.0,
-        "Üst": 1.36
-    },
     "Yeni Zelanda - Hindistan": {
-        "Alt": 2.04,
-        "Üst": 1.34
+        "Alt": 1.38,
+        "Üst": 2.24
+    },
+    "Tayland U23 - Katar U23": {
+        "Alt": 1.53,
+        "Üst": 1.73
     },
     "Apia Leic. - Adelaide City": {
         "Alt": 2.41,
         "Üst": 1.22
     },
     "Entag Harby - Baladiyyat AL M.": {
-        "Alt": 1.3,
-        "Üst": 2.16
+        "Alt": 1.32,
+        "Üst": 2.1
     },
     "Masar - EL Terasanah": {
         "Alt": 1.34,
@@ -40,8 +24,8 @@
         "Üst": 2.11
     },
     "Mega Sport Belqas - El Sekka El Hadid": {
-        "Alt": 1.38,
-        "Üst": 1.97
+        "Alt": 1.39,
+        "Üst": 1.94
     },
     "AL Nasr Cairo - Farco": {
         "Alt": 1.32,
@@ -52,8 +36,8 @@
         "Üst": 2.03
     },
     "Almanya U19 - İsveç U19": {
-        "Alt": 1.96,
-        "Üst": 3.31
+        "Alt": 1.94,
+        "Üst": 3.32
     },
     "İzlanda U21 - Yunanistan U21": {
         "Alt": 1.65,
@@ -78,5 +62,29 @@
     "Gana - Somali": {
         "Alt": 1.25,
         "Üst": 2.55
+    },
+    "Özbekistan - Rusya": {
+        "Alt": 1.44,
+        "Üst": 1.86
+    },
+    "Portekiz U19 - Litvanya U19": {
+        "Alt": 3.75,
+        "Üst": 2.07
+    },
+    "AL Aqaba - Hay AL Amir Hassan": {
+        "Alt": 1.61,
+        "Üst": 1.63
+    },
+    "Al Ahli (Ürd) - Amman": {
+        "Alt": 1.45,
+        "Üst": 1.84
+    },
+    "Madagaskar - Gine Bissau": {
+        "Alt": 1.34,
+        "Üst": 2.06
+    },
+    "Gine - Eritre": {
+        "Alt": 1.84,
+        "Üst": 1.45
     }
 }
