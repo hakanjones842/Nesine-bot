@@ -1,63 +1,7 @@
 {
-    "CD Aguila - Municipal L.": {
-        "Alt": 1.78,
-        "Üst": 1.48
-    },
-    "Atletico Balboa - CD Inca": {
-        "Alt": 1.96,
-        "Üst": 1.38
-    },
-    "Ponte Preta - Operario": {
-        "Alt": 1.76,
-        "Üst": 1.5
-    },
-    "Aruba - Martinik": {
-        "Alt": 2.11,
-        "Üst": 1.32
-    },
-    "Aurora - Deportivo Mixco": {
-        "Alt": 1.62,
-        "Üst": 1.62
-    },
-    "A. Puerto C. - Monagas SC": {
-        "Alt": 1.7,
-        "Üst": 1.54
-    },
-    "Estudiantes - Ind. Mendoza": {
-        "Alt": 1.17,
-        "Üst": 2.98
-    },
-    "Real Potosi - Nacional Potosi": {
-        "Alt": 1.74,
-        "Üst": 1.52
-    },
-    "Sao Bernardo FC - Athletic Club MG": {
-        "Alt": 1.52,
-        "Üst": 1.74
-    },
-    "Antigua & Bar. - Trinidad & T.": {
-        "Alt": 2.01,
-        "Üst": 1.36
-    },
-    "Deportivo Pasto - Atl Junior": {
-        "Alt": 3.58,
-        "Üst": 1.8
-    },
-    "Cerro Largo - CA Progreso": {
-        "Alt": 1.41,
-        "Üst": 1.91
-    },
-    "Llaneros - Boyaca Chico": {
-        "Alt": 1.57,
-        "Üst": 1.67
-    },
-    "Curaçao - Panama": {
-        "Alt": 1.48,
-        "Üst": 1.79
-    },
     "Atl Morelia - Leones Negros": {
-        "Alt": 1.58,
-        "Üst": 1.67
+        "Alt": 1.54,
+        "Üst": 1.72
     },
     "Preston Lions - Queensland L.": {
         "Alt": 1.88,
@@ -68,11 +12,75 @@
         "Üst": 1.4
     },
     "Nairea - AL Sahel SC": {
-        "Alt": 1.78,
-        "Üst": 1.49
+        "Alt": 1.74,
+        "Üst": 1.52
     },
     "Singapur - Paraguay": {
-        "Alt": 3.67,
-        "Üst": 2.29
+        "Alt": 3.68,
+        "Üst": 2.19
+    },
+    "Budaorsi - Erdi Vse": {
+        "Alt": 1.59,
+        "Üst": 3.6
+    },
+    "Afief - AL Rayan": {
+        "Alt": 1.53,
+        "Üst": 1.73
+    },
+    "Maleyat Kafr El Z. - Team Cairo": {
+        "Alt": 3.46,
+        "Üst": 3.0
+    },
+    "Tanta - La Viena": {
+        "Alt": 4.55,
+        "Üst": 3.26
+    },
+    "Haras Hodood - El Daklyeh": {
+        "Alt": 1.34,
+        "Üst": 2.05
+    },
+    "Hetten - Mudhar": {
+        "Alt": 1.7,
+        "Üst": 1.55
+    },
+    "Mozambik - Etiyopya": {
+        "Alt": 1.42,
+        "Üst": 1.89
+    },
+    "Zambiya - Burundi": {
+        "Alt": 1.35,
+        "Üst": 2.01
+    },
+    "Komorlar - Kongo": {
+        "Alt": 1.3,
+        "Üst": 2.14
+    },
+    "Wej Taif SC - AL Qwarah": {
+        "Alt": 1.54,
+        "Üst": 1.72
+    },
+    "B. A. Emirlikleri - Honduras": {
+        "Alt": 1.44,
+        "Üst": 1.85
+    },
+    "Suudi Arabistan - Güney Kore": {
+        "Alt": 1.43,
+        "Üst": 1.87
+    },
+    "Katar - Avustralya": {
+        "Alt": 1.46,
+        "Üst": 1.83
+    },
+    "AL Shabbab - AL Bahrain": {
+        "Alt": 1.57,
+        "Üst": 1.67
+    },
+    "Etehad Alreef - Um Alhassam": {
+        "Alt": 2.0,
+        "Üst": 1.36
+    },
+    "FK Jezero Plav - Buducnost": {
+        "Alt": 1.47,
+        "Üst": 1.8
     }
 }
