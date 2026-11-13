@@ -1,11 +1,7 @@
 {
-    "Atl Morelia - Leones Negros": {
-        "Alt": 1.54,
-        "Üst": 1.72
-    },
     "Preston Lions - Queensland L.": {
-        "Alt": 1.88,
-        "Üst": 1.42
+        "Alt": 1.85,
+        "Üst": 1.45
     },
     "Oakleigh C. - Marconi Stal": {
         "Alt": 1.93,
@@ -16,12 +12,12 @@
         "Üst": 1.52
     },
     "Singapur - Paraguay": {
-        "Alt": 3.68,
-        "Üst": 2.19
+        "Alt": 3.69,
+        "Üst": 2.2
     },
     "Budaorsi - Erdi Vse": {
-        "Alt": 1.59,
-        "Üst": 3.6
+        "Alt": 1.36,
+        "Üst": 3.88
     },
     "Afief - AL Rayan": {
         "Alt": 1.53,
@@ -32,16 +28,16 @@
         "Üst": 3.0
     },
     "Tanta - La Viena": {
-        "Alt": 4.55,
-        "Üst": 3.26
+        "Alt": 3.99,
+        "Üst": 3.07
     },
     "Haras Hodood - El Daklyeh": {
-        "Alt": 1.34,
-        "Üst": 2.05
+        "Alt": 1.38,
+        "Üst": 1.97
     },
     "Hetten - Mudhar": {
-        "Alt": 1.7,
-        "Üst": 1.55
+        "Alt": 1.6,
+        "Üst": 1.64
     },
     "Mozambik - Etiyopya": {
         "Alt": 1.42,
@@ -64,12 +60,12 @@
         "Üst": 1.85
     },
     "Suudi Arabistan - Güney Kore": {
-        "Alt": 1.43,
-        "Üst": 1.87
+        "Alt": 1.44,
+        "Üst": 1.85
     },
     "Katar - Avustralya": {
-        "Alt": 1.46,
-        "Üst": 1.83
+        "Alt": 1.43,
+        "Üst": 1.87
     },
     "AL Shabbab - AL Bahrain": {
         "Alt": 1.57,
@@ -82,5 +78,25 @@
     "FK Jezero Plav - Buducnost": {
         "Alt": 1.47,
         "Üst": 1.8
+    },
+    "Al Hashemehya - AL Sarhan": {
+        "Alt": 1.47,
+        "Üst": 1.8
+    },
+    "Sahl Horan SC - AL Sareeh": {
+        "Alt": 1.47,
+        "Üst": 1.8
+    },
+    "Jerash - Ittihad AL Ramtha": {
+        "Alt": 1.49,
+        "Üst": 1.77
+    },
+    "Yeşil Burun Adaları - Liberya": {
+        "Alt": 1.63,
+        "Üst": 1.61
+    },
+    "Burkina Faso - Moritanya": {
+        "Alt": 1.36,
+        "Üst": 2.0
     }
 }
