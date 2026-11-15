@@ -1,71 +1,11 @@
 {
-    "Saint Vincent ve G. - Belize": {
-        "Alt": 1.87,
-        "Üst": 1.43
-    },
-    "Fundacion F. Un Atleta - C.D. Cacahuatique": {
-        "Alt": 1.63,
-        "Üst": 1.61
-    },
-    "Napier City R. - Ferrymead Bays": {
-        "Alt": 1.88,
-        "Üst": 3.56
-    },
-    "Charlotte Ind. - AC Boise": {
-        "Alt": 3.65,
-        "Üst": 3.86
-    },
-    "NY Red Bulls - America": {
-        "Alt": 1.43,
-        "Üst": 3.7
-    },
-    "Wellington P. (K) - Sydney (K)": {
-        "Alt": 1.8,
-        "Üst": 3.32
-    },
-    "Jamaika - Meksika": {
-        "Alt": 1.58,
-        "Üst": 1.67
-    },
-    "Malacateco - Municipal": {
-        "Alt": 1.48,
-        "Üst": 1.79
-    },
-    "Metapan - Angel Firpo": {
-        "Alt": 1.46,
-        "Üst": 1.83
-    },
-    "Alianza - CD Fas": {
-        "Alt": 1.67,
-        "Üst": 1.57
-    },
-    "Auckland Utd - Miramar Rangers": {
-        "Alt": 3.38,
-        "Üst": 3.84
-    },
-    "Yeni Zelanda - Hindistan": {
-        "Alt": 3.38,
-        "Üst": 2.15
-    },
-    "Guadalajara (K) - Juarez (K)": {
-        "Alt": 1.47,
-        "Üst": 1.81
-    },
-    "Atl La Paz - Piratas Veracruz": {
-        "Alt": 1.94,
-        "Üst": 1.39
-    },
-    "Birkenhead Utd AFC - Eastern Suburbs": {
-        "Alt": 2.0,
-        "Üst": 1.36
-    },
     "Canberra Utd (K) - Brisbane R. (K)": {
-        "Alt": 2.01,
-        "Üst": 1.36
+        "Alt": 2.26,
+        "Üst": 3.36
     },
     "Sutherland S. - Canberra": {
-        "Alt": 2.29,
-        "Üst": 1.26
+        "Alt": 2.25,
+        "Üst": 1.27
     },
     "Broad. Magic - Avondale": {
         "Alt": 2.43,
@@ -74,5 +14,77 @@
     "Tiamo Hirakata - Honda": {
         "Alt": 1.87,
         "Üst": 1.44
+    },
+    "Veertien Mie - Grulla Morioka": {
+        "Alt": 1.51,
+        "Üst": 1.75
+    },
+    "Yscc Yokohama - Verspah Oita": {
+        "Alt": 1.74,
+        "Üst": 1.52
+    },
+    "Sapporo - Sagan Tosu": {
+        "Alt": 1.59,
+        "Üst": 1.66
+    },
+    "V. Hachinohe - Iwaki": {
+        "Alt": 1.52,
+        "Üst": 1.74
+    },
+    "Kagoshima Utd - Gainare Tottori": {
+        "Alt": 1.74,
+        "Üst": 1.52
+    },
+    "Omiya (K) - Mynavi S. (K)": {
+        "Alt": 1.38,
+        "Üst": 1.97
+    },
+    "Sendai - B. Akita": {
+        "Alt": 1.59,
+        "Üst": 1.66
+    },
+    "Imabari - Iwata Jubilo": {
+        "Alt": 1.81,
+        "Üst": 1.47
+    },
+    "Kat. Toyama - T. Vortis": {
+        "Alt": 1.78,
+        "Üst": 1.49
+    },
+    "AC N. Parceiro - Ehime": {
+        "Alt": 1.79,
+        "Üst": 1.48
+    },
+    "Tochigi - Nara Club": {
+        "Alt": 1.78,
+        "Üst": 1.49
+    },
+    "Z. Kanazawa - R. Kumamoto": {
+        "Alt": 1.69,
+        "Üst": 1.55
+    },
+    "Kamatamare S. - Renofa Y.": {
+        "Alt": 1.8,
+        "Üst": 1.47
+    },
+    "Machida Zelvia - Vissel Kobe": {
+        "Alt": 1.5,
+        "Üst": 1.77
+    },
+    "SKA Khabarovsk - Leningradets": {
+        "Alt": 1.55,
+        "Üst": 1.7
+    },
+    "Sham Shui Po SA - Resources Capital": {
+        "Alt": 3.76,
+        "Üst": 1.6
+    },
+    "Citizen AA - Kui Tan SC": {
+        "Alt": 2.52,
+        "Üst": 3.6
+    },
+    "Liaoning (K) - Beijing BG P. (K)": {
+        "Alt": 1.41,
+        "Üst": 1.91
     }
 }
