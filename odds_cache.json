@@ -1,62 +1,74 @@
 {
-    "Churriana de la Vega - Motril": {
-        "Alt": 1.41,
-        "Üst": 1.91
+    "Dep. Moron - Colegiales": {
+        "Alt": 4.01,
+        "Üst": 2.95
     },
-    "Silva SD - Alondras": {
-        "Alt": 1.54,
-        "Üst": 1.71
+    "Leones Negros - Atl Morelia": {
+        "Alt": 1.74,
+        "Üst": 1.53
     },
-    "Jerez - Moralo CP": {
-        "Alt": 1.48,
-        "Üst": 1.79
+    "Leixoes - Chaves": {
+        "Alt": 1.6,
+        "Üst": 1.64
     },
-    "AD San Clemente - Illescas": {
-        "Alt": 1.43,
-        "Üst": 1.87
+    "S. Stalowa - Olimpia": {
+        "Alt": 1.76,
+        "Üst": 1.5
     },
-    "UE Cornella - L. Escala": {
-        "Alt": 1.8,
-        "Üst": 1.47
+    "Boca Juniors (Kol) - Independiente Yumbo": {
+        "Alt": 1.38,
+        "Üst": 1.97
     },
-    "Las Palmas B - Ciudad De Lucena": {
-        "Alt": 1.55,
-        "Üst": 1.7
-    },
-    "Sassuolo Calcio (K) - Ternana (K)": {
-        "Alt": 1.54,
-        "Üst": 1.71
-    },
-    "Giugliano 1928 - AC Savoia 1908": {
-        "Alt": 1.57,
-        "Üst": 1.67
-    },
-    "Novara Calcio - C. Lecco": {
+    "Danubio - Liverpool M.": {
         "Alt": 1.46,
         "Üst": 1.83
     },
-    "Ufa - Spartak Kostroma": {
-        "Alt": 4.68,
-        "Üst": 3.37
+    "Hırvatistan - Çekya": {
+        "Alt": 1.87,
+        "Üst": 1.54
     },
-    "Naestved - FA 2000": {
-        "Alt": 1.77,
-        "Üst": 1.5
+    "İspanya - İngiltere": {
+        "Alt": 2.13,
+        "Üst": 1.4
     },
-    "Celtic (K) - Rangers (K)": {
-        "Alt": 1.98,
-        "Üst": 1.37
+    "Fransa - Türkiye": {
+        "Alt": 3.19,
+        "Üst": 1.15
     },
-    "CD Marino - CD Tenerife C": {
-        "Alt": 1.57,
-        "Üst": 1.67
+    "Belçika - İtalya": {
+        "Alt": 2.01,
+        "Üst": 1.45
     },
-    "UD San Fernando - CD San Miguel": {
-        "Alt": 1.66,
-        "Üst": 1.59
+    "Godoy Cruz - T. Suarez": {
+        "Alt": 3.32,
+        "Üst": 2.82
     },
-    "UD Tamaraceite - Marbella": {
-        "Alt": 1.64,
+    "Tivoli Gardens - Montego Bay Utd": {
+        "Alt": 1.84,
+        "Üst": 1.45
+    },
+    "Racing Utd - Tru Juice": {
+        "Alt": 1.71,
+        "Üst": 1.54
+    },
+    "Dunbeholden - Chapelton Maroons": {
+        "Alt": 1.47,
+        "Üst": 1.8
+    },
+    "Humble Lions - Arnett Gardens": {
+        "Alt": 2.5,
+        "Üst": 3.47
+    },
+    "Molynes - Portmore Utd": {
+        "Alt": 1.8,
+        "Üst": 1.47
+    },
+    "Juan Pablo II - Deportivo Garcilaso": {
+        "Alt": 1.65,
         "Üst": 1.6
+    },
+    "San Luis (K) - San Lorenzo Almagro (K)": {
+        "Alt": 1.53,
+        "Üst": 1.73
     }
 }
