@@ -1,74 +1,82 @@
 {
-    "Dep. Moron - Colegiales": {
-        "Alt": 4.01,
-        "Üst": 2.95
+    "Panama - Curaçao": {
+        "Alt": 1.51,
+        "Üst": 1.75
     },
-    "Leones Negros - Atl Morelia": {
-        "Alt": 1.74,
-        "Üst": 1.53
+    "CD Inca - CD Aguila": {
+        "Alt": 1.91,
+        "Üst": 1.41
     },
-    "Leixoes - Chaves": {
-        "Alt": 1.6,
-        "Üst": 1.64
-    },
-    "S. Stalowa - Olimpia": {
-        "Alt": 1.76,
-        "Üst": 1.5
-    },
-    "Boca Juniors (Kol) - Independiente Yumbo": {
-        "Alt": 1.38,
-        "Üst": 1.97
-    },
-    "Danubio - Liverpool M.": {
-        "Alt": 1.46,
-        "Üst": 1.83
-    },
-    "Hırvatistan - Çekya": {
-        "Alt": 1.87,
-        "Üst": 1.54
-    },
-    "İspanya - İngiltere": {
-        "Alt": 2.13,
-        "Üst": 1.4
-    },
-    "Fransa - Türkiye": {
-        "Alt": 3.19,
-        "Üst": 1.15
-    },
-    "Belçika - İtalya": {
-        "Alt": 2.01,
-        "Üst": 1.45
-    },
-    "Godoy Cruz - T. Suarez": {
-        "Alt": 3.32,
-        "Üst": 2.82
-    },
-    "Tivoli Gardens - Montego Bay Utd": {
-        "Alt": 1.84,
-        "Üst": 1.45
-    },
-    "Racing Utd - Tru Juice": {
-        "Alt": 1.71,
-        "Üst": 1.54
-    },
-    "Dunbeholden - Chapelton Maroons": {
+    "Defensor Sp. - Penarol": {
         "Alt": 1.47,
         "Üst": 1.8
     },
-    "Humble Lions - Arnett Gardens": {
-        "Alt": 2.5,
-        "Üst": 3.47
+    "CD Suchitepequez - Antigua": {
+        "Alt": 1.46,
+        "Üst": 1.83
     },
-    "Molynes - Portmore Utd": {
-        "Alt": 1.8,
-        "Üst": 1.47
+    "Tigres (Kol) - R. S. Cundinamarca": {
+        "Alt": 3.4,
+        "Üst": 3.03
     },
-    "Juan Pablo II - Deportivo Garcilaso": {
-        "Alt": 1.65,
-        "Üst": 1.6
+    "Ferro Carril Oeste - Gimnasia Y. Tiro": {
+        "Alt": 2.66,
+        "Üst": 2.78
     },
-    "San Luis (K) - San Lorenzo Almagro (K)": {
+    "Monterrey (K) - Pachuca (K)": {
+        "Alt": 2.0,
+        "Üst": 3.41
+    },
+    "Deportes Quindio - R. Cartagena": {
+        "Alt": 1.42,
+        "Üst": 1.89
+    },
+    "Dep. Toluca (K) - America (K)": {
+        "Alt": 1.67,
+        "Üst": 3.73
+    },
+    "Ario Eslamshahr - Saipa": {
+        "Alt": 1.11,
+        "Üst": 3.04
+    },
+    "Mes Rafsanjan - Shahin Bandar Ameri": {
+        "Alt": 1.21,
+        "Üst": 2.49
+    },
+    "Naft Gachsaran - N. Zamini Tehran": {
+        "Alt": 1.28,
+        "Üst": 2.22
+    },
+    "Namibya - Kamerun": {
+        "Alt": 1.33,
+        "Üst": 2.09
+    },
+    "Zimbabve - Ekvator Ginesi": {
+        "Alt": 1.3,
+        "Üst": 2.14
+    },
+    "Sudan - Senegal": {
         "Alt": 1.53,
         "Üst": 1.73
+    },
+    "NM Soleyman - S Sazi Qeshm": {
+        "Alt": 1.28,
+        "Üst": 2.22
+    },
+    "Palayesh Naft B. A. - Fard": {
+        "Alt": 1.26,
+        "Üst": 2.27
+    },
+    "Boca Juniors (K) - Ferro Carril (K)": {
+        "Alt": 1.54,
+        "Üst": 1.71
+    },
+    "İtalya U20 - İsviçre U20": {
+        "Alt": 2.24,
+        "Üst": 3.44
+    },
+    "Çekya U20 - Almanya U20": {
+        "Alt": 2.24,
+        "Üst": 3.41
     }
 }
