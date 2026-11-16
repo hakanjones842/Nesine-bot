@@ -1,8 +1,4 @@
 {
-    "Dep. Toluca (K) - America (K)": {
-        "Alt": 1.72,
-        "Üst": 3.7
-    },
     "Ario Eslamshahr - Saipa": {
         "Alt": 1.11,
         "Üst": 3.04
@@ -16,16 +12,16 @@
         "Üst": 2.22
     },
     "Namibya - Kamerun": {
-        "Alt": 1.33,
-        "Üst": 2.09
+        "Alt": 1.36,
+        "Üst": 2.01
     },
     "Zimbabve - Ekvator Ginesi": {
-        "Alt": 1.3,
-        "Üst": 2.14
+        "Alt": 1.27,
+        "Üst": 2.25
     },
     "Sudan - Senegal": {
-        "Alt": 1.53,
-        "Üst": 1.73
+        "Alt": 1.62,
+        "Üst": 1.62
     },
     "NM Soleyman - S Sazi Qeshm": {
         "Alt": 1.28,
@@ -41,27 +37,27 @@
     },
     "İtalya U20 - İsviçre U20": {
         "Alt": 2.17,
-        "Üst": 3.4
+        "Üst": 3.41
     },
     "Çekya U20 - Almanya U20": {
-        "Alt": 2.19,
-        "Üst": 3.47
+        "Alt": 2.25,
+        "Üst": 3.4
     },
     "Kazakistan - Slovakya": {
-        "Alt": 1.6,
-        "Üst": 1.77
+        "Alt": 1.63,
+        "Üst": 1.74
     },
     "Faroe Adaları - Moldova": {
         "Alt": 1.44,
-        "Üst": 2.04
+        "Üst": 2.03
     },
     "Somali - Gana": {
         "Alt": 1.31,
         "Üst": 2.61
     },
     "Felgueiras 1932 U23 - Leixoes U23": {
-        "Alt": 2.51,
-        "Üst": 3.46
+        "Alt": 2.43,
+        "Üst": 3.44
     },
     "Eritre - Gine": {
         "Alt": 1.6,
@@ -76,15 +72,27 @@
         "Üst": 1.38
     },
     "Portekiz U20 - İngiltere U20": {
-        "Alt": 2.01,
-        "Üst": 1.35
+        "Alt": 1.91,
+        "Üst": 1.41
     },
     "Litvanya - Lihtenştayn": {
-        "Alt": 1.59,
-        "Üst": 2.04
+        "Alt": 1.63,
+        "Üst": 2.02
     },
     "İzlanda - Lüksemburg": {
-        "Alt": 1.92,
-        "Üst": 1.5
+        "Alt": 1.91,
+        "Üst": 1.51
+    },
+    "Estonya - Bulgaristan": {
+        "Alt": 1.42,
+        "Üst": 2.06
+    },
+    "VfB Stuttgart (K) - B. Leverkusen (K)": {
+        "Alt": 1.9,
+        "Üst": 3.37
+    },
+    "Yunanistan U21 - İzlanda U21": {
+        "Alt": 1.6,
+        "Üst": 1.65
     }
 }
