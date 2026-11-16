@@ -1,98 +1,82 @@
 {
-    "Ario Eslamshahr - Saipa": {
-        "Alt": 1.11,
-        "Üst": 3.04
-    },
-    "Mes Rafsanjan - Shahin Bandar Ameri": {
-        "Alt": 1.21,
-        "Üst": 2.49
-    },
-    "Naft Gachsaran - N. Zamini Tehran": {
-        "Alt": 1.28,
-        "Üst": 2.22
-    },
-    "Namibya - Kamerun": {
-        "Alt": 1.36,
-        "Üst": 2.01
-    },
-    "Zimbabve - Ekvator Ginesi": {
-        "Alt": 1.27,
-        "Üst": 2.25
-    },
-    "Sudan - Senegal": {
-        "Alt": 1.62,
-        "Üst": 1.62
-    },
-    "NM Soleyman - S Sazi Qeshm": {
-        "Alt": 1.28,
-        "Üst": 2.22
-    },
-    "Palayesh Naft B. A. - Fard": {
-        "Alt": 1.26,
-        "Üst": 2.27
-    },
-    "Boca Juniors (K) - Ferro Carril (K)": {
-        "Alt": 1.54,
-        "Üst": 1.71
-    },
-    "İtalya U20 - İsviçre U20": {
-        "Alt": 2.17,
-        "Üst": 3.41
-    },
-    "Çekya U20 - Almanya U20": {
-        "Alt": 2.25,
-        "Üst": 3.4
-    },
-    "Kazakistan - Slovakya": {
-        "Alt": 1.63,
-        "Üst": 1.74
-    },
-    "Faroe Adaları - Moldova": {
-        "Alt": 1.44,
-        "Üst": 2.03
-    },
-    "Somali - Gana": {
+    "Belgrano de C. (K) - CA Banfield (K)": {
         "Alt": 1.31,
-        "Üst": 2.61
+        "Üst": 2.13
     },
-    "Felgueiras 1932 U23 - Leixoes U23": {
-        "Alt": 2.43,
-        "Üst": 3.44
+    "CD Moquegua - Atl Grau": {
+        "Alt": 1.41,
+        "Üst": 1.91
     },
-    "Eritre - Gine": {
-        "Alt": 1.6,
-        "Üst": 1.64
+    "Cusco - A. Deportiva Tarma": {
+        "Alt": 1.71,
+        "Üst": 1.54
     },
-    "Orta Afrika Cum. - Benin": {
-        "Alt": 1.47,
-        "Üst": 1.8
+    "Montevideo - CA Juventud De Las Piedras": {
+        "Alt": 1.55,
+        "Üst": 1.7
     },
-    "1. Tatran P. - MFK Lokomotiva Zvolen": {
+    "Martinik - Aruba": {
+        "Alt": 1.22,
+        "Üst": 2.1
+    },
+    "Trinidad & T. - Antigua & Bar.": {
+        "Alt": 2.87,
+        "Üst": 1.13
+    },
+    "Kanada - Guatemala": {
+        "Alt": 1.23,
+        "Üst": 1.98
+    },
+    "New Mexico - Sacramento R.": {
+        "Alt": 1.67,
+        "Üst": 1.58
+    },
+    "Slovakya U19 - Estonya U19": {
+        "Alt": 1.92,
+        "Üst": 1.41
+    },
+    "Danimarka U19 - Bosna Hersek U19": {
+        "Alt": 1.66,
+        "Üst": 3.36
+    },
+    "Havadar SC - Mes Kerman": {
+        "Alt": 1.25,
+        "Üst": 2.32
+    },
+    "Vizela U23 - Santa Clara U23": {
         "Alt": 1.97,
         "Üst": 1.38
     },
-    "Portekiz U20 - İngiltere U20": {
-        "Alt": 1.91,
-        "Üst": 1.41
+    "Macaristan U19 - Çekya U19": {
+        "Alt": 1.71,
+        "Üst": 1.54
     },
-    "Litvanya - Lihtenştayn": {
-        "Alt": 1.63,
-        "Üst": 2.02
+    "Hollanda U19 - Hırvatistan U19": {
+        "Alt": 1.68,
+        "Üst": 1.56
     },
-    "İzlanda - Lüksemburg": {
-        "Alt": 1.91,
-        "Üst": 1.51
+    "Polonya U19 - Lüksemburg U19": {
+        "Alt": 2.59,
+        "Üst": 3.5
     },
-    "Estonya - Bulgaristan": {
+    "Kırgızistan - Vietnam": {
+        "Alt": 1.49,
+        "Üst": 1.77
+    },
+    "Çin - Bahreyn": {
         "Alt": 1.42,
-        "Üst": 2.06
+        "Üst": 1.89
     },
-    "VfB Stuttgart (K) - B. Leverkusen (K)": {
-        "Alt": 1.9,
-        "Üst": 3.37
+    "Romanya U19 - Ukrayna U19": {
+        "Alt": 1.79,
+        "Üst": 1.48
     },
-    "Yunanistan U21 - İzlanda U21": {
-        "Alt": 1.6,
-        "Üst": 1.65
+    "Kuzey İrlanda U19 - İsviçre U19": {
+        "Alt": 1.84,
+        "Üst": 1.45
+    },
+    "Malta U19 - Makedonya U19": {
+        "Alt": 1.97,
+        "Üst": 1.38
     }
 }
