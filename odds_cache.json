@@ -1,51 +1,19 @@
 {
-    "Belgrano de C. (K) - CA Banfield (K)": {
-        "Alt": 1.31,
-        "Üst": 2.13
-    },
-    "CD Moquegua - Atl Grau": {
-        "Alt": 1.41,
-        "Üst": 1.91
-    },
-    "Cusco - A. Deportiva Tarma": {
-        "Alt": 1.71,
-        "Üst": 1.54
-    },
-    "Montevideo - CA Juventud De Las Piedras": {
-        "Alt": 1.55,
-        "Üst": 1.7
-    },
-    "Martinik - Aruba": {
-        "Alt": 1.22,
-        "Üst": 2.1
-    },
-    "Trinidad & T. - Antigua & Bar.": {
-        "Alt": 2.87,
-        "Üst": 1.13
-    },
-    "Kanada - Guatemala": {
-        "Alt": 1.23,
-        "Üst": 1.98
-    },
-    "New Mexico - Sacramento R.": {
-        "Alt": 1.67,
-        "Üst": 1.58
-    },
     "Slovakya U19 - Estonya U19": {
         "Alt": 1.92,
         "Üst": 1.41
     },
     "Danimarka U19 - Bosna Hersek U19": {
-        "Alt": 1.66,
-        "Üst": 3.36
+        "Alt": 1.67,
+        "Üst": 3.3
     },
     "Havadar SC - Mes Kerman": {
         "Alt": 1.25,
         "Üst": 2.32
     },
     "Vizela U23 - Santa Clara U23": {
-        "Alt": 1.97,
-        "Üst": 1.38
+        "Alt": 1.74,
+        "Üst": 1.52
     },
     "Macaristan U19 - Çekya U19": {
         "Alt": 1.71,
@@ -56,12 +24,12 @@
         "Üst": 1.56
     },
     "Polonya U19 - Lüksemburg U19": {
-        "Alt": 2.59,
-        "Üst": 3.5
+        "Alt": 2.65,
+        "Üst": 3.51
     },
     "Kırgızistan - Vietnam": {
-        "Alt": 1.49,
-        "Üst": 1.77
+        "Alt": 1.52,
+        "Üst": 1.74
     },
     "Çin - Bahreyn": {
         "Alt": 1.42,
@@ -78,5 +46,41 @@
     "Malta U19 - Makedonya U19": {
         "Alt": 1.97,
         "Üst": 1.38
+    },
+    "Finlandiya U19 - İspanya U19": {
+        "Alt": 3.56,
+        "Üst": 1.61
+    },
+    "İzlanda U19 - Galler U19": {
+        "Alt": 1.85,
+        "Üst": 1.44
+    },
+    "Tacikistan - Tayland": {
+        "Alt": 1.57,
+        "Üst": 1.67
+    },
+    "G. Kıbrıs U19 - Ermenistan U19": {
+        "Alt": 1.81,
+        "Üst": 1.47
+    },
+    "Moldova U19 - Bulgaristan U19": {
+        "Alt": 2.7,
+        "Üst": 3.29
+    },
+    "Güney Sudan - Angola": {
+        "Alt": 1.5,
+        "Üst": 1.76
+    },
+    "Burundi - Zambiya": {
+        "Alt": 1.27,
+        "Üst": 2.26
+    },
+    "Tanzanya - Nijerya": {
+        "Alt": 1.46,
+        "Üst": 1.83
+    },
+    "Malavi - Mısır": {
+        "Alt": 1.52,
+        "Üst": 1.77
     }
 }
