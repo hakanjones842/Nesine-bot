@@ -1,26 +1,78 @@
 {
-    "S. Hiroshima (K) - Kanagawa (K)": {
-        "Alt": 1.46,
-        "Üst": 1.83
+    "Atl Saguntino - De San Vicente": {
+        "Alt": 1.47,
+        "Üst": 1.81
     },
-    "TP HO Chi Minh - Buriram Utd": {
-        "Alt": 1.78,
-        "Üst": 1.49
+    "CD Alcoyano - Mallorca": {
+        "Alt": 1.81,
+        "Üst": 1.47
     },
-    "Tampines Rov. - Ratchaburi": {
-        "Alt": 2.13,
-        "Üst": 1.31
+    "Badajoz - Tenerife": {
+        "Alt": 1.55,
+        "Üst": 1.69
     },
-    "Pusamania Borneo - Manila Digger": {
-        "Alt": 1.76,
-        "Üst": 1.5
+    "Nottingham F. U21 - Newcastle U21": {
+        "Alt": 2.69,
+        "Üst": 3.75
     },
-    "Rekord Bielsko Biala (K) - Kks Lech Poznan (K)": {
-        "Alt": 1.31,
-        "Üst": 3.86
+    "CD Bunol - Hercules B": {
+        "Alt": 1.3,
+        "Üst": 2.15
     },
-    "NK Tolmin - NK Brinje Grosuplje": {
+    "Atletico Pulpileno - Deportivo Maritimo": {
+        "Alt": 1.55,
+        "Üst": 1.69
+    },
+    "Bergantinos - Sestao River Club": {
+        "Alt": 1.52,
+        "Üst": 1.74
+    },
+    "C. Dep. Minera - Cartagena": {
+        "Alt": 1.3,
+        "Üst": 2.14
+    },
+    "Reus Reddis - Barakaldo": {
+        "Alt": 1.38,
+        "Üst": 1.96
+    },
+    "Aguilas B - Ucam Murcia B": {
+        "Alt": 1.51,
+        "Üst": 1.75
+    },
+    "Alcantarilla - SFC Minerva": {
+        "Alt": 1.45,
+        "Üst": 1.84
+    },
+    "Salamanca - Albacete Balompie B": {
         "Alt": 1.67,
-        "Üst": 3.61
+        "Üst": 1.57
+    },
+    "Gosport - Chertsey Town": {
+        "Alt": 1.34,
+        "Üst": 3.9
+    },
+    "Frome - Gloucester": {
+        "Alt": 1.73,
+        "Üst": 1.53
+    },
+    "Partick Thistle (K) - Glasgow (K)": {
+        "Alt": 3.86,
+        "Üst": 1.71
+    },
+    "Newington YC - Harland Wolff W.": {
+        "Alt": 2.9,
+        "Üst": 1.13
+    },
+    "Cotillas CD - U. Molinense 2020": {
+        "Alt": 1.54,
+        "Üst": 1.71
+    },
+    "Alianza Atl - Melgar": {
+        "Alt": 1.55,
+        "Üst": 1.69
+    },
+    "Juventus (K) - OH Leuven (K)": {
+        "Alt": 1.18,
+        "Üst": 3.07
     }
 }
