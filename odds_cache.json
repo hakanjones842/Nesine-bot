@@ -1,47 +1,7 @@
 {
-    "Nijer - Fas": {
-        "Alt": 1.26,
-        "Üst": 1.58
-    },
-    "Arjantin - Kosta Rika": {
-        "Alt": 3.65,
-        "Üst": 1.69
-    },
-    "Şili - Kolombiya": {
-        "Alt": 1.39,
-        "Üst": 1.96
-    },
-    "Uruguay - Dominik Cum.": {
-        "Alt": 3.78,
-        "Üst": 1.69
-    },
-    "Ekvador - Bolivya": {
-        "Alt": 1.37,
-        "Üst": 2.06
-    },
-    "Atl. Nacional Medellin - Once Caldas": {
-        "Alt": 1.57,
-        "Üst": 1.67
-    },
-    "Fransız Guyanası - Saint Vincent ve G.": {
-        "Alt": 1.85,
-        "Üst": 1.44
-    },
-    "ABD - Haiti": {
-        "Alt": 3.87,
-        "Üst": 1.88
-    },
-    "El Salvador - Saint Martin": {
-        "Alt": 1.94,
-        "Üst": 1.39
-    },
-    "America De Cali - Inter Bogota": {
-        "Alt": 1.83,
-        "Üst": 1.46
-    },
     "Meksika - Jamaika": {
-        "Alt": 1.16,
-        "Üst": 1.71
+        "Alt": 1.12,
+        "Üst": 1.79
     },
     "Nikaragua - Montserrat": {
         "Alt": 2.17,
@@ -68,19 +28,47 @@
         "Üst": 1.72
     },
     "TP HO Chi Minh - Buriram Utd": {
-        "Alt": 1.58,
-        "Üst": 1.67
+        "Alt": 1.62,
+        "Üst": 1.61
     },
     "Tampines Rov. - Ratchaburi": {
-        "Alt": 2.13,
-        "Üst": 1.31
+        "Alt": 2.02,
+        "Üst": 1.35
     },
     "Pusamania Borneo - Manila Digger": {
-        "Alt": 1.76,
-        "Üst": 1.5
+        "Alt": 1.83,
+        "Üst": 1.46
     },
     "Rekord Bielsko Biala (K) - Kks Lech Poznan (K)": {
-        "Alt": 1.96,
-        "Üst": 1.39
+        "Alt": 1.58,
+        "Üst": 3.49
+    },
+    "Peterborough Utd U21 - Bolton Wanderers U21": {
+        "Alt": 3.34,
+        "Üst": 4.31
+    },
+    "Mbarara - Lugazi Municipal": {
+        "Alt": 1.33,
+        "Üst": 2.09
+    },
+    "Roan Utd - Chirundu Utd": {
+        "Alt": 4.83,
+        "Üst": 3.37
+    },
+    "AL Adalh - AL Orubah": {
+        "Alt": 1.67,
+        "Üst": 1.58
+    },
+    "Valencia U19 - UCAM Murcia U19": {
+        "Alt": 1.9,
+        "Üst": 3.31
+    },
+    "El Gouna - AL Ittihad": {
+        "Alt": 1.45,
+        "Üst": 3.05
+    },
+    "Ranchers Bees - Doma Utd": {
+        "Alt": 1.54,
+        "Üst": 1.71
     }
 }
