@@ -1,82 +1,98 @@
 {
     "Preston Lions - South Hobart": {
-        "Alt": 1.08,
-        "Üst": 1.8
+        "Alt": 1.09,
+        "Üst": 1.72
     },
     "Queensland L. - Woll. Wolves": {
-        "Alt": 2.45,
+        "Alt": 2.46,
         "Üst": 1.21
     },
     "Omiya (K) - INAC Kobe L. (K)": {
-        "Alt": 1.67,
-        "Üst": 1.57
+        "Alt": 1.74,
+        "Üst": 1.52
     },
     "Preah Khan R. S. - Port": {
-        "Alt": 1.73,
-        "Üst": 1.53
+        "Alt": 2.11,
+        "Üst": 1.32
     },
     "Persib Bandung - Shan Utd": {
-        "Alt": 1.15,
-        "Üst": 4.42
+        "Alt": 1.13,
+        "Üst": 4.38
     },
     "MFK Lokomotiva Zvolen - FK Kosice": {
-        "Alt": 1.67,
-        "Üst": 3.64
+        "Alt": 1.68,
+        "Üst": 3.63
     },
     "Cong An Nhan Dan - Johor Darul": {
-        "Alt": 2.06,
-        "Üst": 1.34
+        "Alt": 2.08,
+        "Üst": 1.33
     },
     "EL Terasanah - Telecom Egypt": {
-        "Alt": 4.78,
-        "Üst": 3.29
+        "Alt": 4.68,
+        "Üst": 3.34
     },
     "La Viena - El Sekka El Hadid": {
-        "Alt": 5.28,
-        "Üst": 3.41
+        "Alt": 5.4,
+        "Üst": 3.48
     },
     "El Daklyeh - Ismaily Sc": {
-        "Alt": 1.36,
-        "Üst": 3.24
+        "Alt": 1.35,
+        "Üst": 3.31
     },
     "Farco - Entag Harby": {
         "Alt": 1.42,
         "Üst": 1.88
     },
     "Baladiyyat AL M. - Haras Hodood": {
-        "Alt": 1.24,
-        "Üst": 3.45
+        "Alt": 1.22,
+        "Üst": 3.44
+    },
+    "ND Beltinci - NK Celje": {
+        "Alt": 2.42,
+        "Üst": 3.31
+    },
+    "Roltek Dob - NK Bistrica": {
+        "Alt": 1.84,
+        "Üst": 1.45
     },
     "Al Wasl - Hatta SC": {
-        "Alt": 1.08,
-        "Üst": 1.69
+        "Alt": 1.07,
+        "Üst": 2.46
     },
     "Malavan Bandar A. - GOL Gohar": {
-        "Alt": 1.15,
-        "Üst": 2.77
+        "Alt": 1.16,
+        "Üst": 2.65
     },
     "Surkhon Termez - Andijon": {
-        "Alt": 1.42,
-        "Üst": 1.88
+        "Alt": 1.54,
+        "Üst": 1.73
     },
     "Maroons - NEC": {
-        "Alt": 1.35,
-        "Üst": 2.03
+        "Alt": 1.29,
+        "Üst": 2.17
     },
     "Kigezi Homeoyz - Express": {
-        "Alt": 1.46,
-        "Üst": 1.82
+        "Alt": 1.44,
+        "Üst": 1.86
     },
     "Gaddafi - Kataka": {
-        "Alt": 1.89,
-        "Üst": 1.42
+        "Alt": 2.01,
+        "Üst": 1.36
     },
     "AL Salt - Al Yarmouk": {
-        "Alt": 1.54,
-        "Üst": 1.71
+        "Alt": 1.52,
+        "Üst": 1.74
     },
     "Nkwazi - Mutondo Stars": {
-        "Alt": 2.45,
-        "Üst": 2.84
+        "Alt": 3.01,
+        "Üst": 2.8
+    },
+    "Zesco Utd - Red Arrows": {
+        "Alt": 3.8,
+        "Üst": 2.96
+    },
+    "Mufulira Wanderers - Kabwe Warriors": {
+        "Alt": 1.25,
+        "Üst": 3.33
     }
 }
