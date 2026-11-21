@@ -1,78 +1,98 @@
 {
-    "UD Anaza - CD Marino": {
-        "Alt": 1.59,
-        "Üst": 1.66
-    },
-    "Cobresal - Audax Ital.": {
-        "Alt": 1.73,
-        "Üst": 1.53
-    },
-    "I. Medellin - I. Santa Fe": {
-        "Alt": 1.49,
-        "Üst": 1.77
-    },
-    "V. Sarsfield - Belgrano": {
-        "Alt": 1.44,
-        "Üst": 2.02
-    },
-    "Palestino - D. Union La Calera": {
-        "Alt": 1.66,
-        "Üst": 1.59
-    },
-    "CA Bucaramanga - America De Cali": {
-        "Alt": 1.38,
-        "Üst": 1.96
-    },
-    "Rancho Santana - ART Jalapa": {
-        "Alt": 1.76,
-        "Üst": 1.5
-    },
-    "Auckland City - Napier City R.": {
-        "Alt": 2.06,
-        "Üst": 3.53
-    },
-    "Puebla - Atl San Luis": {
-        "Alt": 1.93,
-        "Üst": 1.49
-    },
-    "Wellington Oly. - Birkenhead Utd AFC": {
-        "Alt": 1.35,
-        "Üst": 3.91
-    },
-    "Miramar Rangers - Cashmere Technical": {
-        "Alt": 1.42,
-        "Üst": 3.88
-    },
-    "Deport Cali - Millonarios": {
-        "Alt": 1.36,
-        "Üst": 2.0
-    },
     "CD Esc. Belen - AD San Carlos": {
         "Alt": 1.78,
         "Üst": 1.49
     },
     "Ferrymead Bays - Auckland": {
-        "Alt": 2.56,
-        "Üst": 3.69
+        "Alt": 2.69,
+        "Üst": 3.76
     },
     "Juarez - Atlas": {
-        "Alt": 1.91,
-        "Üst": 1.51
+        "Alt": 1.94,
+        "Üst": 1.48
     },
     "Club Tijuana - Atlante": {
-        "Alt": 1.83,
-        "Üst": 1.56
+        "Alt": 1.87,
+        "Üst": 1.54
     },
     "Auckland - Melbourne V.": {
         "Alt": 1.81,
         "Üst": 1.58
     },
     "Oakleigh C. - Bayswater": {
-        "Alt": 2.19,
-        "Üst": 1.28
+        "Alt": 2.14,
+        "Üst": 1.3
     },
     "Marconi Stal - Sydney Oly.": {
-        "Alt": 2.43,
-        "Üst": 1.21
+        "Alt": 2.39,
+        "Üst": 1.22
+    },
+    "Briobecca Urayasu - Vonds Ichihara": {
+        "Alt": 1.41,
+        "Üst": 1.9
+    },
+    "Verspah Oita - Tiamo Hirakata": {
+        "Alt": 1.84,
+        "Üst": 1.45
+    },
+    "Pohang S. - Anyang": {
+        "Alt": 1.54,
+        "Üst": 1.86
+    },
+    "Jeonbuk - Seoul": {
+        "Alt": 1.78,
+        "Üst": 1.6
+    },
+    "S. S. Bluewings - Gyeongnam": {
+        "Alt": 1.94,
+        "Üst": 1.39
+    },
+    "Busan I Park - Chungbuk Cheongju": {
+        "Alt": 1.84,
+        "Üst": 1.45
+    },
+    "Machida Zelvia - V Varen": {
+        "Alt": 1.76,
+        "Üst": 1.61
+    },
+    "S. Hiroshima - Yokohama M.": {
+        "Alt": 2.29,
+        "Üst": 1.34
+    },
+    "Tokyo Verdy - Nagoya": {
+        "Alt": 1.62,
+        "Üst": 1.74
+    },
+    "Kyoto Sanga - Urawa Red": {
+        "Alt": 1.88,
+        "Üst": 1.53
+    },
+    "Kat. Toyama - Oita Trinata": {
+        "Alt": 1.86,
+        "Üst": 1.44
+    },
+    "Yokohama - Sapporo": {
+        "Alt": 1.74,
+        "Üst": 1.52
+    },
+    "B. Akita - M. Yamagata": {
+        "Alt": 1.44,
+        "Üst": 1.86
+    },
+    "Tochigi City - Niigata": {
+        "Alt": 1.9,
+        "Üst": 1.41
+    },
+    "Sagan Tosu - Sendai": {
+        "Alt": 1.57,
+        "Üst": 1.68
+    },
+    "Ventforet - V. Hachinohe": {
+        "Alt": 1.43,
+        "Üst": 1.87
+    },
+    "Fujieda Myfc - Imabari": {
+        "Alt": 1.67,
+        "Üst": 1.57
     }
 }
