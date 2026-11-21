@@ -1,82 +1,82 @@
 {
-    "Yangon Utd - Ispe": {
-        "Alt": 3.87,
-        "Üst": 1.93
+    "CSKA Moskova - Akhmat Grozny": {
+        "Alt": 2.15,
+        "Üst": 1.39
     },
-    "SC Popesti Leordeni - V. Selimbar": {
-        "Alt": 1.87,
-        "Üst": 1.43
+    "Malaga U19 - Real Betis U19": {
+        "Alt": 1.86,
+        "Üst": 3.47
     },
-    "CSM Slatina - Asa Targu Mures": {
-        "Alt": 1.81,
-        "Üst": 1.47
+    "Parma - AS Roma": {
+        "Alt": 2.59,
+        "Üst": 1.25
     },
-    "Csm Satu Mare - Concordia": {
-        "Alt": 1.68,
-        "Üst": 1.56
+    "Sacramento R. - Louisville": {
+        "Alt": 1.46,
+        "Üst": 1.83
     },
-    "Dumbravita - CS Afumati": {
+    "Greifswalder - Carl Zeiss Jena": {
+        "Alt": 1.92,
+        "Üst": 1.41
+    },
+    "Gaborone Utd - Sua Flamingoes": {
+        "Alt": 1.41,
+        "Üst": 1.9
+    },
+    "Bohemians P. - Viktoria Plzen": {
+        "Alt": 1.79,
+        "Üst": 1.48
+    },
+    "OCS de Safi - WAF Widad Fes": {
+        "Alt": 1.32,
+        "Üst": 2.12
+    },
+    "Le Havre (K) - Nantes (K)": {
         "Alt": 1.76,
-        "Üst": 1.51
+        "Üst": 1.5
     },
-    "CSM Resita - Metaloglobus": {
+    "NK Rudes - VSN Varazdin": {
         "Alt": 1.58,
         "Üst": 1.67
     },
-    "Csl Stefanestii de Jos - Unirea Slobozia": {
-        "Alt": 1.75,
-        "Üst": 1.51
+    "De Treffers - Kozakken Boys": {
+        "Alt": 3.14,
+        "Üst": 3.7
     },
-    "ACS Fotbal Club Bacau 2023 - CS D. Bucuresti": {
-        "Alt": 3.57,
-        "Üst": 2.1
+    "CD Toledo U19 - Las Rozas U19": {
+        "Alt": 1.71,
+        "Üst": 1.54
     },
-    "Nürnberg U19 - G. Furth U19": {
+    "San Bartolome - UD Las Palmas C": {
+        "Alt": 1.72,
+        "Üst": 1.54
+    },
+    "Club Deportivo Aoiz - CD Izarra": {
+        "Alt": 1.58,
+        "Üst": 1.67
+    },
+    "Gazte Berriak - Bidezarra": {
+        "Alt": 1.53,
+        "Üst": 1.73
+    },
+    "CD San Miguel - Llanos Aridane": {
         "Alt": 1.77,
-        "Üst": 3.64
+        "Üst": 1.5
     },
-    "Sagaing Utd - Myawady": {
-        "Alt": 1.74,
-        "Üst": 3.72
-    },
-    "Orenburg - B. Kaliningrad": {
-        "Alt": 1.41,
-        "Üst": 2.11
-    },
-    "VfL Osnabruck U19 - Schalke 04 U19": {
-        "Alt": 1.62,
-        "Üst": 1.61
-    },
-    "SV Babelsberg U19 - Hallescher U19": {
-        "Alt": 1.42,
-        "Üst": 4.01
-    },
-    "Sandhausen U19 - Augsburg U19": {
+    "CD Acero - CD Soneja": {
         "Alt": 1.44,
-        "Üst": 3.75
+        "Üst": 1.85
     },
-    "RW Essen U19 - B. Dortmund U19": {
+    "Vimenor - SD Atletico Albericia": {
+        "Alt": 1.65,
+        "Üst": 1.59
+    },
+    "Gimnastica Torrelavega - Club Portugalete": {
         "Alt": 1.59,
-        "Üst": 3.65
+        "Üst": 1.66
     },
-    "Magdeburg U19 - H. Kiel U19": {
-        "Alt": 3.18,
-        "Üst": 1.09
-    },
-    "Energie Cottbus U19 - E. Braunschweig U19": {
-        "Alt": 2.83,
-        "Üst": 3.98
-    },
-    "Atl. Club d'Escaldes - Santa Coloma": {
+    "Espanyol II - Barcelona B": {
         "Alt": 1.73,
         "Üst": 1.53
-    },
-    "Samgurali Tskaltubo - Iberia 1999": {
-        "Alt": 1.78,
-        "Üst": 1.49
-    },
-    "Chernomorets Burgas - PFC R. Sp. Samokov": {
-        "Alt": 1.66,
-        "Üst": 1.59
     }
 }
