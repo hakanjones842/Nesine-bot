@@ -1,82 +1,66 @@
 {
-    "CSKA Moskova - Akhmat Grozny": {
-        "Alt": 2.15,
-        "Üst": 1.39
+    "Atl Mineiro - Boca Juniors": {
+        "Alt": 1.3,
+        "Üst": 2.4
     },
-    "Malaga U19 - Real Betis U19": {
-        "Alt": 1.86,
-        "Üst": 3.47
+    "Pachuca - D. Toluca": {
+        "Alt": 2.34,
+        "Üst": 1.32
     },
-    "Parma - AS Roma": {
-        "Alt": 2.59,
-        "Üst": 1.25
+    "Inter Miami - Columbus Cr.": {
+        "Alt": 2.68,
+        "Üst": 1.23
     },
-    "Sacramento R. - Louisville": {
+    "Santos Laguna - Club Leon": {
+        "Alt": 2.03,
+        "Üst": 1.44
+    },
+    "Unan Managua - Indigenas de Matagalpa": {
+        "Alt": 1.81,
+        "Üst": 1.47
+    },
+    "CD Estrella Roja - Lobos Upnfm": {
+        "Alt": 1.67,
+        "Üst": 1.58
+    },
+    "O. Petrolero - Independiente P.": {
+        "Alt": 2.25,
+        "Üst": 1.48
+    },
+    "Puntarenas - CS Herediano": {
+        "Alt": 1.64,
+        "Üst": 1.6
+    },
+    "U. Concepcion - Nublense": {
+        "Alt": 1.49,
+        "Üst": 1.78
+    },
+    "Chapecoense - Cruzeiro MG": {
+        "Alt": 2.09,
+        "Üst": 1.41
+    },
+    "Gimnasia Jujuy - Dep. Madryn": {
+        "Alt": 1.47,
+        "Üst": 1.81
+    },
+    "Pumas Unam - Monterrey": {
+        "Alt": 1.77,
+        "Üst": 1.6
+    },
+    "San Marcos - Real Esteli": {
+        "Alt": 2.2,
+        "Üst": 3.27
+    },
+    "Once Caldas - Atl. Nacional Medellin": {
+        "Alt": 1.54,
+        "Üst": 1.72
+    },
+    "Real CD Espana - Marathon": {
         "Alt": 1.46,
         "Üst": 1.83
     },
-    "Greifswalder - Carl Zeiss Jena": {
-        "Alt": 1.92,
-        "Üst": 1.41
-    },
-    "Gaborone Utd - Sua Flamingoes": {
-        "Alt": 1.41,
-        "Üst": 1.9
-    },
-    "Bohemians P. - Viktoria Plzen": {
-        "Alt": 1.79,
-        "Üst": 1.48
-    },
-    "OCS de Safi - WAF Widad Fes": {
-        "Alt": 1.32,
-        "Üst": 2.12
-    },
-    "Le Havre (K) - Nantes (K)": {
-        "Alt": 1.76,
-        "Üst": 1.5
-    },
-    "NK Rudes - VSN Varazdin": {
-        "Alt": 1.58,
-        "Üst": 1.67
-    },
-    "De Treffers - Kozakken Boys": {
-        "Alt": 3.14,
-        "Üst": 3.7
-    },
-    "CD Toledo U19 - Las Rozas U19": {
-        "Alt": 1.71,
+    "Wellington P. - Macarthur": {
+        "Alt": 1.85,
         "Üst": 1.54
-    },
-    "San Bartolome - UD Las Palmas C": {
-        "Alt": 1.72,
-        "Üst": 1.54
-    },
-    "Club Deportivo Aoiz - CD Izarra": {
-        "Alt": 1.58,
-        "Üst": 1.67
-    },
-    "Gazte Berriak - Bidezarra": {
-        "Alt": 1.53,
-        "Üst": 1.73
-    },
-    "CD San Miguel - Llanos Aridane": {
-        "Alt": 1.77,
-        "Üst": 1.5
-    },
-    "CD Acero - CD Soneja": {
-        "Alt": 1.44,
-        "Üst": 1.85
-    },
-    "Vimenor - SD Atletico Albericia": {
-        "Alt": 1.65,
-        "Üst": 1.59
-    },
-    "Gimnastica Torrelavega - Club Portugalete": {
-        "Alt": 1.59,
-        "Üst": 1.66
-    },
-    "Espanyol II - Barcelona B": {
-        "Alt": 1.73,
-        "Üst": 1.53
     }
 }
