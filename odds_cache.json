@@ -1,82 +1,34 @@
 {
-    "Wellington P. - Macarthur": {
-        "Alt": 1.85,
-        "Üst": 1.54
+    "Vik. Zizkov - Opava": {
+        "Alt": 1.82,
+        "Üst": 1.46
     },
-    "Dep. Guastatoya - Comunicacion": {
-        "Alt": 1.41,
-        "Üst": 1.91
+    "South China - Yuen Long": {
+        "Alt": 1.88,
+        "Üst": 1.42
     },
-    "M. Per. Zeledon - D. Saprissa": {
-        "Alt": 2.65,
-        "Üst": 3.34
+    "Kuala Lumpur - Penang FA": {
+        "Alt": 1.97,
+        "Üst": 1.38
     },
-    "Atl Morelia - Atl La Paz": {
-        "Alt": 1.78,
-        "Üst": 1.49
+    "Dagon - Yadanarbon": {
+        "Alt": 2.48,
+        "Üst": 3.52
     },
-    "Tigres - America": {
-        "Alt": 1.99,
-        "Üst": 1.47
+    "Chemnitzer U19 - Carl Zeiss Jena U19": {
+        "Alt": 2.86,
+        "Üst": 1.13
     },
-    "Melbourne V. (K) - Perth Glory (K)": {
-        "Alt": 1.55,
-        "Üst": 1.69
+    "Estac Troyes U19 - Annecy U19": {
+        "Alt": 2.01,
+        "Üst": 3.43
     },
-    "Adelaide City - Broad. Magic": {
-        "Alt": 2.39,
-        "Üst": 1.22
+    "Merignac Sa U19 - SC Beaucouze U19": {
+        "Alt": 2.35,
+        "Üst": 3.48
     },
-    "Avondale - Apia Leic.": {
-        "Alt": 2.45,
-        "Üst": 1.21
-    },
-    "Tokyo Musashino City - Honda": {
-        "Alt": 1.66,
-        "Üst": 1.59
-    },
-    "Okinawa SV - Maruyasu Okazaki": {
-        "Alt": 1.72,
-        "Üst": 1.54
-    },
-    "Veertien Mie - Criacao Shinjuku": {
-        "Alt": 1.47,
-        "Üst": 1.8
-    },
-    "Honda Lock - Reinmeer Aomori": {
-        "Alt": 1.52,
-        "Üst": 1.74
-    },
-    "Grulla Morioka - J Lease": {
-        "Alt": 1.55,
-        "Üst": 1.69
-    },
-    "R. Kumamoto - G. Kitakyushu": {
-        "Alt": 1.94,
-        "Üst": 1.39
-    },
-    "Gimcheon S. - Jeju Utd": {
-        "Alt": 1.74,
-        "Üst": 1.63
-    },
-    "Gwangju - Bucheon": {
-        "Alt": 1.74,
-        "Üst": 1.63
-    },
-    "Daegu - Gimhae": {
-        "Alt": 2.42,
-        "Üst": 1.22
-    },
-    "Jeonnam Dragons - Ansan Greene": {
-        "Alt": 1.94,
-        "Üst": 1.39
-    },
-    "Azul Claro N. - Yscc Yokohama": {
-        "Alt": 1.79,
-        "Üst": 1.48
-    },
-    "T. Vortis - S. Bellmare": {
-        "Alt": 1.6,
-        "Üst": 1.63
+    "Cavigal Nice SF U19 - AS Saint Etienne U19": {
+        "Alt": 2.77,
+        "Üst": 3.52
     }
 }
