@@ -1,34 +1,70 @@
 {
-    "Vik. Zizkov - Opava": {
-        "Alt": 1.82,
-        "Üst": 1.46
+    "AC Milan - Frosinone": {
+        "Alt": 2.42,
+        "Üst": 1.29
     },
-    "South China - Yuen Long": {
-        "Alt": 1.88,
-        "Üst": 1.42
+    "Gutersloh 2000 - Oberhausen": {
+        "Alt": 1.8,
+        "Üst": 1.47
     },
-    "Kuala Lumpur - Penang FA": {
-        "Alt": 1.97,
-        "Üst": 1.38
+    "Dynamo - Hallescher": {
+        "Alt": 1.15,
+        "Üst": 1.1
     },
-    "Dagon - Yadanarbon": {
-        "Alt": 2.48,
-        "Üst": 3.52
+    "Police Xi - Jwaneng Galaxy": {
+        "Alt": 1.36,
+        "Üst": 2.01
     },
-    "Chemnitzer U19 - Carl Zeiss Jena U19": {
-        "Alt": 2.86,
-        "Üst": 1.13
+    "Sparta Prag - Slovan Liberec": {
+        "Alt": 1.65,
+        "Üst": 1.6
     },
-    "Estac Troyes U19 - Annecy U19": {
-        "Alt": 2.01,
-        "Üst": 3.43
+    "Nordsjælland - Kopenhag": {
+        "Alt": 1.83,
+        "Üst": 1.56
     },
-    "Merignac Sa U19 - SC Beaucouze U19": {
-        "Alt": 2.35,
-        "Üst": 3.48
+    "IZK Itihad Z Khemisset - Sportive Boujaad": {
+        "Alt": 3.6,
+        "Üst": 3.03
     },
-    "Cavigal Nice SF U19 - AS Saint Etienne U19": {
-        "Alt": 2.77,
-        "Üst": 3.52
+    "Rijeka - HNK Gorica": {
+        "Alt": 1.87,
+        "Üst": 1.43
+    },
+    "RC Alcobendas - Colonia Moscardo": {
+        "Alt": 1.71,
+        "Üst": 1.54
+    },
+    "Astur - L. Entregu": {
+        "Alt": 1.5,
+        "Üst": 1.77
+    },
+    "Valencia M. - CD Alcoyano": {
+        "Alt": 1.61,
+        "Üst": 1.63
+    },
+    "Atl Madrid C - San Sebastian R.": {
+        "Alt": 1.59,
+        "Üst": 1.66
+    },
+    "Terrassa - Manresa": {
+        "Alt": 1.47,
+        "Üst": 1.81
+    },
+    "Hegelmann Litauen B - Sveikata": {
+        "Alt": 1.95,
+        "Üst": 3.8
+    },
+    "Guediawaye - ASC Jaraaf": {
+        "Alt": 1.35,
+        "Üst": 3.12
+    },
+    "Dunajska S. - KFC Komarno": {
+        "Alt": 2.25,
+        "Üst": 1.27
+    },
+    "Olympiakos - POT Iraklis": {
+        "Alt": 1.35,
+        "Üst": 2.05
     }
 }
