@@ -1,66 +1,58 @@
 {
-    "Albirex Niigata (K) - S. Hiroshima (K)": {
-        "Alt": 1.46,
-        "Üst": 1.83
+    "Saipa - Palayesh Naft B. A.": {
+        "Alt": 1.24,
+        "Üst": 2.34
     },
-    "Kanagawa (K) - Omiya (K)": {
-        "Alt": 1.47,
-        "Üst": 1.8
-    },
-    "Nagano P. (K) - Urawa Red (K)": {
-        "Alt": 1.98,
-        "Üst": 1.37
-    },
-    "Tokyo Verdy B. (K) - INAC Kobe L. (K)": {
-        "Alt": 2.21,
-        "Üst": 3.39
-    },
-    "Ch. Odessa - Epicentr Dunaivtsi": {
-        "Alt": 1.46,
-        "Üst": 1.82
-    },
-    "LNZ Cherkasy - Polissya Zhytomyr": {
-        "Alt": 1.46,
-        "Üst": 3.05
+    "M. S. Varzaghan - Ario Eslamshahr": {
+        "Alt": 1.28,
+        "Üst": 2.19
     },
     "FK Shkendija - FK Sileks K.": {
         "Alt": 1.46,
         "Üst": 1.83
     },
     "CSKA Sofia II - Stara Zagora": {
-        "Alt": 1.65,
-        "Üst": 1.6
+        "Alt": 1.6,
+        "Üst": 1.64
     },
     "Saham - Oman": {
-        "Alt": 1.32,
-        "Üst": 2.1
+        "Alt": 1.29,
+        "Üst": 2.18
     },
     "CA River Plate (K) - CA Talleres de C. (K)": {
         "Alt": 1.52,
         "Üst": 1.74
     },
     "Barnsley U21 - Bolton Wanderers U21": {
-        "Alt": 2.86,
-        "Üst": 4.12
+        "Alt": 2.95,
+        "Üst": 4.16
+    },
+    "Foolad Khuzestan B - Mes Rafsanjan": {
+        "Alt": 1.12,
+        "Üst": 2.91
     },
     "Ferroviario de L. - D Sofala League": {
-        "Alt": 1.37,
-        "Üst": 1.99
+        "Alt": 1.34,
+        "Üst": 2.05
     },
     "NK Bistrica - Krka": {
         "Alt": 1.73,
         "Üst": 1.53
     },
     "FK Neftchi Fargona - Al Hilal": {
-        "Alt": 2.16,
-        "Üst": 1.3
+        "Alt": 2.2,
+        "Üst": 1.28
     },
     "S Sazi Qeshm - Naft Gachsaran": {
         "Alt": 1.17,
         "Üst": 2.63
     },
     "Albinoleffe U20 - Genoa U20": {
-        "Alt": 1.98,
-        "Üst": 1.38
+        "Alt": 1.74,
+        "Üst": 1.52
+    },
+    "Chelyabinsk - Leningradets": {
+        "Alt": 1.65,
+        "Üst": 1.6
     }
 }
