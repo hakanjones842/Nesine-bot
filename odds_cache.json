@@ -1,78 +1,102 @@
 {
-    "Newcastle Utd Jets - Kashiwa": {
-        "Alt": 3.29,
-        "Üst": 1.08
+    "Oxford - Tottenham U21": {
+        "Alt": 3.39,
+        "Üst": 1.07
     },
-    "Garuda Yaksa - PSS Sleman": {
-        "Alt": 1.97,
-        "Üst": 1.38
+    "Salford City - Sunderland U21": {
+        "Alt": 2.03,
+        "Üst": 3.92
     },
-    "Kyoto Sanga - Pohang S.": {
-        "Alt": 1.51,
-        "Üst": 1.76
-    },
-    "Daejeon Citizen - Beijing Guoan": {
-        "Alt": 1.75,
-        "Üst": 1.51
-    },
-    "Bodo Glimt U19 - LASK Linz U19": {
-        "Alt": 2.79,
+    "Tranmere - Everton U21": {
+        "Alt": 2.72,
         "Üst": 1.15
     },
-    "Bandari - Mathare Utd": {
-        "Alt": 4.61,
-        "Üst": 3.24
+    "QPR U21 - Southampton U21": {
+        "Alt": 1.78,
+        "Üst": 3.65
     },
-    "Chanthaburi - Pattaya Dolphins Utd": {
-        "Alt": 1.63,
-        "Üst": 1.61
+    "Huddersfield T. U21 - Swansea U21": {
+        "Alt": 3.16,
+        "Üst": 4.07
     },
-    "Fard - Pars Jonoubi": {
-        "Alt": 1.28,
-        "Üst": 2.23
+    "Sheffield Utd U21 - Millwall U21": {
+        "Alt": 2.72,
+        "Üst": 3.49
     },
-    "Nakhon Pathom Utd - Chainat": {
-        "Alt": 1.77,
+    "Ipswich Town U21 - Bromley U21": {
+        "Alt": 1.92,
+        "Üst": 3.61
+    },
+    "Benevento - Empoli": {
+        "Alt": 1.93,
         "Üst": 1.49
     },
-    "Ratchaburi - Johor Darul": {
+    "US Palermo - Sudtirol": {
+        "Alt": 2.05,
+        "Üst": 1.43
+    },
+    "AC Cesena - Ascoli": {
+        "Alt": 1.65,
+        "Üst": 1.73
+    },
+    "LR Vicenza V. - Carrarese C.": {
+        "Alt": 1.56,
+        "Üst": 1.82
+    },
+    "V. Entella - Hellas Verona": {
+        "Alt": 1.6,
+        "Üst": 1.78
+    },
+    "Holywell Town - Penybont": {
+        "Alt": 1.15,
+        "Üst": 2.02
+    },
+    "Charlton - Lincoln City": {
+        "Alt": 1.47,
+        "Üst": 1.96
+    },
+    "Cardiff City - Preston": {
+        "Alt": 2.55,
+        "Üst": 1.26
+    },
+    "Norwich City - QPR": {
+        "Alt": 2.04,
+        "Üst": 1.43
+    },
+    "Portsmouth - West Ham": {
+        "Alt": 1.74,
+        "Üst": 1.64
+    },
+    "Sheffield Utd - Southampton": {
+        "Alt": 1.92,
+        "Üst": 1.5
+    },
+    "Bristol City - Wrexham": {
+        "Alt": 1.42,
+        "Üst": 2.06
+    },
+    "Middlesbrough - Swansea City": {
+        "Alt": 2.32,
+        "Üst": 1.32
+    },
+    "Blackpool - Leicester City": {
         "Alt": 2.5,
         "Üst": 1.2
     },
-    "Shanghai Port - Buriram Utd": {
+    "Stevenage - S. Wednesday": {
+        "Alt": 1.55,
+        "Üst": 1.7
+    },
+    "Bradford - Barnsley": {
         "Alt": 2.06,
         "Üst": 1.34
     },
-    "Cong An Nhan Dan - Vissel Kobe": {
-        "Alt": 1.93,
-        "Üst": 1.4
+    "Bromley - Wycombe": {
+        "Alt": 1.8,
+        "Üst": 1.47
     },
-    "AL Raed - AL Akhdood": {
-        "Alt": 1.77,
-        "Üst": 1.49
-    },
-    "AL Orubah - AL Najma": {
-        "Alt": 1.61,
-        "Üst": 1.62
-    },
-    "AL Jabalain - Al Zlfe": {
-        "Alt": 1.6,
-        "Üst": 1.64
-    },
-    "Charlton Ath U21 - Coventry City U21": {
-        "Alt": 2.31,
-        "Üst": 3.82
-    },
-    "FK Arsenal Tivat - FK Decic Tuzi": {
-        "Alt": 1.47,
-        "Üst": 1.81
-    },
-    "Vilankulo - UD DO Songo": {
-        "Alt": 5.27,
-        "Üst": 3.59
-    },
-    "Bugesera - Rayon Sports": {
-        "Alt": 1.38,
-        "Üst": 3.18
+    "Crawley Town - Barnet": {
+        "Alt": 1.82,
+        "Üst": 1.46
     }
 }
