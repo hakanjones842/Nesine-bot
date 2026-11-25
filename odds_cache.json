@@ -1,102 +1,78 @@
 {
-    "San Jose E. - Houston Dyn.": {
-        "Alt": 1.95,
-        "Üst": 1.48
+    "Bekasi City - Psis Semar": {
+        "Alt": 1.44,
+        "Üst": 1.86
     },
-    "Ryukyu - R. Kumamoto": {
-        "Alt": 1.9,
+    "Aps Bomet - Migori Youth": {
+        "Alt": 1.2,
+        "Üst": 3.45
+    },
+    "3K - Nairobi Utd": {
+        "Alt": 1.34,
+        "Üst": 3.24
+    },
+    "Tusker - Posta Ranger": {
+        "Alt": 2.96,
+        "Üst": 2.91
+    },
+    "Neftekhimik - Rotor": {
+        "Alt": 1.31,
+        "Üst": 2.13
+    },
+    "Radnicki Nis - FK Zeleznicar Pancevo": {
+        "Alt": 1.48,
+        "Üst": 1.79
+    },
+    "Khon Kaen Utd - SGB Kanchanaburi": {
+        "Alt": 1.92,
         "Üst": 1.41
     },
-    "G. Kitakyushu - Z. Kanazawa": {
-        "Alt": 1.9,
-        "Üst": 1.41
+    "Slavia Prag U19 - Villarreal U19": {
+        "Alt": 2.91,
+        "Üst": 1.13
     },
-    "Melbourne V. - CLB Viettel": {
-        "Alt": 2.09,
-        "Üst": 1.33
+    "D. Zagreb U19 - Benfica U19": {
+        "Alt": 2.39,
+        "Üst": 3.34
     },
-    "Persiku Kudus - Psim Yogyakarta": {
-        "Alt": 3.9,
-        "Üst": 2.52
+    "AL Anwar - AL Jandal": {
+        "Alt": 1.68,
+        "Üst": 1.56
     },
-    "MIO Biwako Shiga - Kochi Utd SC": {
+    "AL Bukayriyah - AL Wehda": {
+        "Alt": 1.78,
+        "Üst": 1.49
+    },
+    "Persib Bandung - Seoul": {
+        "Alt": 1.86,
+        "Üst": 1.44
+    },
+    "Shabab AL Sahel - AL Ansar SC": {
         "Alt": 1.7,
         "Üst": 1.55
     },
-    "V. Hachinohe - Niigata": {
+    "Ulinzi Stars - AFC Leopards": {
+        "Alt": 1.33,
+        "Üst": 3.22
+    },
+    "Peterborough Utd U21 - Hull City U21": {
+        "Alt": 2.83,
+        "Üst": 4.13
+    },
+    "FK Bokelj Kotor - OFK Petrovac": {
+        "Alt": 1.22,
+        "Üst": 3.53
+    },
+    "Al Merrikh (Sdn) - AS Kigali": {
         "Alt": 1.46,
-        "Üst": 1.83
+        "Üst": 1.82
     },
-    "Imabari - Tegevajaro Mi.": {
-        "Alt": 1.65,
-        "Üst": 1.6
+    "S. Lizbon U19 - Man. Utd U19": {
+        "Alt": 2.19,
+        "Üst": 1.29
     },
-    "SC Sagamihara - Ehime": {
-        "Alt": 1.76,
-        "Üst": 1.5
-    },
-    "Gamba Osaka - Port": {
-        "Alt": 2.6,
-        "Üst": 1.18
-    },
-    "Kashima - Jeonbuk": {
-        "Alt": 1.83,
-        "Üst": 1.46
-    },
-    "Tokyo - S. Hiroshima": {
-        "Alt": 1.91,
-        "Üst": 1.51
-    },
-    "Fukuoka - Yokohama M.": {
-        "Alt": 1.68,
-        "Üst": 1.69
-    },
-    "Fagiano - Shimizu": {
-        "Alt": 1.48,
-        "Üst": 1.95
-    },
-    "JEF Utd - Nagoya": {
-        "Alt": 1.63,
-        "Üst": 1.74
-    },
-    "V Varen - Kawasaki Frontale": {
-        "Alt": 2.16,
-        "Üst": 1.38
-    },
-    "M. Hollyhock - Tokyo Verdy": {
-        "Alt": 1.26,
-        "Üst": 2.53
-    },
-    "Omiya Ardija - T. Vortis": {
-        "Alt": 1.74,
-        "Üst": 1.53
-    },
-    "M. Yamagata - Iwata Jubilo": {
-        "Alt": 1.67,
-        "Üst": 1.59
-    },
-    "Iwaki - Kat. Toyama": {
-        "Alt": 1.91,
-        "Üst": 1.41
-    },
-    "S. Bellmare - Ventforet": {
-        "Alt": 1.62,
-        "Üst": 1.62
-    },
-    "Sapporo - Fujieda Myfc": {
-        "Alt": 1.53,
-        "Üst": 1.73
-    },
-    "Tochigi City - B. Akita": {
-        "Alt": 1.72,
-        "Üst": 1.54
-    },
-    "Sagan Tosu - Oita Trinata": {
-        "Alt": 1.52,
-        "Üst": 1.74
-    },
-    "Yokohama - Sendai": {
-        "Alt": 1.71,
-        "Üst": 1.54
+    "Ntungasaze - Uganda Police": {
+        "Alt": 1.79,
+        "Üst": 1.48
     }
 }
