@@ -1,102 +1,102 @@
 {
-    "Oxford - Tottenham U21": {
-        "Alt": 3.39,
-        "Üst": 1.07
+    "San Jose E. - Houston Dyn.": {
+        "Alt": 1.95,
+        "Üst": 1.48
     },
-    "Salford City - Sunderland U21": {
-        "Alt": 2.03,
-        "Üst": 3.92
+    "Ryukyu - R. Kumamoto": {
+        "Alt": 1.9,
+        "Üst": 1.41
     },
-    "Tranmere - Everton U21": {
-        "Alt": 2.72,
-        "Üst": 1.15
+    "G. Kitakyushu - Z. Kanazawa": {
+        "Alt": 1.9,
+        "Üst": 1.41
     },
-    "QPR U21 - Southampton U21": {
-        "Alt": 1.78,
-        "Üst": 3.65
+    "Melbourne V. - CLB Viettel": {
+        "Alt": 2.09,
+        "Üst": 1.33
     },
-    "Huddersfield T. U21 - Swansea U21": {
-        "Alt": 3.16,
-        "Üst": 4.07
+    "Persiku Kudus - Psim Yogyakarta": {
+        "Alt": 3.9,
+        "Üst": 2.52
     },
-    "Sheffield Utd U21 - Millwall U21": {
-        "Alt": 2.72,
-        "Üst": 3.49
+    "MIO Biwako Shiga - Kochi Utd SC": {
+        "Alt": 1.7,
+        "Üst": 1.55
     },
-    "Ipswich Town U21 - Bromley U21": {
-        "Alt": 1.92,
-        "Üst": 3.61
+    "V. Hachinohe - Niigata": {
+        "Alt": 1.46,
+        "Üst": 1.83
     },
-    "Benevento - Empoli": {
-        "Alt": 1.93,
-        "Üst": 1.49
-    },
-    "US Palermo - Sudtirol": {
-        "Alt": 2.05,
-        "Üst": 1.43
-    },
-    "AC Cesena - Ascoli": {
+    "Imabari - Tegevajaro Mi.": {
         "Alt": 1.65,
-        "Üst": 1.73
+        "Üst": 1.6
     },
-    "LR Vicenza V. - Carrarese C.": {
-        "Alt": 1.56,
-        "Üst": 1.82
-    },
-    "V. Entella - Hellas Verona": {
-        "Alt": 1.6,
-        "Üst": 1.78
-    },
-    "Holywell Town - Penybont": {
-        "Alt": 1.15,
-        "Üst": 2.02
-    },
-    "Charlton - Lincoln City": {
-        "Alt": 1.47,
-        "Üst": 1.96
-    },
-    "Cardiff City - Preston": {
-        "Alt": 2.55,
-        "Üst": 1.26
-    },
-    "Norwich City - QPR": {
-        "Alt": 2.04,
-        "Üst": 1.43
-    },
-    "Portsmouth - West Ham": {
-        "Alt": 1.74,
-        "Üst": 1.64
-    },
-    "Sheffield Utd - Southampton": {
-        "Alt": 1.92,
+    "SC Sagamihara - Ehime": {
+        "Alt": 1.76,
         "Üst": 1.5
     },
-    "Bristol City - Wrexham": {
-        "Alt": 1.42,
-        "Üst": 2.06
+    "Gamba Osaka - Port": {
+        "Alt": 2.6,
+        "Üst": 1.18
     },
-    "Middlesbrough - Swansea City": {
-        "Alt": 2.32,
-        "Üst": 1.32
-    },
-    "Blackpool - Leicester City": {
-        "Alt": 2.5,
-        "Üst": 1.2
-    },
-    "Stevenage - S. Wednesday": {
-        "Alt": 1.55,
-        "Üst": 1.7
-    },
-    "Bradford - Barnsley": {
-        "Alt": 2.06,
-        "Üst": 1.34
-    },
-    "Bromley - Wycombe": {
-        "Alt": 1.8,
-        "Üst": 1.47
-    },
-    "Crawley Town - Barnet": {
-        "Alt": 1.82,
+    "Kashima - Jeonbuk": {
+        "Alt": 1.83,
         "Üst": 1.46
+    },
+    "Tokyo - S. Hiroshima": {
+        "Alt": 1.91,
+        "Üst": 1.51
+    },
+    "Fukuoka - Yokohama M.": {
+        "Alt": 1.68,
+        "Üst": 1.69
+    },
+    "Fagiano - Shimizu": {
+        "Alt": 1.48,
+        "Üst": 1.95
+    },
+    "JEF Utd - Nagoya": {
+        "Alt": 1.63,
+        "Üst": 1.74
+    },
+    "V Varen - Kawasaki Frontale": {
+        "Alt": 2.16,
+        "Üst": 1.38
+    },
+    "M. Hollyhock - Tokyo Verdy": {
+        "Alt": 1.26,
+        "Üst": 2.53
+    },
+    "Omiya Ardija - T. Vortis": {
+        "Alt": 1.74,
+        "Üst": 1.53
+    },
+    "M. Yamagata - Iwata Jubilo": {
+        "Alt": 1.67,
+        "Üst": 1.59
+    },
+    "Iwaki - Kat. Toyama": {
+        "Alt": 1.91,
+        "Üst": 1.41
+    },
+    "S. Bellmare - Ventforet": {
+        "Alt": 1.62,
+        "Üst": 1.62
+    },
+    "Sapporo - Fujieda Myfc": {
+        "Alt": 1.53,
+        "Üst": 1.73
+    },
+    "Tochigi City - B. Akita": {
+        "Alt": 1.72,
+        "Üst": 1.54
+    },
+    "Sagan Tosu - Oita Trinata": {
+        "Alt": 1.52,
+        "Üst": 1.74
+    },
+    "Yokohama - Sendai": {
+        "Alt": 1.71,
+        "Üst": 1.54
     }
 }
