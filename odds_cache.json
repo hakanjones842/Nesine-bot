@@ -1,55 +1,27 @@
 {
-    "ART Jalapa - San Marcos": {
-        "Alt": 2.7,
-        "Üst": 3.5
-    },
-    "Cerro Porteno - L. Asuncion": {
-        "Alt": 1.46,
-        "Üst": 1.83
-    },
-    "Sao Paulo SP - Clube do Remo": {
-        "Alt": 1.66,
-        "Üst": 1.71
-    },
-    "Diriangen - Indigenas de Matagalpa": {
-        "Alt": 2.34,
-        "Üst": 3.5
-    },
-    "Torque - Nacional": {
-        "Alt": 1.69,
-        "Üst": 1.56
-    },
-    "Pachuca - CD Guadalajara": {
-        "Alt": 1.6,
-        "Üst": 1.78
-    },
-    "Club Leon - Cruz Azul": {
-        "Alt": 1.87,
-        "Üst": 1.54
-    },
     "Broad. Magic - Queensland L.": {
-        "Alt": 2.51,
-        "Üst": 1.2
+        "Alt": 2.56,
+        "Üst": 1.19
     },
     "Macarthur - Melbourne City": {
-        "Alt": 1.92,
-        "Üst": 1.5
+        "Alt": 2.04,
+        "Üst": 1.44
     },
     "Imisli FK - Safa": {
         "Alt": 1.47,
         "Üst": 1.8
     },
     "KF Shkendija Haracine - FK Bregalnica Stip": {
-        "Alt": 1.67,
-        "Üst": 1.57
+        "Alt": 1.65,
+        "Üst": 1.6
     },
     "Levy Bereg Kiev - Kolos Kovalivka": {
-        "Alt": 1.41,
-        "Üst": 1.91
+        "Alt": 1.39,
+        "Üst": 1.94
     },
     "Nam Dinh - Cong An Nhan Dan": {
-        "Alt": 1.6,
-        "Üst": 1.64
+        "Alt": 1.93,
+        "Üst": 1.4
     },
     "Song Lam - Phu Dong": {
         "Alt": 1.6,
@@ -72,7 +44,39 @@
         "Üst": 3.45
     },
     "AL Sahel SC - Hetten": {
-        "Alt": 1.84,
-        "Üst": 3.24
+        "Alt": 1.94,
+        "Üst": 1.39
+    },
+    "Nairea - AL Ain": {
+        "Alt": 1.76,
+        "Üst": 1.5
+    },
+    "KF Malisheva - KF Llapi": {
+        "Alt": 1.8,
+        "Üst": 1.47
+    },
+    "FK Baskimi - FK Skopje": {
+        "Alt": 1.74,
+        "Üst": 1.51
+    },
+    "Kokand 1912 - Xorazm Fk Urganch": {
+        "Alt": 1.54,
+        "Üst": 1.71
+    },
+    "FK Buxoro - Mashal Mubarek": {
+        "Alt": 1.74,
+        "Üst": 1.52
+    },
+    "Uthai Thani - Sisaket Utd": {
+        "Alt": 1.96,
+        "Üst": 1.38
+    },
+    "AL Tadamon Sour - Al Ahed": {
+        "Alt": 1.79,
+        "Üst": 1.48
+    },
+    "Brunei Dpmm - K. Red Warrior": {
+        "Alt": 3.64,
+        "Üst": 2.15
     }
 }
