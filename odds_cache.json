@@ -1,94 +1,78 @@
 {
-    "AL Jazira AL Hamra - Emirates Club": {
-        "Alt": 2.16,
-        "Üst": 3.42
+    "CD Aguila - Fundacion F. Un Atleta": {
+        "Alt": 1.49,
+        "Üst": 1.78
     },
-    "AL Dhaid - Dibba AL Hisn SC": {
-        "Alt": 1.81,
-        "Üst": 1.47
-    },
-    "Bahla Club - Majees": {
-        "Alt": 1.54,
-        "Üst": 1.71
-    },
-    "AL Ittifaq - Al Hamriyah": {
-        "Alt": 1.7,
-        "Üst": 1.54
-    },
-    "AL Hada - AL Shoulla": {
-        "Alt": 2.13,
-        "Üst": 1.31
-    },
-    "Samsunspor - Gençlerbirliği": {
-        "Alt": 1.8,
+    "Antigua - Deportivo Mixco": {
+        "Alt": 1.67,
         "Üst": 1.59
     },
-    "Vanspor FK - Bursaspor": {
-        "Alt": 1.76,
-        "Üst": 1.5
+    "Dep. San Pedro - Dep. Guastatoya": {
+        "Alt": 1.45,
+        "Üst": 1.84
     },
-    "Real Betis - Vallecano": {
-        "Alt": 2.28,
+    "Malacateco - CD Marquense": {
+        "Alt": 1.45,
+        "Üst": 1.85
+    },
+    "Aurora - CSD Imperial": {
+        "Alt": 1.67,
+        "Üst": 1.57
+    },
+    "Comunicacion - Xelaju": {
+        "Alt": 1.56,
+        "Üst": 1.68
+    },
+    "CD Suchitepequez - Municipal": {
+        "Alt": 1.47,
+        "Üst": 1.8
+    },
+    "Coquimbo U. - Deportes Limache": {
+        "Alt": 1.6,
+        "Üst": 1.65
+    },
+    "Guabira M. - U. de Vinto": {
+        "Alt": 2.06,
+        "Üst": 3.56
+    },
+    "Phila. Union - N. E. Revolution": {
+        "Alt": 2.26,
         "Üst": 1.34
     },
-    "Young Africans SC - MC Alger": {
-        "Alt": 1.26,
-        "Üst": 2.28
+    "Barcelona (Ekv) - SD Aucas": {
+        "Alt": 1.36,
+        "Üst": 2.0
     },
-    "Saarbrucken - A. Aachen": {
-        "Alt": 2.47,
-        "Üst": 1.28
+    "Deportes Quindio - Boca Juniors (Kol)": {
+        "Alt": 1.47,
+        "Üst": 1.82
     },
-    "Weiss Essen - Hoffenheim II": {
-        "Alt": 2.48,
-        "Üst": 1.28
+    "Dep. Madryn - Gimnasia Jujuy": {
+        "Alt": 1.46,
+        "Üst": 1.82
     },
-    "Preussen M. - Verl": {
-        "Alt": 1.93,
-        "Üst": 1.49
+    "V. Sarsfield - Independiente": {
+        "Alt": 1.43,
+        "Üst": 2.06
     },
-    "Mannheim 07 - Stuttgart II": {
-        "Alt": 2.47,
-        "Üst": 1.28
+    "Fortaleza CE - Criciuma": {
+        "Alt": 1.17,
+        "Üst": 2.62
     },
-    "Würzburg - F. Düsseldorf": {
-        "Alt": 1.91,
-        "Üst": 1.51
+    "Unan Managua - Walter Ferretti": {
+        "Alt": 1.79,
+        "Üst": 3.43
     },
-    "Wattenscheid - B. Gladbach 09": {
-        "Alt": 2.0,
-        "Üst": 1.37
+    "Auckland - Auckland City": {
+        "Alt": 1.89,
+        "Üst": 3.6
     },
-    "Wiedenbrück - Köln II": {
-        "Alt": 1.54,
-        "Üst": 3.67
+    "Cincinnati - Nashville SC": {
+        "Alt": 2.11,
+        "Üst": 1.41
     },
-    "Rodinghausen - B. M. Gladbach II": {
-        "Alt": 1.67,
-        "Üst": 3.5
-    },
-    "Gutersloh 2000 - Sportfreunde": {
-        "Alt": 1.67,
-        "Üst": 3.36
-    },
-    "B. Dortmund II - VfL Bochum II": {
-        "Alt": 1.87,
-        "Üst": 3.46
-    },
-    "Oberhausen - Bonner": {
-        "Alt": 1.95,
-        "Üst": 1.39
-    },
-    "TSV S. Augsburg - Illertissen": {
-        "Alt": 1.87,
-        "Üst": 1.43
-    },
-    "Unterhaching - Nürnberg (Amt)": {
-        "Alt": 1.35,
-        "Üst": 3.9
-    },
-    "Freiburg II - 1921 Aalen": {
-        "Alt": 1.97,
-        "Üst": 1.38
+    "Colo Colo - D. La Serena": {
+        "Alt": 2.23,
+        "Üst": 3.32
     }
 }
