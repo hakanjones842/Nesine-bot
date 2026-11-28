@@ -1,86 +1,94 @@
 {
-    "Preston Lions - Apia Leic.": {
-        "Alt": 1.82,
+    "AL Jazira AL Hamra - Emirates Club": {
+        "Alt": 2.16,
+        "Üst": 3.42
+    },
+    "AL Dhaid - Dibba AL Hisn SC": {
+        "Alt": 1.81,
         "Üst": 1.47
     },
-    "Honda - Criacao Shinjuku": {
-        "Alt": 1.52,
-        "Üst": 1.74
-    },
-    "Reinmeer Aomori - Vonds Ichihara": {
-        "Alt": 1.45,
-        "Üst": 1.84
-    },
-    "Yscc Yokohama - Veertien Mie": {
-        "Alt": 1.59,
-        "Üst": 1.66
-    },
-    "Anyang - Jeju Utd": {
-        "Alt": 1.74,
-        "Üst": 1.64
-    },
-    "Seoul - Daejeon Citizen": {
-        "Alt": 1.93,
-        "Üst": 1.5
-    },
-    "Gimhae - Seongnam": {
-        "Alt": 1.68,
-        "Üst": 1.56
-    },
-    "Yongin - Paju Citizen": {
-        "Alt": 1.68,
-        "Üst": 1.56
-    },
-    "Kyoto Sanga - Cerezo Osaka": {
-        "Alt": 1.85,
-        "Üst": 1.54
-    },
-    "Shimizu - Urawa Red": {
-        "Alt": 1.63,
-        "Üst": 1.74
-    },
-    "Omiya Ardija - Imabari": {
-        "Alt": 2.07,
-        "Üst": 1.34
-    },
-    "Kochi Utd SC - Nara Club": {
-        "Alt": 1.9,
-        "Üst": 1.41
-    },
-    "Kashima - Fagiano": {
-        "Alt": 1.7,
-        "Üst": 1.67
-    },
-    "Vissel Kobe - JEF Utd": {
-        "Alt": 1.74,
-        "Üst": 1.63
-    },
-    "Golik North D. - Southern District": {
-        "Alt": 1.94,
-        "Üst": 3.35
-    },
-    "Kashiwa - S. Hiroshima": {
-        "Alt": 1.95,
-        "Üst": 1.48
-    },
-    "Pohang S. - Gwangju": {
-        "Alt": 1.66,
+    "Bahla Club - Majees": {
+        "Alt": 1.54,
         "Üst": 1.71
     },
-    "Bucheon - Gimcheon S.": {
-        "Alt": 1.72,
-        "Üst": 1.65
+    "AL Ittifaq - Al Hamriyah": {
+        "Alt": 1.7,
+        "Üst": 1.54
     },
-    "Maharlika Manila - Kaya Iloi": {
-        "Alt": 1.74,
-        "Üst": 3.35
+    "AL Hada - AL Shoulla": {
+        "Alt": 2.13,
+        "Üst": 1.31
     },
-    "Bayswater - Sydney Utd 58": {
+    "Samsunspor - Gençlerbirliği": {
+        "Alt": 1.8,
+        "Üst": 1.59
+    },
+    "Vanspor FK - Bursaspor": {
+        "Alt": 1.76,
+        "Üst": 1.5
+    },
+    "Real Betis - Vallecano": {
+        "Alt": 2.28,
+        "Üst": 1.34
+    },
+    "Young Africans SC - MC Alger": {
+        "Alt": 1.26,
+        "Üst": 2.28
+    },
+    "Saarbrucken - A. Aachen": {
+        "Alt": 2.47,
+        "Üst": 1.28
+    },
+    "Weiss Essen - Hoffenheim II": {
+        "Alt": 2.48,
+        "Üst": 1.28
+    },
+    "Preussen M. - Verl": {
         "Alt": 1.93,
-        "Üst": 1.4
+        "Üst": 1.49
     },
-    "PSM Makassar - Dewa Utd": {
-        "Alt": 1.74,
-        "Üst": 1.53
+    "Mannheim 07 - Stuttgart II": {
+        "Alt": 2.47,
+        "Üst": 1.28
+    },
+    "Würzburg - F. Düsseldorf": {
+        "Alt": 1.91,
+        "Üst": 1.51
+    },
+    "Wattenscheid - B. Gladbach 09": {
+        "Alt": 2.0,
+        "Üst": 1.37
+    },
+    "Wiedenbrück - Köln II": {
+        "Alt": 1.54,
+        "Üst": 3.67
+    },
+    "Rodinghausen - B. M. Gladbach II": {
+        "Alt": 1.67,
+        "Üst": 3.5
+    },
+    "Gutersloh 2000 - Sportfreunde": {
+        "Alt": 1.67,
+        "Üst": 3.36
+    },
+    "B. Dortmund II - VfL Bochum II": {
+        "Alt": 1.87,
+        "Üst": 3.46
+    },
+    "Oberhausen - Bonner": {
+        "Alt": 1.95,
+        "Üst": 1.39
+    },
+    "TSV S. Augsburg - Illertissen": {
+        "Alt": 1.87,
+        "Üst": 1.43
+    },
+    "Unterhaching - Nürnberg (Amt)": {
+        "Alt": 1.35,
+        "Üst": 3.9
+    },
+    "Freiburg II - 1921 Aalen": {
+        "Alt": 1.97,
+        "Üst": 1.38
     }
 }
